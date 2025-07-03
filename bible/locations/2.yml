@@ -1,6 +1,7 @@
 id: "2"
-name: Security Room
-type: Room
-description: A small, dimly lit room filled with monitors displaying various
-  parts of the office. The team uses this room to analyze security footage as
-  part of their investigation into the GPU theft.
+name: Server Room
+type: Server Room
+description: A secure, climate-controlled room filled with racks of servers and
+  blinking lights. This is where the company's AI infrastructure is housed, and
+  where the GPUs are discovered missing, sparking the inciting incident and
+  subsequent investigation.
