@@ -1,4 +1,5 @@
 id: "2"
-name: Security Footage
-description: Video recordings from the company's security cameras, used by the
-  group to gather clues and analyze the theft of the GPUs.
+name: Server Room
+description: A secure room within the IT consulting company where the AI
+  infrastructure is housed. It contains servers, networking equipment, and the
+  now-missing GPUs.
