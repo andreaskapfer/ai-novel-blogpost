@@ -1,6 +1,6 @@
 id: "4"
-name: Server Room
-type: Room
-description: A secure, climate-controlled room housing the company's servers and
-  AI infrastructure. It's a critical location related to the company's
-  operations and the theft of the GPUs.
+name: Rival Company Office
+type: Office
+description: The office of a competing company, filled with sleek furniture and
+  advanced technology. This location is a potential suspect's base, where the
+  group might gather clues or face external threats during their investigation.
