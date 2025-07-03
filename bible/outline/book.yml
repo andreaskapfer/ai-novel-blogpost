@@ -1,31 +1,26 @@
 acts:
   - act: 1
     summary: Introduce the main characters, a group of nerds working at an IT
-      consulting company. Establish their roles and relationships. Present the
-      setting of the company and its reliance on AI infrastructure. The theft of
-      the GPUs is discovered, causing chaos and concern among the team.
+      consulting company. Establish their roles, relationships, and the
+      importance of the company's AI infrastructure. The inciting incident
+      occurs when the GPUs in the server room are discovered missing, creating
+      chaos and urgency.
     approximate_no_of_words: 30000
   - act: 2
-    summary: The group decides to take matters into their own hands and investigate
-      the theft. They gather clues, interview colleagues, and analyze security
-      footage. Tensions rise as they face internal conflicts and external
-      pressures.
-    approximate_no_of_words: 40000
+    summary: The group bands together to investigate the theft. They face various
+      challenges, including technical puzzles, internal company politics, and
+      external threats. Their skills and friendship are tested as they uncover
+      clues and potential suspects.
+    approximate_no_of_words: 45000
   - act: 3
-    summary: The investigation leads to unexpected challenges, including technical
-      puzzles and personal dilemmas. The group uncovers surprising revelations
-      about the company's operations and potential suspects. Their friendship is
-      tested as they confront these obstacles.
-    approximate_no_of_words: 40000
+    summary: Tensions rise as the group narrows down the suspects. They confront the
+      thief in a dramatic showdown, revealing unexpected motivations and
+      alliances. The group must use their combined skills to outsmart the thief
+      and recover the stolen GPUs.
+    approximate_no_of_words: 45000
   - act: 4
-    summary: The group pieces together the evidence and identifies the culprit
-      behind the theft. A confrontation ensues, revealing motives and hidden
-      agendas. The team must decide how to handle the situation and recover the
-      stolen GPUs.
+    summary: The stolen GPUs are recovered, and the group reflects on their journey.
+      They have grown both individually and as a team, strengthening their
+      friendship and professional bonds. The company rewards their efforts, and
+      they look forward to future challenges.
     approximate_no_of_words: 30000
-  - act: 5
-    summary: The stolen GPUs are recovered, and the company resumes normal
-      operations. The group reflects on their journey, the lessons learned, and
-      the strengthening of their friendship. They celebrate their success and
-      look forward to future challenges.
-    approximate_no_of_words: 10000
