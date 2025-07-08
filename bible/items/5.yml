@@ -1,5 +1,5 @@
 id: "5"
-name: Encrypted USB Drive
-description: A mysterious USB drive found during the investigation. It contains
-  encrypted files that the group must decrypt to uncover vital information about
-  the theft.
+name: Suspect's Device
+description: A personal device belonging to the main suspect, which contains
+  evidence related to the theft. The group must find a way to access the device
+  and uncover its secrets.
