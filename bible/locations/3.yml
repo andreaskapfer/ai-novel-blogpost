@@ -1,7 +1,6 @@
 id: "3"
-name: Break Room
-type: Break Room
-description: A casual space with a coffee machine, snacks, and a few tables.
-  It's a place where the characters gather to relax, discuss their findings, and
-  plan their next steps. The break room serves as a hub for character
-  interactions and strategy sessions.
+name: Local Coffee Shop
+type: Café
+description: A cozy, tech-themed café where the nerd group often gathers to
+  brainstorm and discuss their findings. The café's relaxed atmosphere and free
+  Wi-Fi make it a popular spot for tech enthusiasts and professionals.
