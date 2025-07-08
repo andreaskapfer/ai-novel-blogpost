@@ -1,6 +1,5 @@
 id: "2"
-name: Server Room
-description: A secure room within the IT consulting company where the AI
-  infrastructure is housed. It contains servers, cooling systems, and the stolen
-  GPUs. The room's security features and layout are key to understanding how the
-  theft occurred.
+name: Encrypted USB Drive
+description: A small, seemingly ordinary USB drive that contains encrypted data
+  related to the theft. The group must decrypt the information to uncover vital
+  clues about the identity of the thief and their motives.
