@@ -1,27 +1,26 @@
 acts:
   - act: 1
     summary: Introduce the main characters, a group of nerds working at an IT
-      consulting company. Establish their roles, personalities, and
-      relationships. Present the setting of the company and its reliance on AI
-      infrastructure. The inciting incident occurs when the GPUs in the server
-      room are discovered missing, causing panic and confusion.
+      consulting company. Establish their roles, relationships, and the
+      importance of the company's AI infrastructure. The inciting incident
+      occurs when all the GPUs in the server room are discovered to be stolen,
+      causing panic and confusion.
     approximate_no_of_words: 30000
   - act: 2
     summary: The group decides to take matters into their own hands and investigate
-      the theft. They face various challenges, including technical obstacles,
-      internal conflicts, and external pressures from the company. Their
-      friendship and skills are tested as they gather clues and narrow down
-      suspects.
+      the theft. They face various challenges, including technical puzzles,
+      internal company politics, and external threats. Their friendship and
+      skills are tested as they dig deeper into the mystery.
     approximate_no_of_words: 45000
   - act: 3
-    summary: Tensions rise as the group gets closer to uncovering the truth. They
-      confront the main suspect and reveal the motive behind the theft. A
-      dramatic confrontation ensues, leading to the recovery of the stolen GPUs.
-      The group learns valuable lessons about trust and teamwork.
+    summary: The group uncovers the identity of the thief and the motive behind the
+      theft. Tensions rise as they confront the antagonist, leading to a
+      dramatic showdown. The group must use their combined skills to outsmart
+      the thief and recover the stolen GPUs.
     approximate_no_of_words: 45000
   - act: 4
-    summary: The aftermath of the investigation is explored. The group reflects on
-      their journey and the impact of their actions on their personal and
-      professional lives. The company acknowledges their efforts, and the group
-      emerges stronger and more united.
+    summary: The stolen GPUs are recovered, and the group reflects on their journey.
+      They have grown both individually and as a team. The company rewards their
+      efforts, and they look forward to new challenges with renewed confidence
+      and camaraderie.
     approximate_no_of_words: 30000
