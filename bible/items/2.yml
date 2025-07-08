@@ -1,5 +1,6 @@
 id: "2"
-name: Server Room
-description: A secure room within the IT consulting company where the AI
-  infrastructure is housed. It contains servers, networking equipment, and the
-  now-missing GPUs.
+name: Server Room Security System
+description: An advanced security system installed in the server room to protect
+  valuable equipment. It includes surveillance cameras, motion detectors, and
+  access control mechanisms. The system's failure or breach is a key element in
+  the investigation.
