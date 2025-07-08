@@ -1,6 +1,5 @@
 id: "4"
-name: Company ID Badges
-description: Identification badges used by employees to access different areas
-  of the company, including the server room. These badges become a crucial part
-  of the investigation as the group tries to determine who had access to the
-  GPUs.
+name: Hacker's Toolkit
+description: A collection of software tools used by the group's cybersecurity
+  expert, Jamie, to investigate the theft. It includes programs for network
+  analysis, password cracking, and data recovery.
