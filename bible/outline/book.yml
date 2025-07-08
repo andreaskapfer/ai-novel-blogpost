@@ -1,26 +1,31 @@
 acts:
   - act: 1
     summary: Introduce the main characters, a group of nerds working at an IT
-      consulting company. Establish their personalities, roles, and
-      relationships. Present the setting of the company and its reliance on AI
-      infrastructure. The inciting incident occurs when the GPUs in the server
-      room are discovered missing, causing panic and confusion.
+      consulting company. Establish their roles, personalities, and
+      relationships. Present the company's reliance on AI infrastructure powered
+      by GPUs. The inciting incident occurs when the GPUs are discovered
+      missing, causing panic and confusion. The group decides to take matters
+      into their own hands to recover the stolen GPUs.
     approximate_no_of_words: 30000
   - act: 2
-    summary: The group decides to take matters into their own hands and investigate
-      the theft. They face various challenges, including technical obstacles,
-      internal conflicts, and external pressures. Their friendship and skills
-      are tested as they gather clues and narrow down suspects.
+    summary: The group begins their investigation, facing various challenges that
+      test their technical skills and teamwork. They gather clues, interview
+      potential suspects, and use their IT expertise to track down leads.
+      Tensions rise as they encounter obstacles and disagreements within the
+      group. The act ends with a breakthrough in the case, leading them closer
+      to the culprit.
     approximate_no_of_words: 45000
   - act: 3
-    summary: The investigation reaches its peak as the group uncovers the mastermind
-      behind the theft. Tensions rise, and the nerds must use their combined
-      expertise to confront the culprit. The climax involves a high-stakes
-      confrontation that tests their resolve and unity.
+    summary: The group confronts the main suspect, leading to a tense showdown. They
+      use their combined skills to outsmart the antagonist and recover the
+      stolen GPUs. The resolution highlights the growth of the characters and
+      the strengthening of their friendships. The company celebrates the return
+      of the GPUs, and the group reflects on their adventure and newfound
+      camaraderie.
     approximate_no_of_words: 45000
   - act: 4
-    summary: The stolen GPUs are recovered, and the culprit is brought to justice.
-      The group reflects on their journey, the lessons learned, and how the
-      experience has strengthened their bond. The company resumes normal
-      operations, and the nerds celebrate their success.
+    summary: The group returns to their normal lives, but with a renewed sense of
+      purpose and unity. They reflect on the lessons learned and the importance
+      of teamwork and friendship. The epilogue hints at future adventures and
+      challenges they might face together.
     approximate_no_of_words: 30000
