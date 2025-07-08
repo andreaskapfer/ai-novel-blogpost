@@ -1,31 +1,26 @@
 acts:
   - act: 1
-    summary: Introduction to the nerd group working at an IT consulting company. The
-      team is introduced, showcasing their unique skills and personalities. The
-      company relies heavily on its AI infrastructure, powered by high-end GPUs.
-      One morning, the team discovers that all the GPUs in the server room have
-      been stolen, causing panic and confusion. The group decides to take
-      matters into their own hands to recover the stolen GPUs.
+    summary: Introduce the main characters, a group of nerds working at an IT
+      consulting company. Establish their personalities, roles, and
+      relationships. Present the setting of the company and its reliance on AI
+      infrastructure. The inciting incident occurs when the GPUs in the server
+      room are discovered missing, causing panic and confusion.
     approximate_no_of_words: 30000
   - act: 2
-    summary: The nerd group begins their investigation by analyzing security footage
-      and interviewing potential witnesses. They face various challenges,
-      including technical obstacles and interpersonal conflicts. As they delve
-      deeper, they uncover clues that suggest an inside job. Tensions rise as
-      trust within the group is tested.
-    approximate_no_of_words: 40000
+    summary: The group decides to take matters into their own hands and investigate
+      the theft. They face various challenges, including technical obstacles,
+      internal conflicts, and external pressures. Their friendship and skills
+      are tested as they gather clues and narrow down suspects.
+    approximate_no_of_words: 45000
   - act: 3
-    summary: The investigation leads the group to a rival company suspected of
-      orchestrating the theft. The nerds devise a plan to infiltrate the rival's
-      headquarters to gather evidence. During the mission, they encounter
-      unexpected dangers and must use their technical skills to overcome them.
-      The experience strengthens their bond and resolves some of their
-      conflicts.
-    approximate_no_of_words: 40000
+    summary: The investigation reaches its peak as the group uncovers the mastermind
+      behind the theft. Tensions rise, and the nerds must use their combined
+      expertise to confront the culprit. The climax involves a high-stakes
+      confrontation that tests their resolve and unity.
+    approximate_no_of_words: 45000
   - act: 4
-    summary: Armed with evidence, the nerd group confronts the rival company and
-      exposes the theft. Legal actions are taken, and the stolen GPUs are
-      recovered. The group returns to their company as heroes, having saved the
-      AI infrastructure. They reflect on the journey, realizing the importance
-      of teamwork and trust.
-    approximate_no_of_words: 40000
+    summary: The stolen GPUs are recovered, and the culprit is brought to justice.
+      The group reflects on their journey, the lessons learned, and how the
+      experience has strengthened their bond. The company resumes normal
+      operations, and the nerds celebrate their success.
+    approximate_no_of_words: 30000
