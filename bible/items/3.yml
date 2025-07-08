@@ -1,5 +1,5 @@
 id: "3"
-name: AI Infrastructure
-description: The company's advanced AI system that relies on high-performance
-  GPUs for processing. It is central to the company's operations and the main
-  reason for the urgency in recovering the stolen GPUs.
+name: Investigation Tools
+description: A set of tools used by the nerd group to investigate the theft.
+  These include laptops with specialized software, network analyzers, and
+  forensic kits to gather and analyze evidence.
