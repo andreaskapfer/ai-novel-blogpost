@@ -1,5 +1,6 @@
 id: "2"
-name: Server Room Access Card
-description: A security card that grants access to the server room where the
-  GPUs were housed. It becomes a critical piece of evidence in the
-  investigation, as only a few employees have access to it.
+name: Server Room
+description: A secure room within the IT consulting company where the AI
+  infrastructure is housed. It contains servers, cooling systems, and the stolen
+  GPUs. The room's security features and layout are key to understanding how the
+  theft occurred.
