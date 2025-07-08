@@ -1,5 +1,6 @@
 id: "4"
-name: Whiteboard with Clues
-description: A large whiteboard in the office where the group writes down clues,
-  suspects, and theories. It serves as a visual representation of their progress
-  and helps them organize their thoughts.
+name: Company ID Badges
+description: Identification badges used by employees to access different areas
+  of the company, including the server room. These badges become a crucial part
+  of the investigation as the group tries to determine who had access to the
+  GPUs.
