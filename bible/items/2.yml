@@ -1,6 +1,5 @@
 id: "2"
-name: Server Room Security System
-description: An advanced security system installed in the server room to protect
-  valuable equipment. It includes surveillance cameras, motion detectors, and
-  access control mechanisms. The system's failure or breach is a key element in
-  the investigation.
+name: Server Room Access Card
+description: A security card that grants access to the server room where the
+  GPUs were housed. It becomes a critical piece of evidence in the
+  investigation, as only a few employees have access to it.
