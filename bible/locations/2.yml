@@ -1,7 +1,7 @@
 id: "2"
 name: Server Room
-type: Server Room
-description: A secure, climate-controlled room filled with racks of servers and
-  blinking lights. This is where the company's AI infrastructure is housed, and
-  where the GPUs are discovered missing, sparking the inciting incident and
-  subsequent investigation.
+type: Secure Facility
+description: Located within the company's headquarters, the server room is a
+  high-security area filled with racks of servers and cutting-edge technology.
+  It is the heart of the company's operations, and the theft of the GPUs from
+  this room is a major plot point.
