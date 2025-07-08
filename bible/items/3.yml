@@ -1,5 +1,5 @@
 id: "3"
-name: Investigation Tools
-description: A set of tools used by the nerd group to investigate the theft.
-  These include laptops with specialized software, network analyzers, and
-  forensic kits to gather and analyze evidence.
+name: Forensic Toolkit
+description: A set of digital forensic tools used by the nerd group to analyze
+  data and gather clues. It includes software for recovering deleted files,
+  analyzing network traffic, and tracing digital footprints.
