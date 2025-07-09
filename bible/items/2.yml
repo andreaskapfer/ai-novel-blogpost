@@ -1,5 +1,5 @@
 id: "2"
-name: Encrypted USB Drive
-description: A small, seemingly ordinary USB drive that contains encrypted data
-  related to the theft. The group must decrypt the information to uncover vital
-  clues about the identity of the thief and their motives.
+name: Security Keycard
+description: A keycard used to access secure areas within the IT consulting
+  company, including the server room. The group investigates how the thief might
+  have bypassed security using a keycard.
