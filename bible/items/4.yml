@@ -1,5 +1,5 @@
 id: "4"
-name: Hacker's Toolkit
-description: A collection of software tools used by the group's cybersecurity
-  expert, Jamie, to investigate the theft. It includes programs for network
-  analysis, password cracking, and data recovery.
+name: Surveillance Footage
+description: Video recordings from the security cameras in the office building.
+  The group analyzes the footage to find any suspicious activity around the time
+  of the GPU theft.
