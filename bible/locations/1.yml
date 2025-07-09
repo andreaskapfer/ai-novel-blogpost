@@ -1,8 +1,8 @@
 id: "1"
-name: IT Consulting Company Headquarters
-type: Office Building
-description: The main setting for the story, this modern office building houses
-  the IT consulting company where the nerd group works. It features open-plan
-  workspaces, meeting rooms, and a state-of-the-art server room that hosts the
-  company's AI infrastructure. The theft of the GPUs occurs here, setting off
-  the chain of events in the story.
+name: IT Consulting Company Office
+type: Office
+description: The main workplace of the nerd group, located in a bustling tech
+  district. The office is equipped with state-of-the-art technology, including a
+  server room that houses the company's AI infrastructure. It's a hub of
+  activity where the group collaborates on projects and discovers the theft of
+  the GPUs.
