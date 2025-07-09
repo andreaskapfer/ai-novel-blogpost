@@ -1,7 +1,7 @@
 id: "2"
 name: Server Room
-type: Secure Facility
-description: Located within the company's headquarters, the server room is a
-  high-security area filled with racks of servers and cutting-edge technology.
-  It is the heart of the company's operations, and the theft of the GPUs from
-  this room is a major plot point.
+type: Server Room
+description: A secure and climate-controlled room within the IT consulting
+  company office. It contains racks of servers and the valuable GPUs that power
+  the company's AI systems. The theft of the GPUs from this room sets off the
+  main conflict of the story.
