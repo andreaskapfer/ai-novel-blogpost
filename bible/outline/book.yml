@@ -1,0 +1,31 @@
+acts:
+  - act: 1
+    summary: Introduce the main characters, a group of nerds working at an IT
+      consulting company. Establish their roles, personalities, and
+      relationships. Present the setting of the company and its reliance on AI
+      infrastructure. The inciting incident occurs when all the GPUs in the
+      server room are discovered missing, causing panic and confusion. The group
+      decides to take matters into their own hands to recover the stolen GPUs.
+    approximate_no_of_words: 30000
+  - act: 2
+    summary: The nerd group begins their investigation, using their technical skills
+      to gather clues. They face initial challenges and dead ends, but their
+      persistence pays off as they start to piece together the mystery. Tensions
+      rise as they suspect an inside job, leading to conflicts within the group.
+      They must learn to trust each other and work as a team to progress.
+    approximate_no_of_words: 40000
+  - act: 3
+    summary: The group narrows down the suspects and sets a trap to catch the thief.
+      The confrontation reveals unexpected truths about the company's operations
+      and the motivations behind the theft. The group must navigate ethical
+      dilemmas and make difficult decisions to resolve the situation.
+      Friendships are tested, but ultimately strengthened through their shared
+      ordeal.
+    approximate_no_of_words: 40000
+  - act: 4
+    summary: The stolen GPUs are recovered, and the group reflects on their journey.
+      They implement new security measures to prevent future incidents. The
+      experience brings them closer together, and they gain recognition within
+      the company for their efforts. The story concludes with a sense of
+      accomplishment and a hint at future adventures.
+    approximate_no_of_words: 40000
