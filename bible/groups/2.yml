@@ -1,0 +1,9 @@
+id: 2
+description: The IT consulting company where the main characters work. It relies
+  heavily on AI infrastructure and becomes the central setting for the mystery
+  of the stolen GPUs.
+memberIds:
+  - 1
+  - 2
+  - 3
+  - 4
