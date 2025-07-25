@@ -1,0 +1,78 @@
+outlineReference:
+  bibleLevel: book
+acts:
+  - act: 1
+    summary: Introduction to the nerd group and their work environment. The theft of
+      the GPUs is discovered, setting the stage for the mystery.
+    approximateNoOfWords: 30000
+  - act: 2
+    summary: The group investigates, facing internal and external conflicts. They
+      uncover clues and suspect a rival company.
+    approximateNoOfWords: 60000
+  - act: 3
+    summary: The group confronts the suspects, leading to a surprising revelation.
+      They recover the GPUs and strengthen their friendship.
+    approximateNoOfWords: 60000
+chapters:
+  - chapter: 1
+    summary: Meet the nerd group and their daily routines.
+    approximateNoOfWords: 5000
+  - chapter: 2
+    summary: The theft is discovered, causing panic and confusion.
+    approximateNoOfWords: 5000
+  - chapter: 3
+    summary: Initial investigation begins, with the group gathering clues.
+    approximateNoOfWords: 5000
+  - chapter: 4
+    summary: Conflicts arise within the group as they face challenges.
+    approximateNoOfWords: 5000
+  - chapter: 5
+    summary: A breakthrough in the investigation leads to a suspect.
+    approximateNoOfWords: 5000
+  - chapter: 6
+    summary: The group devises a plan to confront the suspect.
+    approximateNoOfWords: 5000
+  - chapter: 7
+    summary: The confrontation reveals unexpected truths.
+    approximateNoOfWords: 5000
+  - chapter: 8
+    summary: Resolution of the mystery and the group's strengthened bond.
+    approximateNoOfWords: 5000
+scenes:
+  - scene: 1
+    summary: Introduction to the nerd group at the IT consulting company.
+    approximateNoOfWords: 1000
+  - scene: 2
+    summary: Discovery of the stolen GPUs and initial reactions.
+    approximateNoOfWords: 1000
+  - scene: 3
+    summary: The group gathers to discuss the theft and plan their investigation.
+    approximateNoOfWords: 1000
+  - scene: 4
+    summary: First clue is found, leading to a new lead.
+    approximateNoOfWords: 1000
+  - scene: 5
+    summary: Internal conflict as tensions rise within the group.
+    approximateNoOfWords: 1000
+  - scene: 6
+    summary: The group follows a lead to a rival company.
+    approximateNoOfWords: 1000
+  - scene: 7
+    summary: Confrontation with the rival company reveals a twist.
+    approximateNoOfWords: 1000
+  - scene: 8
+    summary: The group recovers the GPUs and celebrates their success.
+    approximateNoOfWords: 1000
+steps:
+  - step: 1
+    summary: Establish the setting and introduce the main characters.
+  - step: 2
+    summary: Present the central conflict with the theft of the GPUs.
+  - step: 3
+    summary: Develop the investigation and introduce subplots.
+  - step: 4
+    summary: Build tension with internal and external conflicts.
+  - step: 5
+    summary: Lead to a climax with the confrontation and revelation.
+  - step: 6
+    summary: Resolve the mystery and conclude with character growth.
