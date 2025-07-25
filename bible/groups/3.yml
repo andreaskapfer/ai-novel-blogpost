@@ -1,0 +1,7 @@
+id: 3
+description: This group focuses on maintaining the company's AI infrastructure
+  and ensuring that the systems are secure and operational. They play a crucial
+  role in restoring the stolen GPUs.
+memberIds:
+  - 2
+  - 5
