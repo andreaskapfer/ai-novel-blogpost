@@ -1,0 +1,20 @@
+outlineReference:
+  bibleLevel: book
+acts:
+  - act: 1
+    summary: The nerd group discovers the theft of GPUs, setting their goal to
+      recover them. Conflict arises as they face suspicion from colleagues and
+      management. A pivotal moment occurs when they find a clue suggesting an
+      inside job.
+    approximateNoOfWords: 37500
+  - act: 2
+    summary: The group investigates, facing technical and interpersonal challenges.
+      Their goal is to identify the thief. Conflict intensifies with red
+      herrings and mistrust. A pivot happens when they uncover a hidden motive
+      linked to a rival company.
+    approximateNoOfWords: 75000
+  - act: 3
+    summary: The nerds devise a plan to expose the thief and recover the GPUs. Their
+      goal is to execute the plan without alerting the suspect. Conflict peaks
+      with a confrontation. The pivot is a surprising ally aiding their success.
+    approximateNoOfWords: 37500
