@@ -1,0 +1,25 @@
+acts:
+  - act: 1
+    summary: The nerd group discovers the theft of GPUs from their company's server
+      room. Their goal is to recover the stolen equipment. The conflict arises
+      as they face internal doubts and external pressures from management. The
+      pivot occurs when they find a clue leading to a potential suspect.
+    approximateNoOfWords: 30000
+  - act: 2
+    summary: The group investigates the lead, uncovering a network of tech thieves.
+      Their goal is to infiltrate the network. Conflict intensifies as they
+      encounter unexpected obstacles and betrayals. The pivot happens when they
+      gain an ally from within the thieves' ranks.
+    approximateNoOfWords: 45000
+  - act: 3
+    summary: With the new ally's help, the nerds devise a plan to retrieve the GPUs.
+      Their goal is to execute the plan without getting caught. The conflict
+      peaks as they face a showdown with the thieves. The pivot occurs when they
+      outsmart the thieves, recovering the GPUs.
+    approximateNoOfWords: 45000
+  - act: 4
+    summary: The group returns the GPUs, restoring the company's AI infrastructure.
+      Their goal is to ensure security and prevent future thefts. The conflict
+      resolves as they address internal issues and strengthen their friendship.
+      The pivot is the realization of their growth and teamwork.
+    approximateNoOfWords: 30000
