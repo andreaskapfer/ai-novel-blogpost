@@ -1,0 +1,14 @@
+id: 1
+name: Nerd Group
+description: The Nerd Group is a team of five talented individuals working at an
+  IT consulting company. They are united by their passion for technology and
+  their determination to solve the mystery of the stolen GPUs. Each member
+  brings unique skills and perspectives, making them a formidable team. Their
+  journey tests their friendship, resilience, and ability to work together under
+  pressure.
+memberIds:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
