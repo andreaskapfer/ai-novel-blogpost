@@ -1,0 +1,109 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    name: Opening Image
+    summary: The nerd group is introduced at their IT consulting company, showcasing
+      their camaraderie and technical expertise. The atmosphere is light-hearted
+      and filled with humor.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+  - order: 2
+    name: Theme Stated
+    summary: During a casual conversation, the theme of teamwork and resilience in
+      the face of adversity is subtly introduced.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 2000
+  - order: 3
+    name: Set-Up
+    summary: The group is shown working on a project, highlighting their individual
+      skills and the dynamics within the team.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+  - order: 4
+    name: Catalyst
+    summary: The theft of the GPUs is discovered, shocking the team and setting the
+      story in motion.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 3000
+  - order: 5
+    name: Debate
+    summary: The group debates whether to get involved in the investigation,
+      weighing the risks and their responsibilities.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 4000
+  - order: 6
+    name: Break Into Two
+    summary: The group decides to take action and investigate the theft themselves,
+      marking the transition into Act 2.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+  - order: 7
+    name: B Story
+    summary: A subplot involving a budding romance between two team members begins
+      to develop, adding depth to the story.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+  - order: 8
+    name: Fun and Games
+    summary: The group engages in various investigative activities, using their
+      skills in creative and humorous ways.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+  - order: 9
+    name: Midpoint
+    summary: The group uncovers a significant lead, raising the stakes and
+      intensifying their efforts.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 5000
+  - order: 10
+    name: Bad Guys Close In
+    summary: The group faces increased challenges and threats as they get closer to
+      the truth.
+    emotionAtStart: very_high
+    emotionAtEnd: low
+    approximateNoOfWords: 8000
+  - order: 11
+    name: All Is Lost
+    summary: A major setback occurs, causing the group to doubt their abilities and
+      the possibility of success.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 4000
+  - order: 12
+    name: Dark Night of the Soul
+    summary: The group reflects on their journey and the importance of their
+      mission, finding renewed determination.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 4000
+  - order: 13
+    name: Break Into Three
+    summary: The group devises a bold plan to confront the conspirators and recover
+      the GPUs.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+  - order: 14
+    name: Finale
+    summary: The group executes their plan, leading to a thrilling confrontation and
+      resolution of the conflict.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 10000
+  - order: 15
+    name: Final Image
+    summary: The group celebrates their victory and the restoration of the company's
+      AI infrastructure, reflecting on their growth and strengthened bonds.
+    emotionAtStart: very_high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 5000
