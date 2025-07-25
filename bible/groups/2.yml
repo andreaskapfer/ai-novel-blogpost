@@ -1,0 +1,8 @@
+id: 2
+description: A subset of the nerd group that takes on the active role of
+  investigating the theft. They use their diverse skills to gather clues,
+  analyze data, and track down leads.
+memberIds:
+  - 1
+  - 2
+  - 3
