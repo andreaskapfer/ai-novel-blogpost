@@ -1,0 +1,118 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    name: Opening Image
+    summary: The nerd group is introduced in their natural habitat, the server room,
+      where they discover the theft of GPUs. The atmosphere is one of
+      camaraderie and shared passion for technology.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 5000
+  - order: 2
+    name: Theme Stated
+    summary: The theme of teamwork and trust is subtly introduced as the group
+      discusses the implications of the theft and the importance of sticking
+      together.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 2000
+  - order: 3
+    name: Set-Up
+    summary: The group decides to investigate the theft, setting up their roles and
+      responsibilities. Internal conflicts begin to surface as they face
+      disagreements.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 8000
+  - order: 4
+    name: Catalyst
+    summary: A major clue is discovered, propelling the group into action and
+      solidifying their commitment to solving the mystery.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+  - order: 5
+    name: Debate
+    summary: The group debates their next steps, facing external obstacles and
+      internal doubts about their ability to succeed.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 10000
+  - order: 6
+    name: Break into Two
+    summary: The group commits to their investigation, diving deeper into the
+      mystery and uncovering more clues.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+  - order: 7
+    name: B Story
+    summary: Subplots involving personal relationships and individual backstories
+      are explored, adding depth to the characters.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 10000
+  - order: 8
+    name: Fun and Games
+    summary: The group enjoys small victories and humorous moments as they make
+      progress, showcasing their skills and camaraderie.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+  - order: 9
+    name: Midpoint
+    summary: A pivotal moment occurs when they suspect an insider's involvement,
+      leading to tension and mistrust within the group.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 5000
+  - order: 10
+    name: Bad Guys Close In
+    summary: The group faces increased challenges and setbacks, testing their
+      resolve and friendship.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 10000
+  - order: 11
+    name: All Is Lost
+    summary: The group hits rock bottom as their suspicions and mistrust threaten to
+      tear them apart.
+    emotionAtStart: very_low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 5000
+  - order: 12
+    name: Dark Night of the Soul
+    summary: Individually, the group members reflect on their journey and the
+      importance of their mission, leading to personal revelations.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 5000
+  - order: 13
+    name: Break into Three
+    summary: The group regroups and devises a new plan to recover the GPUs,
+      overcoming personal and technical hurdles.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 5000
+  - order: 14
+    name: Finale
+    summary: The group confronts the suspected insider, leading to a revelation that
+      shifts their perspective and strengthens their resolve.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 15000
+  - order: 15
+    name: Climactic Showdown
+    summary: In a climactic showdown, the group executes their plan, facing
+      unexpected twists and overcoming the final obstacles.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 15000
+  - order: 16
+    name: Resolution
+    summary: The resolution brings the group closer, having saved their company and
+      strengthened their bonds.
+    emotionAtStart: very_high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 15000
