@@ -1,0 +1,96 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image
+    summary: The nerd group is introduced at their IT consulting company. Their
+      camaraderie and unique skills are established, setting the tone for the
+      story.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+  - order: 2
+    subdivisionIndex: 1
+    name: Inciting Incident
+    summary: The company’s AI server room is robbed of all GPUs, threatening their
+      jobs and the company’s future. The group is shocked and worried.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 3000
+  - order: 3
+    subdivisionIndex: 1
+    name: Debate
+    summary: The group debates whether to get involved in the investigation,
+      weighing risks and responsibilities. They ultimately resolve to take
+      action.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+  - order: 4
+    subdivisionIndex: 2
+    name: Break into Act 2
+    summary: The nerds begin their investigation, facing internal doubts and
+      external obstacles. They commit to uncovering the truth.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+  - order: 5
+    subdivisionIndex: 2
+    name: Fun and Games
+    summary: The group uncovers clues pointing to an inside job, causing suspicion
+      and tension among colleagues. Their skills are put to the test.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 8000
+  - order: 6
+    subdivisionIndex: 2
+    name: Midpoint
+    summary: A major setback pivots their approach, forcing them to collaborate more
+      closely and rethink their strategy.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 7000
+  - order: 7
+    subdivisionIndex: 3
+    name: Bad Guys Close In
+    summary: The group follows a trail of evidence outside the company, encountering
+      unexpected allies and adversaries. Personal stakes rise as friendships are
+      tested.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 10000
+  - order: 8
+    subdivisionIndex: 3
+    name: Breakthrough
+    summary: A breakthrough leads to the identification of the culprit, but a new
+      twist complicates their mission.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+  - order: 9
+    subdivisionIndex: 4
+    name: Climax
+    summary: The nerds confront the antagonist in a high-stakes showdown. Their
+      technical prowess and teamwork are pushed to the limit.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 12000
+  - order: 10
+    subdivisionIndex: 4
+    name: Resolution of Conflict
+    summary: The conflict reaches its climax, and the stolen GPUs are recovered, but
+      not without cost. The group’s dynamics are forever changed.
+    emotionAtStart: very_high
+    emotionAtEnd: low
+    approximateNoOfWords: 8000
+  - order: 11
+    subdivisionIndex: 5
+    name: Denouement
+    summary: In the aftermath, the nerds reflect on their journey and growth. The
+      company recovers, and the group’s bond is stronger, though altered. Loose
+      ends are tied up, and a new opportunity emerges, hinting at future
+      adventures.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 15000
