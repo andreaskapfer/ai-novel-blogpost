@@ -1,0 +1,56 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image
+    summary: The nerd group’s daily life at the IT consulting company is shown. Each
+      member’s unique skills and quirks are introduced, highlighting their
+      camaraderie and the underlying tensions.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 2000
+  - order: 2
+    subdivisionIndex: 1
+    name: Establishing Goals and Stakes
+    summary: The group’s goal to excel at work and maintain their friendship is
+      established. Subtle rivalries and ambitions are hinted at, foreshadowing
+      future conflict.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 4000
+  - order: 3
+    subdivisionIndex: 2
+    name: Inciting Incident
+    summary: The company’s AI server room is robbed of all GPUs. The nerds are
+      shocked, and their jobs are threatened. The group’s goal pivots to solving
+      the mystery.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 4000
+  - order: 4
+    subdivisionIndex: 2
+    name: Rising Tension
+    summary: Fear and uncertainty create internal conflict. The nerds worry about
+      their future and the company’s fate, deepening the stakes.
+    emotionAtStart: low
+    emotionAtEnd: low
+    approximateNoOfWords: 4000
+  - order: 5
+    subdivisionIndex: 3
+    name: Debate
+    summary: Debate ensues among the nerds about whether to get involved in the
+      investigation. Some are hesitant, fearing repercussions, while others are
+      determined.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 5000
+  - order: 6
+    subdivisionIndex: 3
+    name: Decision to Act
+    summary: The group’s unity is tested, but they ultimately resolve to take
+      action, setting the story in motion.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
