@@ -1,0 +1,8 @@
+id: 2
+name: Company Leadership
+description: The management and leadership team of the IT consulting company,
+  responsible for overseeing operations and responding to the crisis. Includes
+  Samir Patel (project manager) and Victor Tran (IT director).
+memberIds:
+  - 5
+  - 7
