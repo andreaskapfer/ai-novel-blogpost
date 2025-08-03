@@ -1,0 +1,29 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: "The nerd group is introduced at their IT consulting company. Their
+      camaraderie and unique personalities are established. The inciting
+      incident occurs when the team discovers all the GPUs in the server room
+      have been stolen, threatening their jobs and the company’s future. Their
+      goal becomes clear: recover the stolen GPUs. Conflict arises as suspicion
+      falls on both internal and external actors. The act pivots as the group
+      decides to investigate on their own, risking their reputations."
+    approximateNoOfWords: 35000
+  - index: 2
+    summary: The nerds begin their investigation, facing technical and interpersonal
+      challenges. They follow clues, interview suspects, and uncover secrets
+      about their colleagues and company. Tensions rise within the group as
+      stress mounts and trust is tested. The midpoint pivot occurs when they
+      discover a major lead implicating a trusted coworker, forcing them to
+      question their assumptions and alliances.
+    approximateNoOfWords: 40000
+  - index: 3
+    summary: "The group splits over disagreements about the lead, but must reunite
+      when a new threat emerges: the real thief tries to cover their tracks,
+      putting the nerds in danger. They race against time, using their technical
+      skills and teamwork to outsmart the culprit. The climax sees them
+      confronting the thief, recovering the GPUs, and exposing a larger
+      conspiracy. The act ends with the group’s bond strengthened and their
+      professional futures secured."
+    approximateNoOfWords: 45000
