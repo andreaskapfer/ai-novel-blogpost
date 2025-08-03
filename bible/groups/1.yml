@@ -1,0 +1,13 @@
+id: 1
+name: The Nerd Group
+description: The core group of friends and colleagues at the IT consulting
+  company who band together to solve the mystery of the stolen GPUs. They are
+  the protagonists of the story, each bringing unique technical and
+  interpersonal skills to the investigation.
+memberIds:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
