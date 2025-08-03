@@ -1,0 +1,7 @@
+id: 3
+name: Rival Tech Firm
+description: The rival technology company suspected of orchestrating the GPU
+  theft. Led by Victor Hsu, this group represents external antagonistic forces
+  and corporate espionage.
+memberIds:
+  - 7
