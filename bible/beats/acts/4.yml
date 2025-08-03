@@ -1,0 +1,63 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 4
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Regrouping and Reflection
+    summary: The nerds regroup after the betrayal, realizing the importance of trust
+      and teamwork. They must overcome lingering doubts and repair fractured
+      relationships.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+  - order: 2
+    subdivisionIndex: 1
+    name: Devising the Final Plan
+    summary: The group unites around a bold strategy to recover the GPUs, setting
+      the stage for the climax.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 4000
+  - order: 3
+    subdivisionIndex: 2
+    name: Showdown with the Thief
+    summary: The group executes their plan, leading to a tense showdown with the
+      thief and their accomplices. They must improvise under pressure to
+      outsmart the antagonist.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
+  - order: 4
+    subdivisionIndex: 2
+    name: Recovery and Cost
+    summary: The nerds successfully recover the GPUs, but not without cost. The
+      group faces the consequences of their actions.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 6000
+  - order: 5
+    subdivisionIndex: 3
+    name: Restoration and Aftermath
+    summary: With the GPUs recovered, the nerds restore the company’s AI
+      infrastructure. They deal with the aftermath of the betrayal and reflect
+      on their growth.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+  - order: 6
+    subdivisionIndex: 3
+    name: Renewed Bonds
+    summary: The group acknowledges their renewed bonds and prepares for the future,
+      strengthened by the challenges they overcame together.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 4000
+  - order: 7
+    subdivisionIndex: 4
+    name: Looking Forward
+    summary: The story concludes with the nerds looking forward to new opportunities
+      and adventures, united and hopeful.
+    emotionAtStart: very_high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 7000
