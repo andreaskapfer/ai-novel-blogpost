@@ -1,0 +1,12 @@
+id: 4
+name: Investigation Team
+description: The ad hoc team formed to investigate the GPU theft. Includes the
+  nerd group, their reluctant mentor Jonas, and Maya Lin, whose shifting
+  loyalties complicate the investigation.
+memberIds:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
