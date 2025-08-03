@@ -1,0 +1,10 @@
+id: 5
+name: Investigation Team
+description: The subset of the nerd group who take the lead in the technical
+  investigation, focusing on digital forensics, hardware analysis, and clue
+  gathering. Includes Alex, Priya, Ethan, and Maya.
+memberIds:
+  - 1
+  - 2
+  - 3
+  - 4
