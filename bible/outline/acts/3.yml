@@ -1,0 +1,32 @@
+outlineReference:
+  bibleLevel: act
+  act: 3
+subdivisions:
+  - index: 1
+    summary: The nerds split into smaller teams to pursue different investigative
+      angles, risking their jobs and friendships. The goal is to follow up on
+      new leads, but conflict arises as external pressures from management and a
+      rival tech firm intensify. The pivot comes when one team uncovers evidence
+      suggesting a betrayal within the group.
+    approximateNoOfWords: 9000
+  - index: 2
+    summary: The group confronts the suspected betrayer, leading to a tense and
+      emotional showdown. The goal is to determine the truth and maintain unity.
+      Conflict escalates as accusations fly and loyalties are questioned. The
+      pivot is the revelation of the betrayer’s motives, which complicates the
+      group’s mission.
+    approximateNoOfWords: 11000
+  - index: 3
+    summary: Despite the betrayal, the nerds regroup and refocus on their mission.
+      The goal is to retrieve the GPUs and expose the real culprit. Obstacles
+      include sabotage, misinformation, and personal doubts. The pivot comes
+      when the group discovers the location of the stolen GPUs, setting up the
+      final confrontation.
+    approximateNoOfWords: 10000
+  - index: 4
+    summary: The nerds execute a daring plan to recover the GPUs, facing off against
+      the antagonist and their allies. The goal is to outsmart the opposition
+      and restore the company’s AI infrastructure. Conflict peaks in a
+      high-stakes showdown. The act pivots as the group succeeds, but not
+      without lasting consequences for their relationships.
+    approximateNoOfWords: 10000
