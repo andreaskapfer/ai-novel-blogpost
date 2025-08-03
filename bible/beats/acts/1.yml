@@ -1,0 +1,106 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image
+    summary: The nerd group’s daily life at the IT consulting company is
+      established. We see their camaraderie, quirks, and technical prowess as
+      they interact in the office, setting the tone and introducing the main
+      characters.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 1200
+  - order: 2
+    subdivisionIndex: 1
+    name: Hinted Tensions
+    summary: Subtle rivalries and personal vulnerabilities are revealed through
+      banter and minor conflicts. The group’s strengths and weaknesses are
+      foreshadowed.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 1200
+  - order: 3
+    subdivisionIndex: 1
+    name: Call to Action
+    summary: The group is called to the server room for an urgent issue, disrupting
+      their routine and raising the stakes.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 1600
+  - order: 4
+    subdivisionIndex: 2
+    name: Discovery of the Theft
+    summary: "The group discovers the GPUs have been stolen. Panic and disbelief set
+      in as the implications become clear: their jobs and the company’s future
+      are at risk."
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 2000
+  - order: 5
+    subdivisionIndex: 2
+    name: Suspicions Arise
+    summary: Suspicion falls on both internal and external actors. The group debates
+      possible motives and suspects, heightening tension.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 2000
+  - order: 6
+    subdivisionIndex: 2
+    name: Decision to Act
+    summary: The group decides to take action rather than wait for management or
+      police, setting their goal to recover the GPUs themselves.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+  - order: 7
+    subdivisionIndex: 3
+    name: Debate and Division
+    summary: The nerds debate their options, weighing the risks of involving the
+      police versus investigating themselves. Interpersonal conflicts and fears
+      surface, testing their trust.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 2500
+  - order: 8
+    subdivisionIndex: 3
+    name: Pact Formed
+    summary: Despite disagreements, the group forms a pact to recover the GPUs
+      themselves, risking their reputations and jobs.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 2500
+  - order: 9
+    subdivisionIndex: 4
+    name: Investigation Begins
+    summary: The group begins their amateur investigation, gathering clues and
+      forming initial theories. They face technical obstacles and must rely on
+      each other’s skills.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 3000
+  - order: 10
+    subdivisionIndex: 4
+    name: Scarce Evidence
+    summary: Evidence is scarce and suspicions grow. The group struggles to make
+      progress, and frustration mounts.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 2500
+  - order: 11
+    subdivisionIndex: 4
+    name: Small Breakthrough
+    summary: A small breakthrough gives the group hope, reigniting their
+      determination to solve the case.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 2500
+  - order: 12
+    subdivisionIndex: 5
+    name: United Front
+    summary: "The act closes with the group more united but aware of the challenges
+      ahead. Their goal is clear: recover the GPUs and save the company."
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
