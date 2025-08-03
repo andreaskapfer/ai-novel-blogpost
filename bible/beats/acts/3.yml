@@ -1,0 +1,57 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 3
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Regroup and Plan
+    summary: The group regroups after setbacks, pooling their skills and
+      information. They resolve to identify the real thief and recover the GPUs,
+      despite the new threat that emerges.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 2500
+  - order: 2
+    subdivisionIndex: 1
+    name: Thief’s Cover-Up
+    summary: The thief tries to cover their tracks, putting the nerds in danger. The
+      group uncovers a crucial clue that reveals the thief’s identity.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 6500
+  - order: 3
+    subdivisionIndex: 2
+    name: Race Against Time
+    summary: The nerds race against time, using their technical prowess and teamwork
+      to outsmart the culprit. The thief attempts sabotage, escalating the
+      conflict.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 7000
+  - order: 4
+    subdivisionIndex: 2
+    name: Confrontation
+    summary: A daring confrontation with the thief. The group’s unity and skills are
+      put to the test as they attempt to recover the GPUs and expose the
+      conspiracy.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+  - order: 5
+    subdivisionIndex: 3
+    name: "Climax: Truth Revealed"
+    summary: The group confronts the thief, recovers the GPUs, and exposes a larger
+      conspiracy within the company. The goal is achieved, but not without cost.
+      The group’s bond is tested and strengthened.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 9000
+  - order: 6
+    subdivisionIndex: 4
+    name: Aftermath and Reflection
+    summary: The nerds reflect on how the crisis changed them. Their professional
+      futures are secured, and their friendship is stronger than ever. The story
+      closes with hope and closure.
+    emotionAtStart: very_high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 13000
