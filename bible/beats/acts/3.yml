@@ -1,0 +1,71 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 3
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Splitting into Teams
+    summary: The nerds split into smaller teams to pursue different investigative
+      angles, risking their jobs and friendships. External pressures from
+      management and a rival tech firm intensify.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 3000
+  - order: 2
+    subdivisionIndex: 1
+    name: Discovery of Betrayal
+    summary: One team uncovers evidence suggesting a betrayal within the group,
+      leading to shock and suspicion.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 6000
+  - order: 3
+    subdivisionIndex: 2
+    name: Confrontation
+    summary: The group confronts the suspected betrayer, leading to a tense and
+      emotional showdown. Accusations fly and loyalties are questioned.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 6000
+  - order: 4
+    subdivisionIndex: 2
+    name: Motives Revealed
+    summary: The betrayer’s motives are revealed, complicating the group’s mission
+      but also providing new insight.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+  - order: 5
+    subdivisionIndex: 3
+    name: Regrouping
+    summary: Despite the betrayal, the nerds regroup and refocus on their mission to
+      retrieve the GPUs and expose the real culprit.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 4000
+  - order: 6
+    subdivisionIndex: 3
+    name: Obstacles and Doubts
+    summary: The group faces sabotage, misinformation, and personal doubts. They
+      discover the location of the stolen GPUs, setting up the final
+      confrontation.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
+  - order: 7
+    subdivisionIndex: 4
+    name: The Daring Plan
+    summary: The nerds execute a daring plan to recover the GPUs, facing off against
+      the antagonist and their allies in a high-stakes showdown.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6000
+  - order: 8
+    subdivisionIndex: 4
+    name: Aftermath and Consequences
+    summary: The group succeeds in recovering the GPUs and restoring the company’s
+      AI infrastructure, but not without lasting consequences for their
+      relationships.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
