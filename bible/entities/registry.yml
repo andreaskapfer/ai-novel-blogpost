@@ -1,8 +1,7 @@
-- id: 1
-  displayName: The Nerd Group
-  kind: group
-  description: A group of nerds working at an IT consulting company, each with
-    unique skills and quirks. They are the protagonists of the story, banding
-    together to solve the mystery of the stolen GPUs.
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: The workplace of the nerd group, home to the company's AI
+    infrastructure and the scene of the GPU theft.
   bibleReferences:
     - bibleLevel: book
