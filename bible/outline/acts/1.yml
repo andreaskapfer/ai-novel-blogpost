@@ -1,0 +1,36 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The nerd group’s daily life at the IT consulting company is
+      established, highlighting their camaraderie, technical prowess, and the
+      vibrant office culture. The company’s AI infrastructure is introduced as a
+      source of pride, and subtle tensions between departments are revealed. The
+      goal is to set up the world and characters, with conflict simmering
+      beneath the surface. The pivot occurs when the team discovers the GPUs in
+      the server room have been stolen, launching the central mystery.
+    approximateNoOfWords: 7000
+  - index: 2
+    summary: The nerd group reels from the shock of the theft. Management doubts
+      their ability to help, creating internal conflict and a sense of urgency.
+      The group debates whether to take action or leave it to authorities, with
+      personal stakes and fears emerging. The goal is to decide their course,
+      with the pivot being their collective decision to investigate the theft
+      themselves, despite skepticism from above.
+    approximateNoOfWords: 9000
+  - index: 3
+    summary: Individual members are spotlighted as they begin their investigation,
+      leveraging their unique skills. Early clues are gathered, and suspicions
+      fall on rival companies and disgruntled employees. The group’s friendship
+      is tested as secrets and insecurities surface. The goal is to make
+      progress on the case, with the pivot being the discovery of a clue that
+      suggests the culprit may be closer than they thought.
+    approximateNoOfWords: 10000
+  - index: 4
+    summary: The nerds follow up on the new lead, facing obstacles and red herrings.
+      Tensions rise as the investigation hits roadblocks and suspicions grow
+      within the group. The goal is to overcome these setbacks and maintain
+      unity. The act pivots on a breakthrough that reignites their determination
+      and sets up the next phase of their quest.
+    approximateNoOfWords: 9000
