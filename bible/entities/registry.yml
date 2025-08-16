@@ -1,9 +1,9 @@
-- id: 9
-  displayName: Uncooperative Coworkers
-  kind: group
-  description: A group of employees at the IT consulting company who are reluctant
-    to assist the nerd group in their investigation, either out of fear,
-    indifference, or possible involvement.
+- id: 10
+  displayName: Server Log Evidence
+  kind: item
+  description: Digital evidence found in the server logs by the nerd group,
+    narrowing the suspect pool and putting the group under scrutiny from
+    management.
   bibleReferences:
     - bibleLevel: act
-      act: 1
+      act: 2
