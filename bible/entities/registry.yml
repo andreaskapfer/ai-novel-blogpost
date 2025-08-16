@@ -6,6 +6,8 @@
     banding together to solve the mystery of the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 2
   displayName: IT Consulting Company
   kind: location
