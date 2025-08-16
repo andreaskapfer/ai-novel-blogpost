@@ -38,3 +38,10 @@
     internal conflict.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Rival Companies
+  kind: group
+  description: Competing IT firms suspected by the nerd group of being involved in
+    the GPU theft. They represent external conflict and competition.
+  bibleReferences:
+    - bibleLevel: book
