@@ -1,7 +1,7 @@
-- id: 2
-  displayName: IT Consulting Company
+- id: 3
+  displayName: AI Infrastructure Server Room
   kind: location
-  description: The workplace of the nerd group, home to the company's AI
-    infrastructure and the scene of the GPU theft.
+  description: The secure server room within the IT consulting company where the
+    GPUs powering the AI infrastructure are housed and where the theft occurs.
   bibleReferences:
     - bibleLevel: book
