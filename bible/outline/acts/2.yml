@@ -1,0 +1,35 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: The nerd group launches their investigation, splitting up to follow
+      various leads. They interview colleagues, analyze security footage, and
+      dig into company records. The goal is to uncover suspects, but conflict
+      arises as suspicions fall on both rival companies and disgruntled
+      employees. The pivot comes when a clue points to someone unexpectedly
+      close to the team, deepening the mystery.
+    approximateNoOfWords: 10000
+  - index: 2
+    summary: Tensions escalate as the nerds confront the possibility of betrayal
+      within their own ranks. Secrets and personal histories come to light,
+      straining friendships and trust. The group debates whether to continue or
+      involve the authorities, but their determination prevails. The pivot is a
+      breakthrough in the investigation, revealing a hidden motive and narrowing
+      the list of suspects.
+    approximateNoOfWords: 10000
+  - index: 3
+    summary: The nerds pursue the new lead, facing obstacles from both inside and
+      outside the company. Rival companies attempt to mislead them, and
+      management pressures them to drop the case. The group’s unity is tested as
+      accusations fly and setbacks mount. The pivot is the discovery of concrete
+      evidence implicating a key suspect, setting up the next phase of the
+      investigation.
+    approximateNoOfWords: 10000
+  - index: 4
+    summary: With the suspect identified, the nerds devise a plan to gather proof
+      and confront the culprit. They must overcome personal doubts and external
+      opposition to see their mission through. The act pivots on a tense
+      confrontation that leaves the group shaken but more determined than ever
+      to solve the case and recover the GPUs.
+    approximateNoOfWords: 10000
