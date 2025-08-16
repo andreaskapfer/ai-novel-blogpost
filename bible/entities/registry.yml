@@ -1,7 +1,0 @@
-- id: 4
-  displayName: Stolen GPUs
-  kind: item
-  description: The high-value graphics processing units stolen from the server
-    room, central to the mystery and the nerd group's quest.
-  bibleReferences:
-    - bibleLevel: book
