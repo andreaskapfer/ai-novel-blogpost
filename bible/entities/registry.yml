@@ -1,7 +1,7 @@
-- id: 3
-  displayName: AI Infrastructure Server Room
-  kind: location
-  description: The secure server room within the IT consulting company where the
-    GPUs powering the AI infrastructure are housed and where the theft occurs.
+- id: 4
+  displayName: Stolen GPUs
+  kind: item
+  description: The high-value graphics processing units stolen from the server
+    room, central to the mystery and the nerd group's quest.
   bibleReferences:
     - bibleLevel: book
