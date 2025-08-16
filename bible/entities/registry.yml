@@ -1,8 +1,8 @@
-- id: 3
-  displayName: Server Room
-  kind: location
-  description: A secure room within the IT consulting company that houses the
-    company's prized AI infrastructure and high-end GPUs. The theft of the GPUs
-    from this room sets the story in motion.
+- id: 4
+  displayName: High-End GPUs
+  kind: item
+  description: A rack of powerful graphics processing units that power the
+    company's AI infrastructure. Their theft is the central mystery of the
+    novel.
   bibleReferences:
     - bibleLevel: book
