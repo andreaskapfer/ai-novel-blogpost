@@ -12,7 +12,13 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: primary location
+      - entityId: 4
+        associationType: featured item
   - order: 2
     subdivisionIndex: 1
     name: Inciting Incident
@@ -22,7 +28,13 @@ beats:
     emotionAtStart: high
     emotionAtEnd: low
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 3
+        associationType: crime scene
+      - entityId: 4
+        associationType: stolen item
   - order: 3
     subdivisionIndex: 1
     name: Debate
@@ -32,7 +44,11 @@ beats:
     emotionAtStart: low
     emotionAtEnd: neutral
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: workplace
   - order: 4
     subdivisionIndex: 1
     name: Break into Act 2
@@ -41,7 +57,9 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
   - order: 5
     subdivisionIndex: 2
     name: Fun and Games
@@ -51,7 +69,11 @@ beats:
     emotionAtStart: high
     emotionAtEnd: neutral
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: workplace
   - order: 6
     subdivisionIndex: 2
     name: Midpoint
@@ -61,7 +83,11 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 5
+        associationType: antagonist group
   - order: 7
     subdivisionIndex: 2
     name: Bad Guys Close In
@@ -71,7 +97,11 @@ beats:
     emotionAtStart: high
     emotionAtEnd: low
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: workplace
   - order: 8
     subdivisionIndex: 2
     name: Break into Act 3
@@ -80,7 +110,11 @@ beats:
     emotionAtStart: low
     emotionAtEnd: high
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 5
+        associationType: antagonist group
   - order: 9
     subdivisionIndex: 3
     name: Infiltration
@@ -90,7 +124,11 @@ beats:
     emotionAtStart: high
     emotionAtEnd: neutral
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 5
+        associationType: antagonist group
   - order: 10
     subdivisionIndex: 3
     name: All Is Lost
@@ -99,7 +137,11 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: very_low
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 5
+        associationType: antagonist group
   - order: 11
     subdivisionIndex: 3
     name: Dark Night of the Soul
@@ -109,7 +151,11 @@ beats:
     emotionAtStart: very_low
     emotionAtEnd: low
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 6
+        associationType: mastermind
   - order: 12
     subdivisionIndex: 3
     name: Break into Act 4
@@ -118,7 +164,11 @@ beats:
     emotionAtStart: low
     emotionAtEnd: high
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 6
+        associationType: mastermind
   - order: 13
     subdivisionIndex: 4
     name: Showdown
@@ -128,7 +178,13 @@ beats:
     emotionAtStart: high
     emotionAtEnd: very_high
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 6
+        associationType: mastermind
+      - entityId: 4
+        associationType: recovered item
   - order: 14
     subdivisionIndex: 4
     name: Resolution
@@ -138,7 +194,13 @@ beats:
     emotionAtStart: very_high
     emotionAtEnd: high
     approximateNoOfWords: 10000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: workplace
+      - entityId: 4
+        associationType: restored item
   - order: 15
     subdivisionIndex: 4
     name: Closing Image
@@ -148,4 +210,8 @@ beats:
     emotionAtStart: high
     emotionAtEnd: high
     approximateNoOfWords: 15000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: workplace
