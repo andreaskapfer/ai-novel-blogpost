@@ -1,8 +1,10 @@
-- id: 6
-  displayName: The Mastermind
-  kind: character
-  description: The true antagonist behind the GPU theft, revealed to be someone
-    close to the nerd group. Their motivations and actions drive the story's
-    climax.
+- id: 7
+  displayName: IT Consulting Company Management
+  kind: group
+  description: The management team at the IT consulting company, responsible for
+    overseeing operations and applying pressure on the nerd group. They are
+    skeptical of the group's abilities and concerned about the company's
+    reputation after the GPU theft.
   bibleReferences:
-    - bibleLevel: book
+    - bibleLevel: act
+      act: 1
