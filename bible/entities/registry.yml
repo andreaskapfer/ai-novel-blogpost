@@ -91,6 +91,8 @@
       act: 2
     - bibleLevel: act
       act: 3
+    - bibleLevel: act
+      act: 4
 - id: 7
   displayName: Disgruntled Employees
   kind: group
