@@ -56,6 +56,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 6
   displayName: Rival Companies
   kind: group
