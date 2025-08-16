@@ -1,0 +1,33 @@
+outlineReference:
+  bibleLevel: act
+  act: 3
+subdivisions:
+  - index: 1
+    summary: The nerd group regroups and splits up to pursue different leads, each
+      member leveraging their unique skills. They encounter setbacks and
+      betrayals, both from within and outside the company. The goal is to make
+      progress on the case, but conflict intensifies as the culprit’s identity
+      becomes clearer. The pivot is a daring plan to recover the GPUs, risking
+      their jobs and reputations.
+    approximateNoOfWords: 10000
+  - index: 2
+    summary: Tensions reach a breaking point as the nerds face personal and
+      professional risks. They must overcome differences and unite for a final
+      confrontation. The group’s loyalty and friendship are tested as they
+      prepare for the showdown. The pivot is the execution of their plan, with
+      everything on the line.
+    approximateNoOfWords: 10000
+  - index: 3
+    summary: The nerds execute their daring plan, facing the antagonist in a
+      high-stakes showdown. The conflict peaks as they outwit the thief and
+      recover the GPUs, but not without cost. The aftermath tests their loyalty
+      and forces them to reevaluate their priorities. The act pivots on the
+      resolution of the theft and the group’s decision about their future
+      together, ending with renewed bonds and a sense of accomplishment.
+    approximateNoOfWords: 10000
+  - index: 4
+    summary: Loose ends are tied up as the group reflects on their journey. They
+      celebrate their victory, but also acknowledge the personal growth and
+      changes that have occurred. The act closes with the nerds looking forward
+      to new challenges, united by their shared experience.
+    approximateNoOfWords: 10000
