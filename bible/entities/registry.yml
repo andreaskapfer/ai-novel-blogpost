@@ -1,8 +1,8 @@
-- id: 13
-  displayName: Advanced Security Systems
-  kind: item
-  description: Sophisticated security measures at the rival company that pose
-    significant obstacles to the nerd group during their infiltration.
+- id: 14
+  displayName: Suspicious Employees (Rival Company)
+  kind: group
+  description: Employees at the rival company who are wary of outsiders and pose a
+    threat to the nerd group’s covert operation.
   bibleReferences:
     - bibleLevel: act
       act: 3
