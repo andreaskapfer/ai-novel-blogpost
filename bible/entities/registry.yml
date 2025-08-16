@@ -44,6 +44,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 5
   displayName: Management
   kind: group
