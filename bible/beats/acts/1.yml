@@ -1,0 +1,171 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image
+    summary: The nerd group’s camaraderie and technical prowess are on display as
+      they navigate their daily routines at the IT consulting company. The
+      vibrant office culture and pride in the AI infrastructure are established.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 2000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: primary location
+  - order: 2
+    subdivisionIndex: 1
+    name: Theme Stated
+    summary: Subtle tensions between departments and hints of underlying conflict
+      are introduced during a team meeting. The importance of teamwork is
+      foreshadowed.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 5
+        associationType: antagonistic group
+  - order: 3
+    subdivisionIndex: 1
+    name: Set-Up
+    summary: Individual nerds are spotlighted, revealing their unique skills and
+      quirks. The server room and its prized GPUs are introduced as the
+      company’s crown jewel.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 2000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+  - order: 4
+    subdivisionIndex: 1
+    name: Catalyst
+    summary: The team discovers the GPUs in the server room have been stolen,
+      launching the central mystery and sending shockwaves through the company.
+    emotionAtStart: high
+    emotionAtEnd: very_low
+    approximateNoOfWords: 2000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+  - order: 5
+    subdivisionIndex: 2
+    name: Debate
+    summary: The nerd group reels from the shock of the theft. Management doubts
+      their ability to help, creating internal conflict and urgency. The group
+      debates whether to take action or leave it to authorities.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 5
+        associationType: antagonistic group
+  - order: 6
+    subdivisionIndex: 2
+    name: Personal Stakes
+    summary: Personal fears and motivations emerge as each member considers the
+      consequences of the theft and their role in the investigation.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+  - order: 7
+    subdivisionIndex: 2
+    name: Break into Two
+    summary: The group collectively decides to investigate the theft themselves,
+      despite skepticism from management. Their quest begins in earnest.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+  - order: 8
+    subdivisionIndex: 3
+    name: "Spotlight: Unique Skills"
+    summary: Individual nerds leverage their unique skills to begin the
+      investigation. Early clues are gathered, and suspicions fall on rival
+      companies and disgruntled employees.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 6
+        associationType: suspect group
+      - entityId: 7
+        associationType: suspect group
+  - order: 9
+    subdivisionIndex: 3
+    name: Friendship Tested
+    summary: Secrets and insecurities surface as the group’s friendship is tested by
+      the stress of the investigation. Early progress is made, but doubts
+      linger.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+  - order: 10
+    subdivisionIndex: 3
+    name: Discovery
+    summary: A clue is discovered that suggests the culprit may be closer than they
+      thought, shifting the group’s focus and raising the stakes.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+  - order: 11
+    subdivisionIndex: 4
+    name: Red Herrings
+    summary: The nerds follow up on the new lead, encountering obstacles and red
+      herrings. Tensions rise as the investigation hits roadblocks.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+  - order: 12
+    subdivisionIndex: 4
+    name: Suspicions Grow
+    summary: Suspicions grow within the group as setbacks mount. The nerds struggle
+      to maintain unity in the face of adversity.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+  - order: 13
+    subdivisionIndex: 4
+    name: Breakthrough
+    summary: A breakthrough reignites the group’s determination, setting up the next
+      phase of their quest and ending the act on a note of hope.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
