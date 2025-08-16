@@ -1,10 +1,8 @@
-- id: 7
-  displayName: IT Consulting Company Management
-  kind: group
-  description: The management team at the IT consulting company, responsible for
-    overseeing operations and applying pressure on the nerd group. They are
-    skeptical of the group's abilities and concerned about the company's
-    reputation after the GPU theft.
+- id: 8
+  displayName: Suspicious Access Log
+  kind: item
+  description: A subtle but crucial clue found in the server room's security logs,
+    indicating a possible inside job in the GPU theft.
   bibleReferences:
     - bibleLevel: act
       act: 1
