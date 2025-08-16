@@ -1,0 +1,33 @@
+outlineReference:
+  bibleLevel: act
+  act: 3
+subdivisions:
+  - index: 1
+    summary: The nerd group infiltrates the rival company, using their IT skills and
+      teamwork to gather evidence. Their goal is to find proof of the rival’s
+      involvement, but conflict arises from tight security, ethical dilemmas,
+      and the risk of exposure. The pivot comes when they encounter an
+      unexpected ally inside the rival company, who offers crucial information
+      but at a price.
+    approximateNoOfWords: 10000
+  - index: 2
+    summary: "The group faces formidable obstacles: advanced security systems,
+      suspicious employees, and moral quandaries about hacking and deception.
+      Their goal is to obtain the evidence without getting caught, but internal
+      conflicts and trust issues threaten their unity. The pivot occurs when
+      they are discovered, forcing them to improvise and escape with partial
+      evidence."
+    approximateNoOfWords: 10000
+  - index: 3
+    summary: Back at their own company, the nerds analyze the evidence and realize
+      the true mastermind behind the theft is someone close to them. Their goal
+      is to confirm the mastermind’s identity, but conflict arises as they
+      struggle with betrayal and the implications for their team. The pivot
+      comes when they confront the mastermind, leading to a tense standoff.
+    approximateNoOfWords: 10000
+  - index: 4
+    summary: The group must choose between justice and loyalty as they face the
+      mastermind. Their goal is to recover the stolen GPUs and restore their
+      company’s reputation. The act pivots as they make a difficult decision,
+      setting up the final confrontation and resolution.
+    approximateNoOfWords: 10000
