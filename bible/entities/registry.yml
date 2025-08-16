@@ -64,3 +64,5 @@
     steal the GPUs. They are among the suspects in the investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
