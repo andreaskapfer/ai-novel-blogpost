@@ -1,9 +1,8 @@
-- id: 11
-  displayName: External Threats
-  kind: group
-  description: Unspecified external forces or individuals that create additional
-    pressure and obstacles for the nerd group during their investigation in act
-    2.
+- id: 12
+  displayName: Unexpected Ally
+  kind: character
+  description: An insider at the rival company who offers crucial information to
+    the nerd group during their infiltration, but expects something in return.
   bibleReferences:
     - bibleLevel: act
-      act: 2
+      act: 3
