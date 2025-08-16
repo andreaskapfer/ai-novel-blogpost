@@ -6,3 +6,11 @@
     banding together to solve the mystery of the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: The workplace of the nerd group, featuring a server room with
+    advanced AI infrastructure. The company is the central setting for the
+    story's events.
+  bibleReferences:
+    - bibleLevel: book
