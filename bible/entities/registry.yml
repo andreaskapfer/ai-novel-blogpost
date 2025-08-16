@@ -1,8 +1,8 @@
-- id: 12
-  displayName: Unexpected Ally
-  kind: character
-  description: An insider at the rival company who offers crucial information to
-    the nerd group during their infiltration, but expects something in return.
+- id: 13
+  displayName: Advanced Security Systems
+  kind: item
+  description: Sophisticated security measures at the rival company that pose
+    significant obstacles to the nerd group during their infiltration.
   bibleReferences:
     - bibleLevel: act
       act: 3
