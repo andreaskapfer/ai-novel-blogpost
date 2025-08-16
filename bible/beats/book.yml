@@ -1,0 +1,151 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image
+    summary: The nerd group is introduced at their IT consulting company, each with
+      unique skills and quirks. The company’s prized AI infrastructure is
+      unveiled, powered by a rack of high-end GPUs. The group’s camaraderie and
+      daily routines are established, but underlying tensions and rivalries are
+      hinted at.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 2
+    subdivisionIndex: 1
+    name: Inciting Incident
+    summary: "The team discovers the server room has been broken into and all GPUs
+      are missing, setting the central mystery and goal: recover the stolen
+      GPUs."
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 6000
+    associatedEntities: []
+  - order: 3
+    subdivisionIndex: 1
+    name: Debate
+    summary: The nerds debate how to proceed, facing skepticism from management and
+      suspicion among coworkers. They weigh the risks and responsibilities of
+      investigating the theft themselves.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 4
+    subdivisionIndex: 1
+    name: Break into Act 2
+    summary: The group resolves to launch their own investigation, determined to
+      recover the stolen GPUs despite the obstacles ahead.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 5
+    subdivisionIndex: 2
+    name: Fun and Games
+    summary: The nerds follow technical clues, hack into logs, and interview staff.
+      Their investigation is filled with clever problem-solving and humorous
+      mishaps, but conflicts arise as stress mounts and secrets are revealed.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 6
+    subdivisionIndex: 2
+    name: Midpoint
+    summary: The group’s unity is tested by personal ambitions and external
+      pressures. They uncover a lead pointing to a rival company, raising the
+      stakes and forcing them to work together more closely.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 7
+    subdivisionIndex: 2
+    name: Bad Guys Close In
+    summary: Conflicts intensify as the nerds face setbacks and internal divisions.
+      Management pressures them to drop the investigation, and suspicion falls
+      on one of their own.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 8
+    subdivisionIndex: 2
+    name: Break into Act 3
+    summary: The nerds unite, determined to infiltrate the rival company and recover
+      the GPUs. Their teamwork is renewed as they prepare for the next phase.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 9
+    subdivisionIndex: 3
+    name: Infiltration
+    summary: The group infiltrates the rival company, using their IT skills and
+      teamwork to gather evidence. They encounter unexpected allies and
+      formidable obstacles, including security systems and ethical dilemmas.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 10
+    subdivisionIndex: 3
+    name: All Is Lost
+    summary: The nerds are discovered and their plan seems doomed. Internal
+      conflicts and trust issues threaten to tear the group apart.
+    emotionAtStart: neutral
+    emotionAtEnd: very_low
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 11
+    subdivisionIndex: 3
+    name: Dark Night of the Soul
+    summary: The group reflects on their journey and what’s at stake. They realize
+      the true mastermind behind the theft is someone close to them, forcing a
+      confrontation and a choice between justice and loyalty.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 12
+    subdivisionIndex: 3
+    name: Break into Act 4
+    summary: The nerds resolve to confront the mastermind, putting aside their
+      differences and preparing for the final showdown.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 13
+    subdivisionIndex: 4
+    name: Showdown
+    summary: The nerds confront the mastermind, leading to a tense showdown that
+      tests their friendship and values. They must use all their skills and
+      knowledge to outwit the antagonist and recover the GPUs.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 14
+    subdivisionIndex: 4
+    name: Resolution
+    summary: The group emerges stronger, having solved the mystery and grown as
+      individuals and as a team. The company’s AI infrastructure is restored and
+      the nerds’ bond is solidified, hinting at future adventures.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities: []
+  - order: 15
+    subdivisionIndex: 4
+    name: Closing Image
+    summary: The nerds return to their daily routines, changed by their experiences.
+      Their camaraderie is stronger than ever, and they look forward to new
+      challenges together.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 15000
+    associatedEntities: []
