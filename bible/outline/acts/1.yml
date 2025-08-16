@@ -1,0 +1,40 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The nerd group’s daily life at the IT consulting company is
+      established, highlighting their camaraderie, technical prowess, and subtle
+      rivalries. The company’s AI infrastructure, powered by high-end GPUs, is
+      introduced as a point of pride and responsibility. The group’s goal is to
+      maintain their reputation and keep the system running smoothly. Conflict
+      arises from management pressure and hints of internal competition. The
+      pivot occurs when the server room is found broken into, and the GPUs are
+      missing, shifting the group’s goal to solving the mystery.
+    approximateNoOfWords: 9000
+  - index: 2
+    summary: The team reacts to the theft with shock and disbelief. They debate
+      whether to involve the authorities or handle the situation themselves,
+      fearing for their jobs and reputations. Management’s skepticism and the
+      risk of blame create tension. The group’s goal is to decide on a course of
+      action, but conflict arises from differing opinions and personal stakes.
+      The pivot comes when they resolve to investigate on their own, setting the
+      stage for their amateur sleuthing.
+    approximateNoOfWords: 9000
+  - index: 3
+    summary: "The nerds begin their investigation, examining the crime scene and
+      reviewing security logs. They encounter obstacles: missing footage,
+      uncooperative coworkers, and technical red herrings. Their goal is to find
+      the first real clue, but conflict emerges as suspicions fall on one
+      another and stress mounts. The pivot occurs when they uncover a subtle
+      clue—a suspicious access log—that points to an inside job, intensifying
+      the mystery."
+    approximateNoOfWords: 9000
+  - index: 4
+    summary: The group follows the new lead, interviewing staff and digging into
+      company records. They face resistance from management and fear of
+      retaliation from the real culprit. Their goal is to narrow down suspects,
+      but conflict grows as secrets and personal motives are revealed. The pivot
+      comes when they identify a potential suspect with both motive and
+      opportunity, raising the stakes and uniting the group in their quest.
+    approximateNoOfWords: 8000
