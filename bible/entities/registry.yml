@@ -45,3 +45,10 @@
     the GPU theft. They represent external conflict and competition.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Disgruntled Employees
+  kind: group
+  description: Employees within the IT consulting company who may have motives to
+    steal the GPUs. They are among the suspects in the investigation.
+  bibleReferences:
+    - bibleLevel: book
