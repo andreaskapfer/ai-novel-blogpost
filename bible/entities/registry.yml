@@ -1,8 +1,9 @@
-- id: 8
-  displayName: Suspicious Access Log
-  kind: item
-  description: A subtle but crucial clue found in the server room's security logs,
-    indicating a possible inside job in the GPU theft.
+- id: 9
+  displayName: Uncooperative Coworkers
+  kind: group
+  description: A group of employees at the IT consulting company who are reluctant
+    to assist the nerd group in their investigation, either out of fear,
+    indifference, or possible involvement.
   bibleReferences:
     - bibleLevel: act
       act: 1
