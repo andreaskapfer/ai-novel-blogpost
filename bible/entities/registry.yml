@@ -1,9 +1,0 @@
-- id: 15
-  displayName: Recovered Evidence
-  kind: item
-  description: Evidence secured by the nerd group during the final confrontation
-    with the mastermind, crucial for proving the theft and restoring the
-    company's reputation.
-  bibleReferences:
-    - bibleLevel: act
-      act: 4
