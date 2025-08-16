@@ -1,8 +1,8 @@
-- id: 5
-  displayName: Rival Company
-  kind: group
-  description: A competing IT company suspected of involvement in the GPU theft.
-    The nerd group investigates this company as part of their quest to recover
-    the stolen hardware.
+- id: 6
+  displayName: The Mastermind
+  kind: character
+  description: The true antagonist behind the GPU theft, revealed to be someone
+    close to the nerd group. Their motivations and actions drive the story's
+    climax.
   bibleReferences:
     - bibleLevel: book
