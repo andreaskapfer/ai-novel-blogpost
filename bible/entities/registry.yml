@@ -30,3 +30,11 @@
     story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Management
+  kind: group
+  description: The leadership team of the IT consulting company, skeptical of the
+    nerd group's ability to solve the theft. They represent authority and
+    internal conflict.
+  bibleReferences:
+    - bibleLevel: book
