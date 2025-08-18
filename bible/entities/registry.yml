@@ -14,3 +14,11 @@
     to solve the mystery of the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: Server Room
+  kind: location
+  description: The secure room at ByteCrafters that houses the company's AI
+    infrastructure and GPUs. The site of the theft that sets the story in
+    motion.
+  bibleReferences:
+    - bibleLevel: book
