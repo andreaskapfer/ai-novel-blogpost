@@ -53,6 +53,8 @@
     to the company's operations and the plot.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 7
   displayName: Management
   kind: group
