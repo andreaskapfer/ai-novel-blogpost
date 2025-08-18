@@ -36,3 +36,13 @@
     dependent on the stolen GPUs for operation.
   bibleReferences:
     - bibleLevel: book
+- id: 1
+  displayName: ByteCrafters
+  kind: location
+  description: A quirky IT consulting company where the story takes place. Known
+    for its tight-knit group of nerdy employees and its prized AI
+    infrastructure.
+  bibleReferences:
+    - bibleLevel: book
+    - bibleLevel: act
+      act: 1
