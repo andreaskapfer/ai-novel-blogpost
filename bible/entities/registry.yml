@@ -47,3 +47,11 @@
     to the company's operations and the plot.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Management
+  kind: group
+  description: The management team of the IT consulting company. They are
+    sometimes uncooperative and present obstacles to the nerd group's
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
