@@ -71,3 +71,10 @@
     group must decode as part of their investigation to recover the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: The Thief
+  kind: character
+  description: The mysterious individual responsible for stealing the GPUs from
+    the server room. Their identity is a central mystery of the story.
+  bibleReferences:
+    - bibleLevel: book
