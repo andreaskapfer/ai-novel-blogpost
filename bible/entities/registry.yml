@@ -29,3 +29,10 @@
     ByteCrafters' AI infrastructure. Their theft is central to the plot.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: AI Infrastructure
+  kind: item
+  description: The advanced artificial intelligence systems at ByteCrafters,
+    dependent on the stolen GPUs for operation.
+  bibleReferences:
+    - bibleLevel: book
