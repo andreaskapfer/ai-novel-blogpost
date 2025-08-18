@@ -70,3 +70,11 @@
     company's AI operations. Their theft is the central mystery of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Management Team
+  kind: group
+  description: The group of executives and managers at the tech company who
+    oversee operations and put pressure on the nerd group to recover the stolen
+    GPUs.
+  bibleReferences:
+    - bibleLevel: book
