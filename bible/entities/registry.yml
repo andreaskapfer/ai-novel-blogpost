@@ -1,0 +1,9 @@
+- id: 1
+  displayName: The Nerd Group
+  kind: group
+  description: A close-knit group of software engineers, data scientists, and IT
+    specialists working at a quirky IT consulting company. They are the
+    protagonists of the story, known for their technical prowess, unique
+    personalities, and strong camaraderie.
+  bibleReferences:
+    - bibleLevel: book
