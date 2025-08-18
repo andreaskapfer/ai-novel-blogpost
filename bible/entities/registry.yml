@@ -75,3 +75,12 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+- id: 5
+  displayName: AI Infrastructure
+  kind: item
+  description: The advanced artificial intelligence systems at ByteCrafters,
+    dependent on the stolen GPUs for operation.
+  bibleReferences:
+    - bibleLevel: book
+    - bibleLevel: act
+      act: 1
