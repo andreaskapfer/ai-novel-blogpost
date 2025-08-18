@@ -98,6 +98,8 @@
     sometimes obstacles for the nerd group.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 12
   displayName: Office
   kind: location
