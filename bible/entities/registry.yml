@@ -7,3 +7,11 @@
     personalities, and strong camaraderie.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: A quirky IT consulting company where the main nerd group works. The
+    company is known for its reliance on powerful AI infrastructure and a unique
+    office culture.
+  bibleReferences:
+    - bibleLevel: book
