@@ -55,3 +55,12 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Security Systems
+  kind: item
+  description: The digital and physical security measures in place at the IT
+    consulting company, including surveillance cameras and access controls.
+    These systems are both a challenge and a tool for the nerd group during
+    their investigation.
+  bibleReferences:
+    - bibleLevel: book
