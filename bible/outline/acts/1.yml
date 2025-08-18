@@ -1,0 +1,43 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The nerd group is introduced through a series of humorous and
+      insightful vignettes in the IT consulting company’s office. Each member’s
+      personality and technical specialty is revealed as they tackle quirky work
+      problems and engage in playful banter. The company’s AI infrastructure is
+      showcased, with the server room and its security systems briefly
+      highlighted. The group’s camaraderie and the company’s dependence on GPUs
+      are established, setting the tone for the story.
+    approximateNoOfWords: 4700
+  - index: 2
+    summary: A conversation about teamwork and trust unfolds over lunch, with the
+      nerd group debating the ethics of AI and the importance of collaboration.
+      The company’s management is introduced, and subtle tensions between staff
+      and leadership are hinted at. The group’s bond is reinforced as they share
+      stories of past projects and challenges, foreshadowing the trials to come.
+    approximateNoOfWords: 2500
+  - index: 3
+    summary: The daily routines of the nerd group are explored in detail. We meet
+      several coworkers and get a sense of the office’s unique culture. The
+      server room’s security protocols are demonstrated, and the group discusses
+      recent upgrades to the AI infrastructure. Management’s priorities and the
+      company’s competitive pressures are revealed, adding context to the
+      workplace dynamics.
+    approximateNoOfWords: 8000
+  - index: 4
+    summary: "The catalyst strikes: the nerd group discovers that all the GPUs in
+      the server room have been stolen. Panic and confusion erupt as the
+      company’s operations grind to a halt. The nerds scramble to assess the
+      damage, and management demands answers. The group realizes the gravity of
+      the situation and the stakes for their company and careers."
+    approximateNoOfWords: 4000
+  - index: 5
+    summary: In the aftermath of the theft, the nerd group debates their next steps.
+      Suspicions and anxieties run high, with fingers pointed at coworkers and
+      even management. The group resolves to investigate the theft themselves,
+      despite management’s reluctance and the risk to their jobs. Their
+      determination marks the beginning of their quest to recover the stolen
+      GPUs.
+    approximateNoOfWords: 9300
