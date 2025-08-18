@@ -7,3 +7,11 @@
     the story.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: Tech Company Headquarters
+  kind: location
+  description: The main office building where the nerd group works. It houses the
+    server room and serves as the primary setting for much of the story's
+    action.
+  bibleReferences:
+    - bibleLevel: book
