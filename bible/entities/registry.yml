@@ -99,6 +99,8 @@
     group must decode as part of their investigation to recover the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 10
   displayName: The Thief
   kind: character
