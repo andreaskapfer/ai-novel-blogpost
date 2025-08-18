@@ -27,6 +27,8 @@
     GPUs from this room sets the story in motion.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 4
   displayName: GPUs
   kind: item
