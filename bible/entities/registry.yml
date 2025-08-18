@@ -22,3 +22,10 @@
     motion.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: GPUs
+  kind: item
+  description: A prized collection of graphics processing units powering
+    ByteCrafters' AI infrastructure. Their theft is central to the plot.
+  bibleReferences:
+    - bibleLevel: book
