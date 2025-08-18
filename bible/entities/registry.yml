@@ -17,6 +17,8 @@
     office culture.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 3
   displayName: Server Room
   kind: location
