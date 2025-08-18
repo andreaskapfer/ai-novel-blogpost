@@ -6,3 +6,11 @@
     infrastructure.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: Nerd Group
+  kind: group
+  description: A tight-knit group of employees at ByteCrafters, each with their
+    own tech specialty. They are the protagonists of the story, working together
+    to solve the mystery of the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
