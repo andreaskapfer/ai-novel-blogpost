@@ -78,3 +78,11 @@
     the server room. Their identity is a central mystery of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: Coworkers
+  kind: group
+  description: Other employees at the IT consulting company who become persons of
+    interest during the investigation. They provide clues, red herrings, and
+    sometimes obstacles for the nerd group.
+  bibleReferences:
+    - bibleLevel: book
