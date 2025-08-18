@@ -1,0 +1,148 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image
+    summary: The story opens with the nerd group at work in the tech company
+      headquarters, establishing their camaraderie, quirks, and the high-tech
+      environment. The server room and the importance of the GPUs are
+      introduced.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+    associatedEntities: []
+  - order: 2
+    subdivisionIndex: 1
+    name: Theme Stated
+    summary: A member of the nerd group jokes about how technology is only as secure
+      as the people who guard it, foreshadowing the coming crisis.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+    associatedEntities: []
+  - order: 3
+    subdivisionIndex: 1
+    name: Set-Up
+    summary: The nerd group’s daily routines and relationships are explored. The
+      management team is introduced, and the stakes of the company’s AI projects
+      are established.
+    emotionAtStart: neutral
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 4
+    subdivisionIndex: 1
+    name: Inciting Incident
+    summary: The group discovers that all the GPUs in the server room have been
+      stolen overnight. Panic and confusion ensue as the company’s operations
+      are threatened.
+    emotionAtStart: neutral
+    emotionAtEnd: very_low
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 5
+    subdivisionIndex: 1
+    name: Debate
+    summary: Initial suspicions and tensions arise as the nerd group debates how the
+      theft could have happened and who might be responsible. The possibility of
+      an inside job is raised.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 8000
+    associatedEntities: []
+  - order: 6
+    subdivisionIndex: 2
+    name: Break into Two
+    summary: The nerd group resolves to investigate the theft themselves, splitting
+      up to follow leads both inside and outside the company.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 5000
+    associatedEntities: []
+  - order: 7
+    subdivisionIndex: 2
+    name: B Story
+    summary: Personal relationships and rivalries within the group come to the fore
+      as they pursue their investigation, revealing hidden strengths and
+      weaknesses.
+    emotionAtStart: neutral
+    emotionAtEnd: neutral
+    approximateNoOfWords: 5000
+    associatedEntities: []
+  - order: 8
+    subdivisionIndex: 2
+    name: Fun and Games
+    summary: The nerds use their technical skills to follow digital and physical
+      clues, encountering uncooperative coworkers and misleading evidence. The
+      investigation is both challenging and exhilarating.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 12000
+    associatedEntities: []
+  - order: 9
+    subdivisionIndex: 2
+    name: Midpoint
+    summary: A breakthrough occurs when the group uncovers a security log anomaly
+      that points to a surprising suspect. The stakes are raised as the group
+      realizes the culprit may be closer than they thought.
+    emotionAtStart: high
+    emotionAtEnd: very_low
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 10
+    subdivisionIndex: 2
+    name: Bad Guys Close In
+    summary: Management pressure mounts, and personal secrets threaten to fracture
+      the group. The nerds must overcome internal and external obstacles to stay
+      on the case.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 9000
+    associatedEntities: []
+  - order: 11
+    subdivisionIndex: 3
+    name: All Is Lost
+    summary: The group’s plan to confront the suspect goes awry due to an unexpected
+      betrayal. The company’s AI projects are on the brink of collapse.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 8000
+    associatedEntities: []
+  - order: 12
+    subdivisionIndex: 3
+    name: Dark Night of the Soul
+    summary: The nerds reflect on their failures and the possibility of losing
+      everything. Their bonds are tested as they consider giving up.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 13
+    subdivisionIndex: 3
+    name: Break into Three
+    summary: A renewed sense of purpose emerges as the group unites, devising a
+      risky plan to recover the GPUs and save the company.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 14
+    subdivisionIndex: 3
+    name: Finale
+    summary: The nerds use their unique skills in hacking, social engineering, and
+      teamwork to outwit the thief in a tense showdown in the server room. The
+      true motive behind the theft is revealed.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 15000
+    associatedEntities: []
+  - order: 15
+    subdivisionIndex: 3
+    name: Final Image
+    summary: In the aftermath, the group’s bonds are stronger, the company’s future
+      is secured, and the nerds reflect on what they’ve learned.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+    associatedEntities: []
