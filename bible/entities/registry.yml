@@ -31,3 +31,11 @@
     story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Rival Consulting Firm
+  kind: group
+  description: A competing IT consulting company that becomes a suspect during the
+    investigation. They are known for their competitive tactics and rivalry with
+    the protagonists' company.
+  bibleReferences:
+    - bibleLevel: book
