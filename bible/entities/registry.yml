@@ -15,3 +15,11 @@
     action.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: Server Room
+  kind: location
+  description: A secure room within the tech company headquarters that contains
+    the company's AI infrastructure and GPUs. The theft of the GPUs from this
+    room sets the story in motion.
+  bibleReferences:
+    - bibleLevel: book
