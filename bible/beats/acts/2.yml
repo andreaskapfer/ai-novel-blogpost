@@ -1,0 +1,103 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 2
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Investigation Begins
+    summary: The nerd group begins their investigation by reviewing security footage
+      and digital logs from the server room. They identify suspicious activity
+      and start compiling a list of potential suspects, including coworkers and
+      the rival consulting firm. The group splits up to follow different leads,
+      using their technical skills to uncover hidden clues and patterns in the
+      data.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 3
+        associationType: location
+      - entityId: 8
+        associationType: item
+      - entityId: 11
+        associationType: group
+      - entityId: 5
+        associationType: group
+  - order: 2
+    subdivisionIndex: 2
+    name: Tensions and Doubts
+    summary: Personal tensions rise as the investigation puts stress on the group’s
+      friendships. Secrets and insecurities emerge, leading to arguments and
+      moments of doubt. Management pressures the group for results while
+      remaining uncooperative, and the rival consulting firm becomes
+      increasingly suspicious. The nerds struggle to balance their loyalty to
+      each other with the demands of the case.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 7
+        associationType: group
+      - entityId: 5
+        associationType: group
+  - order: 3
+    subdivisionIndex: 3
+    name: Creative Problem-Solving
+    summary: The nerd group uses creative problem-solving to follow digital
+      breadcrumbs, interview coworkers, and set clever traps for the thief.
+      There are moments of levity as they employ unconventional tactics, but
+      setbacks occur when evidence is sabotaged and trust is tested. The group’s
+      technical prowess is on full display as they get closer to the truth.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 9000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 11
+        associationType: group
+      - entityId: 8
+        associationType: item
+  - order: 4
+    subdivisionIndex: 4
+    name: Breakthrough and Betrayal
+    summary: A breakthrough occurs when the group decodes encrypted files, revealing
+      a clue that points to an unexpected suspect. The nerds realize the theft
+      is part of a larger scheme involving both internal and external actors.
+      The stakes are raised as the rival consulting firm and internal saboteurs
+      close in, leading to sabotage and betrayal.
+    emotionAtStart: high
+    emotionAtEnd: very_low
+    approximateNoOfWords: 9500
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 9
+        associationType: item
+      - entityId: 10
+        associationType: character
+      - entityId: 5
+        associationType: group
+  - order: 5
+    subdivisionIndex: 5
+    name: Setback and Resolve
+    summary: A devastating setback leaves the group at their lowest point. Their
+      plan to recover the GPUs fails, and it seems all is lost. The nerds
+      reflect on their journey and what truly matters, leading to a moment of
+      vulnerability and renewed determination. They resolve to make one last
+      daring attempt to recover the stolen GPUs, setting the stage for the final
+      act.
+    emotionAtStart: very_low
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 4
+        associationType: item
+      - entityId: 10
+        associationType: character
