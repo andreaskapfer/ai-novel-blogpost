@@ -11,7 +11,13 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 5000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 2
+        associationType: location
+      - entityId: 3
+        associationType: location
   - order: 2
     subdivisionIndex: 1
     name: Theme Stated
@@ -20,7 +26,9 @@ beats:
     emotionAtStart: high
     emotionAtEnd: neutral
     approximateNoOfWords: 3000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
   - order: 3
     subdivisionIndex: 1
     name: Set-Up
@@ -30,7 +38,11 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: neutral
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 5
+        associationType: introduced
   - order: 4
     subdivisionIndex: 1
     name: Inciting Incident
@@ -40,7 +52,13 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: very_low
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: missing
   - order: 5
     subdivisionIndex: 1
     name: Debate
@@ -50,7 +68,11 @@ beats:
     emotionAtStart: very_low
     emotionAtEnd: low
     approximateNoOfWords: 8000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 5
+        associationType: present
   - order: 6
     subdivisionIndex: 2
     name: Break into Two
@@ -59,7 +81,11 @@ beats:
     emotionAtStart: low
     emotionAtEnd: neutral
     approximateNoOfWords: 5000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 2
+        associationType: location
   - order: 7
     subdivisionIndex: 2
     name: B Story
@@ -69,7 +95,9 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: neutral
     approximateNoOfWords: 5000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
   - order: 8
     subdivisionIndex: 2
     name: Fun and Games
@@ -79,7 +107,11 @@ beats:
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 12000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 2
+        associationType: location
   - order: 9
     subdivisionIndex: 2
     name: Midpoint
@@ -89,7 +121,11 @@ beats:
     emotionAtStart: high
     emotionAtEnd: very_low
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 5
+        associationType: present
   - order: 10
     subdivisionIndex: 2
     name: Bad Guys Close In
@@ -99,7 +135,11 @@ beats:
     emotionAtStart: very_low
     emotionAtEnd: low
     approximateNoOfWords: 9000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 5
+        associationType: antagonist
   - order: 11
     subdivisionIndex: 3
     name: All Is Lost
@@ -108,7 +148,11 @@ beats:
     emotionAtStart: low
     emotionAtEnd: very_low
     approximateNoOfWords: 8000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 4
+        associationType: missing
   - order: 12
     subdivisionIndex: 3
     name: Dark Night of the Soul
@@ -117,7 +161,9 @@ beats:
     emotionAtStart: very_low
     emotionAtEnd: low
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
   - order: 13
     subdivisionIndex: 3
     name: Break into Three
@@ -126,7 +172,11 @@ beats:
     emotionAtStart: low
     emotionAtEnd: high
     approximateNoOfWords: 7000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 4
+        associationType: goal
   - order: 14
     subdivisionIndex: 3
     name: Finale
@@ -136,7 +186,13 @@ beats:
     emotionAtStart: high
     emotionAtEnd: very_high
     approximateNoOfWords: 15000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: recovered
   - order: 15
     subdivisionIndex: 3
     name: Final Image
@@ -145,4 +201,8 @@ beats:
     emotionAtStart: very_high
     emotionAtEnd: high
     approximateNoOfWords: 8000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: 1
+        associationType: present
+      - entityId: 2
+        associationType: location
