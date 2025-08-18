@@ -23,3 +23,10 @@
     room sets the story in motion.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: Stolen GPUs
+  kind: item
+  description: High-performance graphics processing units essential for the
+    company's AI operations. Their theft is the central mystery of the story.
+  bibleReferences:
+    - bibleLevel: book
