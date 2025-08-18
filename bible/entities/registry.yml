@@ -39,3 +39,11 @@
     the protagonists' company.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: AI Infrastructure
+  kind: item
+  description: The collection of hardware and software systems, including the
+    GPUs, that power the company's artificial intelligence capabilities. Central
+    to the company's operations and the plot.
+  bibleReferences:
+    - bibleLevel: book
