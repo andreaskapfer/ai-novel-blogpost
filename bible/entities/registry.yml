@@ -108,6 +108,8 @@
     the server room. Their identity is a central mystery of the story.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 11
   displayName: Coworkers
   kind: group
