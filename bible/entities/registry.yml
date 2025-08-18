@@ -86,3 +86,11 @@
     sometimes obstacles for the nerd group.
   bibleReferences:
     - bibleLevel: book
+- id: 12
+  displayName: Office
+  kind: location
+  description: The general workspace within the IT consulting company where the
+    nerd group and their coworkers interact, exchange banter, and conduct their
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
