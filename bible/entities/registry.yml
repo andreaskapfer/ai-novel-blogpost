@@ -77,6 +77,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 8
   displayName: Security Systems
   kind: item
