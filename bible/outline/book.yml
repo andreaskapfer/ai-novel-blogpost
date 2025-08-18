@@ -1,0 +1,33 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens at ByteCrafters, a quirky IT consulting company, where
+      a tight-knit group of nerdy employees—each with their own tech
+      specialty—enjoy their daily routines and camaraderie. The company’s AI
+      infrastructure, powered by a prized collection of GPUs, is the pride of
+      the office. When the team arrives one morning to discover the server room
+      has been broken into and all the GPUs stolen, panic and confusion set in.
+      The group quickly realizes that without the GPUs, their jobs and the
+      company’s future are at risk, setting the stage for their quest.
+    approximateNoOfWords: 37500
+  - index: 2
+    summary: "The nerd group launches their investigation, leveraging their diverse
+      skills: cybersecurity, hardware hacking, social engineering, and coding.
+      They follow clues from security footage, analyze digital footprints, and
+      interview suspicious colleagues. As they dig deeper, they encounter
+      obstacles—misleading evidence, internal company politics, and personal
+      doubts. Tensions rise as the group’s friendship is tested by stress and
+      conflicting theories. A breakthrough comes when they uncover a hidden
+      motive behind the theft, pointing to a surprising suspect within their own
+      ranks."
+    approximateNoOfWords: 37500
+  - index: 3
+    summary: With the suspect identified, the group devises a risky plan to recover
+      the stolen GPUs. They orchestrate a sting operation, using their technical
+      prowess to outsmart the thief and navigate a web of corporate intrigue.
+      The climax unfolds in a dramatic confrontation in the server room, where
+      loyalties are revealed and the true mastermind is unmasked. In the
+      aftermath, the group restores the GPUs, strengthens their bonds, and
+      emerges as heroes—having saved both their company and their friendship.
+    approximateNoOfWords: 37500
