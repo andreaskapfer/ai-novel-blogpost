@@ -1,0 +1,41 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The nerd group is introduced as they arrive at the tech company
+      headquarters, each displaying their unique quirks and technical
+      specialties. Their camaraderie is evident as they banter and settle into
+      their daily routines, managing the company’s AI infrastructure. The goal
+      is to establish the group’s dynamics and the importance of the server
+      room. Conflict arises from subtle workplace rivalries and the pressure of
+      looming project deadlines. The pivot occurs when a member jokes about
+      security, foreshadowing the coming crisis.
+    approximateNoOfWords: 6000
+  - index: 2
+    summary: The management team is introduced during a tense meeting about the
+      company’s AI projects. The nerd group’s skills and responsibilities are
+      highlighted, and the stakes for the company’s success are made clear. The
+      group’s goal is to impress management and secure continued funding.
+      Conflict emerges as management questions the group’s preparedness and
+      hints at possible restructuring. The pivot is the announcement of a
+      surprise audit, increasing pressure on the nerds.
+    approximateNoOfWords: 7000
+  - index: 3
+    summary: The nerds discover the server room in disarray and realize all the GPUs
+      have been stolen. Panic and confusion spread as they assess the damage.
+      The group’s immediate goal is to understand the scope of the theft and
+      prevent news from spreading. Conflict arises as blame is tossed around and
+      suspicions mount, especially regarding possible inside involvement. The
+      pivot is the decision to keep the incident secret from most staff while
+      they investigate.
+    approximateNoOfWords: 9000
+  - index: 4
+    summary: The nerd group debates how the theft could have happened, reviewing
+      security footage and access logs. Their goal is to identify potential
+      suspects and weaknesses in their protocols. Conflict intensifies as trust
+      issues surface and accusations fly, threatening to fracture the group. The
+      pivot comes when they find a suspicious gap in the security logs,
+      suggesting deliberate tampering and raising the stakes for their
+      investigation.
+    approximateNoOfWords: 8000
