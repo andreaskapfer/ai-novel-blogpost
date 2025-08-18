@@ -38,3 +38,12 @@
     GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 1
+  displayName: The Nerd Group
+  kind: group
+  description: A diverse group of IT consultants working at a bustling tech
+    company. They are skilled in various aspects of technology and manage the
+    company's AI infrastructure. Their camaraderie and teamwork are central to
+    the story.
+  bibleReferences:
+    - bibleLevel: book
