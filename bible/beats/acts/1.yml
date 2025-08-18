@@ -1,0 +1,104 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Introduction Vignettes
+    summary: The nerd group is introduced through a series of humorous and
+      insightful vignettes in the IT consulting company’s office. Each member’s
+      personality and technical specialty is revealed as they tackle quirky work
+      problems and engage in playful banter. The company’s AI infrastructure is
+      showcased, with the server room and its security systems briefly
+      highlighted. The group’s camaraderie and the company’s dependence on GPUs
+      are established, setting the tone for the story.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 4700
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: main setting
+      - entityId: 12
+        associationType: location
+      - entityId: 6
+        associationType: item
+  - order: 2
+    subdivisionIndex: 2
+    name: Lunch Debate
+    summary: A conversation about teamwork and trust unfolds over lunch, with the
+      nerd group debating the ethics of AI and the importance of collaboration.
+      The company’s management is introduced, and subtle tensions between staff
+      and leadership are hinted at. The group’s bond is reinforced as they share
+      stories of past projects and challenges, foreshadowing the trials to come.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 2500
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 7
+        associationType: group
+  - order: 3
+    subdivisionIndex: 3
+    name: Office Routines and Culture
+    summary: The daily routines of the nerd group are explored in detail. We meet
+      several coworkers and get a sense of the office’s unique culture. The
+      server room’s security protocols are demonstrated, and the group discusses
+      recent upgrades to the AI infrastructure. Management’s priorities and the
+      company’s competitive pressures are revealed, adding context to the
+      workplace dynamics.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 11
+        associationType: group
+      - entityId: 7
+        associationType: group
+      - entityId: 3
+        associationType: location
+      - entityId: 8
+        associationType: item
+  - order: 4
+    subdivisionIndex: 4
+    name: Theft Discovered
+    summary: "The catalyst strikes: the nerd group discovers that all the GPUs in
+      the server room have been stolen. Panic and confusion erupt as the
+      company’s operations grind to a halt. The nerds scramble to assess the
+      damage, and management demands answers. The group realizes the gravity of
+      the situation and the stakes for their company and careers."
+    emotionAtStart: neutral
+    emotionAtEnd: very_low
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 4
+        associationType: item
+      - entityId: 3
+        associationType: location
+      - entityId: 6
+        associationType: item
+  - order: 5
+    subdivisionIndex: 5
+    name: Aftermath and Resolve
+    summary: In the aftermath of the theft, the nerd group debates their next steps.
+      Suspicions and anxieties run high, with fingers pointed at coworkers and
+      even management. The group resolves to investigate the theft themselves,
+      despite management’s reluctance and the risk to their jobs. Their
+      determination marks the beginning of their quest to recover the stolen
+      GPUs.
+    emotionAtStart: very_low
+    emotionAtEnd: high
+    approximateNoOfWords: 9300
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 7
+        associationType: group
+      - entityId: 11
+        associationType: group
