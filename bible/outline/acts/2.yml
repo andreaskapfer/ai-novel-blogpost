@@ -1,0 +1,45 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: "The act opens with the nerd group arriving at ByteCrafters to find
+      chaos: the server room is in disarray, and the prized GPU rack is missing.
+      Panic spreads as employees gather, and the IT manager calls an emergency
+      meeting. The nerds scramble to assess the damage, checking logs and
+      security footage. The company’s leadership is visibly shaken, and the
+      group realizes the gravity of the situation. The loss threatens ongoing
+      projects and the company’s reputation."
+    approximateNoOfWords: 4000
+  - index: 2
+    summary: As the investigation begins, suspicion falls on various employees and
+      even external rivals. The nerd group debates possible motives and
+      suspects, including a recently fired employee and a competitor rumored to
+      be struggling. Tensions rise as accusations fly, and the group’s unity is
+      tested. The nerds decide to take matters into their own hands, forming a
+      pact to recover the GPUs and save ByteCrafters from disaster.
+    approximateNoOfWords: 3000
+  - index: 3
+    summary: "The group splits up to gather information. Some interview coworkers,
+      while others review security footage and access logs. Red herrings abound:
+      a janitor with a mysterious schedule, a contractor with access to the
+      server room, and a rival company’s recruiter seen nearby. The nerds
+      encounter comedic mishaps as they try to play detective, but their
+      determination grows stronger."
+    approximateNoOfWords: 4000
+  - index: 4
+    summary: Personal stakes are raised as individual group members worry about
+      their jobs, reputations, and the fate of ByteCrafters. The group’s bond is
+      tested as suspicion and stress mount. A promising lead emerges—a
+      suspicious vehicle seen on security footage the night of the theft. The
+      nerds rally together, feeling a renewed sense of purpose as they prepare
+      to follow the clue.
+    approximateNoOfWords: 4000
+  - index: 5
+    summary: The act closes with the group reviewing their findings and planning
+      their next steps. They resolve to investigate the suspicious vehicle and
+      its driver, setting up the next phase of their amateur sleuthing. The
+      company’s future hangs in the balance, but the nerds are united in their
+      mission, determined to recover the stolen GPUs and restore order to
+      ByteCrafters.
+    approximateNoOfWords: 3000
