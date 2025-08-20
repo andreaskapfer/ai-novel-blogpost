@@ -1,0 +1,19 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - ByteCrafters HQ
+  - The Office
+notes: The main setting for the novel, ByteCrafters is a vibrant, quirky IT
+  consulting company. It is the hub for all major events, including the theft
+  and the investigation. The company culture is collaborative and nerdy, with a
+  focus on AI projects.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: hosts
+    - entityId: 3
+      associationType: contains
+    - entityId: 6
+      associationType: managed_by
