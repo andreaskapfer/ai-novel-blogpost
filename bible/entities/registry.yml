@@ -23,6 +23,8 @@
     AI infrastructure are housed. Site of the GPU theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 4
   displayName: Stolen GPUs
   kind: item
