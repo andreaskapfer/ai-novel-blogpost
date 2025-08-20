@@ -1,0 +1,24 @@
+id: 5
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - The Suspect
+  - Ex-Employee
+notes: The former employee becomes the prime suspect in Act 2, with evidence and
+  group suspicion converging on them. Their technical knowledge and motive are
+  central to the nerds’ investigation.
+character:
+  personalityTraits:
+    - resentful
+    - clever
+    - resourceful
+  emotionalArc: From lurking in the background to being confronted as the main suspect.
+  status: at large
+  associatedEntities:
+    - entityId: 1
+      associationType: former_employee_of
+    - entityId: 4
+      associationType: suspected_thief_of
+    - entityId: 2
+      associationType: opposed_by
