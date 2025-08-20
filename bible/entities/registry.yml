@@ -110,3 +110,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 13
+  displayName: Janitor
+  kind: character
+  description: A janitor at ByteCrafters with a mysterious schedule. Becomes a red
+    herring during the nerd group's investigation into the GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
