@@ -1,0 +1,19 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - ByteCrafters HQ
+  - The Office
+notes: ByteCrafters continues to serve as the central setting for Act 2, with
+  the investigation unfolding across its offices and server room. The company’s
+  atmosphere is tense as management’s pressure mounts and suspicions rise.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: hosts
+    - entityId: 3
+      associationType: contains
+    - entityId: 6
+      associationType: managed_by
