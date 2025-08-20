@@ -1,0 +1,14 @@
+id: 9
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Competitor
+notes: The true antagonist organization, orchestrating the theft from the shadows.
+group:
+  emotionalArc: Hidden adversary revealed.
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: opposed by
+    - entityId: 11
+      associationType: employs
