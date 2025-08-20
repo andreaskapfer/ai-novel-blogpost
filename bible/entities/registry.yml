@@ -63,6 +63,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 7
   displayName: IT Vendors
   kind: group
