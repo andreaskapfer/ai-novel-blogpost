@@ -96,3 +96,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 13
+  displayName: AI Project
+  kind: item
+  description: The challenging AI project the nerd group is working on at
+    ByteCrafters, central to their daily activities and the company's future.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
