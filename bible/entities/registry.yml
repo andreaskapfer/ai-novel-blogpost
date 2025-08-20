@@ -29,3 +29,10 @@
     infrastructure. Their theft triggers the main conflict of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Former Employee (Suspect)
+  kind: character
+  description: A former ByteCrafters employee with a grudge, suspected of
+    orchestrating the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
