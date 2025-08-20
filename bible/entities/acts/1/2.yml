@@ -1,0 +1,27 @@
+id: 2
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - The Nerds
+  - The Team
+notes: The nerd group is introduced in detail, with each member's quirks and
+  specialties highlighted. Their camaraderie, technical skill, and playful
+  banter are central to the act. Subtle insecurities and ambitions begin to
+  surface.
+group:
+  emotionalArc: From comfortable camaraderie to hints of rivalry and self-doubt.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: workplace
+    - entityId: 3
+      associationType: responsible_for
+    - entityId: 4
+      associationType: frequent_location
+    - entityId: 8
+      associationType: gathers_in
+    - entityId: 10
+      associationType: uses
+    - entityId: 11
+      associationType: communicates_with
