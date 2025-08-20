@@ -1,0 +1,177 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Morning Rush
+    summary: The ByteCrafters office is alive with activity as the nerd group
+      tackles a challenging AI project. Each member’s quirks and specialties are
+      revealed through their interactions and problem-solving. The server room
+      is introduced as a high-security area, and the group’s camaraderie is on
+      display, though subtle rivalries and tensions simmer beneath the surface.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 1
+        associationType: location
+      - entityId: 2
+        associationType: group
+      - entityId: 13
+        associationType: item
+  - order: 2
+    subdivisionIndex: 1
+    name: Lunch Conversation
+    summary: During lunch, the nerds discuss the importance of teamwork and trust,
+      foreshadowing the coming crisis. The group’s bond is evident, but hints of
+      insecurity and competition emerge.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+  - order: 3
+    subdivisionIndex: 1
+    name: Foreshadowing Trouble
+    summary: A brief scene shows the server room’s security protocols and the prized
+      GPUs, hinting at their significance. The act closes with a subtle hint
+      that not everything is as secure as it seems.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+  - order: 4
+    subdivisionIndex: 2
+    name: Discovery of the Theft
+    summary: A panicked intern discovers the server room in disarray and the GPUs
+      missing. Chaos erupts as management and corporate security descend on the
+      scene. The nerd group is questioned, and suspicions swirl among staff.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 1500
+    associatedEntities:
+      - entityId: 12
+        associationType: character
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+      - entityId: 5
+        associationType: group
+      - entityId: 8
+        associationType: group
+  - order: 5
+    subdivisionIndex: 2
+    name: Interrogations and Accusations
+    summary: Management pressures the nerd group for answers, threatening job
+      security and the future of ByteCrafters’ AI projects. The nerds debate
+      whether to trust the official investigation or take matters into their own
+      hands.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 1500
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 5
+        associationType: group
+  - order: 6
+    subdivisionIndex: 2
+    name: Debate and Decision
+    summary: The nerds weigh the risks and their loyalty to each other, ultimately
+      deciding to investigate the theft themselves.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+  - order: 7
+    subdivisionIndex: 3
+    name: Launching the Investigation
+    summary: "The nerd group splits up to gather information: some review security
+      footage, others interview staff, and a few inspect the server room for
+      overlooked clues. Early leads point to a recently fired employee and a
+      mysterious new client."
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 2000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+  - order: 8
+    subdivisionIndex: 3
+    name: Technical Sleuthing
+    summary: The group’s technical skills come to the fore as they hack into logs
+      and analyze access records, but their efforts are hampered by corporate
+      security’s interference and mounting internal suspicion.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 2000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 8
+        associationType: group
+  - order: 9
+    subdivisionIndex: 3
+    name: Suspicions Mount
+    summary: Internal suspicion grows as the nerds question each other’s motives and
+      the possibility of inside help. The investigation stalls amid rising
+      tension.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+  - order: 10
+    subdivisionIndex: 4
+    name: Piecing Together the Timeline
+    summary: The nerds regroup to share findings, piecing together a timeline of the
+      theft. They realize the theft was meticulously planned, possibly with
+      inside help.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 2000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 4
+        associationType: item
+  - order: 11
+    subdivisionIndex: 4
+    name: Accusations and Setbacks
+    summary: Tensions rise as accusations fly and trust is tested. Despite setbacks,
+      the group’s determination grows.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 2000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+  - order: 12
+    subdivisionIndex: 4
+    name: United Purpose
+    summary: The nerds devise a plan to covertly monitor communications and
+      movements within ByteCrafters, hoping to catch the culprit in the act. The
+      act closes with the nerds united in purpose, ready to risk their jobs and
+      reputations to solve the mystery and save their company.
+    emotionAtStart: low
+    emotionAtEnd: very_high
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 1
+        associationType: location
