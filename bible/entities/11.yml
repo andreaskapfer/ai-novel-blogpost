@@ -1,0 +1,23 @@
+id: 11
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - The Thief
+  - Antagonist
+notes: The mastermind behind the conspiracy, ultimately confronted by the nerd group.
+character:
+  appearance: Unassuming, blends into crowds, always a step ahead.
+  personalityTraits:
+    - calculating
+    - charismatic
+    - ruthless
+  mainOutfits:
+    - plain clothes
+  status: at large
+  associatedEntities:
+    - entityId: 2
+      associationType: confronted by
+    - entityId: 9
+      associationType: employed by
+    - entityId: 10
+      associationType: confronted at
