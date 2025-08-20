@@ -1,0 +1,15 @@
+id: 3
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - Server Vault
+notes: The server room is introduced as a secure, almost sacred space. Its
+  breach and the theft of the GPUs are pivotal events in Act 1.
+location:
+  status: breached
+  associatedEntities:
+    - entityId: 1
+      associationType: part_of
+    - entityId: 4
+      associationType: stores
