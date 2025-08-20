@@ -35,3 +35,10 @@
     theft and is later revealed to be involved in the conspiracy.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Shadowy Competitor
+  kind: group
+  description: A rival tech firm suspected of orchestrating the GPU theft. They
+    are revealed to be part of the conspiracy against ByteCrafters.
+  bibleReferences:
+    - bibleLevel: book
