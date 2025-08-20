@@ -1,0 +1,19 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - Leadership
+  - Execs
+notes: Management applies intense pressure on the nerd group in Act 1, demanding
+  results and threatening consequences. Their antagonistic stance is a major
+  source of tension.
+group:
+  emotionalArc: From demanding and frustrated to slightly hopeful as the group
+    begins their investigation.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: manages
+    - entityId: 2
+      associationType: pressures
