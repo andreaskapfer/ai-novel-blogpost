@@ -65,6 +65,8 @@
     and sometimes at odds with the nerd group.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 9
   displayName: Rival Tech Company
   kind: group
