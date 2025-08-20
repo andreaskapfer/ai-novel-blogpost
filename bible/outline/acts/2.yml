@@ -1,0 +1,49 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: The nerd group launches their investigation, dividing tasks based on
+      each member’s strengths. Some analyze security footage and digital logs,
+      while others discreetly question coworkers and IT vendors. Early leads are
+      confusing, with red herrings and technical setbacks. Management’s pressure
+      mounts, and suspicions fall on both internal and external suspects. The
+      group’s determination grows as they uncover a clue suggesting the theft
+      was an inside job, raising the stakes and deepening the mystery.
+    approximateNoOfWords: 7000
+  - index: 2
+    summary: "Personal subplots intensify: one nerd struggles with self-doubt after
+      a failed lead, while another’s budding romance complicates group dynamics.
+      The team faces interpersonal conflicts as stress levels rise, but small
+      victories—like recovering a deleted log file—boost morale. The nerds use
+      creative technical solutions, including social engineering and hacking, to
+      gather more evidence. Their efforts reveal a pattern in the thief’s
+      actions, pointing to someone with intimate knowledge of ByteCrafters’
+      systems."
+    approximateNoOfWords: 7000
+  - index: 3
+    summary: The investigation hits a wall when a key piece of evidence is lost,
+      causing frustration and mistrust within the group. Management threatens to
+      bring in outside investigators, intensifying the pressure. Despite
+      setbacks, the nerds rally, pooling their skills to reconstruct the lost
+      data. Their breakthrough leads them to a former employee with a motive,
+      but the group is divided on how to proceed, with some fearing a
+      confrontation could backfire.
+    approximateNoOfWords: 7000
+  - index: 4
+    summary: The nerds devise a risky plan to confront the former employee,
+      gathering evidence and preparing for a showdown. Tensions within the group
+      reach a peak as they debate the best course of action. Meanwhile,
+      management’s impatience grows, and the threat of losing the client
+      contract looms larger. The act ends with the group united in their
+      resolve, ready to face the suspect and recover the stolen GPUs, despite
+      the risks involved.
+    approximateNoOfWords: 7000
+  - index: 5
+    summary: As the nerds close in on the suspect, they uncover a betrayal within
+      their ranks—one member has been secretly communicating with the former
+      employee. The revelation shakes the group, but they confront the traitor
+      and extract crucial information. With the final pieces of the puzzle in
+      place, the nerds prepare for the next stage of their plan, determined to
+      outsmart the thief and save ByteCrafters’ reputation.
+    approximateNoOfWords: 7000
