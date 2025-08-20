@@ -25,6 +25,8 @@
     conflict.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 4
   displayName: Server Room
   kind: location
