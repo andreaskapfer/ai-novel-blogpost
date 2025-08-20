@@ -27,3 +27,10 @@
     the story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Management
+  kind: group
+  description: The leadership team at ByteCrafters, responsible for overseeing
+    operations and demanding answers after the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
