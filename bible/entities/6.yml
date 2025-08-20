@@ -1,0 +1,23 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Ex-Employee
+  - Prime Suspect
+notes: A red herring in the investigation, but with a personal grudge against
+  ByteCrafters.
+character:
+  appearance: Disheveled, anxious, with a badge still clipped to their belt.
+  personalityTraits:
+    - resentful
+    - nervous
+    - resourceful
+  mainOutfits:
+    - old company hoodie
+    - jeans
+  status: suspect
+  associatedEntities:
+    - entityId: 1
+      associationType: formerly worked at
+    - entityId: 2
+      associationType: suspected by
