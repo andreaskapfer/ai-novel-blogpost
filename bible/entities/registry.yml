@@ -13,3 +13,11 @@
     together to solve the mystery of the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: AI Infrastructure
+  kind: item
+  description: A rack of high-end GPUs powering ByteCrafters' AI systems. It is
+    the backbone of the company's business and the central object of the story's
+    conflict.
+  bibleReferences:
+    - bibleLevel: book
