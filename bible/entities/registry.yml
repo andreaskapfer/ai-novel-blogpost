@@ -60,3 +60,5 @@
     to ByteCrafters. Some are questioned during the investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
