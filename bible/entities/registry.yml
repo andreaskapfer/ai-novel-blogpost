@@ -28,3 +28,10 @@
     housed. The site of the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Disgruntled Former Employee
+  kind: character
+  description: A former ByteCrafters employee who becomes a suspect in the GPU
+    theft and is later revealed to be involved in the conspiracy.
+  bibleReferences:
+    - bibleLevel: book
