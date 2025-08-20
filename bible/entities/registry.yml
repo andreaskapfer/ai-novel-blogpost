@@ -5,3 +5,10 @@
     Known for its cutting-edge AI projects and tight-knit nerd culture.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: The Nerd Group
+  kind: group
+  description: A tight-knit group of nerds, each with their own specialty, working
+    together at ByteCrafters on AI projects. Central protagonists of the story.
+  bibleReferences:
+    - bibleLevel: book
