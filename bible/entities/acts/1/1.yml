@@ -1,0 +1,23 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - ByteCrafters Inc.
+  - The Company
+notes: ByteCrafters is lively and collaborative in this act, with the office
+  environment, break room, and server room all playing key roles. The company's
+  culture of technical excellence and camaraderie is on full display.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: employs
+    - entityId: 3
+      associationType: hosts
+    - entityId: 4
+      associationType: contains
+    - entityId: 8
+      associationType: contains
+    - entityId: 10
+      associationType: contains
