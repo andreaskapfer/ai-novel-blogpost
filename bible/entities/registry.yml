@@ -5,6 +5,8 @@
     Known for its cutting-edge AI projects and tight-knit nerd culture.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 2
   displayName: The Nerd Group
   kind: group
