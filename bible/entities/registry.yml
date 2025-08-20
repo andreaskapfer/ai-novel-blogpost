@@ -67,3 +67,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 9
+  displayName: Suspicious Visitor
+  kind: character
+  description: A mysterious individual seen near the server room, raising
+    suspicions among the nerd group. Their presence foreshadows the coming
+    conflict.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
