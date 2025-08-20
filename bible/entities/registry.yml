@@ -36,3 +36,10 @@
     orchestrating the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Management
+  kind: group
+  description: The leadership team at ByteCrafters, responsible for overseeing
+    operations and putting pressure on the nerd group to solve the crisis.
+  bibleReferences:
+    - bibleLevel: book
