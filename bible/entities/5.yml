@@ -1,0 +1,16 @@
+id: 5
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Leadership
+  - Execs
+notes: Represents authority and pressure for results, sometimes at odds with the
+  nerd group.
+group:
+  emotionalArc: From demanding answers to reluctant admiration.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: manages
+    - entityId: 2
+      associationType: oversees
