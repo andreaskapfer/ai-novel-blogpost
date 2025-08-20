@@ -48,3 +48,10 @@
     attention of the nerd group during their investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Corporate Security
+  kind: group
+  description: The security team at ByteCrafters, involved in the investigation
+    and sometimes at odds with the nerd group.
+  bibleReferences:
+    - bibleLevel: book
