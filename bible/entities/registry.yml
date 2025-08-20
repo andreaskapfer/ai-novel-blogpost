@@ -55,3 +55,10 @@
     and sometimes at odds with the nerd group.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Rival Tech Company
+  kind: group
+  description: A competing technology company implicated in the larger conspiracy
+    behind the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
