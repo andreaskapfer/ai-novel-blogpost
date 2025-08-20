@@ -1,0 +1,44 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: "The story opens at ByteCrafters, a quirky IT consulting company, where
+      a tight-knit group of nerds—each with their own specialty—work together on
+      cutting-edge AI projects. The team’s camaraderie and daily routines are
+      established, introducing the main characters and their unique
+      personalities. Suddenly, disaster strikes: the company’s prized GPUs,
+      essential for their AI infrastructure, are discovered missing from the
+      server room. The group is thrown into chaos, and management demands
+      answers. The nerds resolve to investigate the theft themselves, determined
+      to save their jobs and their beloved workplace."
+    approximateNoOfWords: 25000
+  - index: 2
+    summary: The nerds begin their investigation, uncovering clues that point to
+      both internal and external suspects. They split into sub-teams, leveraging
+      their technical skills—hacking, social engineering, and surveillance—to
+      follow leads. Tensions rise as suspicions fall on a recently fired
+      employee and a mysterious new client. The group faces setbacks, including
+      a run-in with corporate security and a near-disastrous data breach.
+      Despite these challenges, their friendship deepens as they learn to trust
+      each other’s instincts and expertise.
+    approximateNoOfWords: 35000
+  - index: 3
+    summary: The investigation intensifies as the nerds close in on the prime
+      suspect, only to discover a larger conspiracy involving a rival tech
+      company. They must infiltrate a high-stakes tech conference to gather
+      evidence, using disguises and clever tech tricks. Along the way, personal
+      secrets are revealed, testing loyalties within the group. The climax
+      builds as they confront the mastermind behind the theft, risking their
+      careers and reputations to expose the truth. In a dramatic showdown, the
+      nerds outwit their adversaries and recover the stolen GPUs.
+    approximateNoOfWords: 50000
+  - index: 4
+    summary: With the GPUs returned, the group faces the aftermath of their
+      adventure. Management is both impressed and wary of their unconventional
+      methods. The nerds reflect on how the ordeal has changed them,
+      strengthening their bonds and inspiring new ambitions. The company’s AI
+      projects resume, and the group is celebrated as heroes—albeit slightly
+      rebellious ones. The story ends with a hint of future challenges, as the
+      nerds receive a mysterious message suggesting that their next big
+      adventure is just around the corner.
+    approximateNoOfWords: 40000
