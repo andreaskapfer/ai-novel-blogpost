@@ -134,3 +134,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 16
+  displayName: Suspicious Vehicle
+  kind: item
+  description: A vehicle seen on security footage the night of the GPU theft.
+    Becomes a key lead in the nerd group's investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
