@@ -12,3 +12,10 @@
     together at ByteCrafters on AI projects. Central protagonists of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: Server Room
+  kind: location
+  description: The secure room at ByteCrafters where the company's prized GPUs and
+    AI infrastructure are housed. Site of the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
