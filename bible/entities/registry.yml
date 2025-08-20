@@ -58,3 +58,12 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Break Room
+  kind: location
+  description: A casual space at ByteCrafters where employees gather for lunch and
+    informal discussions. It is the setting for key conversations among the nerd
+    group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
