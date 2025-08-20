@@ -101,3 +101,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 12
+  displayName: IT Manager
+  kind: character
+  description: The manager responsible for overseeing ByteCrafters' IT operations.
+    Calls the emergency meeting after the GPU theft and coordinates the initial
+    response.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
