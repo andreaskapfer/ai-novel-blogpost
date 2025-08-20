@@ -1,0 +1,25 @@
+id: 2
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - The Nerds
+  - ByteCrafters Team
+notes: The protagonist group, composed of diverse, highly skilled tech
+  employees. Their camaraderie, problem-solving, and personal growth drive the
+  story. They are central to every beat, from the inciting incident to the
+  resolution.
+group:
+  emotionalArc: From comfortable camaraderie, through crisis and mistrust, to
+    renewed unity and triumph.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: works_at
+    - entityId: 3
+      associationType: uses
+    - entityId: 4
+      associationType: seeks
+    - entityId: 6
+      associationType: pressured_by
+    - entityId: 7
+      associationType: questions
