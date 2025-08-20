@@ -1,0 +1,17 @@
+id: 4
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - GPUs
+  - AI Hardware
+notes: The theft of these GPUs is the inciting incident and central mystery.
+item:
+  appearance: High-end, rack-mounted graphics cards with custom cooling and security tags.
+  status: stolen
+  associatedEntities:
+    - entityId: 1
+      associationType: belongs to
+    - entityId: 3
+      associationType: stored in
+    - entityId: 2
+      associationType: sought by
