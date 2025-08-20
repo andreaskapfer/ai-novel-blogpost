@@ -1,0 +1,100 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Morning Buzz
+    summary: The ByteCrafters office is alive with energy as the nerd group
+      collaborates on a high-stakes AI project. Each member’s unique skills and
+      quirks are revealed through their interactions and problem-solving.
+      Management’s pressure to meet a looming client deadline sets the stakes
+      high. Playful banter and camaraderie establish the group’s close-knit
+      dynamic, while subtle hints of personal ambitions and underlying tensions
+      emerge.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: setting
+      - entityId: 2
+        associationType: protagonist_group
+      - entityId: 6
+        associationType: antagonist_group
+  - order: 2
+    subdivisionIndex: 2
+    name: Late-Night Bonds
+    summary: During a late-night work session, two nerds discuss the importance of
+      trust and teamwork, foreshadowing the challenges ahead. A malfunctioning
+      coffee machine causes a humorous mishap, reinforcing the group’s reliance
+      on one another. The server room is shown as a secure, almost sacred space,
+      with the prized GPUs at its heart. The team’s pride in their work and the
+      critical role of the GPUs are emphasized.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonist_group
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+  - order: 3
+    subdivisionIndex: 3
+    name: Theft Discovered
+    summary: The next morning, chaos erupts when the team discovers the server room
+      has been broken into and all the GPUs are missing. Panic spreads as
+      management demands answers and the nerds scramble to assess the damage.
+      Security footage reveals only vague clues, and suspicions begin to form.
+      The group debates whether to call the police or handle the situation
+      internally, with management threatening severe consequences if the GPUs
+      aren’t recovered quickly.
+    emotionAtStart: high
+    emotionAtEnd: very_low
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonist_group
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+      - entityId: 6
+        associationType: antagonist_group
+  - order: 4
+    subdivisionIndex: 4
+    name: First Leads
+    summary: The nerd group resolves to investigate the theft themselves, splitting
+      up to pursue different leads. Some analyze digital logs and security
+      footage, while others discreetly question coworkers and IT vendors. Early
+      efforts yield little progress, but the group’s determination grows as they
+      uncover a few promising clues. Tensions rise as suspicions fall on both
+      internal and external suspects, and the pressure from management
+      intensifies.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonist_group
+      - entityId: 6
+        associationType: antagonist_group
+      - entityId: 7
+        associationType: suspect_group
+  - order: 5
+    subdivisionIndex: 5
+    name: Personal Stakes
+    summary: Personal subplots emerge as the nerds juggle the investigation with
+      their own lives. Friendships are tested, and a budding romance adds
+      complexity to the group dynamic. Despite setbacks and mounting stress, the
+      nerds use their technical prowess and creativity to make incremental
+      progress. The act ends with the group united in their resolve, ready to
+      dig deeper into the mystery and recover the stolen GPUs.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonist_group
