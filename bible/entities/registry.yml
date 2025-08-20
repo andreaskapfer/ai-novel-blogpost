@@ -21,3 +21,10 @@
     conflict.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: Server Room
+  kind: location
+  description: The secure room at ByteCrafters where the AI infrastructure is
+    housed. The site of the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
