@@ -1,0 +1,19 @@
+id: 4
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - Server Cage
+  - The Vault
+notes: The server room is described in detail, with security protocols and the
+  GPU rack as its centerpiece. It is the focus of pride and foreshadowing for
+  the coming conflict.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: part_of
+    - entityId: 3
+      associationType: contains
+    - entityId: 2
+      associationType: visited_by
