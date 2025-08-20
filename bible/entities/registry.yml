@@ -51,6 +51,8 @@
     operations and putting pressure on the nerd group to solve the crisis.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 7
   displayName: IT Vendors
   kind: group
