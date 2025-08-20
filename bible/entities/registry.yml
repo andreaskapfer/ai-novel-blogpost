@@ -5,6 +5,8 @@
     its tight-knit group of nerdy employees and its prized AI infrastructure.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 2
   displayName: The Nerd Group
   kind: group
