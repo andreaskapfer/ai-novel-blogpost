@@ -1,0 +1,20 @@
+id: 3
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - GPU Rack
+  - AI Cluster
+notes: The high-end GPUs powering ByteCrafters' AI systems. Their theft is the
+  central conflict of the novel, driving the nerd group to action.
+item:
+  age: 2
+  appearance: A rack of gleaming, high-performance GPUs with blinking status
+    lights, housed in a secure server cabinet.
+  status: stolen (recovered by end)
+  associatedEntities:
+    - entityId: 1
+      associationType: hosted_by
+    - entityId: 2
+      associationType: maintained_by
+    - entityId: 4
+      associationType: stored_in
