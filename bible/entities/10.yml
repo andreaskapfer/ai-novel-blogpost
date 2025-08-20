@@ -1,0 +1,15 @@
+id: 10
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Conference Center
+notes: The setting for the story’s climax and confrontation.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: infiltrates
+    - entityId: 9
+      associationType: hosts
+    - entityId: 11
+      associationType: site of confrontation
