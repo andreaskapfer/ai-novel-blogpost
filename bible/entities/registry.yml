@@ -22,3 +22,10 @@
     the story.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: Stolen GPUs
+  kind: item
+  description: The high-value graphics processing units powering ByteCrafters' AI
+    infrastructure. Their theft triggers the main conflict of the story.
+  bibleReferences:
+    - bibleLevel: book
