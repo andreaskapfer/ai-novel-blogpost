@@ -76,3 +76,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 10
+  displayName: Whiteboard
+  kind: item
+  description: A whiteboard in the ByteCrafters office, covered with technical
+    diagrams, inside jokes, and brainstorming notes. It reflects the team's
+    collaborative spirit.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
