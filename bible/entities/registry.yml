@@ -33,6 +33,8 @@
     the story.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 5
   displayName: Management
   kind: group
