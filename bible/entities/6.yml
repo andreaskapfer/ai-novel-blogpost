@@ -1,0 +1,16 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Leadership
+  - Execs
+notes: The management group at ByteCrafters. They are antagonistic at times,
+  applying pressure and raising stakes for the nerd group.
+group:
+  emotionalArc: From frustrated and demanding to relieved and supportive.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: manages
+    - entityId: 2
+      associationType: pressures
