@@ -1,0 +1,24 @@
+id: 2
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - The Nerds
+  - ByteCrafters Team
+notes: The nerd group’s unity and technical prowess are tested in Act 1 as they
+  face the theft and pressure from management. Personal subplots and a budding
+  romance begin to emerge.
+group:
+  emotionalArc: From confident teamwork to shaken resolve, ending with renewed determination.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: works_at
+    - entityId: 3
+      associationType: uses
+    - entityId: 4
+      associationType: seeks
+    - entityId: 6
+      associationType: pressured_by
+    - entityId: 7
+      associationType: questions
