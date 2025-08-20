@@ -43,3 +43,10 @@
     operations and putting pressure on the nerd group to solve the crisis.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: IT Vendors
+  kind: group
+  description: External companies and individuals who supply hardware and services
+    to ByteCrafters. Some are questioned during the investigation.
+  bibleReferences:
+    - bibleLevel: book
