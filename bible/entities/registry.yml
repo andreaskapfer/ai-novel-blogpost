@@ -42,6 +42,8 @@
     operations and demanding answers after the GPU theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 6
   displayName: Recently Fired Employee
   kind: character
