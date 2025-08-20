@@ -85,3 +85,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 11
+  displayName: Online Chat Group
+  kind: item
+  description: A digital chat platform used by the nerd group to communicate after
+    hours. It is where they debate security and share concerns.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
