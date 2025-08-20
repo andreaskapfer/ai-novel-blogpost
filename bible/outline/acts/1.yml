@@ -1,0 +1,44 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The ByteCrafters office buzzes with activity as the nerd group tackles
+      a challenging AI project. Each member’s role and quirks are revealed
+      through their interactions and problem-solving approaches. The server
+      room, housing the company’s prized GPUs, is introduced as a high-security
+      area. A casual lunch conversation hints at the importance of teamwork and
+      trust, foreshadowing the coming crisis. The group’s camaraderie is
+      evident, but subtle tensions and rivalries simmer beneath the surface,
+      setting the stage for the story’s inciting incident.
+    approximateNoOfWords: 3000
+  - index: 2
+    summary: The nerds’ daily routines are disrupted when a panicked intern
+      discovers the server room in disarray and the GPUs missing. Chaos erupts
+      as management and corporate security descend on the scene. The nerd group
+      is questioned, and suspicions swirl among staff. Management pressures the
+      team for answers, threatening job security and the future of ByteCrafters’
+      AI projects. The nerds debate whether to trust the official investigation
+      or take matters into their own hands, weighing the risks and their loyalty
+      to each other.
+    approximateNoOfWords: 4000
+  - index: 3
+    summary: "After a tense meeting with management, the nerd group decides to
+      launch their own investigation. They split up to gather information: some
+      review security footage, others interview staff, and a few inspect the
+      server room for overlooked clues. Early leads point to a recently fired
+      employee and a mysterious new client. The group’s technical skills come to
+      the fore as they hack into logs and analyze access records, but their
+      efforts are hampered by corporate security’s interference and mounting
+      internal suspicion."
+    approximateNoOfWords: 5000
+  - index: 4
+    summary: The nerds regroup to share findings, piecing together a timeline of the
+      theft. They realize the theft was meticulously planned, possibly with
+      inside help. Tensions rise as accusations fly and trust is tested. Despite
+      setbacks, the group’s determination grows. They devise a plan to covertly
+      monitor communications and movements within ByteCrafters, hoping to catch
+      the culprit in the act. The act closes with the nerds united in purpose,
+      ready to risk their jobs and reputations to solve the mystery and save
+      their company.
+    approximateNoOfWords: 8000
