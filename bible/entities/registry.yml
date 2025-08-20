@@ -62,3 +62,10 @@
     behind the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: Tech Conference
+  kind: location
+  description: A high-stakes technology conference where the nerd group gathers
+    evidence and confronts their adversaries.
+  bibleReferences:
+    - bibleLevel: book
