@@ -118,3 +118,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 14
+  displayName: Contractor
+  kind: character
+  description: A contractor with access to the server room. Their presence and
+    activities are scrutinized by the nerd group as they search for suspects.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
