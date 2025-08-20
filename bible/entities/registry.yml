@@ -34,3 +34,10 @@
     operations and demanding answers after the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Recently Fired Employee
+  kind: character
+  description: A former ByteCrafters employee who becomes a prime suspect in the
+    GPU theft investigation.
+  bibleReferences:
+    - bibleLevel: book
