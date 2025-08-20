@@ -41,3 +41,10 @@
     GPU theft investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Mysterious New Client
+  kind: character
+  description: A new client of ByteCrafters whose suspicious behavior draws the
+    attention of the nerd group during their investigation.
+  bibleReferences:
+    - bibleLevel: book
