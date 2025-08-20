@@ -1,0 +1,18 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Leadership
+  - Execs
+notes: Management’s impatience and pressure intensify in Act 2, threatening to
+  bring in outside investigators and raising the stakes for the nerd group.
+group:
+  emotionalArc: From frustrated and demanding to nearly desperate as the
+    investigation stalls.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: manages
+    - entityId: 2
+      associationType: pressures
