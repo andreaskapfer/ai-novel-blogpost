@@ -42,3 +42,11 @@
     are revealed to be part of the conspiracy against ByteCrafters.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Underground Electronics Market
+  kind: location
+  description: A hidden marketplace in the city where stolen electronics,
+    including GPUs, are traded. The nerd group visits this location during their
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
