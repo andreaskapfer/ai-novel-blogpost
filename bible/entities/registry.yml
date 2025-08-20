@@ -69,3 +69,10 @@
     evidence and confronts their adversaries.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: Mastermind
+  kind: character
+  description: The main antagonist behind the GPU theft and the larger conspiracy,
+    confronted by the nerd group in the climax.
+  bibleReferences:
+    - bibleLevel: book
