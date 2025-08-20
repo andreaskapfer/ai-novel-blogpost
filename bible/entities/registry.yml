@@ -34,6 +34,8 @@
     housed. The site of the GPU theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 5
   displayName: Disgruntled Former Employee
   kind: character
