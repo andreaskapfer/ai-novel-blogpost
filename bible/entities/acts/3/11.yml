@@ -1,0 +1,37 @@
+id: 11
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Alex
+notes: Alex Chen works late nights with Jamal to uncover the rival company's
+  involvement. His technical skills are crucial in setting the trap and
+  monitoring network activity.
+character:
+  age: 29
+  appearance: Tall, thin, glasses, always in a hoodie with tech conference swag.
+  personalityTraits:
+    - analytical
+    - witty
+    - introverted
+  emotionalArc: From exhausted investigator to hopeful as the group makes a breakthrough.
+  mainOutfits:
+    - hoodie
+    - jeans
+    - sneakers
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 12
+      associationType: colleague
+    - entityId: 13
+      associationType: colleague
+    - entityId: 14
+      associationType: colleague
+    - entityId: 20
+      associationType: uses
+    - entityId: 5
+      associationType: investigates
+    - entityId: 6
+      associationType: investigates
