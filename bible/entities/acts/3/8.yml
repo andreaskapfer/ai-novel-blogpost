@@ -1,0 +1,23 @@
+id: 8
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - AI Cluster
+  - Server Infrastructure
+notes: The AI infrastructure remains at risk in Act 3, with only some GPUs
+  recovered. The company's future depends on the nerd group's continued efforts.
+item:
+  appearance: A rack of servers with blinking lights, humming fans, and a tangle of cables.
+  status: partially_restored
+  associatedEntities:
+    - entityId: 1
+      associationType: housed_in
+    - entityId: 3
+      associationType: located_in
+    - entityId: 4
+      associationType: requires
+    - entityId: 2
+      associationType: maintained_by
+    - entityId: 22
+      associationType: restored_by
