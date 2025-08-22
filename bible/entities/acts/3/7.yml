@@ -1,0 +1,20 @@
+id: 7
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Workplace Drama
+  - Internal Politics
+notes: Office politics and rivalries complicate the nerd group's efforts in Act
+  3, fueling sabotage and red herrings.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: affects
+    - entityId: 9
+      associationType: driven_by
+    - entityId: 1
+      associationType: occurs_at
+    - entityId: 21
+      associationType: manifests_as
