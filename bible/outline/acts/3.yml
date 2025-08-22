@@ -1,0 +1,48 @@
+outlineReference:
+  bibleLevel: act
+  act: 3
+subdivisions:
+  - index: 1
+    summary: The nerd group faces mounting pressure from management and clients as
+      their investigation stalls. Management threatens to bring in outside
+      investigators, and the group’s unity is tested by frustration and
+      self-doubt. Alex and Jamal work late nights, uncovering a hidden motive
+      involving a rival company. Priya and Sophie dig into the background of a
+      disgruntled former employee, piecing together a possible connection to the
+      theft. The stakes for ByteCrafters’ future become increasingly clear.
+    approximateNoOfWords: 5000
+  - index: 2
+    summary: The nerds discover evidence that the rival company may have
+      orchestrated the theft, possibly in collaboration with the disgruntled
+      former employee. They debate how to proceed, knowing that management is
+      losing patience. The group devises a bold plan to set a digital and
+      physical trap for the thief, leveraging their technical skills and inside
+      knowledge of ByteCrafters’ systems. Tensions run high as they prepare for
+      a risky confrontation.
+    approximateNoOfWords: 5000
+  - index: 3
+    summary: The group executes their plan, setting up surveillance and baiting the
+      thief with false information about a new shipment of GPUs. Jamal monitors
+      security feeds, Alex tracks network activity, and Priya and Sophie
+      coordinate with trusted colleagues. The nerds face sabotage attempts and
+      red herrings, but their teamwork and determination keep them focused. A
+      breakthrough comes when they catch the suspect attempting to access the
+      server room after hours.
+    approximateNoOfWords: 5000
+  - index: 4
+    summary: A dramatic confrontation unfolds in the server room. The nerd group
+      confronts the suspect, who is revealed to be working with the rival
+      company and the disgruntled former employee. The suspect’s motivations and
+      methods are exposed, but a final twist reveals that the true mastermind is
+      still at large. The group recovers some of the stolen GPUs, but the case
+      is not fully closed.
+    approximateNoOfWords: 5000
+  - index: 5
+    summary: In the aftermath, the nerd group reflects on the lessons learned and
+      the secrets revealed. Friendships are strained but ultimately strengthened
+      as the group resolves to continue their investigation. Management
+      acknowledges the group’s efforts, but the pressure to fully resolve the
+      case remains. The act ends with the nerds preparing for the next phase,
+      determined to unmask the true mastermind and restore ByteCrafters’
+      reputation.
+    approximateNoOfWords: 5000
