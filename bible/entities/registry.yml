@@ -166,3 +166,11 @@
       act: 1
     - bibleLevel: act
       act: 2
+- id: 17
+  displayName: Suspicious Access Badge
+  kind: item
+  description: An employee access badge with suspicious activity in the server
+    room logs, discovered by Jamal during the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
