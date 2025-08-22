@@ -36,3 +36,10 @@
     representing external pressure and competition for ByteCrafters.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Disgruntled Former Employee
+  kind: character
+  description: A former ByteCrafters employee with a possible motive for the
+    theft, playing a key role in the unfolding mystery.
+  bibleReferences:
+    - bibleLevel: book
