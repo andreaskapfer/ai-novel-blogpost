@@ -1,0 +1,51 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The ByteCrafters office buzzes with energy as the nerd group tackles a
+      challenging AI bug, showcasing their camaraderie and technical prowess. We
+      meet key members—each with distinct quirks and specialties—through their
+      interactions and problem-solving. Office politics and management pressures
+      are introduced, hinting at underlying tensions. A lunchtime conversation
+      about trust and teamwork foreshadows the challenges ahead. The group’s
+      playful banter and shared rituals establish the tone and stakes of their
+      world, setting the stage for the coming crisis.
+    approximateNoOfWords: 5000
+  - index: 2
+    summary: The team’s routine is shattered when they discover the server room has
+      been broken into overnight. Panic spreads as they realize all the GPUs
+      powering their AI infrastructure are missing. Management scrambles to
+      assess the damage, while the nerd group grapples with the implications for
+      their biggest client project. The group debates whether to wait for
+      official action or take matters into their own hands, with doubts and
+      fears surfacing among them. The inciting incident throws ByteCrafters into
+      chaos.
+    approximateNoOfWords: 5000
+  - index: 3
+    summary: The nerd group decides to launch their own investigation, splitting up
+      to follow leads. Some analyze security footage, others interview staff,
+      and a few dig into network logs for digital traces. Their efforts are
+      hampered by office politics, red herrings, and personal conflicts. As they
+      dig deeper, they uncover clues suggesting the theft was an inside job.
+      Tensions rise as suspicions fall on various colleagues, testing the
+      group’s trust in each other and setting up the central mystery.
+    approximateNoOfWords: 5000
+  - index: 4
+    summary: Personal relationships within the group deepen as they work together on
+      the investigation. A budding romance and a friendship tested by suspicion
+      add emotional complexity. The nerds use their tech skills in creative
+      ways—hacking, social engineering, and elaborate pranks—to gather clues.
+      Office politics and management interference complicate their efforts, but
+      the group’s spirit shines through. By the end of the act, the nerds have a
+      list of suspects and a renewed determination to recover the stolen GPUs.
+    approximateNoOfWords: 5000
+  - index: 5
+    summary: "The act closes with a breakthrough: evidence strongly suggests the
+      theft was an inside job. The nerds’ trust in each other is shaken as
+      suspicion falls on colleagues and even within their own group. Management
+      pressures mount, and the stakes for ByteCrafters’ future become clear. The
+      group resolves to push forward with their investigation, setting up the
+      next phase of their quest to recover the GPUs and restore order to their
+      world."
+    approximateNoOfWords: 5000
