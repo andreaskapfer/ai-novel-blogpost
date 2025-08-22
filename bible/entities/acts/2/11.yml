@@ -1,0 +1,33 @@
+id: 11
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Alex
+notes: Alex Chen leads the digital forensics in Act 2, uncovering key clues and
+  collaborating with Jamal. His analytical skills are crucial to the
+  investigation.
+character:
+  age: 29
+  appearance: Tall, thin, glasses, always in a hoodie with tech conference swag.
+  personalityTraits:
+    - analytical
+    - witty
+    - introverted
+  emotionalArc: From determined investigator to hopeful as a breakthrough is made.
+  mainOutfits:
+    - hoodie
+    - jeans
+    - sneakers
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 12
+      associationType: colleague
+    - entityId: 13
+      associationType: colleague
+    - entityId: 14
+      associationType: colleague
+    - entityId: 17
+      associationType: investigates
