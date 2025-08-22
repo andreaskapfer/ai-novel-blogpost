@@ -174,3 +174,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 18
+  displayName: Rival Company Recruiter
+  kind: character
+  description: A recruiter from ByteCrafters' rival company, seen in the building
+    and suspected of involvement in the GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
