@@ -86,3 +86,5 @@
     group, tested and strengthened throughout the investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
