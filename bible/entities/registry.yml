@@ -60,6 +60,8 @@
     representing external pressure and competition for ByteCrafters.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 3
 - id: 6
   displayName: Disgruntled Former Employee
   kind: character
