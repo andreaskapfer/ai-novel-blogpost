@@ -1,0 +1,16 @@
+id: 10
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Trust
+  - Teamwork
+notes: The theme of friendship and trust is further tested in Act 2 as the nerd
+  group faces setbacks, suspicion, and internal conflict.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: embodied_by
+    - entityId: 7
+      associationType: tested_by
