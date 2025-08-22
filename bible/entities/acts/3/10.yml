@@ -1,0 +1,17 @@
+id: 10
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Trust
+  - Teamwork
+notes: The theme of friendship and trust is tested by sabotage, setbacks, and
+  partial victory in Act 3. The nerd group emerges stronger, but the journey is
+  not over.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: embodied_by
+    - entityId: 7
+      associationType: tested_by
