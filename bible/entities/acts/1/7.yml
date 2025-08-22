@@ -1,0 +1,18 @@
+id: 7
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - Workplace Drama
+  - Internal Politics
+notes: Office politics create obstacles and red herrings for the nerd group in
+  Act 1, fueling suspicion and conflict as the investigation begins.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: affects
+    - entityId: 9
+      associationType: driven_by
+    - entityId: 1
+      associationType: occurs_at
