@@ -1,0 +1,21 @@
+id: 18
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Recruiter
+notes: The rival company recruiter is seen in the building and becomes a suspect
+  in the GPU theft. Their motives and connections are investigated by the nerd
+  group.
+character:
+  appearance: Slick, well-dressed, always networking.
+  personalityTraits:
+    - persuasive
+    - ambitious
+    - secretive
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: suspected_by
+    - entityId: 19
+      associationType: connected_to
