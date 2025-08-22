@@ -1,0 +1,31 @@
+id: 14
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Sophie
+notes: Sophie Müller helps coordinate the investigation and supports the group
+  through setbacks. Her meticulous nature helps expose the accomplices' methods.
+character:
+  age: 33
+  appearance: Short, neat bob haircut, always with a clipboard or tablet.
+  personalityTraits:
+    - meticulous
+    - practical
+    - cautious
+  emotionalArc: From anxious to relieved as the group recovers some GPUs and regains hope.
+  mainOutfits:
+    - button-up shirt
+    - slacks
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 11
+      associationType: colleague
+    - entityId: 12
+      associationType: colleague
+    - entityId: 13
+      associationType: colleague
+    - entityId: 6
+      associationType: investigates
