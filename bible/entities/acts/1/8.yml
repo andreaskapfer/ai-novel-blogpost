@@ -1,0 +1,21 @@
+id: 8
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - AI Cluster
+  - Server Infrastructure
+notes: The AI infrastructure is compromised by the GPU theft in Act 1, raising
+  the stakes for the nerd group and ByteCrafters.
+item:
+  appearance: A rack of servers with blinking lights, humming fans, and a tangle of cables.
+  status: compromised
+  associatedEntities:
+    - entityId: 1
+      associationType: housed_in
+    - entityId: 3
+      associationType: located_in
+    - entityId: 4
+      associationType: requires
+    - entityId: 2
+      associationType: maintained_by
