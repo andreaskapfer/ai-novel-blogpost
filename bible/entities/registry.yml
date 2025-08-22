@@ -88,3 +88,12 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+- id: 11
+  displayName: Alex Chen
+  kind: character
+  description: A brilliant but socially awkward AI engineer, known for their dry
+    wit and technical expertise. A core member of the nerd group at
+    ByteCrafters.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
