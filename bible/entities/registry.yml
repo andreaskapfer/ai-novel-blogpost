@@ -212,6 +212,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+    - bibleLevel: act
+      act: 3
 - id: 19
   displayName: Recently Departed Employee
   kind: character
