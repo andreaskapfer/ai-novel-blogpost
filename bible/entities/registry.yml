@@ -114,3 +114,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 14
+  displayName: Sophie Müller
+  kind: character
+  description: A meticulous systems administrator who keeps ByteCrafters'
+    infrastructure running smoothly. Often the voice of reason in the nerd
+    group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
