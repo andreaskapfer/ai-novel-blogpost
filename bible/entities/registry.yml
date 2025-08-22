@@ -69,6 +69,8 @@
     theft, playing a key role in the unfolding mystery.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 3
 - id: 7
   displayName: Office Politics
   kind: concept
