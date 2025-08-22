@@ -232,3 +232,5 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+    - bibleLevel: act
+      act: 3
