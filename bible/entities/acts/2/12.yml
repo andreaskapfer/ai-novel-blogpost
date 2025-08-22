@@ -1,0 +1,30 @@
+id: 12
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Priya
+notes: Priya Patel conducts staff interviews and helps observe behavior in Act
+  2. Her empathy and creativity help the group navigate office politics.
+character:
+  age: 27
+  appearance: Medium height, expressive eyes, colorful scarves.
+  personalityTraits:
+    - charismatic
+    - creative
+    - empathetic
+  emotionalArc: From supportive teammate to cautious observer as suspicions rise.
+  mainOutfits:
+    - blouse
+    - scarf
+    - jeans
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 11
+      associationType: colleague
+    - entityId: 13
+      associationType: colleague
+    - entityId: 14
+      associationType: colleague
