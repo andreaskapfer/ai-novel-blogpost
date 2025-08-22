@@ -1,0 +1,21 @@
+id: 8
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - AI Cluster
+  - Server Infrastructure
+notes: The AI infrastructure remains compromised in Act 2, with the missing GPUs
+  threatening ByteCrafters' operations and client projects.
+item:
+  appearance: A rack of servers with blinking lights, humming fans, and a tangle of cables.
+  status: compromised
+  associatedEntities:
+    - entityId: 1
+      associationType: housed_in
+    - entityId: 3
+      associationType: located_in
+    - entityId: 4
+      associationType: requires
+    - entityId: 2
+      associationType: maintained_by
