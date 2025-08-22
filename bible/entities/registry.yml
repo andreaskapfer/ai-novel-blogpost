@@ -97,3 +97,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 12
+  displayName: Priya Patel
+  kind: character
+  description: A charismatic data scientist with a knack for creative
+    problem-solving and team motivation. Central to the nerd group's
+    camaraderie.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
