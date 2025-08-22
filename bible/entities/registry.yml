@@ -43,3 +43,10 @@
     theft, playing a key role in the unfolding mystery.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Office Politics
+  kind: concept
+  description: The internal dynamics, conflicts, and alliances among ByteCrafters
+    staff that complicate the investigation and test the nerd group's trust.
+  bibleReferences:
+    - bibleLevel: book
