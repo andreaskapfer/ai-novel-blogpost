@@ -1,0 +1,16 @@
+id: 10
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Trust
+  - Teamwork
+notes: The theme of friendship and trust is woven throughout the novel, shaping
+  the nerd group's journey and ultimate success. It is tested by suspicion,
+  conflict, and adversity, but ultimately prevails.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: embodied_by
+    - entityId: 7
+      associationType: tested_by
