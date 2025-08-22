@@ -5,6 +5,8 @@
     for its innovative AI projects and a tight-knit group of nerds.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 2
   displayName: The Nerd Group
   kind: group
