@@ -1,0 +1,21 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - ByteCrafters HQ
+  - The Office
+notes: ByteCrafters is the primary setting for the novel, serving as both the
+  workplace and social hub for the nerd group. Its open-plan offices, quirky
+  decor, and high-tech server room reflect the company's innovative culture. The
+  location is central to the inciting incident and the resolution of the story.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: hosts
+    - entityId: 3
+      associationType: contains
+    - entityId: 8
+      associationType: contains
+    - entityId: 9
+      associationType: managed_by
