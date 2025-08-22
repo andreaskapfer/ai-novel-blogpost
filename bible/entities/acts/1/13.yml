@@ -1,0 +1,30 @@
+id: 13
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - Jamal
+notes: Jamal Robinson is a security specialist with a penchant for pranks. In
+  Act 1, he adds humor and suspicion to the nerd group dynamic, and his
+  friendship with Sophie is tested.
+character:
+  age: 31
+  appearance: Stocky build, always with a mischievous grin, wears graphic tees.
+  personalityTraits:
+    - skeptical
+    - funny
+    - loyal
+  emotionalArc: From prankster to serious investigator as the crisis unfolds.
+  mainOutfits:
+    - graphic tee
+    - cargo pants
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 11
+      associationType: colleague
+    - entityId: 12
+      associationType: colleague
+    - entityId: 14
+      associationType: friend
