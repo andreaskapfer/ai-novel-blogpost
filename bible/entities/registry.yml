@@ -123,3 +123,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 15
+  displayName: ByteCrafters Break Room
+  kind: location
+  description: The social hub of ByteCrafters, where the nerd group gathers for
+    lunch, banter, and brainstorming sessions. Key scenes of camaraderie and
+    foreshadowing occur here.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
