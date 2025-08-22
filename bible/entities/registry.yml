@@ -106,3 +106,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 13
+  displayName: Jamal Robinson
+  kind: character
+  description: A security specialist with a skeptical eye and a penchant for
+    office pranks. Adds humor and suspicion to the nerd group dynamic.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
