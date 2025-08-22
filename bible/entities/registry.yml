@@ -242,3 +242,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 22
+  displayName: Recovered GPUs
+  kind: item
+  description: Some of the stolen GPUs that are recovered by the nerd group after
+    the confrontation in the server room.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
