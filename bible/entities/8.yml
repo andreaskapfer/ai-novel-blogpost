@@ -1,0 +1,21 @@
+id: 8
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - AI Cluster
+  - Server Infrastructure
+notes: The AI infrastructure is the technical backbone of ByteCrafters'
+  business. Its vulnerability after the GPU theft raises the stakes for the nerd
+  group.
+item:
+  appearance: A rack of servers with blinking lights, humming fans, and a tangle of cables.
+  status: compromised
+  associatedEntities:
+    - entityId: 1
+      associationType: housed_in
+    - entityId: 3
+      associationType: located_in
+    - entityId: 4
+      associationType: requires
+    - entityId: 2
+      associationType: maintained_by
