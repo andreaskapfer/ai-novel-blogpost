@@ -29,3 +29,10 @@
     novel's mystery.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Rival Company
+  kind: group
+  description: A competing tech company suspected of involvement in the GPU theft,
+    representing external pressure and competition for ByteCrafters.
+  bibleReferences:
+    - bibleLevel: book
