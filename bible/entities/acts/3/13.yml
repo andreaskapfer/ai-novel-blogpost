@@ -1,0 +1,36 @@
+id: 13
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Jamal
+notes: Jamal Robinson works late nights with Alex, monitors security feeds, and
+  helps set the trap for the thief. His loyalty and technical skills are vital
+  to the group's success.
+character:
+  age: 31
+  appearance: Stocky build, always with a mischievous grin, wears graphic tees.
+  personalityTraits:
+    - skeptical
+    - funny
+    - loyal
+  emotionalArc: From frustrated investigator to energized as the group catches the suspect.
+  mainOutfits:
+    - graphic tee
+    - cargo pants
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 11
+      associationType: colleague
+    - entityId: 12
+      associationType: colleague
+    - entityId: 14
+      associationType: colleague
+    - entityId: 20
+      associationType: uses
+    - entityId: 5
+      associationType: investigates
+    - entityId: 6
+      associationType: investigates
