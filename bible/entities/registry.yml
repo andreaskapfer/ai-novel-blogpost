@@ -234,3 +234,11 @@
       act: 2
     - bibleLevel: act
       act: 3
+- id: 21
+  displayName: Sabotage Attempt
+  kind: backgroundEvent
+  description: An act of sabotage targeting the nerd group's investigation,
+    intended to mislead or delay their progress in identifying the thief.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
