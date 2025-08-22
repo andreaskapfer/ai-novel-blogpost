@@ -1,0 +1,31 @@
+id: 12
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - Priya
+notes: Priya Patel is a charismatic data scientist who motivates the nerd group.
+  In Act 1, she is central to the group's camaraderie and develops a budding
+  romance with Alex.
+character:
+  age: 27
+  appearance: Medium height, expressive eyes, colorful scarves.
+  personalityTraits:
+    - charismatic
+    - creative
+    - empathetic
+  emotionalArc: From motivator to emotionally vulnerable as suspicions arise.
+  mainOutfits:
+    - blouse
+    - scarf
+    - jeans
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 11
+      associationType: romantic_interest
+    - entityId: 13
+      associationType: colleague
+    - entityId: 14
+      associationType: colleague
