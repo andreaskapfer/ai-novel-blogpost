@@ -1,0 +1,18 @@
+id: 20
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Trap Device
+notes: The decoy device is used again in Act 3 as part of the nerd group's plan
+  to catch the thief. It is instrumental in the surveillance and confrontation.
+item:
+  appearance: Small, nondescript electronic device with blinking LED.
+  status: active
+  associatedEntities:
+    - entityId: 13
+      associationType: used_by
+    - entityId: 3
+      associationType: placed_in
+    - entityId: 2
+      associationType: used_by
