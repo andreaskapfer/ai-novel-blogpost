@@ -132,3 +132,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 16
+  displayName: ByteCrafters CEO
+  kind: character
+  description: The enigmatic and demanding leader of ByteCrafters, whose
+    management style adds pressure to the nerd group during the crisis.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
