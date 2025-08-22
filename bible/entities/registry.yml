@@ -58,3 +58,10 @@
     company's operations.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Management
+  kind: group
+  description: The leadership team at ByteCrafters, responsible for overseeing the
+    company and responding to the crisis of the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
