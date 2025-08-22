@@ -1,0 +1,34 @@
+id: 12
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Priya
+notes: Priya Patel helps coordinate the investigation and piece together the
+  disgruntled former employee's motives. Her empathy helps the group recover
+  from setbacks.
+character:
+  age: 27
+  appearance: Medium height, expressive eyes, colorful scarves.
+  personalityTraits:
+    - charismatic
+    - creative
+    - empathetic
+  emotionalArc: From anxious investigator to supportive teammate as the group
+    regains momentum.
+  mainOutfits:
+    - blouse
+    - scarf
+    - jeans
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: member_of
+    - entityId: 11
+      associationType: colleague
+    - entityId: 13
+      associationType: colleague
+    - entityId: 14
+      associationType: colleague
+    - entityId: 6
+      associationType: investigates
