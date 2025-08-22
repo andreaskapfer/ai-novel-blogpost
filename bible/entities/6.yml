@@ -1,0 +1,26 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Ex-Employee
+  - Suspect
+notes: A former ByteCrafters employee with technical knowledge and a possible
+  grudge. Central to the mystery, their motives and actions are gradually
+  revealed.
+character:
+  appearance: Disheveled, with a techie look—hoodie, glasses, and a nervous energy.
+  personalityTraits:
+    - resentful
+    - clever
+    - secretive
+  emotionalArc: From shadowy suspect to revealed antagonist, with hints of regret.
+  status: at large
+  associatedEntities:
+    - entityId: 2
+      associationType: suspected_by
+    - entityId: 5
+      associationType: collaborates_with
+    - entityId: 4
+      associationType: seeks
+    - entityId: 1
+      associationType: former_employee_of
