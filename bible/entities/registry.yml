@@ -173,8 +173,6 @@
       act: 1
     - bibleLevel: act
       act: 2
-    - bibleLevel: act
-      act: 3
 - id: 15
   displayName: ByteCrafters Break Room
   kind: location
@@ -194,6 +192,8 @@
       act: 1
     - bibleLevel: act
       act: 2
+    - bibleLevel: act
+      act: 3
 - id: 17
   displayName: Suspicious Access Badge
   kind: item
