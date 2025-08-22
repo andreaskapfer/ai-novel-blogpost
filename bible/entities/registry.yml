@@ -182,3 +182,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 19
+  displayName: Recently Departed Employee
+  kind: character
+  description: A former ByteCrafters employee who left under mysterious
+    circumstances and is now a prime suspect in the GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
