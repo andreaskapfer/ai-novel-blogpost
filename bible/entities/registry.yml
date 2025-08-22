@@ -113,6 +113,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 12
   displayName: Priya Patel
   kind: character
