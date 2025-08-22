@@ -1,0 +1,19 @@
+id: 22
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Recovered GPUs
+notes: Some of the stolen GPUs are recovered by the nerd group after the
+  confrontation in the server room. Their partial recovery is a turning point in
+  the investigation.
+item:
+  appearance: High-end, rack-mounted graphics cards, some with signs of tampering.
+  status: recovered
+  associatedEntities:
+    - entityId: 2
+      associationType: recovered_by
+    - entityId: 3
+      associationType: found_in
+    - entityId: 4
+      associationType: portion_of
