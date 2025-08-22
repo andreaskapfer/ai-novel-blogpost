@@ -77,6 +77,8 @@
     company and responding to the crisis of the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 10
   displayName: Friendship and Trust
   kind: concept
