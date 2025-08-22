@@ -50,3 +50,11 @@
     staff that complicate the investigation and test the nerd group's trust.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: AI Infrastructure
+  kind: item
+  description: The collection of servers, GPUs, and software powering
+    ByteCrafters' AI projects, threatened by the theft and central to the
+    company's operations.
+  bibleReferences:
+    - bibleLevel: book
