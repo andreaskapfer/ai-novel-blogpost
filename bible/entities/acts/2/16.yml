@@ -1,0 +1,20 @@
+id: 16
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - CEO
+notes: The ByteCrafters CEO increases pressure on the nerd group in Act 2,
+  threatening to bring in outside investigators and demanding results.
+character:
+  appearance: Sharp suit, commanding presence, rarely seen without a phone.
+  personalityTraits:
+    - demanding
+    - enigmatic
+    - authoritative
+  status: active
+  associatedEntities:
+    - entityId: 9
+      associationType: leads
+    - entityId: 2
+      associationType: pressures
