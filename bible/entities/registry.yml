@@ -58,6 +58,8 @@
     staff that complicate the investigation and test the nerd group's trust.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 8
   displayName: AI Infrastructure
   kind: item
