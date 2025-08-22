@@ -1,0 +1,18 @@
+id: 7
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Workplace Drama
+  - Internal Politics
+notes: Office politics at ByteCrafters create obstacles and red herrings for the
+  nerd group, fueling suspicion and conflict. This concept is a recurring source
+  of tension throughout the investigation.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: affects
+    - entityId: 9
+      associationType: driven_by
+    - entityId: 1
+      associationType: occurs_at
