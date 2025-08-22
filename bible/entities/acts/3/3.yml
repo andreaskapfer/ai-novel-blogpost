@@ -1,0 +1,23 @@
+id: 3
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Server Closet
+  - GPU Room
+notes: The server room is the site of the dramatic confrontation and partial
+  recovery of the stolen GPUs in Act 3. Surveillance and security are at their
+  highest.
+location:
+  status: under_surveillance
+  associatedEntities:
+    - entityId: 1
+      associationType: part_of
+    - entityId: 4
+      associationType: stored_in
+    - entityId: 8
+      associationType: hosts
+    - entityId: 2
+      associationType: investigated_by
+    - entityId: 20
+      associationType: monitored_by
