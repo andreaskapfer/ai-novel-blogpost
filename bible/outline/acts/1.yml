@@ -1,0 +1,44 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The nerd group’s morning begins with their usual banter and a
+      malfunctioning coffee machine, setting a lighthearted tone. Each member’s
+      unique personality and technical specialty is introduced through their
+      interactions and a spontaneous coding challenge. The company’s AI
+      infrastructure is briefly showcased as the group discusses a new project,
+      emphasizing the importance of the server room and its GPUs. The
+      camaraderie is interrupted when a junior member discovers the server room
+      door ajar. The group rushes to investigate, finding the GPUs missing and
+      the security system inexplicably disabled.
+    approximateNoOfWords: 3200
+  - index: 2
+    summary: Panic spreads as the nerds realize the gravity of the theft. They
+      debate whether to call the police or handle the situation internally, with
+      some fearing for their jobs and others suspecting an inside job. The
+      company’s management is alerted, but their response is bureaucratic and
+      unhelpful, heightening the group’s frustration. The nerds begin to examine
+      the server room for clues, noting signs of a professional breach. Tensions
+      rise as suspicions and accusations start to surface among the group,
+      threatening their unity.
+    approximateNoOfWords: 3200
+  - index: 3
+    summary: "The nerds split into pairs to investigate different angles: reviewing
+      security footage, analyzing network logs, and interviewing staff. Their
+      technical prowess is on display as they uncover anomalies in the logs and
+      a suspicious gap in the camera feed. Meanwhile, the malfunctioning coffee
+      machine becomes a running joke, providing comic relief amid the stress.
+      The group’s efforts are hampered by management’s reluctance to involve law
+      enforcement and a lack of cooperation from other departments, forcing the
+      nerds to rely on their own resourcefulness."
+    approximateNoOfWords: 3200
+  - index: 4
+    summary: A breakthrough occurs when one member discovers a hidden USB device in
+      the server room, containing traces of custom malware. The nerds realize
+      the theft was meticulously planned and likely involved someone with inside
+      knowledge. As they piece together the evidence, the group’s resolve
+      strengthens, and they agree to continue the investigation on their own
+      terms. The act ends with the nerds vowing to recover the stolen GPUs,
+      setting the stage for their quest and the challenges ahead.
+    approximateNoOfWords: 3200
