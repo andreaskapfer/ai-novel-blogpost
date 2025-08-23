@@ -1,0 +1,20 @@
+id: 3
+entityPropertiesReference:
+  bibleLevel: act
+  act: 4
+aliases:
+  - Server Closet
+  - GPU Room
+notes: The server room is the site of the final showdown and the recovery of the
+  GPUs. It symbolizes the heart of the company’s technical operations.
+location:
+  status: restored
+  associatedEntities:
+    - entityId: 1
+      associationType: showdown location
+    - entityId: 4
+      associationType: GPUs returned
+    - entityId: 21
+      associationType: antagonist confronted
+    - entityId: 6
+      associationType: AI hardware location
