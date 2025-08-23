@@ -133,3 +133,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 15
+  displayName: Deleted Log File
+  kind: item
+  description: A key log file that is found deleted during the investigation,
+    raising suspicions of an inside job and deepening the mystery.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
