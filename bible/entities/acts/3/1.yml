@@ -1,0 +1,28 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - The Nerds
+  - IT Nerds
+  - Protagonist Group
+notes: In Act 3, the nerd group is fractured by suspicion and the framing of one
+  of their own. Their journey from division to unity is marked by technical
+  challenges, personal growth, and the exposure of the true thief.
+group:
+  emotionalArc: From divided and suspicious to united and determined after
+    overcoming betrayal and adversity.
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: workplace
+    - entityId: 7
+      associationType: rival
+    - entityId: 17
+      associationType: includes framed member
+    - entityId: 18
+      associationType: betrayed by thief
+    - entityId: 19
+      associationType: investigates tampered logs
+    - entityId: 20
+      associationType: discovers hidden channel
