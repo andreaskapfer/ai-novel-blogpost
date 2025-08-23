@@ -7,3 +7,11 @@
     the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: The workplace of the nerd group, housing the company's AI
+    infrastructure and the server room where the GPUs are stolen. A modern
+    office environment with various departments and a central role in the story.
+  bibleReferences:
+    - bibleLevel: book
