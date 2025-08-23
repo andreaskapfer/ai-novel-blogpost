@@ -203,3 +203,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 21
+  displayName: Antagonist
+  kind: character
+  description: The main villain confronted by the nerd group in the server room
+    during the climax. Their last-ditch effort to outsmart the group is foiled
+    by teamwork and technical prowess.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
