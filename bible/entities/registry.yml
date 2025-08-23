@@ -124,3 +124,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 14
+  displayName: Disgruntled Ex-Employee
+  kind: character
+  description: A former employee of the IT consulting company who is suspected of
+    involvement in the GPU theft. Their recent departure and history of conflict
+    with management make them a plausible suspect.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
