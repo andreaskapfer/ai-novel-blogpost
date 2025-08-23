@@ -1,0 +1,19 @@
+id: 20
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Secret Channel
+  - Encrypted Chat
+notes: A hidden digital communication channel between the true thief and the
+  rival company, discovered during the group’s investigation.
+item:
+  appearance: Encrypted chat logs and hidden server addresses.
+  status: discovered
+  associatedEntities:
+    - entityId: 18
+      associationType: used by
+    - entityId: 7
+      associationType: receives messages
+    - entityId: 1
+      associationType: discovered by
