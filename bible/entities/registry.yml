@@ -181,3 +181,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 20
+  displayName: Hidden Communication Channel
+  kind: item
+  description: A secret digital channel used by the true thief to communicate with
+    the rival company, discovered during the group’s investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
