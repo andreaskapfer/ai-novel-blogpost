@@ -27,6 +27,8 @@
     the theft and subsequent investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 4
   displayName: GPUs
   kind: item
