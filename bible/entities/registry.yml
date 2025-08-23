@@ -221,3 +221,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 23
+  displayName: Sting Operation
+  kind: historicEvent
+  description: The coordinated physical and digital operation devised by the nerd
+    group to recover the stolen GPUs from the rival company and the dark web.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
