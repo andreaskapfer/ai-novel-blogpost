@@ -1,0 +1,30 @@
+id: 17
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Framed Member
+  - Scapegoat Nerd
+notes: A core member of the nerd group who is falsely accused and framed for the
+  GPU theft. Their ordeal tests the group’s loyalty and becomes a rallying point
+  for unity.
+character:
+  age: 29
+  appearance: Nervous, with dark circles under their eyes from sleepless nights.
+    Wears company hoodie and jeans.
+  personalityTraits:
+    - loyal
+    - anxious
+    - resourceful
+    - misunderstood
+  emotionalArc: From ostracized and hopeless to vindicated and embraced by the group.
+  mainOutfits:
+    - company hoodie, jeans, sneakers
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: group member
+    - entityId: 2
+      associationType: works at
+    - entityId: 19
+      associationType: framed by tampered logs
