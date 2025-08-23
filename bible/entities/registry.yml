@@ -173,3 +173,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 19
+  displayName: Tampered Logs
+  kind: item
+  description: Digital log files that have been altered to frame a member of the
+    nerd group and cover the tracks of the true thief.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
