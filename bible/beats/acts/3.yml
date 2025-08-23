@@ -1,0 +1,124 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 3
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Factions Form
+    summary: The nerd group fractures into factions, each following different leads
+      based on their suspicions. One faction investigates a colleague with a
+      suspicious alibi, while another tracks digital footprints pointing to the
+      rival company.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 1250
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 7
+        associationType: rival
+  - order: 2
+    subdivisionIndex: 1
+    name: Framed Nerd
+    summary: Personal stakes rise as one member is framed for the theft, facing
+      disciplinary action and ostracism from management. The group’s internal
+      divisions deepen, and their investigation stalls as trust erodes and
+      morale plummets.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 1250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 17
+        associationType: character
+  - order: 3
+    subdivisionIndex: 2
+    name: Desperate Measures
+    summary: Desperate to clear their friend’s name, the remaining nerds conduct
+      late-night stakeouts and clandestine hacking sessions. They uncover
+      evidence of tampered logs and a hidden communication channel between the
+      real thief and the rival company.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 2500
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 19
+        associationType: item
+      - entityId: 20
+        associationType: item
+  - order: 4
+    subdivisionIndex: 2
+    name: Infiltration
+    summary: The group’s technical skills are pushed to the limit as they attempt a
+      daring infiltration of the competitor’s office, risking exposure and legal
+      trouble. Along the way, they confront their own insecurities and begin to
+      rebuild trust.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 2500
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 7
+        associationType: rival
+  - order: 5
+    subdivisionIndex: 3
+    name: Breakthrough & Confession
+    summary: "The infiltration yields a crucial breakthrough: a confession from the
+      true thief, who reveals the complex motives behind the crime. However, the
+      GPUs remain hidden, and the nerds must race against time to recover them
+      before they are sold on the dark web."
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 18
+        associationType: character
+      - entityId: 7
+        associationType: rival
+  - order: 6
+    subdivisionIndex: 3
+    name: Race Against Time
+    summary: The group reunites, pooling their talents and resources for a final
+      push. The act ends with a dramatic confrontation that exposes the full
+      extent of the conspiracy, but the recovery of the GPUs remains unresolved.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 7
+        associationType: rival
+  - order: 7
+    subdivisionIndex: 4
+    name: Aftermath & Reflection
+    summary: In the aftermath of the confrontation, the nerds regroup and reflect on
+      the lessons learned from their ordeal. The framed member is exonerated,
+      and the group’s bonds are stronger than ever.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 17
+        associationType: character
+  - order: 8
+    subdivisionIndex: 4
+    name: Renewed Purpose
+    summary: "The nerds resolve to continue their quest, now united by a renewed
+      sense of purpose and camaraderie. The stage is set for the final act, as
+      the nerds prepare for the ultimate challenge: recovering the stolen GPUs
+      and restoring their company’s reputation."
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
