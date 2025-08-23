@@ -1,0 +1,19 @@
+id: 7
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Competitor
+  - Rival IT Company
+notes: The rival company is suspected of involvement in the GPU theft and
+  becomes a key antagonist force in the investigation.
+group:
+  emotionalArc: From suspicion and antagonism to confrontation and eventual
+    exposure of the true thief.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: rival
+    - entityId: 4
+      associationType: suspected target
+    - entityId: 8
+      associationType: digital battleground
