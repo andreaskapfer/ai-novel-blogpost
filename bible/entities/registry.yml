@@ -78,6 +78,8 @@
     about the stolen GPUs, encountering digital dangers and intrigue.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 9
   displayName: Junior Nerd
   kind: character
