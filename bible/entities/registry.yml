@@ -53,3 +53,10 @@
     They become a target of the nerd group's investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: The Dark Web
+  kind: location
+  description: The shadowy online realm where the nerd group searches for clues
+    about the stolen GPUs, encountering digital dangers and intrigue.
+  bibleReferences:
+    - bibleLevel: book
