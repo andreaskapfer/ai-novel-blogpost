@@ -38,3 +38,11 @@
     a source of humor and bonding for the nerd group.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: AI Infrastructure
+  kind: concept
+  description: The advanced artificial intelligence systems and supporting
+    hardware that are central to the company's operations and the plot of the
+    novel.
+  bibleReferences:
+    - bibleLevel: book
