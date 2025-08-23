@@ -46,6 +46,8 @@
     a source of humor and bonding for the nerd group.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 6
   displayName: AI Infrastructure
   kind: concept
