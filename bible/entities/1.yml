@@ -1,0 +1,31 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - The Nerds
+  - IT Nerds
+  - Protagonist Group
+notes: The central protagonists of the novel, the nerd group is composed of
+  diverse IT consultants with unique personalities and technical specialties.
+  Their camaraderie, humor, and teamwork are central to the story's emotional
+  arc. They are tested by the theft of the GPUs and must overcome suspicion,
+  internal conflict, and external threats to succeed.
+group:
+  emotionalArc: From camaraderie and confidence, through suspicion and division,
+    to renewed trust and triumph after overcoming adversity.
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: workplace
+    - entityId: 3
+      associationType: frequent location
+    - entityId: 4
+      associationType: mission target
+    - entityId: 5
+      associationType: shared office item
+    - entityId: 6
+      associationType: protectors of concept
+    - entityId: 7
+      associationType: rival
+    - entityId: 8
+      associationType: digital battleground
