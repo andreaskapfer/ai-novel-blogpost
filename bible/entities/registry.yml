@@ -90,3 +90,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 11
+  displayName: USB Device
+  kind: item
+  description: A hidden USB device found in the server room, containing traces of
+    custom malware. Its discovery is a breakthrough in the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
