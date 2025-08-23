@@ -1,0 +1,21 @@
+id: 4
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Graphics Cards
+  - AI GPUs
+notes: The stolen GPUs are high-end, essential for the company's AI work. Their
+  loss is both a technical and emotional blow to the nerd group.
+item:
+  appearance: High-performance, rack-mounted graphics cards with custom cooling
+    and LED indicators.
+  status: stolen (recovered by end)
+  associatedEntities:
+    - entityId: 3
+      associationType: stored in
+    - entityId: 2
+      associationType: company property
+    - entityId: 1
+      associationType: mission target
+    - entityId: 6
+      associationType: AI enabler
