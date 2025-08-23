@@ -72,3 +72,12 @@
     about the stolen GPUs, encountering digital dangers and intrigue.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Junior Nerd
+  kind: character
+  description: A junior member of the nerd group who discovers the server room
+    door ajar, triggering the group's investigation into the GPU theft. Known
+    for their eagerness and attention to detail.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
