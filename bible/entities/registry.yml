@@ -81,3 +81,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 10
+  displayName: Company Management
+  kind: group
+  description: The management team of the IT consulting company, characterized by
+    bureaucratic responses and reluctance to involve law enforcement. Their
+    actions frustrate the nerd group during the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
