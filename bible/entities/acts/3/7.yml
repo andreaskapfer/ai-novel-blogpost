@@ -1,0 +1,19 @@
+id: 7
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - Competitor
+  - Rival IT Company
+notes: The rival company is revealed as a co-conspirator, communicating with the
+  true thief and nearly acquiring the stolen GPUs.
+group:
+  emotionalArc: From shadowy antagonist to exposed conspirator.
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: opposed by
+    - entityId: 18
+      associationType: communicates with thief
+    - entityId: 20
+      associationType: receives hidden messages
