@@ -1,0 +1,110 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 4
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: The Plan
+    summary: The nerd group regroups and devises an elaborate plan to recover the
+      stolen GPUs. Roles are assigned based on strengths—coding, social
+      engineering, and stealth. The plan involves infiltrating the rival
+      company, tracking the GPUs on the dark web, and coordinating a sting
+      operation. The group’s unity and trust are put to the test as they
+      finalize the details.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 3125
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 7
+        associationType: rival
+      - entityId: 23
+        associationType: historic event
+  - order: 2
+    subdivisionIndex: 1
+    name: Setbacks & Improvisation
+    summary: "The operation begins: one team hacks the rival company’s network,
+      another distracts security, and a third monitors the dark web. Unexpected
+      betrayals and technical failures threaten the mission. The group must
+      improvise and support each other to overcome obstacles."
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3125
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 7
+        associationType: rival
+      - entityId: 23
+        associationType: historic event
+  - order: 3
+    subdivisionIndex: 2
+    name: Closing In
+    summary: As tension mounts, the nerds close in on the location of the stolen
+      GPUs. The antagonist makes a last-ditch effort to outsmart them, but the
+      group’s quick thinking and teamwork keep the plan on track.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 7
+        associationType: rival
+      - entityId: 21
+        associationType: antagonist
+  - order: 4
+    subdivisionIndex: 2
+    name: Showdown in the Server Room
+    summary: The climax unfolds in the server room, where the nerds confront the
+      antagonist. Using technical prowess and teamwork, they outmaneuver the
+      villain and secure the GPUs. The company’s AI infrastructure is restored,
+      and the nerds’ heroism is recognized.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+      - entityId: 6
+        associationType: concept
+      - entityId: 21
+        associationType: antagonist
+  - order: 5
+    subdivisionIndex: 3
+    name: Celebration & Reflection
+    summary: The group reflects on how the ordeal has changed them, both as
+      individuals and as friends. The company celebrates their success with a
+      lighthearted office party.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 2
+        associationType: location
+      - entityId: 22
+        associationType: historic event
+  - order: 6
+    subdivisionIndex: 3
+    name: Aftermath & New Beginnings
+    summary: In the aftermath, the nerds enjoy newfound respect within the company.
+      The malfunctioning coffee machine is finally fixed—sort of—serving as a
+      symbol of their journey. The group discusses future projects and the
+      lessons learned from their adventure.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 6250
+    associatedEntities:
+      - entityId: 1
+        associationType: group
+      - entityId: 2
+        associationType: location
+      - entityId: 5
+        associationType: item
