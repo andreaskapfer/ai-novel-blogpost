@@ -1,0 +1,19 @@
+id: 3
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Server Closet
+  - GPU Room
+notes: A secure, climate-controlled room within the company, housing the GPUs
+  and other critical hardware. Its breach is the inciting incident of the novel.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: located in
+    - entityId: 1
+      associationType: frequent visitors
+    - entityId: 4
+      associationType: contains
+    - entityId: 6
+      associationType: AI hardware location
