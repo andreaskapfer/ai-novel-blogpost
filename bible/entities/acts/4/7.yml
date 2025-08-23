@@ -1,0 +1,20 @@
+id: 7
+entityPropertiesReference:
+  bibleLevel: act
+  act: 4
+aliases:
+  - Competitor
+  - Rival IT Company
+notes: The rival company is defeated in Act 4, losing the stolen GPUs and facing
+  exposure for their role in the conspiracy.
+group:
+  emotionalArc: From antagonist to defeated rival, exposed and outmaneuvered by
+    the nerd group.
+  status: defeated
+  associatedEntities:
+    - entityId: 1
+      associationType: defeated by
+    - entityId: 21
+      associationType: employs antagonist
+    - entityId: 23
+      associationType: target of sting
