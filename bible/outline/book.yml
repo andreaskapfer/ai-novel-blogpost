@@ -1,0 +1,47 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens with the introduction of the main nerd group at an IT
+      consulting company, highlighting their unique personalities, daily
+      routines, and camaraderie. The company’s AI infrastructure is introduced
+      as a critical asset, and the server room with its prized GPUs is
+      established as a focal point. The group’s expertise and quirks are
+      showcased through a humorous incident involving a malfunctioning coffee
+      machine and a spontaneous coding challenge. The act ends with the shocking
+      discovery that all the GPUs have been stolen, throwing the group into
+      chaos and setting the stage for their quest.
+    approximateNoOfWords: 25000
+  - index: 2
+    summary: The nerd group launches their investigation into the stolen GPUs,
+      leveraging their technical skills to analyze security footage, network
+      logs, and access records. As they dig deeper, they encounter obstacles
+      such as uncooperative management, red herrings, and internal suspicions.
+      Tensions rise as blame is cast and secrets are revealed, testing the
+      group’s trust in one another. Their pursuit leads them to unexpected
+      places, including a rival company and the dark web. The act culminates in
+      a major breakthrough that points to an inside job, but the culprit’s
+      identity remains elusive.
+    approximateNoOfWords: 35000
+  - index: 3
+    summary: With suspicions mounting, the group splits into factions, each
+      following different leads. Personal stakes are raised as one member is
+      framed for the theft, forcing the others to rally and prove their friend’s
+      innocence. The investigation intensifies, involving late-night stakeouts,
+      hacking escapades, and a daring infiltration of a competitor’s office.
+      Along the way, the nerds confront their own insecurities and strengthen
+      their bonds. The act ends with a dramatic confrontation that exposes the
+      true thief, but recovering the GPUs proves more complicated than
+      anticipated.
+    approximateNoOfWords: 40000
+  - index: 4
+    summary: The group devises an elaborate plan to recover the stolen GPUs,
+      combining their diverse talents in coding, social engineering, and
+      physical stealth. The operation is fraught with setbacks, including
+      unexpected betrayals and technical failures. As the plan unfolds, the
+      nerds must improvise and trust each other completely. The climax features
+      a tense showdown in the server room, where the group outsmarts the
+      antagonist and secures the GPUs. In the aftermath, the company recognizes
+      their heroism, and the group reflects on how the ordeal has changed them,
+      both as individuals and as friends.
+    approximateNoOfWords: 50000
