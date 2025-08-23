@@ -1,0 +1,20 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - AI Systems
+  - Artificial Intelligence
+notes: The company’s AI infrastructure is a point of pride and a symbol of the
+  nerd group’s collective achievement and responsibility in Act 1.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: hosted by
+    - entityId: 3
+      associationType: hardware location
+    - entityId: 4
+      associationType: powered by
+    - entityId: 1
+      associationType: protected by
