@@ -1,0 +1,40 @@
+outlineReference:
+  bibleLevel: act
+  act: 3
+subdivisions:
+  - index: 1
+    summary: The nerd group fractures into factions, each following different leads
+      based on their suspicions. One faction investigates a colleague with a
+      suspicious alibi, while another tracks digital footprints pointing to the
+      rival company. Personal stakes rise as one member is framed for the theft,
+      facing disciplinary action and ostracism from management. The group’s
+      internal divisions deepen, and their investigation stalls as trust erodes
+      and morale plummets.
+    approximateNoOfWords: 5000
+  - index: 2
+    summary: Desperate to clear their friend’s name, the remaining nerds conduct
+      late-night stakeouts and clandestine hacking sessions. They uncover
+      evidence of tampered logs and a hidden communication channel between the
+      real thief and the rival company. The group’s technical skills are pushed
+      to the limit as they attempt a daring infiltration of the competitor’s
+      office, risking exposure and legal trouble. Along the way, they confront
+      their own insecurities and begin to rebuild trust.
+    approximateNoOfWords: 10000
+  - index: 3
+    summary: "The infiltration yields a crucial breakthrough: a confession from the
+      true thief, who reveals the complex motives behind the crime. However, the
+      GPUs remain hidden, and the nerds must race against time to recover them
+      before they are sold on the dark web. The group reunites, pooling their
+      talents and resources for a final push. The act ends with a dramatic
+      confrontation that exposes the full extent of the conspiracy, but the
+      recovery of the GPUs remains unresolved."
+    approximateNoOfWords: 12500
+  - index: 4
+    summary: "In the aftermath of the confrontation, the nerds regroup and reflect
+      on the lessons learned from their ordeal. The framed member is exonerated,
+      and the group’s bonds are stronger than ever. They resolve to continue
+      their quest, now united by a renewed sense of purpose and camaraderie. The
+      stage is set for the final act, as the nerds prepare for the ultimate
+      challenge: recovering the stolen GPUs and restoring their company’s
+      reputation."
+    approximateNoOfWords: 12500
