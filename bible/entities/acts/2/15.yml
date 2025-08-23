@@ -1,0 +1,17 @@
+id: 15
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Missing Log
+  - Deleted Evidence
+notes: A crucial log file that is deleted to cover the thief’s tracks. Its
+  absence is a major setback for the investigation.
+item:
+  appearance: Digital file, now missing from the system.
+  status: deleted
+  associatedEntities:
+    - entityId: 1
+      associationType: searched for
+    - entityId: 2
+      associationType: company system
