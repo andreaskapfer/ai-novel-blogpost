@@ -13,6 +13,8 @@
       act: 2
     - bibleLevel: act
       act: 3
+    - bibleLevel: act
+      act: 4
 - id: 2
   displayName: IT Consulting Company
   kind: location
