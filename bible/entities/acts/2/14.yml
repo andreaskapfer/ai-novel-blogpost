@@ -1,0 +1,26 @@
+id: 14
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Ex-Employee
+  - Disgruntled Worker
+notes: Recently fired, the ex-employee’s history of conflict with management and
+  technical expertise make them a plausible suspect, but they are ultimately a
+  dead end.
+character:
+  age: 34
+  appearance: Disheveled, with a scruffy beard and worn-out hoodie.
+  personalityTraits:
+    - bitter
+    - defensive
+    - intelligent
+  emotionalArc: From suspicion and confrontation to reluctant cooperation.
+  mainOutfits:
+    - hoodie, jeans, old company badge
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: former employee
+    - entityId: 1
+      associationType: suspected by
