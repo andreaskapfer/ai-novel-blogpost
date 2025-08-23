@@ -1,0 +1,17 @@
+id: 5
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Coffee Maker
+  - Broken Coffee Machine
+notes: A source of comic relief and group bonding, the malfunctioning coffee
+  machine is a recurring motif throughout the story.
+item:
+  appearance: A battered, overused office coffee machine with blinking lights and
+    frequent leaks.
+  status: malfunctioning (sort of fixed at end)
+  associatedEntities:
+    - entityId: 1
+      associationType: shared item
+    - entityId: 2
+      associationType: located in
