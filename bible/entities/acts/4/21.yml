@@ -1,0 +1,28 @@
+id: 21
+entityPropertiesReference:
+  bibleLevel: act
+  act: 4
+aliases:
+  - Main Villain
+  - Final Antagonist
+notes: The antagonist is the last obstacle to the nerd group’s success,
+  orchestrating a final confrontation in the server room. Their defeat is a
+  testament to the group’s unity and technical prowess.
+character:
+  age: 45
+  appearance: Sharp-dressed, calculating, with a cold demeanor and piercing eyes.
+  personalityTraits:
+    - ruthless
+    - strategic
+    - arrogant
+  emotionalArc: From confident and in control to outmaneuvered and defeated.
+  mainOutfits:
+    - tailored suit, expensive watch
+  status: defeated
+  associatedEntities:
+    - entityId: 7
+      associationType: employer
+    - entityId: 1
+      associationType: opposed by
+    - entityId: 3
+      associationType: confronted in server room
