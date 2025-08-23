@@ -46,3 +46,10 @@
     novel.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Rival Company
+  kind: group
+  description: A competing IT company suspected of involvement in the GPU theft.
+    They become a target of the nerd group's investigation.
+  bibleReferences:
+    - bibleLevel: book
