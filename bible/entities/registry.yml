@@ -31,3 +31,10 @@
     story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Malfunctioning Coffee Machine
+  kind: item
+  description: A quirky, often-broken coffee machine in the office that serves as
+    a source of humor and bonding for the nerd group.
+  bibleReferences:
+    - bibleLevel: book
