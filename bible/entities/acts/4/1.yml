@@ -1,0 +1,34 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: act
+  act: 4
+aliases:
+  - The Nerds
+  - IT Nerds
+  - Protagonist Group
+notes: In Act 4, the nerd group’s unity and technical skills are put to the
+  ultimate test. Their successful sting operation and final confrontation with
+  the antagonist restore their reputation and strengthen their bonds.
+group:
+  emotionalArc: From anxious and determined to triumphant and celebrated after
+    overcoming the final challenge.
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: workplace
+    - entityId: 3
+      associationType: server room showdown
+    - entityId: 4
+      associationType: recovered GPUs
+    - entityId: 5
+      associationType: coffee machine fixed
+    - entityId: 6
+      associationType: AI infrastructure restored
+    - entityId: 7
+      associationType: defeats rival
+    - entityId: 21
+      associationType: defeats antagonist
+    - entityId: 22
+      associationType: honored at party
+    - entityId: 23
+      associationType: organizes sting operation
