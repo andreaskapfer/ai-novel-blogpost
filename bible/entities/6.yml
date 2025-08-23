@@ -1,0 +1,19 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - AI Systems
+  - Artificial Intelligence
+notes: The company's AI infrastructure is both a technical marvel and a symbol
+  of the nerd group's collective achievement and responsibility.
+concept:
+  status: active
+  associatedEntities:
+    - entityId: 2
+      associationType: hosted by
+    - entityId: 3
+      associationType: hardware location
+    - entityId: 4
+      associationType: powered by
+    - entityId: 1
+      associationType: protected by
