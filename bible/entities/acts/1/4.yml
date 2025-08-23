@@ -1,0 +1,20 @@
+id: 4
+entityPropertiesReference:
+  bibleLevel: act
+  act: 1
+aliases:
+  - Graphics Cards
+  - AI GPUs
+notes: The GPUs are stolen in Act 1, triggering the main conflict. Their loss is
+  both a technical and emotional blow to the nerd group.
+item:
+  appearance: High-performance, rack-mounted graphics cards with custom cooling
+    and LED indicators.
+  status: stolen
+  associatedEntities:
+    - entityId: 3
+      associationType: stored in
+    - entityId: 2
+      associationType: company property
+    - entityId: 1
+      associationType: mission target
