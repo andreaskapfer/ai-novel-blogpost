@@ -98,3 +98,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 12
+  displayName: Custom Malware
+  kind: concept
+  description: A sophisticated piece of malicious software found on the USB
+    device, indicating the theft was meticulously planned and likely involved
+    someone with inside knowledge.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
