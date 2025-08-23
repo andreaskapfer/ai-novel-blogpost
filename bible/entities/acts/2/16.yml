@@ -1,0 +1,17 @@
+id: 16
+entityPropertiesReference:
+  bibleLevel: act
+  act: 2
+aliases:
+  - Backup Log
+  - Recovered Evidence
+notes: A partial backup of the deleted log file, revealing unauthorized access
+  and providing a breakthrough in the investigation.
+item:
+  appearance: Digital file, partially restored with missing segments.
+  status: recovered
+  associatedEntities:
+    - entityId: 1
+      associationType: recovered by
+    - entityId: 2
+      associationType: company system
