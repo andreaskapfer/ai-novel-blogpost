@@ -69,6 +69,8 @@
     They become a target of the nerd group's investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 8
   displayName: The Dark Web
   kind: location
