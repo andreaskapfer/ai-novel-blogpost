@@ -156,3 +156,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 17
+  displayName: Framed Nerd
+  kind: character
+  description: A member of the nerd group who is framed for the GPU theft, facing
+    disciplinary action and ostracism from management. Their ordeal becomes a
+    rallying point for the group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
