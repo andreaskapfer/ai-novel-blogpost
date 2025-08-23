@@ -141,3 +141,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 16
+  displayName: Partial Backup
+  kind: item
+  description: A partial backup of the deleted log file, recovered by the nerd
+    group. It reveals a pattern of unauthorized access tied to a specific
+    employee.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
