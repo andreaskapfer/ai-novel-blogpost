@@ -15,3 +15,11 @@
     office environment with various departments and a central role in the story.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: Server Room
+  kind: location
+  description: A secure room within the IT consulting company, containing the
+    valuable GPUs that power the company's AI infrastructure. The focal point of
+    the theft and subsequent investigation.
+  bibleReferences:
+    - bibleLevel: book
