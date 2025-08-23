@@ -115,3 +115,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 13
+  displayName: Suspicious Janitor
+  kind: character
+  description: A janitor at the IT consulting company who becomes a red herring in
+    the investigation. Their odd behavior and access to restricted areas draw
+    suspicion from the nerd group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
