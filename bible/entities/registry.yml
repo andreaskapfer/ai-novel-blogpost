@@ -165,3 +165,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 18
+  displayName: True Thief
+  kind: character
+  description: The actual perpetrator behind the GPU theft, whose confession
+    reveals the complex motives and conspiracy at the heart of the mystery.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
