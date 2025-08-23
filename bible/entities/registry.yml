@@ -53,6 +53,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 4
 - id: 5
   displayName: Malfunctioning Coffee Machine
   kind: item
