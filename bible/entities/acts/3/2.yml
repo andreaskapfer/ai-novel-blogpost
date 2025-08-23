@@ -1,0 +1,19 @@
+id: 2
+entityPropertiesReference:
+  bibleLevel: act
+  act: 3
+aliases:
+  - The Company
+  - IT Firm
+  - Office
+notes: In Act 3, the company is the backdrop for internal conflict, disciplinary
+  action, and the group’s eventual reconciliation.
+location:
+  status: active
+  associatedEntities:
+    - entityId: 1
+      associationType: main occupants
+    - entityId: 17
+      associationType: framed member
+    - entityId: 18
+      associationType: true thief
