@@ -212,3 +212,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 22
+  displayName: Office Party
+  kind: historicEvent
+  description: A celebratory event held at the company after the successful
+    recovery of the GPUs, symbolizing the group’s triumph and restored
+    camaraderie.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
