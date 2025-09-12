@@ -67,3 +67,10 @@
     powered by the stolen GPUs and central to the company's operations.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: Friendship
+  kind: concept
+  description: The bond between the members of the nerd group, tested and
+    strengthened throughout the story.
+  bibleReferences:
+    - bibleLevel: book
