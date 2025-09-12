@@ -6,6 +6,8 @@
     and its prized server room.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 2
   displayName: Nerd Group
   kind: group
