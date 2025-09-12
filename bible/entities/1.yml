@@ -1,0 +1,25 @@
+id: 1
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Nerd Group
+  - IT Nerds
+  - The Team
+notes: Central protagonists; a diverse group of IT professionals with
+  complementary technical skills and strong camaraderie. Their journey tests
+  their friendship, trust, and problem-solving abilities.
+associatedEntities:
+  - entityId: 2
+    associationType: workplace
+  - entityId: 4
+    associationType: object of quest
+  - entityId: 5
+    associationType: antagonist group
+  - entityId: 6
+    associationType: antagonist
+  - entityId: 9
+    associationType: suspect/antagonist
+group:
+  emotionalArc: From confident and playful to challenged, fractured, and
+    ultimately united and triumphant.
+  status: active
