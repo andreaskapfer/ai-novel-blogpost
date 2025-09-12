@@ -1,0 +1,8 @@
+- id: 1
+  displayName: ByteCrafters
+  kind: location
+  description: A quirky IT consulting company known for its cutting-edge AI
+    infrastructure and tight-knit group of nerdy employees. The main setting of
+    the story.
+  bibleReferences:
+    - bibleLevel: book
