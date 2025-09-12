@@ -1,0 +1,8 @@
+entityId: 3
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: located in
+  - entityId: 4
+    associationType: contains
