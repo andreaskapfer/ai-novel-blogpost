@@ -60,3 +60,10 @@
     underground, potentially connected to the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: AI Infrastructure
+  kind: item
+  description: The collection of hardware and software systems at the company,
+    powered by the stolen GPUs and central to the company's operations.
+  bibleReferences:
+    - bibleLevel: book
