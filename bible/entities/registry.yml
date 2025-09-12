@@ -35,3 +35,10 @@
     company's artificial intelligence capabilities. Dependent on the GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Management
+  kind: group
+  description: The leadership team of the IT consulting company, responsible for
+    overseeing operations and the initial investigation into the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
