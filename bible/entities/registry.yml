@@ -14,3 +14,11 @@
     GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: Server Room
+  kind: location
+  description: A secure room within the IT consulting company housing the
+    company's AI infrastructure and the valuable GPUs. The site of the theft
+    that triggers the story's events.
+  bibleReferences:
+    - bibleLevel: book
