@@ -38,3 +38,10 @@
     mystery.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Underground Tech Market
+  kind: location
+  description: A shadowy marketplace where stolen technology is traded. The nerd
+    group ventures here during their investigation.
+  bibleReferences:
+    - bibleLevel: book
