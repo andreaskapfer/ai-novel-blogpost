@@ -100,3 +100,10 @@
     parallel to the nerd group's own efforts.
   bibleReferences:
     - bibleLevel: book
+- id: 15
+  displayName: Hackerspace
+  kind: location
+  description: A local hackerspace visited by the nerd group during their
+    scavenger hunt for clues.
+  bibleReferences:
+    - bibleLevel: book
