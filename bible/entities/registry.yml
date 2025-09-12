@@ -109,6 +109,8 @@
     nerd group at ByteCrafters, dependent on the high-end GPUs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 14
   displayName: Police Investigation
   kind: backgroundEvent
