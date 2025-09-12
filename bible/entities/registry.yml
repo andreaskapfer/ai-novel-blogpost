@@ -13,3 +13,10 @@
     its AI infrastructure and is thrown into chaos when the GPUs are stolen.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: Server Room
+  kind: location
+  description: A secure room within the IT consulting company that houses the
+    company's AI infrastructure and GPUs. The site of the theft.
+  bibleReferences:
+    - bibleLevel: book
