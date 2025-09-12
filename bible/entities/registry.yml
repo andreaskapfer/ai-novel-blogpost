@@ -79,3 +79,10 @@
     the group's investigation and friendship dynamics.
   bibleReferences:
     - bibleLevel: book
+- id: 12
+  displayName: Mastermind Behind the Theft
+  kind: character
+  description: The individual responsible for orchestrating the theft of the GPUs.
+    Their motives and identity are central to the story's mystery.
+  bibleReferences:
+    - bibleLevel: book
