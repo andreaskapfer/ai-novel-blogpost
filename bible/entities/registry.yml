@@ -38,3 +38,10 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Rival Firms
+  kind: group
+  description: Competing IT companies that become involved in the investigation as
+    potential suspects or sources of information.
+  bibleReferences:
+    - bibleLevel: book
