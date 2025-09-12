@@ -1,0 +1,16 @@
+id: 13
+entityPropertiesReference:
+  bibleLevel: book
+notes: Corporate Bureaucracy is a recurring obstacle in the story, representing
+  the red tape and administrative hurdles that hinder the investigation and test
+  the nerd group's resolve.
+associatedEntities:
+  - entityId: 2
+    associationType: within
+  - entityId: 6
+    associationType: enforced by
+  - entityId: 1
+    associationType: obstacle for
+  - entityId: 14
+    associationType: tests
+concept: {}
