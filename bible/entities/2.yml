@@ -1,0 +1,20 @@
+entityId: 2
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: works at
+  - entityId: 3
+    associationType: has access to
+  - entityId: 4
+    associationType: relies on
+  - entityId: 5
+    associationType: reports to
+  - entityId: 6
+    associationType: investigates
+  - entityId: 7
+    associationType: opposes
+  - entityId: 9
+    associationType: solves
+  - entityId: 8
+    associationType: uncovers
