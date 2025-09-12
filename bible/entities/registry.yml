@@ -72,3 +72,10 @@
     perspectives to the team. Plays a significant role in the unfolding events.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: Nerd Group Member 3
+  kind: character
+  description: A member of the nerd group whose personality and actions influence
+    the group's investigation and friendship dynamics.
+  bibleReferences:
+    - bibleLevel: book
