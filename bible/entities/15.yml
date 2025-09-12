@@ -1,0 +1,8 @@
+entityId: 15
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: visited by
+  - entityId: 13
+    associationType: discussed at
