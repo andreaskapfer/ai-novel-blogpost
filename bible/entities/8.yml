@@ -1,0 +1,8 @@
+entityId: 8
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 7
+    associationType: committed by
+  - entityId: 2
+    associationType: discovered by
