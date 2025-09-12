@@ -1,0 +1,18 @@
+id: 8
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - AI System
+  - AI Stack
+notes: The technological heart of the company and the nerd group's pride. Its
+  fate is tied to the outcome of the story.
+associatedEntities:
+  - entityId: 1
+    associationType: maintained by
+  - entityId: 2
+    associationType: housed in
+  - entityId: 4
+    associationType: dependent on
+item:
+  appearance: A cluster of servers, racks of GPUs, and advanced networking hardware.
+  status: threatened
