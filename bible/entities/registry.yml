@@ -61,3 +61,11 @@
     story's conflict.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Mysterious Outsider
+  kind: character
+  description: An enigmatic figure who appears during the investigation,
+    possessing knowledge about the theft and complicating the nerd group's
+    efforts.
+  bibleReferences:
+    - bibleLevel: book
