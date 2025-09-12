@@ -1,0 +1,14 @@
+entityId: 10
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: part of
+  - entityId: 2
+    associationType: includes
+  - entityId: 3
+    associationType: responsible for
+  - entityId: 4
+    associationType: maintains
+  - entityId: 12
+    associationType: follows
