@@ -14,3 +14,11 @@
     the investigation into the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: ByteCrafters AI Infrastructure
+  kind: item
+  description: The advanced artificial intelligence system at ByteCrafters,
+    powered by a rack of high-end GPUs. Central to the company's operations and
+    the plot.
+  bibleReferences:
+    - bibleLevel: book
