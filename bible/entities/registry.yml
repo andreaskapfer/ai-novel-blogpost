@@ -100,6 +100,8 @@
     and sensitive company data.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 13
   displayName: AI Projects
   kind: concept
