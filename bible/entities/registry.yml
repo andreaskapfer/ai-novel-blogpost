@@ -182,3 +182,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 23
+  displayName: Suspicious Activity Report
+  kind: item
+  description: A report filed by the security guard about unusual activity near
+    the server room on the night of the theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
