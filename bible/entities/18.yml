@@ -1,0 +1,10 @@
+entityId: 18
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 17
+    associationType: uses as decoy
+  - entityId: 7
+    associationType: employs
+  - entityId: 8
+    associationType: orchestrates
