@@ -30,3 +30,11 @@
     the story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Mysterious Outsider
+  kind: character
+  description: An enigmatic figure seen near the server room around the time of
+    the GPU theft. Their motives and identity are central to the unfolding
+    mystery.
+  bibleReferences:
+    - bibleLevel: book
