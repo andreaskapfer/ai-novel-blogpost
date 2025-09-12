@@ -43,3 +43,10 @@
     the theft. Becomes a suspect in the investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Rival Company
+  kind: group
+  description: A competing company involved in the deeper conspiracy and corporate
+    espionage revealed later in the story.
+  bibleReferences:
+    - bibleLevel: book
