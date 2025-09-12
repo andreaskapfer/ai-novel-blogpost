@@ -31,3 +31,11 @@
     the story in motion.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Rival Company
+  kind: group
+  description: A competing tech company suspected of involvement in the GPU theft.
+    They become central antagonists as the nerd group investigates the
+    conspiracy.
+  bibleReferences:
+    - bibleLevel: book
