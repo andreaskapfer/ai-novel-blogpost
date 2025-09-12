@@ -53,3 +53,11 @@
     confronts suspects as part of their investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: AI Infrastructure
+  kind: item
+  description: The advanced artificial intelligence systems and hardware
+    maintained by the nerd group, central to the company's operations and the
+    story's conflict.
+  bibleReferences:
+    - bibleLevel: book
