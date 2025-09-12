@@ -93,3 +93,10 @@
     company that hinder the investigation and test the nerd group's resolve.
   bibleReferences:
     - bibleLevel: book
+- id: 14
+  displayName: Friendship
+  kind: concept
+  description: The bond between the members of the nerd group, tested and
+    strengthened throughout the events of the story.
+  bibleReferences:
+    - bibleLevel: book
