@@ -1,0 +1,49 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: "The story opens at ByteCrafters, a quirky IT consulting firm, where a
+      tight-knit group of nerdy colleagues—each with their own specialties—work
+      on maintaining the company’s prized AI infrastructure. The group’s
+      camaraderie is established through playful banter and shared geeky
+      interests. Suddenly, disaster strikes: the server room’s high-end GPUs,
+      essential for their AI projects, are discovered missing. The team’s
+      leader, Alex, rallies the group to investigate, determined to recover the
+      stolen hardware before the company’s reputation is ruined."
+    approximateNoOfWords: 25000
+  - index: 2
+    summary: The nerd group begins their investigation, uncovering clues that
+      suggest the theft was an inside job. Suspicion falls on several employees,
+      including a disgruntled ex-contractor and a mysterious night-shift
+      janitor. The team splits up to follow leads, using their technical skills
+      to analyze security footage, trace suspicious network activity, and decode
+      cryptic messages left behind. Tensions rise as trust is tested, but the
+      group’s friendship deepens as they share personal stories and support each
+      other through setbacks.
+    approximateNoOfWords: 35000
+  - index: 3
+    summary: The investigation leads the group outside the company, into the world
+      of underground tech markets and hacker meetups. They encounter eccentric
+      characters, face digital and real-world dangers, and must outwit a rival
+      hacker group also seeking the GPUs. The nerds’ unique talents—ranging from
+      coding and hardware hacking to social engineering—are put to the test.
+      Along the way, they confront their own insecurities and learn to rely on
+      each other’s strengths, forging a stronger bond.
+    approximateNoOfWords: 40000
+  - index: 4
+    summary: "After a series of close calls and clever deductions, the group
+      identifies the mastermind behind the theft: a former ByteCrafters employee
+      seeking revenge for a perceived slight. The nerds devise an elaborate plan
+      to recover the GPUs, involving a high-stakes infiltration of a tech expo
+      where the stolen hardware is to be sold. The plan requires each member to
+      play a crucial role, combining their skills in a coordinated effort. The
+      climax is tense and action-packed, testing their resolve and ingenuity."
+    approximateNoOfWords: 30000
+  - index: 5
+    summary: With the GPUs recovered and the culprit exposed, the group returns to
+      ByteCrafters as heroes. The company’s leadership recognizes their efforts,
+      and the nerds’ friendship is stronger than ever. Loose ends are tied up as
+      the team reflects on their adventure, the lessons learned, and the future
+      of their AI projects. The story closes with a hint of a new mystery on the
+      horizon, suggesting that the nerd group’s adventures are far from over.
+    approximateNoOfWords: 20000
