@@ -79,3 +79,10 @@
     decisions and a key figure in the management group.
   bibleReferences:
     - bibleLevel: book
+- id: 12
+  displayName: ByteCrafters Security Policy
+  kind: concept
+  description: The set of rules and protocols governing access to the server room
+    and sensitive company data.
+  bibleReferences:
+    - bibleLevel: book
