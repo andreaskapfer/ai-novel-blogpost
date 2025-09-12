@@ -1,0 +1,19 @@
+id: 2
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - The Company
+  - IT Firm
+notes: The main setting for much of the story. The company's stability and
+  reputation are threatened by the theft, creating stakes for the nerd group.
+associatedEntities:
+  - entityId: 1
+    associationType: main group
+  - entityId: 3
+    associationType: contains
+  - entityId: 4
+    associationType: lost item
+  - entityId: 8
+    associationType: AI infrastructure
+location:
+  status: active
