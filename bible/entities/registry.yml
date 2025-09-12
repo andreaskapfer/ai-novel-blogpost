@@ -121,3 +121,10 @@
     initially believed to be the thief.
   bibleReferences:
     - bibleLevel: book
+- id: 18
+  displayName: Mastermind
+  kind: character
+  description: The true mastermind behind the GPU theft and corporate espionage,
+    revealed in the final act.
+  bibleReferences:
+    - bibleLevel: book
