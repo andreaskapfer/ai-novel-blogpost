@@ -91,6 +91,8 @@
     decisions and a key figure in the management group.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 12
   displayName: ByteCrafters Security Policy
   kind: concept
