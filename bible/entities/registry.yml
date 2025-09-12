@@ -22,3 +22,10 @@
     the theft.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: High-end GPUs
+  kind: item
+  description: Powerful graphics processing units used for AI infrastructure at
+    ByteCrafters. Their theft triggers the main events of the story.
+  bibleReferences:
+    - bibleLevel: book
