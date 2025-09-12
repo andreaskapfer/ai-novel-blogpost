@@ -93,3 +93,10 @@
     nerd group at ByteCrafters, dependent on the high-end GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 14
+  displayName: Police Investigation
+  kind: backgroundEvent
+  description: The official police investigation into the GPU theft, running
+    parallel to the nerd group's own efforts.
+  bibleReferences:
+    - bibleLevel: book
