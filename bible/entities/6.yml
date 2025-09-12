@@ -1,0 +1,18 @@
+id: 6
+entityPropertiesReference:
+  bibleLevel: book
+notes: Management is the leadership group of the company, responsible for the
+  initial investigation and often at odds with the nerd group. They represent
+  both support and antagonism, especially as bureaucracy hinders progress.
+associatedEntities:
+  - entityId: 2
+    associationType: oversees
+  - entityId: 1
+    associationType: antagonists/support
+  - entityId: 7
+    associationType: collaborates with
+  - entityId: 8
+    associationType: rivals
+group:
+  emotionalArc: From authoritative and controlling to reluctantly supportive as
+    the nerd group proves their worth.
