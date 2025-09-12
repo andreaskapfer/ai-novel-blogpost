@@ -36,3 +36,10 @@
     source of obstacles for the nerd group during their investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Mysterious Outsider
+  kind: character
+  description: A mysterious figure seen near the server room around the time of
+    the theft. Becomes a suspect in the investigation.
+  bibleReferences:
+    - bibleLevel: book
