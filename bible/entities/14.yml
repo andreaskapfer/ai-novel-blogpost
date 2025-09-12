@@ -1,0 +1,8 @@
+entityId: 14
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 4
+    associationType: triggered by theft of
+  - entityId: 2
+    associationType: parallel to investigation by
