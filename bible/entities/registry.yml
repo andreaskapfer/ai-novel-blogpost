@@ -53,3 +53,10 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Underground Tech Communities
+  kind: group
+  description: Secretive online or offline groups involved in the tech
+    underground, potentially connected to the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
