@@ -65,3 +65,10 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: Nerd Group Member 2
+  kind: character
+  description: Another key member of the nerd group, bringing unique skills and
+    perspectives to the team. Plays a significant role in the unfolding events.
+  bibleReferences:
+    - bibleLevel: book
