@@ -1,0 +1,164 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: "Opening Scene: ByteCrafters in Action"
+    summary: The ByteCrafters office is alive with the nerd group collaborating on
+      their latest AI project. Each member’s technical specialty and personality
+      are showcased through banter and teamwork. The server room is introduced
+      as a secure, almost sacred space. Management pressures the team for
+      results, while the IT department enforces strict security protocols. The
+      group’s camaraderie is established through shared jokes, after-work gaming
+      sessions, and mutual respect.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 1
+        associationType: setting
+      - entityId: 2
+        associationType: protagonists
+      - entityId: 3
+        associationType: location
+      - entityId: 10
+        associationType: group
+      - entityId: 13
+        associationType: project
+  - order: 2
+    subdivisionIndex: 1
+    name: Establishing Stakes and Security
+    summary: Management reiterates the importance of the AI project and the value of
+      the GPUs. The IT department reviews security protocols, and the CEO makes
+      a brief appearance, emphasizing results. The nerd group bonds over their
+      shared mission and the pressure they face.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 5
+        associationType: antagonists
+      - entityId: 10
+        associationType: group
+      - entityId: 11
+        associationType: character
+      - entityId: 12
+        associationType: concept
+      - entityId: 2
+        associationType: protagonists
+  - order: 3
+    subdivisionIndex: 2
+    name: "Inciting Incident: The Theft"
+    summary: A routine morning is shattered when the nerd group discovers the server
+      room has been breached and all the GPUs are missing. Panic spreads as the
+      team realizes the magnitude of the loss. Management reacts with
+      frustration and suspicion, launching an internal review. The police are
+      called, but their investigation is slow and procedural. The nerd group,
+      feeling both accused and responsible, vows to uncover the truth
+      themselves.
+    emotionAtStart: neutral
+    emotionAtEnd: very_low
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonists
+      - entityId: 3
+        associationType: location
+      - entityId: 4
+        associationType: item
+      - entityId: 5
+        associationType: antagonists
+      - entityId: 14
+        associationType: backgroundEvent
+  - order: 4
+    subdivisionIndex: 2
+    name: Internal Fallout
+    summary: Management’s frustration and suspicion grow. The nerd group is
+      questioned and feels the weight of both accusation and responsibility. The
+      police investigation proceeds slowly, and the IT department is tasked with
+      reviewing all access logs and security footage.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 5
+        associationType: antagonists
+      - entityId: 14
+        associationType: backgroundEvent
+      - entityId: 10
+        associationType: group
+      - entityId: 2
+        associationType: protagonists
+  - order: 5
+    subdivisionIndex: 3
+    name: Debate and Theories
+    summary: The nerd group debates possible suspects and motives. Some members
+      suspect an inside job, others blame external threats. Management’s lack of
+      transparency and the CEO’s evasive responses fuel distrust. The team
+      reviews security footage and access logs, uncovering anomalies but no
+      clear answers. Tensions rise as the group’s friendship is tested by stress
+      and conflicting theories, but they agree to work together and keep their
+      own investigation secret.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonists
+      - entityId: 5
+        associationType: antagonists
+      - entityId: 11
+        associationType: character
+      - entityId: 12
+        associationType: concept
+  - order: 6
+    subdivisionIndex: 3
+    name: First Clues
+    summary: The nerd group finds anomalies in the access logs and security footage.
+      They begin to suspect a sophisticated breach. The group’s determination
+      grows as they realize the official investigation is going nowhere.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonists
+      - entityId: 10
+        associationType: group
+      - entityId: 12
+        associationType: concept
+  - order: 7
+    subdivisionIndex: 4
+    name: Discovery of the Outsider
+    summary: The group’s investigation leads to the discovery of a mysterious
+      outsider seen near the server room on the night of the theft. They gather
+      evidence from digital logs and witness accounts, piecing together a
+      timeline.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonists
+      - entityId: 6
+        associationType: suspect
+      - entityId: 3
+        associationType: location
+  - order: 8
+    subdivisionIndex: 4
+    name: United Resolve
+    summary: The act ends with the nerd group united in their determination to solve
+      the case, even as management’s scrutiny intensifies and the official
+      police investigation stalls. Their friendship is strengthened by
+      adversity.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 3000
+    associatedEntities:
+      - entityId: 2
+        associationType: protagonists
+      - entityId: 5
+        associationType: antagonists
+      - entityId: 14
+        associationType: backgroundEvent
