@@ -114,3 +114,10 @@
     the scavenger hunt for the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 17
+  displayName: Prime Suspect
+  kind: character
+  description: The individual cornered by the nerd group at the end of Act 3,
+    initially believed to be the thief.
+  bibleReferences:
+    - bibleLevel: book
