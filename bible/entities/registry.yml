@@ -6,3 +6,10 @@
     friendship is central to the story.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: The company where the main characters work. It relies heavily on
+    its AI infrastructure and is thrown into chaos when the GPUs are stolen.
+  bibleReferences:
+    - bibleLevel: book
