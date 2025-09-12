@@ -1,0 +1,12 @@
+entityId: 1
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: employs
+  - entityId: 3
+    associationType: contains
+  - entityId: 5
+    associationType: contains
+  - entityId: 4
+    associationType: owns
