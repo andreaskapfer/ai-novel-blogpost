@@ -50,3 +50,10 @@
     espionage revealed later in the story.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Corporate Espionage
+  kind: concept
+  description: The act of spying or using underhanded tactics between companies.
+    Central to the deeper conspiracy uncovered by the nerd group.
+  bibleReferences:
+    - bibleLevel: book
