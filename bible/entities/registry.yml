@@ -6,3 +6,11 @@
     the story.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: Nerd Group
+  kind: group
+  description: A close-knit group of ByteCrafters employees, each with their own
+    unique tech specialty. They form the core protagonists of the story and lead
+    the investigation into the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
