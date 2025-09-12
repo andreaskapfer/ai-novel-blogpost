@@ -50,3 +50,10 @@
     theft.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Rival Tech Teams
+  kind: group
+  description: Other technology teams within or outside the company who may be
+    suspected of involvement in the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
