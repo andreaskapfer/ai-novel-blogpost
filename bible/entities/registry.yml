@@ -64,3 +64,11 @@
     technical puzzles to recover the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: ByteCrafters IT Department
+  kind: group
+  description: The department within ByteCrafters responsible for maintaining the
+    server room and AI infrastructure. Includes both the nerd group and other
+    technical staff.
+  bibleReferences:
+    - bibleLevel: book
