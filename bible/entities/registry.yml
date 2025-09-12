@@ -23,3 +23,11 @@
     story's central mystery.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: Stolen GPUs
+  kind: item
+  description: High-end graphics processing units critical to the company's AI
+    infrastructure. Their theft threatens the company's biggest project and sets
+    the story in motion.
+  bibleReferences:
+    - bibleLevel: book
