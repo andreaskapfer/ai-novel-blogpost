@@ -1,0 +1,11 @@
+id: 14
+entityPropertiesReference:
+  bibleLevel: book
+notes: Friendship is the core theme of the novel, explored through the nerd
+  group's journey. It is tested by conflict and ultimately strengthened.
+associatedEntities:
+  - entityId: 1
+    associationType: theme of
+  - entityId: 13
+    associationType: tested by
+concept: {}
