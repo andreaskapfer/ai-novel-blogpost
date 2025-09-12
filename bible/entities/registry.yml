@@ -15,3 +15,11 @@
     company is thrown into chaos after the GPUs are stolen.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: Server Room
+  kind: location
+  description: A secure room within the IT consulting company where the AI
+    infrastructure and GPUs are housed. The site of the theft that sparks the
+    story's central mystery.
+  bibleReferences:
+    - bibleLevel: book
