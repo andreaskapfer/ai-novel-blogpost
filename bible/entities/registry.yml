@@ -57,3 +57,11 @@
     suspected of involvement in the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Nerd Group Member 1
+  kind: character
+  description: A core member of the nerd group, known for their technical
+    expertise and quirky personality. Central to the group's dynamic and
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
