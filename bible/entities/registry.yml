@@ -45,3 +45,10 @@
     group ventures here during their investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Corporate Espionage Scheme
+  kind: concept
+  description: A larger plot involving the theft of ByteCrafters' GPUs, revealing
+    a world of corporate espionage and high-stakes tech rivalry.
+  bibleReferences:
+    - bibleLevel: book
