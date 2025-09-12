@@ -107,3 +107,10 @@
     scavenger hunt for clues.
   bibleReferences:
     - bibleLevel: book
+- id: 16
+  displayName: Tech Convention
+  kind: location
+  description: A technology convention in the city, one of the key locations in
+    the scavenger hunt for the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
