@@ -45,3 +45,11 @@
     potential suspects or sources of information.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Hardware Resellers
+  kind: group
+  description: Shady individuals or organizations dealing in computer hardware,
+    including stolen goods. They interact with the nerd group during the
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
