@@ -42,3 +42,11 @@
     overseeing operations and the initial investigation into the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: IT Security Team
+  kind: group
+  description: The team responsible for maintaining the security of the company's
+    digital and physical assets. They conduct the initial investigation into the
+    theft.
+  bibleReferences:
+    - bibleLevel: book
