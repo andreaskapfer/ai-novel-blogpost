@@ -1,0 +1,14 @@
+id: 7
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - Conference
+  - Tech Expo
+notes: A pivotal location for the investigation and final confrontation.
+associatedEntities:
+  - entityId: 1
+    associationType: visited by
+  - entityId: 6
+    associationType: site of confrontation
+location:
+  status: active
