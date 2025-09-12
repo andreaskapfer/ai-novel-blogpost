@@ -1,0 +1,9 @@
+- id: 1
+  displayName: The Nerd Group
+  kind: group
+  description: A close-knit group of IT professionals at an IT consulting company,
+    known for their technical expertise, camaraderie, and friendly competition.
+    They are the protagonists of the story, banding together to solve the
+    mystery of the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
