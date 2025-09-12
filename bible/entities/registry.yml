@@ -6,3 +6,11 @@
     and its prized server room.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: Nerd Group
+  kind: group
+  description: A tight-knit group of nerdy employees at ByteCrafters, each with
+    their own technical specialty. They work together on ambitious AI projects
+    and are central to the story.
+  bibleReferences:
+    - bibleLevel: book
