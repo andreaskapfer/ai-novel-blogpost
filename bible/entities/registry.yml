@@ -30,3 +30,11 @@
     story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Management
+  kind: group
+  description: The leadership team of the IT consulting company, often
+    uncooperative and a source of obstacles for the nerd group during their
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
