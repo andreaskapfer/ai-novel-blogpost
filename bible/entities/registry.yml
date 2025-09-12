@@ -46,3 +46,10 @@
     orchestrating the theft in collaboration with the rival company.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Tech Conference
+  kind: location
+  description: A major technology event where the nerd group gathers evidence and
+    confronts suspects as part of their investigation.
+  bibleReferences:
+    - bibleLevel: book
