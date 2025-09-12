@@ -82,6 +82,8 @@
     technical staff.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 11
   displayName: ByteCrafters CEO
   kind: character
