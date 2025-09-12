@@ -1,0 +1,18 @@
+id: 9
+entityPropertiesReference:
+  bibleLevel: book
+aliases:
+  - The Outsider
+  - Unknown Figure
+notes: A mysterious character whose motives are unclear, complicating the
+  investigation and raising the stakes.
+associatedEntities:
+  - entityId: 1
+    associationType: suspected by
+  - entityId: 5
+    associationType: possible collaborator
+  - entityId: 6
+    associationType: possible informant
+character:
+  emotionalArc: From enigmatic and suspicious to revealed and resolved.
+  status: unknown
