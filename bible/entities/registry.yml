@@ -150,3 +150,11 @@
     revealed in the final act.
   bibleReferences:
     - bibleLevel: book
+- id: 19
+  displayName: ByteCrafters Reception
+  kind: location
+  description: The reception area of ByteCrafters, where employees and visitors
+    enter and are greeted. A minor but recurring location in Act 1.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
