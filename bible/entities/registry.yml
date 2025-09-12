@@ -28,3 +28,10 @@
     story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: AI Infrastructure
+  kind: concept
+  description: The collection of hardware and software systems that power the
+    company's artificial intelligence capabilities. Dependent on the GPUs.
+  bibleReferences:
+    - bibleLevel: book
