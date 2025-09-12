@@ -44,6 +44,8 @@
     source of obstacles for the nerd group during their investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 6
   displayName: Mysterious Outsider
   kind: character
