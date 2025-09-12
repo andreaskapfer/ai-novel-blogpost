@@ -118,6 +118,8 @@
     parallel to the nerd group's own efforts.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 15
   displayName: Hackerspace
   kind: location
