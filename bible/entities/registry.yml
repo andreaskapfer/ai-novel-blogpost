@@ -22,3 +22,11 @@
     the plot.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: High-End GPUs
+  kind: item
+  description: A rack of powerful graphics processing units that power
+    ByteCrafters' AI infrastructure. Their theft triggers the main conflict of
+    the story.
+  bibleReferences:
+    - bibleLevel: book
