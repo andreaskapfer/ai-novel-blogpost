@@ -39,3 +39,10 @@
     conspiracy.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Disgruntled Former Employee
+  kind: character
+  description: A former employee of the IT consulting company, suspected of
+    orchestrating the theft in collaboration with the rival company.
+  bibleReferences:
+    - bibleLevel: book
