@@ -57,3 +57,10 @@
     Central to the deeper conspiracy uncovered by the nerd group.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Hidden Message
+  kind: item
+  description: A message left by the thief, challenging the nerd group to solve
+    technical puzzles to recover the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
