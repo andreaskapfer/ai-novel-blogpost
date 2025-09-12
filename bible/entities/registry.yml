@@ -158,3 +158,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 20
+  displayName: Security Guard
+  kind: character
+  description: The security guard responsible for monitoring access to the server
+    room and main entrances. Questioned during the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
