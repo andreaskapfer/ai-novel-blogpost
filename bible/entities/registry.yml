@@ -6,3 +6,11 @@
     and personalities, and form the core protagonists of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: The workplace of the nerd group, specializing in IT consulting and
+    AI infrastructure. The company is thrown into chaos after the theft of its
+    GPUs.
+  bibleReferences:
+    - bibleLevel: book
