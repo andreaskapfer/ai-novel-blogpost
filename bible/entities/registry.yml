@@ -174,3 +174,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 22
+  displayName: After-work Gaming Sessions
+  kind: backgroundEvent
+  description: Regular gaming sessions held by the nerd group after work,
+    strengthening their camaraderie and trust.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
