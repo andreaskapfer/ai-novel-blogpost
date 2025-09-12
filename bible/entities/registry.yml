@@ -86,3 +86,10 @@
     and sensitive company data.
   bibleReferences:
     - bibleLevel: book
+- id: 13
+  displayName: AI Projects
+  kind: concept
+  description: The ambitious artificial intelligence projects developed by the
+    nerd group at ByteCrafters, dependent on the high-end GPUs.
+  bibleReferences:
+    - bibleLevel: book
