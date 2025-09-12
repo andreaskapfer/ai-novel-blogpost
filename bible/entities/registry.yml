@@ -59,3 +59,10 @@
     the investigation escalates and the company's future is threatened.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Law Enforcement
+  kind: group
+  description: Police and investigators who become involved as the GPU theft case
+    grows in complexity and scale.
+  bibleReferences:
+    - bibleLevel: book
