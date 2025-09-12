@@ -29,3 +29,10 @@
     ByteCrafters. Their theft triggers the main events of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Management
+  kind: group
+  description: The management team at ByteCrafters, sometimes uncooperative and a
+    source of obstacles for the nerd group during their investigation.
+  bibleReferences:
+    - bibleLevel: book
