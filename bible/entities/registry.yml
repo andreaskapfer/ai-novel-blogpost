@@ -72,3 +72,10 @@
     technical staff.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: ByteCrafters CEO
+  kind: character
+  description: The CEO of ByteCrafters, ultimately responsible for company
+    decisions and a key figure in the management group.
+  bibleReferences:
+    - bibleLevel: book
