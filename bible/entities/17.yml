@@ -1,0 +1,10 @@
+entityId: 17
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: cornered by
+  - entityId: 6
+    associationType: suspected to be
+  - entityId: 18
+    associationType: connected to
