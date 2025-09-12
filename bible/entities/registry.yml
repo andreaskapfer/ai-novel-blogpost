@@ -86,3 +86,10 @@
     Their motives and identity are central to the story's mystery.
   bibleReferences:
     - bibleLevel: book
+- id: 13
+  displayName: Corporate Bureaucracy
+  kind: concept
+  description: The complex administrative processes and red tape within the
+    company that hinder the investigation and test the nerd group's resolve.
+  bibleReferences:
+    - bibleLevel: book
