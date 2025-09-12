@@ -52,3 +52,10 @@
     a world of corporate espionage and high-stakes tech rivalry.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: ByteCrafters Upper Management
+  kind: group
+  description: The executive leadership of ByteCrafters, who become involved as
+    the investigation escalates and the company's future is threatened.
+  bibleReferences:
+    - bibleLevel: book
