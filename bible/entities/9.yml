@@ -1,8 +1,0 @@
-entityId: 9
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 2
-    associationType: solved by
-  - entityId: 4
-    associationType: leads to

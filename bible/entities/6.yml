@@ -1,8 +1,0 @@
-entityId: 6
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 2
-    associationType: suspected by
-  - entityId: 3
-    associationType: seen near
