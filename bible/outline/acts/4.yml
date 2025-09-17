@@ -1,0 +1,22 @@
+outlineReference:
+  bibleLevel: act
+  act: 4
+subdivisions:
+  - index: 1
+    summary: The nerd group prepares their sting operation, planting fake
+      credentials in the company’s system and setting up network monitoring
+      tools. Ben configures alerts for any unauthorized access attempts. Alex
+      and Mei coordinate with company security to watch the parking garage.
+      Priya keeps an eye on the internal network for suspicious activity. Late
+      at night, the intern Sam logs in and tries to use the fake credentials.
+      The group tracks Sam’s movements and prepares to confront him.
+    approximateNoOfWords: 100
+  - index: 2
+    summary: Alex and Mei intercept Sam as he attempts to meet Jordan in the parking
+      garage, where the stolen GPUs are being loaded into a van. Priya and Ben
+      join with security, and the group confronts both culprits. Sam confesses
+      to working with Jordan, revealing their plan to sell the GPUs. The police
+      arrive, arresting Sam and Jordan. The company’s reputation is restored,
+      and the GPUs are returned to the server room. The group is praised for
+      their teamwork and ingenuity.
+    approximateNoOfWords: 100
