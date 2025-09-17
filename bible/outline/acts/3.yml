@@ -1,0 +1,24 @@
+outlineReference:
+  bibleLevel: act
+  act: 3
+subdivisions:
+  - index: 1
+    summary: Alex and Mei follow the trail of the tampered security badge,
+      discovering it belonged to a recently terminated employee, Jordan. They
+      search Jordan’s old desk and find a crumpled note with a list of server
+      room access times. Meanwhile, Priya and Ben decrypt the files on the USB
+      drive, uncovering a spreadsheet of internal passwords and a chat log
+      discussing the sale of GPUs on the dark web. The group meets to compare
+      notes and realizes the theft was carefully planned, likely with inside
+      help.
+    approximateNoOfWords: 100
+  - index: 2
+    summary: The group interviews staff who worked late, focusing on Sam, the new
+      intern, whose background check reveals inconsistencies. Alex confronts
+      Sam, who nervously denies involvement but slips up about details only an
+      insider would know. Mei discovers a hidden camera in the break room,
+      cleverly disguised as a smoke detector, and retrieves its memory card.
+      Reviewing the footage, they spot Sam meeting with a hooded
+      figure—Jordan—late at night. The group decides to set a trap using fake
+      credentials to catch the culprits.
+    approximateNoOfWords: 100
