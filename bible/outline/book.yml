@@ -2,47 +2,50 @@ outlineReference:
   bibleLevel: book
 subdivisions:
   - index: 1
-    summary: The story opens by introducing the core group of nerdy friends working
-      at an IT consulting company. Each member’s unique personality, technical
-      specialty, and quirks are established through their interactions and daily
-      routines. The company’s reliance on its AI infrastructure is highlighted,
-      and the camaraderie among the group is shown as they collaborate on
-      projects and share inside jokes. The act ends with a glimpse of the server
-      room, foreshadowing its importance to the company and the group.
+    summary: "The novel opens with the nerd group—Alex, Priya, Ben, and Mei—at their
+      IT consulting company, Bytewise Solutions. Each is introduced through a
+      unique project: Alex troubleshoots a critical server, Priya codes a new AI
+      feature, Ben optimizes network security, and Mei manages client data.
+      Their banter and teamwork are highlighted during a lunch break in the
+      break room. The act ends with Alex giving a tour to a new intern, pausing
+      at the server room, where the company’s prized GPUs are kept under tight
+      security."
     approximateNoOfWords: 100
   - index: 2
-    summary: "The group arrives at work to discover chaos: the server room’s GPUs,
-      vital for the company’s AI operations, have been stolen overnight. Panic
-      spreads among staff and management, and the nerd group is tasked with
-      investigating the theft. They begin gathering clues, reviewing security
-      footage, and interviewing coworkers. Tensions rise as suspicions fall on
-      various employees, and the group’s friendship is tested by the stress and
-      pressure to solve the mystery quickly."
+    summary: The group arrives one morning to find the server room door forced open
+      and all GPUs missing. The company’s CEO, Ms. Ramirez, calls an emergency
+      meeting, assigning the nerd group to assist IT security in the
+      investigation. They examine the crime scene, discover a tampered security
+      badge, and notice erased surveillance footage. Priya finds a suspicious
+      email in the system logs, while Ben uncovers a hidden USB drive near the
+      server racks. The group splits up to follow these leads, determined to
+      recover the GPUs.
     approximateNoOfWords: 100
   - index: 3
-    summary: As the investigation deepens, the nerds uncover a web of secrets within
-      the company, including hidden rivalries, personal motives, and suspicious
-      behavior. They follow a trail of digital breadcrumbs, hack into encrypted
-      files, and use their technical prowess to piece together the puzzle. The
-      group faces setbacks and red herrings, but their determination grows.
-      Along the way, they confront their own insecurities and strengthen their
-      bonds, realizing the importance of trust and teamwork.
+    summary: Alex and Mei trace the tampered badge to a disgruntled ex-employee,
+      while Priya and Ben decrypt the USB drive, revealing a list of internal
+      passwords and a plan to sell the GPUs on the dark web. The group
+      interviews staff, uncovering that the intern Alex toured had lied about
+      their background. They set up a sting operation by planting fake
+      credentials in the system, hoping to lure the thief. Meanwhile, Mei
+      discovers a hidden camera in the break room, suggesting an inside
+      accomplice.
     approximateNoOfWords: 100
   - index: 4
-    summary: The nerd group narrows down the suspects and orchestrates a clever
-      sting operation to catch the thief. Using their combined skills, they set
-      a digital trap and monitor the company’s systems in real time. The climax
-      unfolds as the culprit is revealed in a dramatic confrontation, exposing
-      not only the theft but also deeper issues within the company. The group’s
-      ingenuity and unity are celebrated as they recover the stolen GPUs and
-      restore order.
+    summary: The sting operation is set in motion. The group monitors network
+      traffic and catches the intern attempting to access the fake credentials.
+      They confront the intern, who confesses to working with the ex-employee.
+      In a tense showdown in the parking garage, the group and company security
+      intercept the ex-employee trying to load the GPUs into a van. The police
+      arrive, arresting both culprits. The company’s reputation is saved, and
+      the GPUs are returned to the server room.
     approximateNoOfWords: 100
   - index: 5
-    summary: In the aftermath, the company implements new security measures and
-      acknowledges the nerd group’s contributions. The friends reflect on their
-      adventure, the lessons learned, and how the experience has changed them.
-      Their relationships are stronger, and they look forward to new challenges
-      together. The story closes with a lighthearted moment, hinting at future
-      mysteries and reaffirming the enduring spirit of friendship and curiosity
-      that binds the group.
+    summary: With the crisis resolved, Bytewise Solutions upgrades its security
+      protocols and publicly thanks the nerd group. The friends celebrate with a
+      pizza party, reflecting on their adventure and how their unique skills
+      contributed to solving the case. Alex is promoted to lead engineer, Priya
+      is offered a research grant, Ben is recognized for his cybersecurity
+      expertise, and Mei is given a new project lead role. The story ends with
+      the group joking about future mysteries, their bond stronger than ever.
     approximateNoOfWords: 100
