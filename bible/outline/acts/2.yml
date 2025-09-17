@@ -1,0 +1,23 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: The next morning, Alex arrives to find police cars outside Bytewise
+      Solutions. The server room door is ajar, and the GPUs are gone. The nerd
+      group gathers in shock as Ms. Ramirez, the CEO, calls an emergency
+      meeting. She tasks the group with supporting IT security in the
+      investigation. The group inspects the server room, noting a forced lock
+      and a tampered security badge on the floor. Ben checks the access logs,
+      while Priya reviews the erased surveillance footage. Mei interviews the
+      night janitor for any unusual activity.
+    approximateNoOfWords: 100
+  - index: 2
+    summary: "Priya discovers a suspicious email in the system logs, sent from an
+      internal account to an unknown address. Ben finds a hidden USB drive near
+      the server racks, containing encrypted files. The group splits up: Alex
+      and Mei question employees who worked late, while Priya and Ben analyze
+      the USB drive. Mei learns from the janitor that someone in a hoodie was
+      seen near the server room after hours. The group reconvenes to share
+      findings and plan their next steps in the investigation."
+    approximateNoOfWords: 100
