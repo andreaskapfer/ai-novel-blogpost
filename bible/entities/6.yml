@@ -8,5 +8,5 @@ associatedEntities:
     associationType: houses
   - entityId: 4
     associationType: stores
-  - entityId: 11
-    associationType: site of theft
+  - entityId: 29
+    associationType: monitored by
