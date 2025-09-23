@@ -1,0 +1,8 @@
+entityId: 22
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: assist
+  - entityId: 13
+    associationType: oppose
