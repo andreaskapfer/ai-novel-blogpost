@@ -1,0 +1,10 @@
+entityId: 16
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: use
+  - entityId: 8
+    associationType: use
+  - entityId: 9
+    associationType: use
