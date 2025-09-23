@@ -500,3 +500,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 63
+  displayName: Major Setback
+  kind: backgroundEvent
+  description: A significant event in which the protagonist's progress is
+    threatened or undone, serving as a turning point in the act.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
