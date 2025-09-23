@@ -1,0 +1,10 @@
+entityId: 5
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: main office of
+  - entityId: 2
+    associationType: workplace of
+  - entityId: 6
+    associationType: contains
