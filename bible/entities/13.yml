@@ -1,0 +1,16 @@
+entityId: 13
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: threatens
+  - entityId: 4
+    associationType: focuses on
+  - entityId: 11
+    associationType: includes
+  - entityId: 8
+    associationType: involves
+  - entityId: 9
+    associationType: involves
+  - entityId: 22
+    associationType: opposed by
