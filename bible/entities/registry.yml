@@ -387,3 +387,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 49
+  displayName: Break Room Snack Stash
+  kind: item
+  description: A legendary collection of snacks and energy drinks hidden in the
+    ByteCrafters break room, fueling late-night coding sessions.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
