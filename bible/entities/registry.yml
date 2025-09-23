@@ -202,3 +202,11 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 30
+  displayName: ByteCrafters Reception
+  kind: location
+  description: The front desk area of ByteCrafters Office, where visitors are
+    greeted and deliveries are received. A potential point of entry for the GPU
+    theft.
+  bibleReferences:
+    - bibleLevel: book
