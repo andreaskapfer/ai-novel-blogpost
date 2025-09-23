@@ -166,3 +166,10 @@
     their opponents during the investigation and climax.
   bibleReferences:
     - bibleLevel: book
+- id: 25
+  displayName: Lessons Learned
+  kind: concept
+  description: Insights and personal growth experienced by the nerds as a result
+    of their journey and challenges.
+  bibleReferences:
+    - bibleLevel: book
