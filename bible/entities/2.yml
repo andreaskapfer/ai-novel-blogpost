@@ -1,0 +1,34 @@
+entityId: 2
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: employees of
+  - entityId: 3
+    associationType: users of
+  - entityId: 4
+    associationType: rely on
+  - entityId: 5
+    associationType: work at
+  - entityId: 6
+    associationType: access
+  - entityId: 7
+    associationType: report to
+  - entityId: 10
+    associationType: serve
+  - entityId: 14
+    associationType: engage in
+  - entityId: 19
+    associationType: practice
+  - entityId: 20
+    associationType: share
+  - entityId: 21
+    associationType: experience
+  - entityId: 23
+    associationType: skilled in
+  - entityId: 24
+    associationType: use
+  - entityId: 26
+    associationType: form
+  - entityId: 27
+    associationType: look forward to
