@@ -124,3 +124,10 @@
     them outside the office.
   bibleReferences:
     - bibleLevel: book
+- id: 19
+  displayName: Teamwork
+  kind: concept
+  description: The collaborative effort and synergy among the nerds, crucial to
+    overcoming obstacles and solving the central mystery.
+  bibleReferences:
+    - bibleLevel: book
