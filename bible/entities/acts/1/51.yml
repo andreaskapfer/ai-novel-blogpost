@@ -1,0 +1,11 @@
+entityId: 51
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 29
+    associationType: maintained by
+  - entityId: 6
+    associationType: monitors
+  - entityId: 30
+    associationType: monitors
