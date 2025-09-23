@@ -635,3 +635,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 78
+  displayName: Protagonist's Pivotal Decision
+  kind: concept
+  description: A crucial choice made by the protagonist during the confrontation,
+    determining the outcome of the conflict and the fate of those involved.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
