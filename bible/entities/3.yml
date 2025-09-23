@@ -1,0 +1,14 @@
+entityId: 3
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: owned by
+  - entityId: 2
+    associationType: used by
+  - entityId: 4
+    associationType: powered by
+  - entityId: 6
+    associationType: housed in
+  - entityId: 12
+    associationType: enables
