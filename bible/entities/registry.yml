@@ -152,3 +152,10 @@
     during their investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 23
+  displayName: Hacking
+  kind: concept
+  description: Technical skills and activities used by the nerds to investigate
+    the theft and confront adversaries.
+  bibleReferences:
+    - bibleLevel: book
