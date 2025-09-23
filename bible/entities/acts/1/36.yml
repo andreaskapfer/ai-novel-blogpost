@@ -4,6 +4,10 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 42
-    associationType: habit
+    associationType: has habit
+  - entityId: 84
+    associationType: has workstation
   - entityId: 2
     associationType: member of
+  - entityId: 70
+    associationType: works at
