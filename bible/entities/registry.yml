@@ -145,3 +145,10 @@
     investigation, testing their trust in one another.
   bibleReferences:
     - bibleLevel: book
+- id: 22
+  displayName: Unexpected Allies
+  kind: group
+  description: Individuals or groups outside ByteCrafters who assist the nerds
+    during their investigation.
+  bibleReferences:
+    - bibleLevel: book
