@@ -158,6 +158,8 @@
     strengthened through their shared challenges.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 21
   displayName: Personal Conflicts
   kind: concept
