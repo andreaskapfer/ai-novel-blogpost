@@ -23,6 +23,8 @@
     GPUs and serving as the backbone of the company's business.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 4
   displayName: High-end GPUs
   kind: item
