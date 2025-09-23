@@ -96,3 +96,10 @@
     ByteCrafters, reflecting their camaraderie and subtle rivalries.
   bibleReferences:
     - bibleLevel: book
+- id: 15
+  displayName: Secrets of ByteCrafters' Past
+  kind: concept
+  description: Hidden aspects of ByteCrafters' history that are uncovered during
+    the investigation of the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
