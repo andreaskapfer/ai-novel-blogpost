@@ -315,6 +315,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 39
   displayName: Nerd 1's Signature Hoodie
   kind: outfitAttribute
