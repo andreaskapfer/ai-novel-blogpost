@@ -1,0 +1,13 @@
+entityId: 69
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: participates in
+  - entityId: 45
+    associationType: shapes
+  - entityId: 68
+    associationType: related to
+  - entityId: 49
+    associationType: centered on
