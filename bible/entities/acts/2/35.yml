@@ -1,0 +1,9 @@
+entityId: 35
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 34
+    associationType: colleague of
+  - entityId: 61
+    associationType: member of
