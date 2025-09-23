@@ -643,3 +643,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 79
+  displayName: Aftermath and Resolution
+  kind: backgroundEvent
+  description: The regrouping of the protagonist and surviving allies, the
+    consequences of the protagonist's choices, and the resolution of the
+    antagonist's threat.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
