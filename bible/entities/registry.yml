@@ -32,6 +32,8 @@
     ByteCrafters' AI infrastructure and the target of the central theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 5
   displayName: ByteCrafters Office
   kind: location
