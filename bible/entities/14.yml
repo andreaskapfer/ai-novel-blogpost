@@ -3,4 +3,8 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 2
-    associationType: engaged in
+    associationType: practiced by
+  - entityId: 32
+    associationType: enabled by
+  - entityId: 31
+    associationType: related to
