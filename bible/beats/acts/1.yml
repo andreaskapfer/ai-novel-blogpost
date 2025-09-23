@@ -1,0 +1,194 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image & Character Introductions
+    summary: The novel opens with a bustling morning at ByteCrafters. The nerds
+      arrive, each displaying their quirks—Nerd 1 with their signature hoodie
+      and coffee, Nerd 2 juggling gadgets, Nerd 3 humming a retro game tune,
+      Nerd 4 already deep in code, and Nerd 5 making a competitive remark. The
+      break room becomes a stage for office banter and subtle rivalries,
+      introducing the group’s camaraderie and the ByteCrafters culture. The
+      prized AI infrastructure and high-end GPUs are showcased, hinting at their
+      importance. Subtle tensions and secrets are woven into the interactions,
+      setting the stage for the central conflict.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 1
+        associationType: setting
+      - entityId: 2
+        associationType: group
+      - entityId: 3
+        associationType: object of focus
+      - entityId: 4
+        associationType: object of focus
+      - entityId: 5
+        associationType: location
+      - entityId: 28
+        associationType: location
+      - entityId: 14
+        associationType: theme
+      - entityId: 31
+        associationType: theme
+      - entityId: 34
+        associationType: character introduction
+      - entityId: 35
+        associationType: character introduction
+      - entityId: 36
+        associationType: character introduction
+      - entityId: 37
+        associationType: character introduction
+      - entityId: 38
+        associationType: character introduction
+  - order: 2
+    subdivisionIndex: 2
+    name: Backstories & Motivations
+    summary: Flashbacks and conversations reveal how each nerd joined ByteCrafters
+      and what drives their passion for technology. The team’s collaborative
+      spirit is contrasted with moments of competition and ambition.
+      Leadership’s expectations and the pressure to maintain ByteCrafters’
+      reputation are established, as is the critical role of the AI-powered
+      projects. The server room and its security protocols are described,
+      foreshadowing a vulnerability. Personal ambitions and subtle frictions
+      emerge, deepening the group dynamic.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 7
+        associationType: leadership
+      - entityId: 12
+        associationType: theme
+      - entityId: 3
+        associationType: object of focus
+      - entityId: 6
+        associationType: location
+      - entityId: 21
+        associationType: theme
+      - entityId: 19
+        associationType: theme
+      - entityId: 34
+        associationType: character focus
+      - entityId: 35
+        associationType: character focus
+      - entityId: 36
+        associationType: character focus
+      - entityId: 37
+        associationType: character focus
+      - entityId: 38
+        associationType: character focus
+  - order: 3
+    subdivisionIndex: 3
+    name: A Day at ByteCrafters
+    summary: "A typical workday unfolds: the nerds tackle client issues, brainstorm
+      solutions, and debate tech stacks. The internal chat platform buzzes with
+      memes and technical discussions, reflecting the group’s dynamic. Subtle
+      clues about security lapses and interpersonal frictions are dropped. The
+      IT security team collaborates with the nerds on a minor incident, hinting
+      at larger threats. The chapter ends with the team celebrating a small
+      project win, unaware of the looming disaster."
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 32
+        associationType: object
+      - entityId: 29
+        associationType: group
+      - entityId: 19
+        associationType: theme
+      - entityId: 21
+        associationType: theme
+      - entityId: 14
+        associationType: theme
+      - entityId: 31
+        associationType: theme
+      - entityId: 34
+        associationType: character focus
+      - entityId: 35
+        associationType: character focus
+      - entityId: 36
+        associationType: character focus
+      - entityId: 37
+        associationType: character focus
+      - entityId: 38
+        associationType: character focus
+  - order: 4
+    subdivisionIndex: 4
+    name: After Hours & Suspense
+    summary: As the office empties, the nerds’ personal lives and friendships are
+      explored. Some stay late for side projects or games, others share stories
+      in the break room. The server room hums quietly. A mysterious figure is
+      glimpsed near reception, raising questions about security. The building
+      settles into silence, setting a suspenseful tone for what’s to come.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 5
+        associationType: location
+      - entityId: 28
+        associationType: location
+      - entityId: 6
+        associationType: location
+      - entityId: 30
+        associationType: location
+      - entityId: 33
+        associationType: character introduction
+      - entityId: 20
+        associationType: theme
+      - entityId: 34
+        associationType: character focus
+      - entityId: 35
+        associationType: character focus
+      - entityId: 36
+        associationType: character focus
+      - entityId: 37
+        associationType: character focus
+      - entityId: 38
+        associationType: character focus
+  - order: 5
+    subdivisionIndex: 5
+    name: Foreshadowing & Tensions
+    summary: Private conversations and internal monologues hint at secrets,
+      ambitions, and unresolved conflicts among the nerds. The leadership team
+      discusses the company’s future and the importance of the AI
+      infrastructure. The final scene lingers on the server room’s locked door
+      and the high-end GPUs within, foreshadowing the impending theft and
+      leaving the reader with anticipation and unease.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 2
+        associationType: group
+      - entityId: 7
+        associationType: leadership
+      - entityId: 3
+        associationType: object of focus
+      - entityId: 4
+        associationType: object of focus
+      - entityId: 6
+        associationType: location
+      - entityId: 21
+        associationType: theme
+      - entityId: 34
+        associationType: character focus
+      - entityId: 35
+        associationType: character focus
+      - entityId: 36
+        associationType: character focus
+      - entityId: 37
+        associationType: character focus
+      - entityId: 38
+        associationType: character focus
