@@ -355,3 +355,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 45
+  displayName: ByteCrafters Office Culture
+  kind: concept
+  description: The unique blend of camaraderie, competition, and tech obsession
+    that defines daily life at ByteCrafters.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
