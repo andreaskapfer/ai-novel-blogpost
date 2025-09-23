@@ -1,0 +1,6 @@
+entityId: 19
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: practiced by
