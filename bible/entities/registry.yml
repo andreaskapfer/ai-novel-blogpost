@@ -82,3 +82,10 @@
     infrastructure and high-end GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 13
+  displayName: Conspiracy Against ByteCrafters
+  kind: concept
+  description: A larger plot revealed to be behind the GPU theft, threatening the
+    entire company.
+  bibleReferences:
+    - bibleLevel: book
