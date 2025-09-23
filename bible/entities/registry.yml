@@ -233,3 +233,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 34
+  displayName: Nerd 1 (Protagonist)
+  kind: character
+  description: A central member of the ByteCrafters nerds, known for technical
+    brilliance, quirky habits, and a key role in the unfolding events.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
