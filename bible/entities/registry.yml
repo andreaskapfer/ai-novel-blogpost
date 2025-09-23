@@ -476,3 +476,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 60
+  displayName: Complex Social Landscape
+  kind: concept
+  description: The intricate web of relationships, alliances, and rivalries that
+    define the protagonist's new environment.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
