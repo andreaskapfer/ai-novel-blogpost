@@ -5,3 +5,10 @@
     and cutting-edge AI infrastructure.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: Nerds of ByteCrafters
+  kind: group
+  description: The core group of skilled and passionate tech enthusiasts working
+    at ByteCrafters, each with unique skills and personalities.
+  bibleReferences:
+    - bibleLevel: book
