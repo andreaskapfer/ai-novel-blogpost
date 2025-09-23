@@ -584,3 +584,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 72
+  displayName: Antagonist's Stronghold
+  kind: location
+  description: The fortified base or headquarters where the antagonist resides and
+    where the climactic confrontation takes place. Filled with traps and
+    obstacles set by the antagonist's forces.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
