@@ -1,0 +1,7 @@
+entityId: 77
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 62
+    associationType: motivations of antagonist
