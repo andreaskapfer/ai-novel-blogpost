@@ -249,3 +249,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 36
+  displayName: Nerd 3
+  kind: character
+  description: Another key member of the ByteCrafters nerds, with a memorable
+    background and personal ambitions.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
