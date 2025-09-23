@@ -217,3 +217,10 @@
     both camaraderie and tension within the team.
   bibleReferences:
     - bibleLevel: book
+- id: 32
+  displayName: ByteCrafters Internal Chat
+  kind: item
+  description: The company's internal messaging platform, used for both official
+    communication and informal banter among the nerds.
+  bibleReferences:
+    - bibleLevel: book
