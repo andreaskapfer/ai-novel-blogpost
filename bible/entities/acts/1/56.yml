@@ -1,0 +1,9 @@
+entityId: 56
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 7
+    associationType: held by
+  - entityId: 47
+    associationType: related to
