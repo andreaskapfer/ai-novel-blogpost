@@ -1,0 +1,8 @@
+entityId: 12
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: developed by
+  - entityId: 3
+    associationType: powered by
