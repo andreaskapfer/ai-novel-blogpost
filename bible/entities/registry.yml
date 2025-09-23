@@ -138,3 +138,10 @@
     strengthened through their shared challenges.
   bibleReferences:
     - bibleLevel: book
+- id: 21
+  displayName: Personal Conflicts
+  kind: concept
+  description: Disagreements and tensions among the nerds that arise during the
+    investigation, testing their trust in one another.
+  bibleReferences:
+    - bibleLevel: book
