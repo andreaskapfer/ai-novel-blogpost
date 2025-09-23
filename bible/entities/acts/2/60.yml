@@ -1,0 +1,7 @@
+entityId: 60
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 34
+    associationType: must navigate
