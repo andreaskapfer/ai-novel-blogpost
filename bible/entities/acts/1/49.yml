@@ -1,0 +1,9 @@
+entityId: 49
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 28
+    associationType: stored in
+  - entityId: 2
+    associationType: consumed by
