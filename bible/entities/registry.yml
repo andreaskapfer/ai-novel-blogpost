@@ -508,3 +508,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 64
+  displayName: Deeper Stakes
+  kind: concept
+  description: The underlying, more significant consequences and conflicts that
+    the protagonist begins to sense in the new world.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
