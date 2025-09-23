@@ -492,3 +492,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 62
+  displayName: Antagonist or Rival
+  kind: character
+  description: A character who opposes the protagonist, making a decisive move
+    that exposes vulnerabilities and forces a crisis.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
