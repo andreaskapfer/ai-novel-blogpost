@@ -451,3 +451,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 57
+  displayName: Mentor Figure
+  kind: character
+  description: A wise and experienced individual who emerges to guide the
+    protagonist, challenging their motivations and helping them adapt to the new
+    world.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
