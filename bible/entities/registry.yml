@@ -159,3 +159,10 @@
     the theft and confront adversaries.
   bibleReferences:
     - bibleLevel: book
+- id: 24
+  displayName: Deception
+  kind: concept
+  description: Acts of misleading or tricking others, used by both the nerds and
+    their opponents during the investigation and climax.
+  bibleReferences:
+    - bibleLevel: book
