@@ -1,0 +1,9 @@
+entityId: 81
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 34
+    associationType: growth and reflection by protagonist
+  - entityId: 79
+    associationType: follows aftermath and resolution
