@@ -54,3 +54,10 @@
     investigation of the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Dark Web Figures
+  kind: group
+  description: Shadowy individuals from the dark web encountered by the nerds
+    during their investigation.
+  bibleReferences:
+    - bibleLevel: book
