@@ -5,5 +5,5 @@ bibleReference:
 associatedEntities:
   - entityId: 28
     associationType: stored in
-  - entityId: 2
-    associationType: consumed by
+  - entityId: 69
+    associationType: central to
