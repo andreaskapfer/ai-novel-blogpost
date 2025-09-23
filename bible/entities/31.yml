@@ -1,0 +1,10 @@
+entityId: 31
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: engaged by
+  - entityId: 32
+    associationType: facilitated by
+  - entityId: 14
+    associationType: related to
