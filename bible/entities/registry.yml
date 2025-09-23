@@ -331,3 +331,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 42
+  displayName: Nerd 3's Retro Game Tunes
+  kind: concept
+  description: The habit of humming classic video game melodies, a signature trait
+    of Nerd 3.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
