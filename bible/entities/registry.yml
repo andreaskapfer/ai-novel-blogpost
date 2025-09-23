@@ -443,3 +443,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 56
+  displayName: Leadership's Private Concerns
+  kind: concept
+  description: Worries and strategic discussions among ByteCrafters leadership
+    about the company's future and security.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
