@@ -1,0 +1,6 @@
+entityId: 27
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: anticipated by
