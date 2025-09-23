@@ -1,0 +1,36 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens by introducing the main nerd group at the IT consulting
+      company, highlighting their unique personalities, daily routines, and the
+      camaraderie that binds them. The company’s reliance on its powerful AI
+      infrastructure is established, and the importance of the GPUs in the
+      server room is made clear. Subtle hints of underlying tensions and
+      rivalries within the company are woven in, setting the stage for the
+      central conflict.
+    approximateNoOfWords: 100
+  - index: 2
+    summary: The nerd group discovers that all the GPUs in the server room have been
+      stolen, throwing the company into chaos. Management demands answers, and
+      suspicion falls on both internal and external actors. The group decides to
+      investigate the theft themselves, motivated by a mix of loyalty,
+      curiosity, and the desire to prove their worth. They begin gathering clues
+      and interviewing colleagues, uncovering surprising secrets.
+    approximateNoOfWords: 100
+  - index: 3
+    summary: As the investigation deepens, the nerds encounter a series of technical
+      and interpersonal challenges. They follow leads that take them into the
+      world of underground tech markets, corporate espionage, and hacker
+      subcultures. Their friendship is tested as stress mounts and suspicions
+      arise within the group. Meanwhile, the company’s operations suffer,
+      raising the stakes for a swift resolution.
+    approximateNoOfWords: 100
+  - index: 4
+    summary: The group narrows down the suspects and orchestrates a risky plan to
+      recover the stolen GPUs. They confront the mastermind behind the theft,
+      leading to a tense showdown that requires both technical ingenuity and
+      teamwork. In the aftermath, the nerds reflect on what they’ve learned
+      about themselves and each other, and the company begins to rebuild,
+      stronger and more united than before.
+    approximateNoOfWords: 100
