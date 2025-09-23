@@ -1,0 +1,16 @@
+entityId: 11
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: occurred at
+  - entityId: 4
+    associationType: involved
+  - entityId: 6
+    associationType: location
+  - entityId: 2
+    associationType: investigated by
+  - entityId: 7
+    associationType: response by
+  - entityId: 13
+    associationType: part of
