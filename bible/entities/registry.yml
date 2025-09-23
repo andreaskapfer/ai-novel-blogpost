@@ -403,3 +403,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 51
+  displayName: Suspicious Activity Log
+  kind: item
+  description: A digital log maintained by IT Security, recording unusual access
+    attempts and movements within the office.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
