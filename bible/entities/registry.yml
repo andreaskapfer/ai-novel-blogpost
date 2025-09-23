@@ -180,3 +180,10 @@
     overcoming the challenges together.
   bibleReferences:
     - bibleLevel: book
+- id: 27
+  displayName: New Adventures
+  kind: concept
+  description: The future opportunities and challenges anticipated by the nerds
+    after resolving the GPU theft and conspiracy.
+  bibleReferences:
+    - bibleLevel: book
