@@ -173,3 +173,10 @@
     of their journey and challenges.
   bibleReferences:
     - bibleLevel: book
+- id: 26
+  displayName: Strengthened Bonds
+  kind: concept
+  description: The deepened relationships and unity among the nerds after
+    overcoming the challenges together.
+  bibleReferences:
+    - bibleLevel: book
