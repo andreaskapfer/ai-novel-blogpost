@@ -26,3 +26,10 @@
     ByteCrafters' AI infrastructure and the target of the central theft.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: ByteCrafters Office
+  kind: location
+  description: The main workplace of ByteCrafters, where the nerds work,
+    socialize, and where the GPU theft occurs.
+  bibleReferences:
+    - bibleLevel: book
