@@ -218,6 +218,8 @@
     for informal conversations, snacks, and office banter.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 29
   displayName: ByteCrafters IT Security Team
   kind: group
