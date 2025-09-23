@@ -1,0 +1,8 @@
+entityId: 28
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 5
+    associationType: part of
+  - entityId: 2
+    associationType: gathered by
