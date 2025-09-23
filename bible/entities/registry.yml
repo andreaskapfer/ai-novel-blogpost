@@ -551,3 +551,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 68
+  displayName: Nerds' Daily Rituals
+  kind: concept
+  description: Recurring habits and routines of the ByteCrafters nerds, such as
+    morning coffee, gadget tinkering, and snack breaks, shaping the office
+    culture.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
