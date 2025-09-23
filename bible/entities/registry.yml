@@ -295,6 +295,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 37
   displayName: Nerd 4
   kind: character
