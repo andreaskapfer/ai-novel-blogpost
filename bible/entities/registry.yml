@@ -682,3 +682,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 82
+  displayName: Nerd 1's Desk
+  kind: location
+  description: The personalized workstation of Nerd 1, featuring their signature
+    hoodie draped over the chair, a clutter of code printouts, and a perpetually
+    full coffee mug.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
