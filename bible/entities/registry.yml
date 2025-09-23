@@ -19,3 +19,10 @@
     GPUs and serving as the backbone of the company's business.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: High-end GPUs
+  kind: item
+  description: Powerful graphics processing units that are essential to
+    ByteCrafters' AI infrastructure and the target of the central theft.
+  bibleReferences:
+    - bibleLevel: book
