@@ -247,6 +247,8 @@
     both camaraderie and tension within the team.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 32
   displayName: ByteCrafters Internal Chat
   kind: item
