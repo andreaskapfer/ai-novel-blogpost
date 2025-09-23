@@ -265,3 +265,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 38
+  displayName: Nerd 5
+  kind: character
+  description: A member of the ByteCrafters nerds, known for their competitive
+    streak and involvement in subtle office rivalries.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
