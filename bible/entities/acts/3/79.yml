@@ -1,0 +1,21 @@
+entityId: 79
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 34
+    associationType: protagonist
+  - entityId: 35
+    associationType: ally
+  - entityId: 36
+    associationType: ally
+  - entityId: 37
+    associationType: ally
+  - entityId: 38
+    associationType: ally
+  - entityId: 61
+    associationType: group of allies
+  - entityId: 62
+    associationType: antagonist
+  - entityId: 78
+    associationType: consequences of pivotal decision
