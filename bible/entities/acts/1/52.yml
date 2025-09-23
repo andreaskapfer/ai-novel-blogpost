@@ -1,0 +1,15 @@
+entityId: 52
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 34
+    associationType: pursued by
+  - entityId: 35
+    associationType: pursued by
+  - entityId: 36
+    associationType: pursued by
+  - entityId: 37
+    associationType: pursued by
+  - entityId: 38
+    associationType: pursued by
