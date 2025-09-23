@@ -602,3 +602,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 74
+  displayName: Protagonist's New Knowledge
+  kind: concept
+  description: The insights, skills, or information acquired by the protagonist in
+    previous acts, now crucial for overcoming the antagonist's defenses.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
