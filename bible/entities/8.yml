@@ -1,0 +1,10 @@
+entityId: 8
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: rival of
+  - entityId: 2
+    associationType: opposed to
+  - entityId: 13
+    associationType: involved in
