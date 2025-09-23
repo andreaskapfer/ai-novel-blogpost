@@ -117,3 +117,10 @@
     GPUs and confront rival groups.
   bibleReferences:
     - bibleLevel: book
+- id: 18
+  displayName: Physical Dangers
+  kind: concept
+  description: Real-world threats faced by the nerds as their investigation leads
+    them outside the office.
+  bibleReferences:
+    - bibleLevel: book
