@@ -89,3 +89,10 @@
     entire company.
   bibleReferences:
     - bibleLevel: book
+- id: 14
+  displayName: Office Banter
+  kind: concept
+  description: The daily humorous and competitive interactions among the nerds at
+    ByteCrafters, reflecting their camaraderie and subtle rivalries.
+  bibleReferences:
+    - bibleLevel: book
