@@ -4,10 +4,12 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 39
-    associationType: always wears
+    associationType: owns outfit
   - entityId: 40
-    associationType: always uses
+    associationType: owns item
+  - entityId: 82
+    associationType: has workstation
   - entityId: 2
     associationType: member of
-  - entityId: 44
-    associationType: rivalry with Nerd 5
+  - entityId: 70
+    associationType: works at
