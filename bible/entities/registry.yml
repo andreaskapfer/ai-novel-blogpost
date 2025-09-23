@@ -627,3 +627,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 77
+  displayName: Antagonist's Motivations
+  kind: concept
+  description: The underlying reasons and goals driving the antagonist's actions,
+    revealed during the climactic confrontation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
