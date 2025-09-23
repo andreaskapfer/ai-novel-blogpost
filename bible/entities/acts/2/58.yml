@@ -1,0 +1,9 @@
+entityId: 58
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 34
+    associationType: tests
+  - entityId: 61
+    associationType: challenge for
