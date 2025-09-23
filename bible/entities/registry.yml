@@ -411,3 +411,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 52
+  displayName: Nerds' Side Projects
+  kind: concept
+  description: Personal coding and hardware projects pursued by the nerds after
+    hours, sometimes leading to innovation or trouble.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
