@@ -3,8 +3,6 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 1
-    associationType: lead
+    associationType: manages
   - entityId: 2
-    associationType: pressure
-  - entityId: 11
-    associationType: respond to
+    associationType: pressures
