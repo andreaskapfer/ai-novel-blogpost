@@ -315,3 +315,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 40
+  displayName: Nerd 1's Coffee Mug
+  kind: item
+  description: A personalized coffee mug, always filled and never far from Nerd
+    1's workstation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
