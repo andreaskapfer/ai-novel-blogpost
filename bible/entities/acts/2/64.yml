@@ -1,0 +1,7 @@
+entityId: 64
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 34
+    associationType: realized by
