@@ -5,6 +5,8 @@
     and cutting-edge AI infrastructure.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 2
   displayName: Nerds of ByteCrafters
   kind: group
