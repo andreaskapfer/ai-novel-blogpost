@@ -68,3 +68,10 @@
     threatens project deadlines and company reputation.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: Theft of the GPUs
+  kind: backgroundEvent
+  description: The central event in which all high-end GPUs are stolen from
+    ByteCrafters' server room, triggering the main conflict of the story.
+  bibleReferences:
+    - bibleLevel: book
