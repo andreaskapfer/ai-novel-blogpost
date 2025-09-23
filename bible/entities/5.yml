@@ -3,8 +3,10 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 1
-    associationType: main office of
-  - entityId: 2
-    associationType: workplace of
+    associationType: part of
   - entityId: 6
+    associationType: contains
+  - entityId: 28
+    associationType: contains
+  - entityId: 30
     associationType: contains
