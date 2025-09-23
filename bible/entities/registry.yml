@@ -257,3 +257,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 37
+  displayName: Nerd 4
+  kind: character
+  description: A ByteCrafters nerd whose skills and quirks add to the team's
+    diversity and office banter.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
