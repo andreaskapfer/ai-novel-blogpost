@@ -40,3 +40,10 @@
     infrastructure and high-end GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: ByteCrafters Leadership
+  kind: group
+  description: The management team of ByteCrafters, responsible for company
+    decisions and pressuring the nerds to recover the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
