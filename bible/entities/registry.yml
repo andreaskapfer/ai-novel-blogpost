@@ -187,3 +187,10 @@
     after resolving the GPU theft and conspiracy.
   bibleReferences:
     - bibleLevel: book
+- id: 28
+  displayName: ByteCrafters Break Room
+  kind: location
+  description: A casual space within ByteCrafters Office where the nerds gather
+    for informal conversations, snacks, and office banter.
+  bibleReferences:
+    - bibleLevel: book
