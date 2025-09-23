@@ -699,3 +699,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 84
+  displayName: Nerd 3's Desk
+  kind: location
+  description: Nerd 3's workstation, decorated with retro gaming memorabilia and
+    headphones for humming along to classic tunes.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
