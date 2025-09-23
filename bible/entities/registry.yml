@@ -75,3 +75,10 @@
     ByteCrafters' server room, triggering the main conflict of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 12
+  displayName: AI-Powered Projects
+  kind: concept
+  description: The various technology projects at ByteCrafters that rely on the AI
+    infrastructure and high-end GPUs.
+  bibleReferences:
+    - bibleLevel: book
