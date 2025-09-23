@@ -1,0 +1,11 @@
+entityId: 68
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: practiced by
+  - entityId: 45
+    associationType: shapes
+  - entityId: 69
+    associationType: related to
