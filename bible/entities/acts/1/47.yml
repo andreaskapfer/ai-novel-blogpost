@@ -1,0 +1,9 @@
+entityId: 47
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 7
+    associationType: set by
+  - entityId: 2
+    associationType: imposed on
