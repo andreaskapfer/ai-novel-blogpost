@@ -167,6 +167,8 @@
     investigation, testing their trust in one another.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 22
   displayName: Unexpected Allies
   kind: group
