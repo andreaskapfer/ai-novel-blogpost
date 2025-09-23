@@ -1,0 +1,7 @@
+- id: 1
+  displayName: ByteCrafters
+  kind: group
+  description: A quirky IT consulting company known for its talented team of nerds
+    and cutting-edge AI infrastructure.
+  bibleReferences:
+    - bibleLevel: book
