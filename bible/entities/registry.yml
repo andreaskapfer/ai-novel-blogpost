@@ -61,3 +61,10 @@
     during their investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: ByteCrafters Clients
+  kind: group
+  description: Clients of ByteCrafters who grow restless as the GPU theft
+    threatens project deadlines and company reputation.
+  bibleReferences:
+    - bibleLevel: book
