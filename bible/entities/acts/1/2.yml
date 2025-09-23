@@ -3,9 +3,13 @@ bibleReference:
   bibleLevel: act
   act: 1
 associatedEntities:
-  - entityId: 68
-    associationType: practices
-  - entityId: 69
-    associationType: participates in
-  - entityId: 70
-    associationType: works at
+  - entityId: 34
+    associationType: has member
+  - entityId: 35
+    associationType: has member
+  - entityId: 36
+    associationType: has member
+  - entityId: 37
+    associationType: has member
+  - entityId: 38
+    associationType: has member
