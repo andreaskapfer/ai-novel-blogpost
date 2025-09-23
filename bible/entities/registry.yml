@@ -707,3 +707,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 85
+  displayName: Nerd 4's Desk
+  kind: location
+  description: A desk dominated by multiple monitors, open code windows, and
+    sticky notes with algorithm sketches, belonging to Nerd 4.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
