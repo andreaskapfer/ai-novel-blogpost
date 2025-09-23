@@ -241,3 +241,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 35
+  displayName: Nerd 2
+  kind: character
+  description: A core ByteCrafters nerd, distinguished by unique technical skills
+    and a distinct personality, contributing to the team's dynamic.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
