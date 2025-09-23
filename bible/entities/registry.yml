@@ -277,6 +277,8 @@
       act: 1
     - bibleLevel: act
       act: 2
+    - bibleLevel: act
+      act: 3
 - id: 35
   displayName: Nerd 2
   kind: character
