@@ -47,3 +47,10 @@
     decisions and pressuring the nerds to recover the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Rival Tech Firms
+  kind: group
+  description: Competing technology companies that become involved in the
+    investigation of the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
