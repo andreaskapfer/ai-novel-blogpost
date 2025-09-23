@@ -238,6 +238,8 @@
     theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 31
   displayName: Office Rivalries
   kind: concept
