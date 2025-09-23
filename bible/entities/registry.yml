@@ -339,3 +339,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 43
+  displayName: Nerd 4's Code Window
+  kind: item
+  description: The perpetually open code editor on Nerd 4's screen, filled with
+    complex algorithms and side projects.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
