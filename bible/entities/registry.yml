@@ -468,3 +468,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 59
+  displayName: Unfamiliar Customs
+  kind: concept
+  description: The new social norms, behaviors, and expectations the protagonist
+    must navigate in the new world.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
