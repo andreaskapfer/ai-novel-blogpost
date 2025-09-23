@@ -1,0 +1,54 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The novel opens with a lively morning at ByteCrafters, as the nerds
+      arrive at the office, each displaying their quirks and routines. The
+      reader is introduced to the main characters through their interactions in
+      the break room and at their desks, highlighting their diverse technical
+      skills and personalities. Office banter and subtle rivalries are woven
+      into the daily workflow, establishing the group’s camaraderie. The
+      company’s prized AI infrastructure and the importance of the high-end GPUs
+      are showcased, setting the stage for the central conflict. Hints of
+      underlying tensions and secrets are subtly introduced.
+    approximateNoOfWords: 3500
+  - index: 2
+    summary: The narrative delves deeper into the backgrounds and motivations of the
+      core nerds. Flashbacks and conversations reveal how each member joined
+      ByteCrafters and what drives their passion for technology. The team’s
+      collaborative spirit is contrasted with moments of competition and
+      personal ambition. The leadership’s expectations and the pressure to
+      maintain ByteCrafters’ reputation are established, as is the critical role
+      of the AI-powered projects. The server room and its security protocols are
+      described, foreshadowing the vulnerability that will soon be exploited.
+    approximateNoOfWords: 3500
+  - index: 3
+    summary: A typical workday unfolds, with the nerds tackling client issues,
+      brainstorming solutions, and engaging in playful debates over the best
+      tech stacks. The internal chat platform buzzes with memes and technical
+      discussions, reflecting the group’s dynamic. Subtle clues about potential
+      security lapses and interpersonal frictions are dropped. The IT security
+      team is introduced, collaborating with the nerds on a minor incident,
+      which hints at larger threats. The chapter ends with the team celebrating
+      a small project win, unaware of the looming disaster.
+    approximateNoOfWords: 3500
+  - index: 4
+    summary: After-hours at ByteCrafters reveal more about the nerds’ personal lives
+      and friendships. Some stay late to work on side projects or play games,
+      while others share stories in the break room. The office empties out, and
+      the server room is shown in its quiet, humming state. A mysterious figure
+      is briefly glimpsed near the reception area, raising questions about
+      security. The chapter closes with the building settling into silence,
+      setting a suspenseful tone for the events to come.
+    approximateNoOfWords: 3500
+  - index: 5
+    summary: The act concludes with a focus on the relationships and subtle tensions
+      among the nerds. Private conversations and internal monologues hint at
+      secrets, ambitions, and unresolved conflicts. The leadership team
+      discusses the company’s future and the importance of the AI
+      infrastructure, emphasizing what’s at stake. The final scene subtly
+      foreshadows the impending theft, with a lingering shot of the server
+      room’s locked door and the high-end GPUs within, leaving the reader with a
+      sense of anticipation and unease.
+    approximateNoOfWords: 4000
