@@ -660,3 +660,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 81
+  displayName: Protagonist's Growth and Reflection
+  kind: concept
+  description: The protagonist's acknowledgment of personal growth, loss, and the
+    lessons learned throughout the journey.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
