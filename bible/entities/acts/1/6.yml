@@ -3,5 +3,7 @@ bibleReference:
   bibleLevel: act
   act: 1
 associatedEntities:
-  - entityId: 71
-    associationType: monitored by
+  - entityId: 3
+    associationType: houses
+  - entityId: 4
+    associationType: stores
