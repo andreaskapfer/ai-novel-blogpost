@@ -1,0 +1,12 @@
+entityId: 6
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 5
+    associationType: part of
+  - entityId: 3
+    associationType: houses
+  - entityId: 4
+    associationType: stores
+  - entityId: 11
+    associationType: site of theft
