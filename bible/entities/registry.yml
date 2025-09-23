@@ -33,3 +33,10 @@
     socialize, and where the GPU theft occurs.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Server Room
+  kind: location
+  description: A secure room within ByteCrafters Office housing the AI
+    infrastructure and high-end GPUs.
+  bibleReferences:
+    - bibleLevel: book
