@@ -194,3 +194,11 @@
     for informal conversations, snacks, and office banter.
   bibleReferences:
     - bibleLevel: book
+- id: 29
+  displayName: ByteCrafters IT Security Team
+  kind: group
+  description: A specialized group within ByteCrafters responsible for maintaining
+    digital and physical security, often collaborating with the nerds during the
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
