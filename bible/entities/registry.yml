@@ -593,3 +593,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 73
+  displayName: Traps and Obstacles
+  kind: concept
+  description: A series of physical and digital challenges set by the antagonist
+    to prevent the protagonist and their allies from reaching the antagonist's
+    stronghold.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
