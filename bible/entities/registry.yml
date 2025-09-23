@@ -363,3 +363,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 46
+  displayName: Server Room Security Protocols
+  kind: concept
+  description: A set of digital and physical security measures designed to protect
+    ByteCrafters' server room and its valuable contents.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
