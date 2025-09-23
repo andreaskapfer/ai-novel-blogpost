@@ -427,3 +427,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 54
+  displayName: Unspoken Secrets
+  kind: concept
+  description: Personal or professional secrets held by the nerds, hinted at
+    through private conversations and monologues.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
