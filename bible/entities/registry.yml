@@ -560,3 +560,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 69
+  displayName: ByteCrafters Snack Economy
+  kind: concept
+  description: The informal system of trading, hoarding, and sharing snacks among
+    ByteCrafters employees, symbolizing camaraderie and rivalry.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
