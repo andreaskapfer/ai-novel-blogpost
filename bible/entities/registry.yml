@@ -379,3 +379,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 48
+  displayName: Personal Ambitions of the Nerds
+  kind: concept
+  description: The individual goals and aspirations that drive each nerd,
+    sometimes clashing with team objectives.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
