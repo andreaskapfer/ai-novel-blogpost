@@ -1,0 +1,26 @@
+entityId: 1
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: core team
+  - entityId: 3
+    associationType: owns
+  - entityId: 4
+    associationType: possesses
+  - entityId: 5
+    associationType: located at
+  - entityId: 6
+    associationType: contains
+  - entityId: 7
+    associationType: led by
+  - entityId: 10
+    associationType: serves
+  - entityId: 12
+    associationType: develops
+  - entityId: 13
+    associationType: target of
+  - entityId: 15
+    associationType: has secrets
+  - entityId: 11
+    associationType: victim of
