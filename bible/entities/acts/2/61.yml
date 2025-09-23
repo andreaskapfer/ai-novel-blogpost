@@ -3,9 +3,11 @@ bibleReference:
   bibleLevel: act
   act: 2
 associatedEntities:
-  - entityId: 34
-    associationType: allied with
-  - entityId: 62
-    associationType: some are opposed by
-  - entityId: 57
-    associationType: guided by
+  - entityId: 35
+    associationType: includes
+  - entityId: 36
+    associationType: includes
+  - entityId: 37
+    associationType: includes
+  - entityId: 38
+    associationType: includes
