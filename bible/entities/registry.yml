@@ -210,3 +210,10 @@
     theft.
   bibleReferences:
     - bibleLevel: book
+- id: 31
+  displayName: Office Rivalries
+  kind: concept
+  description: Subtle and overt competitions among ByteCrafters employees, fueling
+    both camaraderie and tension within the team.
+  bibleReferences:
+    - bibleLevel: book
