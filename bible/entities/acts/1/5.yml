@@ -3,9 +3,11 @@ bibleReference:
   bibleLevel: act
   act: 1
 associatedEntities:
-  - entityId: 67
-    associationType: organized by
-  - entityId: 71
-    associationType: monitored by
+  - entityId: 28
+    associationType: contains
   - entityId: 70
+    associationType: contains
+  - entityId: 6
+    associationType: contains
+  - entityId: 30
     associationType: contains
