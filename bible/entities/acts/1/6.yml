@@ -1,0 +1,11 @@
+entityId: 6
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 3
+    associationType: houses
+  - entityId: 4
+    associationType: houses
+  - entityId: 5
+    associationType: locatedIn
