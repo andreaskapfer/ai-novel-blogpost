@@ -419,3 +419,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 53
+  displayName: Nerds' Internal Rivalries
+  kind: concept
+  description: Subtle competitions and one-upmanship among the nerds, sometimes
+    playful, sometimes serious.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
