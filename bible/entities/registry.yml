@@ -323,3 +323,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 41
+  displayName: Nerd 2's Gadget Collection
+  kind: item
+  description: A rotating array of tech gadgets and tools that Nerd 2 is
+    constantly tinkering with.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
