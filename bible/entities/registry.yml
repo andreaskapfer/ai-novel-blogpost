@@ -371,3 +371,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 47
+  displayName: Leadership Expectations
+  kind: concept
+  description: The high standards and pressure imposed by ByteCrafters leadership
+    on the nerds to maintain reputation and project success.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
