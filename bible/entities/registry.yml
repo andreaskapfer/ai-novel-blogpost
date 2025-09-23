@@ -542,3 +542,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 67
+  displayName: ByteCrafters Office Layout
+  kind: concept
+  description: The spatial arrangement of ByteCrafters Office, including the
+    server room, break room, and reception, influencing daily interactions and
+    security.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
