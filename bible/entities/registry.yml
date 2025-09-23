@@ -516,3 +516,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 65
+  displayName: Shifted Goals
+  kind: concept
+  description: The protagonist's evolving objectives as they become more invested
+    in the fate of those around them.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
