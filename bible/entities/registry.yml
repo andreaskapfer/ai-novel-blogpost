@@ -435,3 +435,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 55
+  displayName: Foreshadowed Vulnerability
+  kind: concept
+  description: A subtle flaw in the server room security, noticed by a few but not
+    acted upon, setting up the impending theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
