@@ -4,6 +4,10 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 41
-    associationType: owns
+    associationType: owns item
+  - entityId: 83
+    associationType: has workstation
   - entityId: 2
     associationType: member of
+  - entityId: 70
+    associationType: works at
