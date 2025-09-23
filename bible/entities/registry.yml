@@ -103,3 +103,10 @@
     the investigation of the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 16
+  displayName: Social Engineering Schemes
+  kind: concept
+  description: Tactics involving manipulation and deception used by both the nerds
+    and their adversaries during the investigation.
+  bibleReferences:
+    - bibleLevel: book
