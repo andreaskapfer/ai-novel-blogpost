@@ -1,0 +1,9 @@
+entityId: 78
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 34
+    associationType: decision by protagonist
+  - entityId: 76
+    associationType: determines outcome of confrontation
