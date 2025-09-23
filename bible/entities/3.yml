@@ -4,8 +4,6 @@ bibleReference:
 associatedEntities:
   - entityId: 1
     associationType: owned by
-  - entityId: 2
-    associationType: used by
   - entityId: 4
     associationType: powered by
   - entityId: 6
