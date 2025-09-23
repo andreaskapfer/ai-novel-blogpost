@@ -307,3 +307,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 39
+  displayName: Nerd 1's Signature Hoodie
+  kind: outfitAttribute
+  description: A well-worn hoodie that Nerd 1 always wears, symbolizing comfort
+    and focus during coding marathons.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
