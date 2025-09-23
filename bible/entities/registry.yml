@@ -568,3 +568,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 70
+  displayName: Nerds' Workstations
+  kind: location
+  description: Personalized desk spaces of each nerd, reflecting their
+    personalities and technical specialties.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
