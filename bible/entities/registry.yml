@@ -41,6 +41,8 @@
     socialize, and where the GPU theft occurs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 6
   displayName: Server Room
   kind: location
