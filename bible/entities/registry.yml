@@ -131,3 +131,10 @@
     overcoming obstacles and solving the central mystery.
   bibleReferences:
     - bibleLevel: book
+- id: 20
+  displayName: Friendship
+  kind: concept
+  description: The bonds of camaraderie and mutual support among the nerds,
+    strengthened through their shared challenges.
+  bibleReferences:
+    - bibleLevel: book
