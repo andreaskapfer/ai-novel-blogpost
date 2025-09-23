@@ -1,0 +1,9 @@
+entityId: 73
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 72
+    associationType: located in
+  - entityId: 62
+    associationType: set by antagonist
