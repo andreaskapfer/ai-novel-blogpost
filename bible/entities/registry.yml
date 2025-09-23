@@ -256,6 +256,8 @@
     communication and informal banter among the nerds.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 33
   displayName: Mysterious Figure
   kind: character
