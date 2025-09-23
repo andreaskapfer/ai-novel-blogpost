@@ -1,0 +1,29 @@
+entityId: 36
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: memberOf
+  - entityId: 1
+    associationType: employeeOf
+  - entityId: 5
+    associationType: worksAt
+  - entityId: 28
+    associationType: gathersIn
+  - entityId: 6
+    associationType: hasAccessTo
+  - entityId: 3
+    associationType: uses
+  - entityId: 4
+    associationType: reliesOn
+  - entityId: 14
+    associationType: engagesIn
+  - entityId: 19
+    associationType: exhibits
+  - entityId: 20
+    associationType: experiences
+  - entityId: 21
+    associationType: involvedIn
+  - entityId: 31
+    associationType: participatesIn
