@@ -149,6 +149,8 @@
     overcoming obstacles and solving the central mystery.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 20
   displayName: Friendship
   kind: concept
