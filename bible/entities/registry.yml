@@ -652,3 +652,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 80
+  displayName: Lingering Scars and Questions
+  kind: concept
+  description: The unresolved issues, emotional wounds, and open threads that
+    remain after the main conflict is resolved.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
