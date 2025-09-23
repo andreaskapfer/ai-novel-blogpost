@@ -1,0 +1,9 @@
+entityId: 80
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 34
+    associationType: emotional scars
+  - entityId: 61
+    associationType: affects allies
