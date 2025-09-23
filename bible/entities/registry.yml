@@ -484,3 +484,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 61
+  displayName: Key Secondary Characters
+  kind: group
+  description: Important supporting characters whose relationships with the
+    protagonist deepen and reveal hidden agendas.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
