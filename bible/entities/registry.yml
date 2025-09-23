@@ -395,3 +395,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 50
+  displayName: After-Hours Gaming Sessions
+  kind: concept
+  description: Informal gatherings where the nerds unwind with multiplayer games
+    after work, strengthening their bonds.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
