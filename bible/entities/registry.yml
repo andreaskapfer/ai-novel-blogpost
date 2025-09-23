@@ -715,3 +715,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 86
+  displayName: Nerd 5's Desk
+  kind: location
+  description: Nerd 5's competitive spirit is evident in their meticulously
+    organized desk, leaderboard printouts, and a stash of energy drinks.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
