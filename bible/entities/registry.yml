@@ -512,6 +512,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+    - bibleLevel: act
+      act: 3
 - id: 62
   displayName: Antagonist or Rival
   kind: character
