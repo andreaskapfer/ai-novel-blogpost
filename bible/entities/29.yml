@@ -1,0 +1,12 @@
+entityId: 29
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: protects
+  - entityId: 2
+    associationType: supports
+  - entityId: 6
+    associationType: monitors
+  - entityId: 17
+    associationType: responds to
