@@ -110,3 +110,10 @@
     and their adversaries during the investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 17
+  displayName: Cyberattacks
+  kind: backgroundEvent
+  description: Digital attacks encountered by the nerds as they pursue the stolen
+    GPUs and confront rival groups.
+  bibleReferences:
+    - bibleLevel: book
