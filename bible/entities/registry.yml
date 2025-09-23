@@ -619,3 +619,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 76
+  displayName: Climactic Confrontation
+  kind: backgroundEvent
+  description: The final, decisive battle between the protagonist and the
+    antagonist, involving both physical and psychological elements.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
