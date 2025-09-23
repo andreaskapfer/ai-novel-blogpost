@@ -1,0 +1,33 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: The protagonist, having crossed the threshold into the new world, faces
+      immediate challenges that test their resolve and adaptability. They
+      encounter unfamiliar customs and must navigate a complex social landscape,
+      quickly realizing that their old ways of thinking may not serve them here.
+      Early mistakes lead to minor setbacks, but also open opportunities for
+      unexpected alliances. The protagonist begins to sense the deeper stakes at
+      play, as hints of a larger conflict emerge.
+    approximateNoOfWords: 90
+  - index: 2
+    summary: A mentor figure emerges, offering guidance but also posing difficult
+      questions that force the protagonist to confront their own motivations.
+      Through a series of trials—both physical and emotional—the protagonist
+      learns new skills and gains insights into the world’s underlying rules.
+      Relationships with key secondary characters deepen, revealing hidden
+      agendas and forging bonds that will prove crucial later. The protagonist’s
+      initial goals begin to shift as they become more invested in the fate of
+      those around them.
+    approximateNoOfWords: 95
+  - index: 3
+    summary: The protagonist faces a major setback that threatens to undo their
+      progress. An antagonist or rival makes a decisive move, exposing the
+      protagonist’s vulnerabilities and forcing them to make a difficult choice.
+      In the aftermath, the protagonist must rally their allies and reassess
+      their strategy. This crisis serves as a turning point, hardening the
+      protagonist’s resolve and clarifying what is truly at stake. The act ends
+      with the protagonist preparing for the next, more dangerous phase of their
+      journey.
+    approximateNoOfWords: 90
