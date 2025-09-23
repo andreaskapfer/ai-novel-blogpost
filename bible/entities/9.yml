@@ -1,0 +1,8 @@
+entityId: 9
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: encountered by
+  - entityId: 13
+    associationType: involved in
