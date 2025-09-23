@@ -4,6 +4,10 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 44
-    associationType: embodies
+    associationType: has personality trait
+  - entityId: 86
+    associationType: has workstation
   - entityId: 2
     associationType: member of
+  - entityId: 70
+    associationType: works at
