@@ -347,3 +347,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 44
+  displayName: Nerd 5's Competitive Streak
+  kind: personalityTrait
+  description: A drive to outdo others, fueling both friendly rivalry and
+    occasional tension within the team.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
