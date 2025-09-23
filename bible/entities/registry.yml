@@ -610,3 +610,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 75
+  displayName: Allies' Unique Skills
+  kind: concept
+  description: The specialized abilities and talents of the protagonist's allies,
+    each contributing to overcoming specific challenges in the antagonist's
+    stronghold.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
