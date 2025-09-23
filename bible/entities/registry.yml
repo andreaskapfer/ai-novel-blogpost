@@ -12,3 +12,10 @@
     at ByteCrafters, each with unique skills and personalities.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: ByteCrafters AI Infrastructure
+  kind: item
+  description: The prized AI infrastructure at ByteCrafters, powered by high-end
+    GPUs and serving as the backbone of the company's business.
+  bibleReferences:
+    - bibleLevel: book
