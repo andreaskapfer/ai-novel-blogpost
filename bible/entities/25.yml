@@ -1,0 +1,6 @@
+entityId: 25
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: experienced by
