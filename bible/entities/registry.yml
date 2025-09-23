@@ -576,3 +576,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 71
+  displayName: ByteCrafters Security Cameras
+  kind: item
+  description: A network of surveillance cameras monitoring key areas of
+    ByteCrafters Office, including the server room and reception.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
