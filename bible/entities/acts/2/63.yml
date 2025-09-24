@@ -1,0 +1,7 @@
+entityId: 63
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 65
+    associationType: discovered in
