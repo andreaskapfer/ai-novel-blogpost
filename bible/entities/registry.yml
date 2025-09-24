@@ -177,6 +177,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 17
   displayName: Suspicion
   kind: concept
