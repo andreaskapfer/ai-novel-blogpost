@@ -225,3 +225,10 @@
     which is threatened by the theft and subsequent investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 33
+  displayName: Suspicion
+  kind: emotionalState
+  description: A pervasive feeling among the nerd group and company staff after
+    the theft, leading to mistrust and internal conflict.
+  bibleReferences:
+    - bibleLevel: book
