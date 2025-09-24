@@ -737,3 +737,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 84
+  displayName: Trust Issues
+  kind: concept
+  description: The internal conflicts and doubts among the nerd group as they
+    begin to question each other's alibis and motives.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
