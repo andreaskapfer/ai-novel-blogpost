@@ -20,3 +20,10 @@
     on, powered by a bank of high-end GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: High-End GPUs
+  kind: item
+  description: A bank of high-performance graphics processing units essential for
+    the company's AI infrastructure. Their theft triggers the main conflict.
+  bibleReferences:
+    - bibleLevel: book
