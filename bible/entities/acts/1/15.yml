@@ -4,6 +4,6 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 2
-    associationType: located in
-  - entityId: 1
-    associationType: frequented by
+    associationType: part of company
+  - entityId: 7
+    associationType: gathering place for coworkers
