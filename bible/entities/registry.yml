@@ -13,3 +13,10 @@
     room, and various departments. The main setting for much of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: AI Infrastructure
+  kind: item
+  description: A powerful artificial intelligence system that the company relies
+    on, powered by a bank of high-end GPUs.
+  bibleReferences:
+    - bibleLevel: book
