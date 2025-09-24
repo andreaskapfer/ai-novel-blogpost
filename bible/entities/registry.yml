@@ -621,3 +621,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 73
+  displayName: Emergency Response Protocol
+  kind: concept
+  description: The company's official procedure for responding to security
+    breaches and emergencies, enacted after the theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
