@@ -455,3 +455,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 57
+  displayName: Speculation and Concern
+  kind: emotionalState
+  description: The growing sense of unease and suspicion among the nerd group as
+    rumors of hardware thefts circulate.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
