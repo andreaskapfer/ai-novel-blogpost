@@ -761,3 +761,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 87
+  displayName: Renewed Resolve
+  kind: emotionalState
+  description: A sense of renewed determination and camaraderie among the nerd
+    group as they reaffirm their commitment to solving the case.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
