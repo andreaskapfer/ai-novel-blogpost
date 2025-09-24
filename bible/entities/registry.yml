@@ -112,3 +112,10 @@
     nerd group, confronted during their investigation and adventure.
   bibleReferences:
     - bibleLevel: book
+- id: 17
+  displayName: Unexpected Alliances
+  kind: concept
+  description: Alliances formed by the nerd group with unlikely partners during
+    their investigation, aiding them in their quest.
+  bibleReferences:
+    - bibleLevel: book
