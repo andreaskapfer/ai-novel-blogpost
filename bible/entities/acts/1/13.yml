@@ -1,0 +1,9 @@
+entityId: 13
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 6
+    associationType: leads
+  - entityId: 2
+    associationType: CEO of
