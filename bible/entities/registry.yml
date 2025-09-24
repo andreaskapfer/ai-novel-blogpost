@@ -327,3 +327,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 41
+  displayName: Morning Rush
+  kind: backgroundEvent
+  description: The daily energetic arrival of employees at the IT consulting
+    company, setting the tone for the office environment.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
