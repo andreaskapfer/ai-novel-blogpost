@@ -136,6 +136,8 @@
     overheard secrets.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 16
   displayName: Security Footage
   kind: item
