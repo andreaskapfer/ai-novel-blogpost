@@ -84,3 +84,10 @@
     of multiple parties, uncovered by the nerd group.
   bibleReferences:
     - bibleLevel: book
+- id: 13
+  displayName: Mastermind
+  kind: character
+  description: The main antagonist behind the GPU theft and the larger conspiracy,
+    confronted by the nerd group in the climax.
+  bibleReferences:
+    - bibleLevel: book
