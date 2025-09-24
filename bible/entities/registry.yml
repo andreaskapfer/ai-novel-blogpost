@@ -126,6 +126,8 @@
     investigating the GPU theft and maintaining order.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 15
   displayName: Break Room
   kind: location
