@@ -745,3 +745,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 85
+  displayName: Emergency Management Meeting
+  kind: backgroundEvent
+  description: An emergency meeting called by management to address the lack of
+    progress and mounting client complaints.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
