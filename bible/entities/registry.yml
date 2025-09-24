@@ -108,3 +108,10 @@
     overheard secrets.
   bibleReferences:
     - bibleLevel: book
+- id: 16
+  displayName: Security Footage
+  kind: item
+  description: Digital recordings from the company’s surveillance system, crucial
+    evidence in the investigation of the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
