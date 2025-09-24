@@ -4,12 +4,14 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 1
-    associationType: member of
+    associationType: member of nerd group
+  - entityId: 18
+    associationType: member of IT Department
   - entityId: 9
-    associationType: works with
+    associationType: collaborates with Alex
   - entityId: 10
-    associationType: works with
+    associationType: collaborates with Priya
   - entityId: 12
-    associationType: works with
-  - entityId: 4
-    associationType: maintains
+    associationType: collaborates with Mei
+  - entityId: 5
+    associationType: maintains server room
