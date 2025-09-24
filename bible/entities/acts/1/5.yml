@@ -1,0 +1,15 @@
+entityId: 5
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 3
+    associationType: houses
+  - entityId: 4
+    associationType: houses
+  - entityId: 29
+    associationType: protected by
+  - entityId: 2
+    associationType: part of
+  - entityId: 40
+    associationType: site of unusual access attempt
