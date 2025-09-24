@@ -240,6 +240,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 23
   displayName: Power Outage
   kind: backgroundEvent
