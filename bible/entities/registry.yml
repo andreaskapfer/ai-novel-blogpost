@@ -72,3 +72,10 @@
     cautious, often uncovering subtle clues and vulnerabilities others miss.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: "Nerd Group Member: Sam"
+  kind: character
+  description: Sam is the hardware specialist, passionate about GPUs and server
+    maintenance, and is deeply affected by the theft.
+  bibleReferences:
+    - bibleLevel: book
