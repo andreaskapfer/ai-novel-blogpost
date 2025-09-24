@@ -208,6 +208,8 @@
     detail-oriented, and passionate about technology.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 27
   displayName: "Nerd Group Member: Sam"
   kind: character
