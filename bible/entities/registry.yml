@@ -375,3 +375,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 47
+  displayName: Data Analysis Reports
+  kind: item
+  description: The analytical reports reviewed by Sam, demonstrating his data
+    science skills.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
