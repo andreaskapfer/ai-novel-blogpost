@@ -217,6 +217,8 @@
     and often the voice of reason during heated moments.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 28
   displayName: "Nerd Group Member: Jamie"
   kind: character
