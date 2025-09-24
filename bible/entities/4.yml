@@ -1,0 +1,12 @@
+entityId: 4
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: property of
+  - entityId: 3
+    associationType: enables
+  - entityId: 5
+    associationType: stored in
+  - entityId: 8
+    associationType: subject of
