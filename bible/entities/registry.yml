@@ -175,3 +175,10 @@
     resourceful, quick-witted, and fiercely loyal to her friends.
   bibleReferences:
     - bibleLevel: book
+- id: 26
+  displayName: "Nerd Group Member: Marcus"
+  kind: character
+  description: The hardware specialist of the nerd group, Marcus is meticulous,
+    detail-oriented, and passionate about technology.
+  bibleReferences:
+    - bibleLevel: book
