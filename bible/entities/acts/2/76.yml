@@ -1,0 +1,15 @@
+entityId: 76
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 1
+    associationType: conducted by
+  - entityId: 7
+    associationType: targets
+  - entityId: 30
+    associationType: targets
+  - entityId: 66
+    associationType: reveals
+  - entityId: 67
+    associationType: suggests
