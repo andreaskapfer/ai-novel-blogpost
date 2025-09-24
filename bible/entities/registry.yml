@@ -232,3 +232,10 @@
     the theft, leading to mistrust and internal conflict.
   bibleReferences:
     - bibleLevel: book
+- id: 34
+  displayName: Pressure to Perform
+  kind: concept
+  description: The intense expectation placed on the nerd group by management and
+    clients to resolve the crisis and restore company operations.
+  bibleReferences:
+    - bibleLevel: book
