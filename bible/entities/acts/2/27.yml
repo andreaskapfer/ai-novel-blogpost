@@ -1,0 +1,11 @@
+entityId: 27
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 24
+    associationType: conspires with
+  - entityId: 26
+    associationType: benefits from
+  - entityId: 25
+    associationType: communicates with
