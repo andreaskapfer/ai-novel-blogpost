@@ -115,3 +115,10 @@
     evidence in the investigation of the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 17
+  displayName: Suspicion
+  kind: concept
+  description: The pervasive atmosphere of mistrust and doubt that arises after
+    the GPU theft, affecting relationships and group dynamics.
+  bibleReferences:
+    - bibleLevel: book
