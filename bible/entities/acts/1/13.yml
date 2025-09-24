@@ -4,6 +4,6 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 6
-    associationType: leads
-  - entityId: 2
-    associationType: CEO of
+    associationType: leads management
+  - entityId: 21
+    associationType: announces project
