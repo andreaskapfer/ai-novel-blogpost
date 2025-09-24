@@ -1,0 +1,12 @@
+entityId: 3
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: hosted at
+  - entityId: 4
+    associationType: powered by
+  - entityId: 5
+    associationType: located in
+  - entityId: 1
+    associationType: maintained by
