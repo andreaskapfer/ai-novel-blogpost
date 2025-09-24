@@ -1,0 +1,11 @@
+entityId: 75
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 14
+    associationType: initiated by
+  - entityId: 1
+    associationType: threatened by
+  - entityId: 34
+    associationType: increases
