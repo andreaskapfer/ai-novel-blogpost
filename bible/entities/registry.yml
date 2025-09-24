@@ -556,3 +556,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 65
+  displayName: Internal Investigation
+  kind: concept
+  description: The process initiated by the nerd group to uncover the truth behind
+    the GPU theft, involving reviewing evidence, interviewing staff, and
+    analyzing clues.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
