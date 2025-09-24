@@ -211,3 +211,10 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 31
+  displayName: Break-In Event
+  kind: backgroundEvent
+  description: The covert break-in to the server room resulting in the theft of
+    the high-end GPUs, setting off the main conflict of the story.
+  bibleReferences:
+    - bibleLevel: book
