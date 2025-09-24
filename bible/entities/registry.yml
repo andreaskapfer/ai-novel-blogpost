@@ -44,6 +44,8 @@
     infrastructure are housed. The site of the theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 6
   displayName: Management
   kind: group
