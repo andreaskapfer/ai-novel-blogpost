@@ -548,3 +548,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 64
+  displayName: Company Café Meeting
+  kind: backgroundEvent
+  description: A secret meeting of the nerd group at a local café to regroup,
+    share findings, and strategize their next steps in the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
