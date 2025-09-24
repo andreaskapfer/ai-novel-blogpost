@@ -293,3 +293,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 29
+  displayName: Job Threat
+  kind: status
+  description: The risk to Sam's employment as the investigation escalates and
+    management becomes more hostile.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
