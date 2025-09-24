@@ -1,0 +1,15 @@
+entityId: 71
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 5
+    associationType: secures
+  - entityId: 4
+    associationType: protects
+  - entityId: 3
+    associationType: protects
+  - entityId: 72
+    associationType: triggers
+  - entityId: 1
+    associationType: discovered by
