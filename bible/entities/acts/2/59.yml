@@ -1,7 +1,0 @@
-entityId: 59
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 34
-    associationType: must adapt to

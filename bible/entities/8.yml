@@ -1,8 +1,0 @@
-entityId: 8
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 2
-    associationType: competes with
-  - entityId: 9
-    associationType: collaborates with

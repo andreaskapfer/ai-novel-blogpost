@@ -1,8 +1,0 @@
-entityId: 15
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 1
-    associationType: history of
-  - entityId: 2
-    associationType: discovered by

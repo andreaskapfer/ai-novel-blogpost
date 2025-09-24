@@ -1,9 +1,0 @@
-entityId: 76
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 34
-    associationType: protagonist
-  - entityId: 62
-    associationType: antagonist

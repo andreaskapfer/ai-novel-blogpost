@@ -1,9 +1,0 @@
-entityId: 62
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 34
-    associationType: antagonist to
-  - entityId: 61
-    associationType: rival to

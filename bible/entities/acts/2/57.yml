@@ -1,9 +1,0 @@
-entityId: 57
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 34
-    associationType: mentor to
-  - entityId: 61
-    associationType: advisor to

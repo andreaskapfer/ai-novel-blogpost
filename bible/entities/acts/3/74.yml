@@ -1,7 +1,0 @@
-entityId: 74
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 34
-    associationType: acquired by protagonist

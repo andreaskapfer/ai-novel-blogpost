@@ -1,9 +1,0 @@
-entityId: 72
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 62
-    associationType: location of antagonist
-  - entityId: 73
-    associationType: contains traps and obstacles
