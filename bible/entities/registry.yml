@@ -713,3 +713,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 81
+  displayName: Discreet Interviews
+  kind: backgroundEvent
+  description: A series of discreet interviews conducted by the nerd group with
+    staff and contractors to uncover inconsistencies and possible suspects.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
