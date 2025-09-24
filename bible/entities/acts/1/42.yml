@@ -1,0 +1,11 @@
+entityId: 42
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 1
+    associationType: shared by
+  - entityId: 18
+    associationType: related to
+  - entityId: 23
+    associationType: strengthens
