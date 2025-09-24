@@ -271,3 +271,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 39
+  displayName: Rumors of Hardware Thefts
+  kind: backgroundEvent
+  description: Reports of hardware thefts at other tech companies, discussed by
+    the nerd group and foreshadowing future events.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
