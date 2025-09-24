@@ -784,3 +784,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 90
+  displayName: Compromised Server
+  kind: item
+  description: A server that was compromised during the break-in, where the
+    encrypted message was left.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
