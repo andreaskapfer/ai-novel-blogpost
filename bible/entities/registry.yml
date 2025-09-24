@@ -800,3 +800,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 92
+  displayName: Whiteboard Scenarios
+  kind: item
+  description: Possible break-in scenarios sketched by Jamie on the office
+    whiteboard to encourage creative thinking.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
