@@ -1,0 +1,12 @@
+entityId: 5
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: part of
+  - entityId: 3
+    associationType: houses
+  - entityId: 4
+    associationType: houses
+  - entityId: 1
+    associationType: accessed by
