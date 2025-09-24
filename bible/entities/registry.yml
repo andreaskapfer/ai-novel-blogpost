@@ -6,3 +6,11 @@
     the story's investigation and dynamics.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: The workplace where the main characters are employed. The company
+    relies heavily on its AI infrastructure and is thrown into chaos after the
+    GPU theft.
+  bibleReferences:
+    - bibleLevel: book
