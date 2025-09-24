@@ -1,0 +1,9 @@
+entityId: 15
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: located in
+  - entityId: 1
+    associationType: frequented by
