@@ -1,0 +1,16 @@
+entityId: 31
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 5
+    associationType: occurred at
+  - entityId: 4
+    associationType: resulted in theft of
+  - entityId: 29
+    associationType: bypassed
+  - entityId: 7
+    associationType: suspected involvement
+  - entityId: 6
+    associationType: investigates
+  - entityId: 1
+    associationType: investigates
