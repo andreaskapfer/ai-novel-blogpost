@@ -50,3 +50,10 @@
     suspects or provide information during the investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: GPU Theft
+  kind: backgroundEvent
+  description: The pivotal event in which all GPUs are stolen from the server
+    room, triggering the main plot and investigation.
+  bibleReferences:
+    - bibleLevel: book
