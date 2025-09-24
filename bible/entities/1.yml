@@ -2,15 +2,13 @@ entityId: 1
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 2
-    associationType: works at
-  - entityId: 6
-    associationType: reports to
-  - entityId: 7
-    associationType: works with
-  - entityId: 4
-    associationType: investigates theft of
-  - entityId: 3
-    associationType: maintains
-  - entityId: 5
-    associationType: frequents
+  - entityId: 9
+    associationType: has member
+  - entityId: 10
+    associationType: has member
+  - entityId: 11
+    associationType: has member
+  - entityId: 12
+    associationType: has member
+  - entityId: 17
+    associationType: affected by
