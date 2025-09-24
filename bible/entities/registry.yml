@@ -57,3 +57,11 @@
     room, triggering the main plot and investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: "Nerd Group Member: Alex"
+  kind: character
+  description: A core member of the nerd group, Alex is known for their sharp wit,
+    deep technical knowledge, and leadership qualities. Often acts as the
+    informal spokesperson and motivator for the group.
+  bibleReferences:
+    - bibleLevel: book
