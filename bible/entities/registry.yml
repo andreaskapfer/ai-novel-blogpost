@@ -218,3 +218,10 @@
     the high-end GPUs, setting off the main conflict of the story.
   bibleReferences:
     - bibleLevel: book
+- id: 32
+  displayName: Company Reputation
+  kind: concept
+  description: The public and industry perception of the IT consulting company,
+    which is threatened by the theft and subsequent investigation.
+  bibleReferences:
+    - bibleLevel: book
