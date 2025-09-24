@@ -182,3 +182,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 21
+  displayName: Company-Wide Announcement
+  kind: backgroundEvent
+  description: A formal communication from management about the major upcoming
+    project, setting the stakes and urgency for the entire company.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
