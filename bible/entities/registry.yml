@@ -56,3 +56,10 @@
     investigation, involved in the trade of high-end computer hardware.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Hackers
+  kind: group
+  description: A group of skilled individuals operating outside the law,
+    encountered by the nerds as they investigate the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
