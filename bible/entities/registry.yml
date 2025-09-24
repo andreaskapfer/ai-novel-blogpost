@@ -423,3 +423,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 53
+  displayName: Outdated Hardware
+  kind: item
+  description: Aging computer equipment that frustrates Marcus and poses
+    challenges to the nerd group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
