@@ -613,3 +613,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 72
+  displayName: Alarm System
+  kind: item
+  description: The electronic alarm system that was triggered during the break-in,
+    alerting staff to the theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
