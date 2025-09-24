@@ -49,3 +49,10 @@
     various projects, some of whom become suspects in the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Hardware Resellers
+  kind: group
+  description: A shadowy group encountered by the nerds during their
+    investigation, involved in the trade of high-end computer hardware.
+  bibleReferences:
+    - bibleLevel: book
