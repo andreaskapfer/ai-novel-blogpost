@@ -239,3 +239,11 @@
     clients to resolve the crisis and restore company operations.
   bibleReferences:
     - bibleLevel: book
+- id: 35
+  displayName: Local Café
+  kind: location
+  description: A nearby café where the nerd group gathers after work to relax,
+    socialize, and discuss both personal and professional matters.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
