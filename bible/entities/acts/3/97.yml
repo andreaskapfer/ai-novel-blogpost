@@ -1,0 +1,11 @@
+entityId: 97
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 28
+    associationType: proposed by
+  - entityId: 1
+    associationType: debated by
+  - entityId: 88
+    associationType: uses
