@@ -391,3 +391,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 49
+  displayName: Lunch Rituals
+  kind: backgroundEvent
+  description: The daily lunch gatherings of the nerd group, where inside jokes
+    and team bonding occur.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
