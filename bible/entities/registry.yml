@@ -605,3 +605,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 71
+  displayName: Server Room Door
+  kind: item
+  description: The reinforced door to the server room, found ajar after the theft,
+    indicating forced or unauthorized entry.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
