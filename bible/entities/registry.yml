@@ -447,3 +447,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 56
+  displayName: External Competition
+  kind: group
+  description: Rival tech companies and competitors that pose a threat to the IT
+    consulting company's business and reputation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
