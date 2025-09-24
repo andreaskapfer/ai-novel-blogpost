@@ -1,0 +1,220 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image & Introduction
+    summary: The story opens with a vibrant depiction of the nerd group at the IT
+      consulting company. Their quirky personalities, technical prowess, and
+      camaraderie are on full display as they navigate daily routines and
+      playful banter. The company's reliance on its advanced AI infrastructure
+      is established, and the importance of the GPUs in the server room is
+      subtly highlighted. Early hints of underlying tensions and unique group
+      dynamics are woven throughout.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: main group introduced
+      - entityId: 2
+        associationType: primary location
+      - entityId: 3
+        associationType: concept established
+      - entityId: 4
+        associationType: item foreshadowed
+  - order: 2
+    subdivisionIndex: 1
+    name: Establishing the World & Stakes
+    summary: The nerd group’s daily work is explored in more depth, showcasing their
+      technical projects and the critical role of the AI infrastructure. The
+      server room and its security are described, and the value of the GPUs is
+      made clear. The group’s relationships with management and coworkers are
+      introduced, hinting at both alliances and rivalries. The stakes for the
+      company’s success and the group’s pride are established.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 1
+        associationType: group dynamics
+      - entityId: 2
+        associationType: workplace detailed
+      - entityId: 3
+        associationType: AI importance
+      - entityId: 4
+        associationType: item significance
+      - entityId: 6
+        associationType: management introduced
+      - entityId: 7
+        associationType: coworkers introduced
+  - order: 3
+    subdivisionIndex: 1
+    name: Foreshadowing & Tensions
+    summary: Hints of underlying tensions within the nerd group and with other
+      employees surface. Subtle clues about security vulnerabilities and
+      possible motives for theft are dropped. The group’s banter takes on a
+      sharper edge as stressors mount. The act builds toward a sense of unease,
+      setting up the coming disruption.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: internal conflict
+      - entityId: 7
+        associationType: suspicions raised
+      - entityId: 5
+        associationType: location focus
+  - order: 4
+    subdivisionIndex: 1
+    name: "Inciting Incident: The GPU Theft"
+    summary: The act ends with the shocking discovery that all the GPUs have been
+      stolen from the server room. Chaos erupts as the nerd group, management,
+      and coworkers react to the crisis. The company’s operations are thrown
+      into jeopardy, and the nerd group’s unity is tested as suspicion and panic
+      spread.
+    emotionAtStart: neutral
+    emotionAtEnd: very_low
+    approximateNoOfWords: 13000
+    associatedEntities:
+      - entityId: 1
+        associationType: group in crisis
+      - entityId: 2
+        associationType: company threatened
+      - entityId: 4
+        associationType: item stolen
+      - entityId: 5
+        associationType: crime scene
+      - entityId: 6
+        associationType: management reacts
+      - entityId: 7
+        associationType: suspects emerge
+      - entityId: 8
+        associationType: event occurs
+  - order: 5
+    subdivisionIndex: 2
+    name: Investigation Begins
+    summary: The nerd group launches their own investigation into the GPU theft,
+      facing skepticism from management and suspicion from coworkers. They
+      organize their efforts, assign roles, and begin gathering evidence,
+      determined to clear their names and restore order.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonists investigate
+      - entityId: 6
+        associationType: management skeptical
+      - entityId: 7
+        associationType: coworkers suspicious
+  - order: 6
+    subdivisionIndex: 2
+    name: Following Clues & Uncovering Secrets
+    summary: The group follows clues, interviews suspects, and uncovers secrets
+      about the company and each other. Their technical skills are put to the
+      test as they analyze security footage, trace digital footprints, and
+      attempt to reconstruct the crime. Personal stakes rise as hidden truths
+      come to light.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 12000
+    associatedEntities:
+      - entityId: 1
+        associationType: group investigates
+      - entityId: 2
+        associationType: company secrets
+      - entityId: 3
+        associationType: AI systems analyzed
+      - entityId: 7
+        associationType: suspects interviewed
+  - order: 7
+    subdivisionIndex: 2
+    name: Rising Stakes & Internal Conflict
+    summary: As the investigation deepens, external pressures from management and
+      internal conflicts within the group threaten their unity. The nerds face
+      setbacks, false leads, and growing mistrust. The company’s future hangs in
+      the balance, and the group must decide whether to stick together or
+      fracture under pressure.
+    emotionAtStart: neutral
+    emotionAtEnd: very_low
+    approximateNoOfWords: 15000
+    associatedEntities:
+      - entityId: 1
+        associationType: group conflict
+      - entityId: 6
+        associationType: management pressure
+      - entityId: 2
+        associationType: company at risk
+  - order: 8
+    subdivisionIndex: 2
+    name: Breakthrough & Renewed Resolve
+    summary: A breakthrough in the investigation reignites the group’s
+      determination. They piece together critical evidence, narrowing down the
+      list of suspects and regaining hope. The act ends with the group united in
+      purpose, ready to confront the culprit.
+    emotionAtStart: very_low
+    emotionAtEnd: high
+    approximateNoOfWords: 15000
+    associatedEntities:
+      - entityId: 1
+        associationType: group united
+      - entityId: 4
+        associationType: item traced
+      - entityId: 8
+        associationType: event clarified
+  - order: 9
+    subdivisionIndex: 3
+    name: Identifying the Culprit
+    summary: The nerd group identifies the prime suspect and orchestrates a risky
+      plan to recover the stolen GPUs. Tensions are high as they prepare for a
+      dramatic confrontation, blending technical ingenuity and teamwork.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 12000
+    associatedEntities:
+      - entityId: 1
+        associationType: group plans
+      - entityId: 4
+        associationType: item targeted
+      - entityId: 5
+        associationType: location for confrontation
+  - order: 10
+    subdivisionIndex: 3
+    name: "Climax: The Confrontation"
+    summary: The group executes their plan, leading to a tense and dramatic
+      confrontation with the culprit. Technical prowess, quick thinking, and
+      teamwork are on full display as they recover the GPUs and expose the
+      thief. The company’s future is secured in a thrilling resolution.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 25000
+    associatedEntities:
+      - entityId: 1
+        associationType: group in action
+      - entityId: 4
+        associationType: item recovered
+      - entityId: 2
+        associationType: company saved
+      - entityId: 6
+        associationType: management witnesses
+  - order: 11
+    subdivisionIndex: 3
+    name: Resolution & Reflection
+    summary: In the aftermath, the nerd group reflects on their journey, the lessons
+      learned, and the changes in their relationships. The company’s future is
+      bright, and the nerds emerge stronger, having solved the mystery and grown
+      as individuals and as a team.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 28000
+    associatedEntities:
+      - entityId: 1
+        associationType: group reflects
+      - entityId: 2
+        associationType: company future
+      - entityId: 3
+        associationType: AI restored
+      - entityId: 4
+        associationType: item secured
