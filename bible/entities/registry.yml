@@ -199,6 +199,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 19
   displayName: Server Room Access Logs
   kind: item
