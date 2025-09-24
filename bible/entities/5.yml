@@ -2,11 +2,5 @@ entityId: 5
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 2
-    associationType: part of
-  - entityId: 4
-    associationType: houses
-  - entityId: 3
-    associationType: hosts
-  - entityId: 8
-    associationType: crime scene of
+  - entityId: 16
+    associationType: monitored by
