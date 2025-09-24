@@ -1,0 +1,18 @@
+entityId: 26
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: member of
+  - entityId: 3
+    associationType: maintains
+  - entityId: 4
+    associationType: maintains
+  - entityId: 24
+    associationType: colleague
+  - entityId: 25
+    associationType: colleague
+  - entityId: 27
+    associationType: colleague
+  - entityId: 28
+    associationType: colleague
