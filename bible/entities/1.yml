@@ -2,47 +2,17 @@ entityId: 1
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 2
-    associationType: works at
-  - entityId: 3
-    associationType: maintains
-  - entityId: 4
-    associationType: relies on
-  - entityId: 5
-    associationType: accesses
-  - entityId: 6
-    associationType: reports to
-  - entityId: 7
-    associationType: suspects
-  - entityId: 8
-    associationType: encounters
-  - entityId: 9
-    associationType: encounters
-  - entityId: 10
-    associationType: infiltrates
-  - entityId: 11
-    associationType: uncovers
-  - entityId: 12
-    associationType: uncovers
-  - entityId: 13
-    associationType: confronts
-  - entityId: 14
-    associationType: serves
-  - entityId: 15
-    associationType: works in
-  - entityId: 16
-    associationType: confronts
-  - entityId: 17
-    associationType: forms
-  - entityId: 18
-    associationType: shares
-  - entityId: 19
-    associationType: experiences
-  - entityId: 20
-    associationType: develops
-  - entityId: 21
-    associationType: receives
-  - entityId: 22
-    associationType: gains
+  - entityId: 24
+    associationType: has member
+  - entityId: 25
+    associationType: has member
+  - entityId: 26
+    associationType: has member
+  - entityId: 27
+    associationType: has member
+  - entityId: 28
+    associationType: has member
   - entityId: 23
-    associationType: strengthens
+    associationType: embodies theme
+  - entityId: 20
+    associationType: embodies theme
