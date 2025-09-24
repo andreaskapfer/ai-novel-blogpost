@@ -277,3 +277,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 27
+  displayName: External Actors
+  kind: group
+  description: Individuals or organizations outside the company implicated in the
+    conspiracy uncovered by the nerd group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
