@@ -1,0 +1,20 @@
+entityId: 2
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: employs
+  - entityId: 3
+    associationType: hosts
+  - entityId: 4
+    associationType: owns
+  - entityId: 5
+    associationType: contains
+  - entityId: 6
+    associationType: managed by
+  - entityId: 7
+    associationType: contracts
+  - entityId: 14
+    associationType: serves
+  - entityId: 15
+    associationType: contains
