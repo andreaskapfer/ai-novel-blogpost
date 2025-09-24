@@ -235,6 +235,8 @@
     room and company assets, including cameras, locks, and alarms.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 30
   displayName: IT Department
   kind: group
