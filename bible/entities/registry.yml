@@ -90,6 +90,8 @@
     cautious, often uncovering subtle clues and vulnerabilities others miss.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 11
   displayName: "Nerd Group Member: Sam"
   kind: character
