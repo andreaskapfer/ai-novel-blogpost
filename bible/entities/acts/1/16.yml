@@ -1,0 +1,11 @@
+entityId: 16
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 14
+    associationType: reviewed by
+  - entityId: 10
+    associationType: analyzed by
+  - entityId: 8
+    associationType: evidence for
