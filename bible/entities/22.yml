@@ -1,0 +1,6 @@
+entityId: 22
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: gained by
