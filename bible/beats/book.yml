@@ -1,0 +1,323 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Opening Image & Setup
+    summary: The story opens in the bustling office of the IT consulting company,
+      where the core nerd group is introduced through playful banter and their
+      unique quirks. The AI infrastructure and high-end GPUs are established as
+      vital to the company’s success. Subtle tensions and hints of external
+      pressures are woven in, foreshadowing future challenges. The camaraderie
+      among the group is highlighted, setting a lighthearted yet slightly tense
+      tone.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 2
+        associationType: setting
+      - entityId: 3
+        associationType: important item
+      - entityId: 4
+        associationType: important item
+      - entityId: 15
+        associationType: setting
+      - entityId: 18
+        associationType: tone
+  - order: 2
+    subdivisionIndex: 1
+    name: Theme Stated & Character Dynamics
+    summary: As the nerds interact, the story’s themes—trust, teamwork, and the
+      value of friendship—are subtly introduced. Each member’s skills and
+      personal quirks are showcased, and their relationships are mapped out. The
+      management’s expectations and the looming pressure of client demands are
+      introduced, hinting at the stakes involved.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 6
+        associationType: antagonistic force
+      - entityId: 14
+        associationType: external pressure
+      - entityId: 23
+        associationType: theme
+      - entityId: 20
+        associationType: theme
+  - order: 3
+    subdivisionIndex: 1
+    name: Foreshadowing & Inciting Incident Setup
+    summary: Subtle hints of underlying tensions—such as security concerns and
+      external contractors—are dropped. The nerds’ reliance on the AI
+      infrastructure and GPUs is emphasized. The day ends with a sense of
+      routine, but an undercurrent of unease lingers, setting up the inciting
+      incident.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 3
+        associationType: important item
+      - entityId: 4
+        associationType: important item
+      - entityId: 7
+        associationType: suspect
+      - entityId: 6
+        associationType: antagonistic force
+  - order: 4
+    subdivisionIndex: 2
+    name: "Inciting Incident: The Theft"
+    summary: The nerds arrive at work to discover the server room has been broken
+      into and all the high-end GPUs are missing. Panic and confusion erupt as
+      the group scrambles to assess the damage. The implications for their
+      projects and the company’s future become immediately apparent.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 4
+        associationType: missing item
+      - entityId: 5
+        associationType: crime scene
+      - entityId: 3
+        associationType: affected system
+  - order: 5
+    subdivisionIndex: 2
+    name: Immediate Fallout & Stakes Raised
+    summary: Management and clients apply pressure, demanding answers and solutions.
+      The nerds face suspicion from within the company and from external
+      contractors. The group resolves to investigate the theft themselves,
+      determined to recover the GPUs and save their jobs.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 6
+        associationType: antagonistic force
+      - entityId: 14
+        associationType: external pressure
+      - entityId: 7
+        associationType: suspect
+  - order: 6
+    subdivisionIndex: 2
+    name: Decision to Act
+    summary: After regrouping and weighing their options, the nerds commit to
+      solving the mystery themselves. They begin to organize their
+      investigation, pooling their technical expertise and resources.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 20
+        associationType: theme
+      - entityId: 23
+        associationType: theme
+  - order: 7
+    subdivisionIndex: 3
+    name: Investigation Begins
+    summary: The nerds analyze security footage, trace suspicious network activity,
+      and start interviewing colleagues. Early leads point to possible internal
+      and external suspects. The group’s technical prowess is on display, but
+      cracks in their unity begin to show.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 7
+        associationType: suspect
+      - entityId: 6
+        associationType: antagonistic force
+      - entityId: 19
+        associationType: conflict
+  - order: 8
+    subdivisionIndex: 3
+    name: Setbacks & Internal Conflict
+    summary: The investigation hits roadblocks as evidence is tampered with and
+      trust within the group is tested. Rivalries and hidden motives among
+      colleagues are uncovered. Management’s impatience grows, and the nerds
+      face mounting pressure.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 19
+        associationType: conflict
+      - entityId: 6
+        associationType: antagonistic force
+      - entityId: 20
+        associationType: theme
+  - order: 9
+    subdivisionIndex: 3
+    name: Breakthrough & Rising Stakes
+    summary: A breakthrough in the investigation reveals a connection to a larger
+      conspiracy involving hardware resellers and hackers. The nerds realize the
+      theft is part of something much bigger, raising the stakes and deepening
+      the mystery.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 8
+        associationType: antagonist
+      - entityId: 9
+        associationType: antagonist
+      - entityId: 12
+        associationType: theme
+  - order: 10
+    subdivisionIndex: 4
+    name: "Venturing Outside: New Allies & Dangers"
+    summary: The nerds step outside their comfort zone, navigating the world of
+      hardware resellers, hackers, and corporate espionage. They form unexpected
+      alliances and confront personal fears, growing closer as a team. The
+      conspiracy’s scope becomes clearer.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 8
+        associationType: antagonist
+      - entityId: 9
+        associationType: antagonist
+      - entityId: 11
+        associationType: theme
+      - entityId: 17
+        associationType: theme
+      - entityId: 16
+        associationType: theme
+  - order: 11
+    subdivisionIndex: 4
+    name: Deeper Into the Conspiracy
+    summary: The nerds gather evidence, face betrayals, and uncover the mastermind
+      behind the theft. Their technical skills and teamwork are tested as they
+      prepare for a final confrontation. The group’s unity is strengthened by
+      overcoming personal fears and setbacks.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 12
+        associationType: theme
+      - entityId: 13
+        associationType: antagonist
+      - entityId: 16
+        associationType: theme
+      - entityId: 20
+        associationType: theme
+  - order: 12
+    subdivisionIndex: 4
+    name: The Plan
+    summary: Armed with new information, the nerds devise a daring plan to recover
+      the stolen GPUs. They coordinate with their new allies and prepare to
+      infiltrate the rival company’s facility, setting the stage for the climax.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 10
+        associationType: setting
+      - entityId: 17
+        associationType: theme
+      - entityId: 13
+        associationType: antagonist
+  - order: 13
+    subdivisionIndex: 5
+    name: "Climax: The Heist"
+    summary: The nerds infiltrate the rival company’s facility, outsmarting security
+      systems and confronting the mastermind. In a tense showdown, they retrieve
+      the GPUs and expose the conspiracy. Their combined talents and unity are
+      crucial to their success.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 10
+        associationType: setting
+      - entityId: 4
+        associationType: recovered item
+      - entityId: 13
+        associationType: antagonist
+      - entityId: 12
+        associationType: theme
+      - entityId: 20
+        associationType: theme
+  - order: 14
+    subdivisionIndex: 5
+    name: Resolution of the Conspiracy
+    summary: With the GPUs recovered and the conspiracy exposed, the nerds secure
+      their company’s future. The mastermind is brought to justice, and the
+      group’s friendship is cemented by their shared victory.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 4
+        associationType: recovered item
+      - entityId: 13
+        associationType: defeated antagonist
+      - entityId: 23
+        associationType: theme
+  - order: 15
+    subdivisionIndex: 6
+    name: Aftermath & Reflection
+    summary: The nerds return to their company as heroes. The AI infrastructure is
+      restored, and the group reflects on their journey, the lessons learned,
+      and the changes in their relationships. The company recognizes their
+      efforts, and new opportunities arise for each member.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 3
+        associationType: restored item
+      - entityId: 21
+        associationType: theme
+      - entityId: 22
+        associationType: theme
+  - order: 16
+    subdivisionIndex: 6
+    name: "Closing Image: Looking Forward"
+    summary: The story closes with the nerds enjoying playful banter and
+      camaraderie, looking forward to future adventures together. Their
+      friendship and unity have been strengthened, and the mood is optimistic
+      and lighthearted.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist
+      - entityId: 18
+        associationType: tone
+      - entityId: 23
+        associationType: theme
