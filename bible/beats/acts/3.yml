@@ -1,0 +1,160 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 3
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Strategic Gathering
+    summary: The nerd group assembles in the conference room to coordinate their
+      investigation. Alex suggests a meticulous review of security footage,
+      Priya proposes analyzing access logs, Marcus offers to inspect the server
+      room for physical evidence, and Sam begins constructing a timeline. Jamie
+      encourages creative brainstorming by sketching possible break-in scenarios
+      on the whiteboard. The group divides tasks, each member feeling the
+      pressure to contribute and clear their names as tension simmers beneath
+      their focused collaboration.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 90
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 24
+        associationType: present
+      - entityId: 25
+        associationType: present
+      - entityId: 26
+        associationType: present
+      - entityId: 27
+        associationType: present
+      - entityId: 28
+        associationType: present
+      - entityId: 77
+        associationType: location
+      - entityId: 92
+        associationType: item
+      - entityId: 94
+        associationType: concept
+  - order: 2
+    subdivisionIndex: 2
+    name: First Breakthroughs and Rising Suspicions
+    summary: Priya and Alex discover a masked figure disabling a camera in the
+      security footage, noting the perpetrator’s familiarity with the office.
+      Marcus finds an unusual tool near the server racks, possibly left by the
+      thief. Sam’s timeline exposes a suspicious gap in the access logs, and
+      Jamie suggests the thief had inside help, sparking debate and suspicion
+      among the group as they begin to question each other's alibis.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 95
+    associatedEntities:
+      - entityId: 25
+        associationType: active
+      - entityId: 24
+        associationType: active
+      - entityId: 79
+        associationType: antagonist
+      - entityId: 78
+        associationType: item
+      - entityId: 26
+        associationType: active
+      - entityId: 93
+        associationType: item
+      - entityId: 27
+        associationType: active
+      - entityId: 92
+        associationType: item
+      - entityId: 84
+        associationType: concept
+      - entityId: 5
+        associationType: location
+  - order: 3
+    subdivisionIndex: 3
+    name: "Digging Deeper: Interviews and Clues"
+    summary: The nerds conduct discreet interviews with staff and contractors,
+      searching for inconsistencies. Priya uncovers an encrypted message on a
+      compromised server, which she and Alex begin to decode. Marcus traces the
+      unusual tool to a specific vendor, narrowing the suspect list. Sam’s
+      analysis reveals suspicious network activity linked to a particular
+      employee. The investigation exposes hidden rivalries and trust issues
+      within the company, intensifying internal conflict.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 90
+    associatedEntities:
+      - entityId: 81
+        associationType: event
+      - entityId: 7
+        associationType: suspect group
+      - entityId: 25
+        associationType: active
+      - entityId: 24
+        associationType: active
+      - entityId: 80
+        associationType: item
+      - entityId: 90
+        associationType: item
+      - entityId: 26
+        associationType: active
+      - entityId: 89
+        associationType: vendor
+      - entityId: 82
+        associationType: item
+      - entityId: 91
+        associationType: suspect
+      - entityId: 83
+        associationType: concept
+      - entityId: 84
+        associationType: concept
+  - order: 4
+    subdivisionIndex: 4
+    name: Mounting Pressure and Commitment
+    summary: Management calls an emergency meeting, frustrated by the lack of
+      progress and mounting client complaints. The nerd group presents their
+      findings, but management’s impatience and veiled accusations increase the
+      pressure. Clients threaten to pull contracts if the GPUs aren’t recovered.
+      Despite setbacks and adversity, the group reaffirms their commitment to
+      solving the case and supporting each other.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 85
+    associatedEntities:
+      - entityId: 85
+        associationType: event
+      - entityId: 6
+        associationType: antagonist group
+      - entityId: 14
+        associationType: external pressure
+      - entityId: 86
+        associationType: event
+      - entityId: 95
+        associationType: concept
+      - entityId: 1
+        associationType: protagonist group
+  - order: 5
+    subdivisionIndex: 5
+    name: Renewed Resolve and The Trap Plan
+    summary: Late at night, the nerds regroup at a local café to share updates.
+      Priya cracks part of the encrypted message, revealing a clue pointing to
+      an inside connection. Jamie proposes a bold plan to set a trap for the
+      perpetrator using a decoy GPU. After debating the risks, the group agrees
+      to proceed, leaving the café with renewed resolve and camaraderie despite
+      the challenges ahead.
+    emotionAtStart: low
+    emotionAtEnd: very_high
+    approximateNoOfWords: 85
+    associatedEntities:
+      - entityId: 96
+        associationType: location
+      - entityId: 25
+        associationType: active
+      - entityId: 80
+        associationType: item
+      - entityId: 97
+        associationType: concept
+      - entityId: 88
+        associationType: item
+      - entityId: 87
+        associationType: emotional state
+      - entityId: 1
+        associationType: protagonist group
