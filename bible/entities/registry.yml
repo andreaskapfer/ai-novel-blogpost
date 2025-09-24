@@ -335,3 +335,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 42
+  displayName: Office Banter
+  kind: concept
+  description: The playful and witty exchanges among the nerd group and their
+    colleagues, contributing to the team's camaraderie.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
