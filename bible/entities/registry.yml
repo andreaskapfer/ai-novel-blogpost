@@ -226,6 +226,8 @@
     unconventional solutions and keeping morale high.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 29
   displayName: Security System
   kind: item
