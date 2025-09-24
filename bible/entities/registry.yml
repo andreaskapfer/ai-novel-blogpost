@@ -27,3 +27,10 @@
     the company's AI infrastructure. Their theft triggers the main conflict.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Server Room
+  kind: location
+  description: A secure room within the IT consulting company where the high-end
+    GPUs and AI infrastructure are housed.
+  bibleReferences:
+    - bibleLevel: book
