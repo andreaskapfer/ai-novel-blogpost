@@ -105,3 +105,10 @@
     nerd group interacts and works daily.
   bibleReferences:
     - bibleLevel: book
+- id: 16
+  displayName: Personal Fears
+  kind: concept
+  description: The individual anxieties and insecurities faced by members of the
+    nerd group, confronted during their investigation and adventure.
+  bibleReferences:
+    - bibleLevel: book
