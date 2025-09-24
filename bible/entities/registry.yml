@@ -524,3 +524,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 61
+  displayName: Access Logs
+  kind: item
+  description: Digital records of entries and exits to secure areas, analyzed by
+    the nerd group for clues about the break-in.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
