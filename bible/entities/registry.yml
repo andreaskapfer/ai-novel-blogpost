@@ -221,6 +221,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 26
   displayName: "Nerd Group Member: Marcus"
   kind: character
