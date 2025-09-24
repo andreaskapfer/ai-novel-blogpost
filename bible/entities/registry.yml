@@ -165,3 +165,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 19
+  displayName: Server Room Access Logs
+  kind: item
+  description: Digital records of all entries and exits to the server room,
+    crucial for tracking suspects and reconstructing the timeline of the GPU
+    theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
