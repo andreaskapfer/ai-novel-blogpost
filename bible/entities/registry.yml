@@ -269,3 +269,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 26
+  displayName: Financial Transactions
+  kind: item
+  description: Records of suspicious financial activity connected to the GPU theft
+    and the conspiracy.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
