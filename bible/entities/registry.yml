@@ -119,3 +119,10 @@
     their investigation, aiding them in their quest.
   bibleReferences:
     - bibleLevel: book
+- id: 18
+  displayName: Playful Banter
+  kind: concept
+  description: The lighthearted and humorous exchanges among the nerd group,
+    establishing their camaraderie.
+  bibleReferences:
+    - bibleLevel: book
