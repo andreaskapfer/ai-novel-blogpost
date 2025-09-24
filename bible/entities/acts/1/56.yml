@@ -1,0 +1,11 @@
+entityId: 56
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: competes with
+  - entityId: 32
+    associationType: threatens
+  - entityId: 1
+    associationType: rival to
