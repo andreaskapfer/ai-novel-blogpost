@@ -463,3 +463,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 58
+  displayName: Late-Night Office
+  kind: location
+  description: The office environment after hours, quiet and mostly empty, where
+    the security system logs the unusual access attempt.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
