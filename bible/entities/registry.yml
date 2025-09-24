@@ -367,3 +367,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 46
+  displayName: Hardware Inventory
+  kind: item
+  description: The collection of computer hardware inspected by Marcus,
+    emphasizing his attention to detail.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
