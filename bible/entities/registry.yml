@@ -351,3 +351,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 44
+  displayName: Programming Bug
+  kind: item
+  description: A tricky software bug that Alex tackles, showcasing his skills and
+    setting up his role in the group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
