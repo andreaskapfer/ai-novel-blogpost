@@ -1,0 +1,11 @@
+entityId: 26
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 1
+    associationType: member of
+  - entityId: 65
+    associationType: participates in
+  - entityId: 29
+    associationType: inspects
