@@ -93,3 +93,10 @@
     company, focused on the bottom line and company reputation.
   bibleReferences:
     - bibleLevel: book
+- id: 14
+  displayName: "Head of Security: Ms. Lopez"
+  kind: character
+  description: The vigilant and skeptical head of security, responsible for
+    investigating the GPU theft and maintaining order.
+  bibleReferences:
+    - bibleLevel: book
