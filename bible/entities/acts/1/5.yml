@@ -1,0 +1,11 @@
+entityId: 5
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 4
+    associationType: stores
+  - entityId: 3
+    associationType: hosts
+  - entityId: 2
+    associationType: part of
