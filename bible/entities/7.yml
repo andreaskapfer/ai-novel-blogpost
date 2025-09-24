@@ -1,0 +1,8 @@
+entityId: 7
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: contracted by
+  - entityId: 1
+    associationType: suspected by
