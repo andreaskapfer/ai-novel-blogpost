@@ -108,6 +108,8 @@
     much of the company’s AI infrastructure and algorithms.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 13
   displayName: "CEO: Mr. Carter"
   kind: character
