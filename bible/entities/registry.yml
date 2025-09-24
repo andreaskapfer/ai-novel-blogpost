@@ -540,3 +540,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 63
+  displayName: Encrypted Message
+  kind: item
+  description: A mysterious encrypted message left on a server during the
+    break-in, hinting at the involvement of a sophisticated perpetrator.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
