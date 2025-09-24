@@ -840,3 +840,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 97
+  displayName: Trap Plan
+  kind: concept
+  description: Jamie’s bold plan to set a trap for the perpetrator using a decoy
+    GPU, debated and ultimately agreed upon by the group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
