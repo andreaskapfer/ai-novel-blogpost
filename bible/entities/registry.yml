@@ -252,3 +252,12 @@
       act: 1
     - bibleLevel: act
       act: 2
+- id: 24
+  displayName: Suspect Employee
+  kind: character
+  description: A specific employee at the IT consulting company whose activities
+    become suspicious during the investigation, linked to access logs and
+    restricted files.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
