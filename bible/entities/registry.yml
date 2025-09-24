@@ -776,3 +776,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 89
+  displayName: Vendor of Unusual Tool
+  kind: group
+  description: The specific vendor traced by Marcus as the source of the unusual
+    tool found near the server racks, narrowing the suspect list.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
