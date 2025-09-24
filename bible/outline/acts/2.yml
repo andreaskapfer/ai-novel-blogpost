@@ -1,0 +1,48 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: The nerd group regroups after the initial shock of the GPU theft,
+      determined to investigate despite management’s skepticism. Alex rallies
+      the team, and they begin by reviewing server room access logs and security
+      footage. Priya discovers a suspicious gap in the logs during the power
+      outage, while Mei and Sam analyze the AI diagnostic tools for tampering.
+      The group faces resistance from Ms. Lopez, the head of security, and
+      rumors swirl among coworkers, making the investigation more challenging.
+    approximateNoOfWords: 9000
+  - index: 2
+    summary: The group splits up to interview key suspects and gather information.
+      Priya and Alex question coworkers who had late-night access, uncovering
+      personal motives and hidden rivalries. Mei discovers a vulnerability in
+      the company’s network that could have been exploited during the outage.
+      Sam, frustrated by management’s lack of support, takes a risk by accessing
+      restricted files, revealing a pattern of suspicious activity linked to a
+      specific employee.
+    approximateNoOfWords: 9000
+  - index: 3
+    summary: Tensions rise within the group as suspicions turn inward and stress
+      mounts. Alex and Priya clash over investigative methods, while Mei tries
+      to mediate. The group uncovers evidence suggesting the theft may have been
+      an inside job, possibly involving someone close to them. Meanwhile,
+      management pressures the nerds to drop their investigation, fearing
+      reputational damage. The group must decide whether to continue, risking
+      their jobs and friendships.
+    approximateNoOfWords: 11000
+  - index: 4
+    summary: "Despite mounting obstacles, the nerd group doubles down on their
+      investigation. They devise a plan to bait the thief by simulating a new
+      GPU delivery and monitoring reactions. Sam and Mei set up advanced
+      surveillance, while Alex and Priya coordinate with a reluctant Ms. Lopez.
+      The plan yields a breakthrough: a coworker is caught attempting to access
+      the server room under false pretenses, providing the first concrete lead."
+    approximateNoOfWords: 10000
+  - index: 5
+    summary: The group follows the new lead, piecing together digital and physical
+      evidence. They trace encrypted messages and financial transactions,
+      revealing a broader conspiracy involving external actors. As the nerds
+      close in on the truth, personal stakes escalate—Sam’s job is threatened,
+      and Priya’s discovery of a deeper security flaw puts her at odds with
+      management. The act ends with the group on the verge of exposing the
+      culprit, but facing their greatest internal and external challenges yet.
+    approximateNoOfWords: 11000
