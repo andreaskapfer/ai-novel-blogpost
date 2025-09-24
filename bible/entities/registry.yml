@@ -100,3 +100,11 @@
     investigating the GPU theft and maintaining order.
   bibleReferences:
     - bibleLevel: book
+- id: 15
+  displayName: Break Room
+  kind: location
+  description: A common area in the company where employees gather for informal
+    conversations, gossip, and relaxation. Key location for group dynamics and
+    overheard secrets.
+  bibleReferences:
+    - bibleLevel: book
