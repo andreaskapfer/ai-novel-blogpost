@@ -597,3 +597,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 70
+  displayName: Group Resolve
+  kind: emotionalState
+  description: The renewed determination and camaraderie of the nerd group as they
+    vow to continue their investigation despite risks.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
