@@ -1,0 +1,11 @@
+entityId: 73
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 6
+    associationType: enforced by
+  - entityId: 1
+    associationType: followed by
+  - entityId: 59
+    associationType: initiated after
