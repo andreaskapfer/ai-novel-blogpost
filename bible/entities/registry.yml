@@ -255,3 +255,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 37
+  displayName: Last-Minute System Update
+  kind: backgroundEvent
+  description: An urgent system update required at short notice, creating stress
+    and requiring teamwork from the nerd group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
