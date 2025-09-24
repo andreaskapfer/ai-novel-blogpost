@@ -808,3 +808,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 93
+  displayName: Company Timeline
+  kind: item
+  description: A compiled timeline of the break-in and investigation, maintained
+    by Sam to track events and findings.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
