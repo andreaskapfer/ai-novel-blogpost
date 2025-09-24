@@ -1,0 +1,6 @@
+entityId: 21
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: received by
