@@ -98,3 +98,10 @@
     pressures add to the stakes during the crisis.
   bibleReferences:
     - bibleLevel: book
+- id: 15
+  displayName: Office
+  kind: location
+  description: The general workspace within the IT consulting company where the
+    nerd group interacts and works daily.
+  bibleReferences:
+    - bibleLevel: book
