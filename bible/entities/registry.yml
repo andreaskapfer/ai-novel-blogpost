@@ -65,3 +65,10 @@
     informal spokesperson and motivator for the group.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: "Nerd Group Member: Priya"
+  kind: character
+  description: Priya is the group's cybersecurity expert, detail-oriented and
+    cautious, often uncovering subtle clues and vulnerabilities others miss.
+  bibleReferences:
+    - bibleLevel: book
