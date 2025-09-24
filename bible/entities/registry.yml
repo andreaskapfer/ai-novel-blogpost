@@ -285,3 +285,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 28
+  displayName: Internal Conflict
+  kind: concept
+  description: Rising tensions and mistrust within the nerd group as suspicions
+    turn inward during the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
