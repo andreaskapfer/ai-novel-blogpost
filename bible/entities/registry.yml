@@ -70,3 +70,10 @@
     of the story's climax.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: Corporate Espionage
+  kind: concept
+  description: The act of spying or using underhanded tactics to gain a business
+    advantage, central to the story's conspiracy.
+  bibleReferences:
+    - bibleLevel: book
