@@ -147,3 +147,10 @@
     after their successful mission.
   bibleReferences:
     - bibleLevel: book
+- id: 22
+  displayName: Lessons Learned
+  kind: concept
+  description: The insights and personal growth experienced by the nerd group as a
+    result of their journey.
+  bibleReferences:
+    - bibleLevel: book
