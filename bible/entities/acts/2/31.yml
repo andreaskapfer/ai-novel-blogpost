@@ -1,0 +1,11 @@
+entityId: 31
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 1
+    associationType: orchestrated by
+  - entityId: 14
+    associationType: coordinated with
+  - entityId: 24
+    associationType: baited
