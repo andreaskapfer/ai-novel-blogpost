@@ -301,3 +301,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 30
+  displayName: Deeper Security Flaw
+  kind: concept
+  description: A critical vulnerability in the company's systems discovered by
+    Priya, heightening the stakes of the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
