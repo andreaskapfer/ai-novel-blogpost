@@ -769,3 +769,10 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 88
+  displayName: Decoy GPU
+  kind: item
+  description: A fake GPU used by the nerd group as bait to set a trap for the perpetrator.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
