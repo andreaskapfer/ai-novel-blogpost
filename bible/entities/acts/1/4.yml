@@ -1,0 +1,11 @@
+entityId: 4
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 3
+    associationType: powers
+  - entityId: 5
+    associationType: stored in
+  - entityId: 11
+    associationType: maintained by
