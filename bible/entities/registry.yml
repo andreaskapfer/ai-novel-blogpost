@@ -142,6 +142,8 @@
     establishing their camaraderie.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 19
   displayName: Setbacks and Internal Conflicts
   kind: concept
