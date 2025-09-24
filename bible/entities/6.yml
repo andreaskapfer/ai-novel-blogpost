@@ -1,0 +1,8 @@
+entityId: 6
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 13
+    associationType: led by
+  - entityId: 14
+    associationType: includes
