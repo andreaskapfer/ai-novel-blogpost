@@ -4,8 +4,6 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 6
-    associationType: member of
-  - entityId: 2
-    associationType: works at
-  - entityId: 8
-    associationType: investigates
+    associationType: member of management
+  - entityId: 16
+    associationType: reviews security footage
