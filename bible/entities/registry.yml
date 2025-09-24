@@ -832,3 +832,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 96
+  displayName: Company Café (Act 3)
+  kind: location
+  description: The local café where the nerd group regroups late at night to share
+    updates and brainstorm next steps.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
