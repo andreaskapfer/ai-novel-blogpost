@@ -279,3 +279,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 40
+  displayName: Unusual Access Attempt
+  kind: backgroundEvent
+  description: A suspicious late-night access attempt to the server room, quietly
+    logged by the security system and hinting at the coming crisis.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
