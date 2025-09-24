@@ -383,3 +383,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 48
+  displayName: Creative Solutions Whiteboard
+  kind: item
+  description: A whiteboard in the office where Jamie brainstorms and sketches out
+    creative solutions.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
