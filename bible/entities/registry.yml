@@ -156,3 +156,12 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+- id: 18
+  displayName: IT Department
+  kind: group
+  description: The technical team responsible for maintaining the company's AI
+    infrastructure and server hardware, including the nerd group and other
+    specialists.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
