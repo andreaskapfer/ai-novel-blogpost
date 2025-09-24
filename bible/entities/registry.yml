@@ -77,3 +77,10 @@
     advantage, central to the story's conspiracy.
   bibleReferences:
     - bibleLevel: book
+- id: 12
+  displayName: Conspiracy
+  kind: concept
+  description: A larger plot involving the theft of the GPUs and the involvement
+    of multiple parties, uncovered by the nerd group.
+  bibleReferences:
+    - bibleLevel: book
