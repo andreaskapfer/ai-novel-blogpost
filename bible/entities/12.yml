@@ -1,0 +1,10 @@
+entityId: 12
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: uncovered by
+  - entityId: 11
+    associationType: includes
+  - entityId: 13
+    associationType: masterminded by
