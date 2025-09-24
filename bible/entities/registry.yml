@@ -33,6 +33,8 @@
     the company's AI infrastructure. Their theft triggers the main conflict.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 5
   displayName: Server Room
   kind: location
