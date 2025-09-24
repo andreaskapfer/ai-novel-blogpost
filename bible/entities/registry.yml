@@ -198,3 +198,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 23
+  displayName: Power Outage
+  kind: backgroundEvent
+  description: A sudden loss of electricity that disrupts company operations and
+    provides cover for the GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
