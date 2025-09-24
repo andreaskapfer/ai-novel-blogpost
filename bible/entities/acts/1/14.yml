@@ -1,0 +1,11 @@
+entityId: 14
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 6
+    associationType: member of
+  - entityId: 2
+    associationType: works at
+  - entityId: 8
+    associationType: investigates
