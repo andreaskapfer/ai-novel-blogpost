@@ -792,3 +792,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 91
+  displayName: Suspect Employee
+  kind: character
+  description: An employee whose network activity and access log anomalies make
+    them a prime suspect in the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
