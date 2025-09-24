@@ -182,3 +182,10 @@
     detail-oriented, and passionate about technology.
   bibleReferences:
     - bibleLevel: book
+- id: 27
+  displayName: "Nerd Group Member: Sam"
+  kind: character
+  description: A data scientist in the nerd group, Sam is analytical, introverted,
+    and often the voice of reason during heated moments.
+  bibleReferences:
+    - bibleLevel: book
