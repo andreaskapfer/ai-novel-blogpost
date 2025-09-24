@@ -637,3 +637,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 75
+  displayName: Client Contract Threats
+  kind: backgroundEvent
+  description: Threats from clients to pull contracts if the stolen GPUs are not
+    recovered and systems restored quickly.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
