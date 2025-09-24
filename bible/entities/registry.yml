@@ -721,3 +721,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 82
+  displayName: Suspicious Network Activity
+  kind: item
+  description: A pattern of suspicious network activity linked to a particular
+    employee, uncovered by Sam's data analysis.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
