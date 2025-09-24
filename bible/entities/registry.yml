@@ -161,3 +161,10 @@
     experiences and challenges.
   bibleReferences:
     - bibleLevel: book
+- id: 24
+  displayName: "Nerd Group Member: Alex"
+  kind: character
+  description: A key member of the core nerd group, Alex is a brilliant programmer
+    with a dry sense of humor and a knack for solving complex problems.
+  bibleReferences:
+    - bibleLevel: book
