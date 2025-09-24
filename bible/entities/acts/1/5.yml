@@ -3,9 +3,9 @@ bibleReference:
   bibleLevel: act
   act: 1
 associatedEntities:
-  - entityId: 4
-    associationType: stores
-  - entityId: 3
-    associationType: hosts
-  - entityId: 2
-    associationType: part of
+  - entityId: 19
+    associationType: access logged by
+  - entityId: 11
+    associationType: maintained by Sam
+  - entityId: 8
+    associationType: site of theft
