@@ -1,0 +1,11 @@
+entityId: 58
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: part of
+  - entityId: 5
+    associationType: adjacent to
+  - entityId: 40
+    associationType: site of event
