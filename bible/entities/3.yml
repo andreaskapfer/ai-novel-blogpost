@@ -1,0 +1,10 @@
+entityId: 3
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: operates within
+  - entityId: 4
+    associationType: powered by
+  - entityId: 5
+    associationType: housed in
