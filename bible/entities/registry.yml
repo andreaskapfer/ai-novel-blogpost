@@ -1,0 +1,8 @@
+- id: 1
+  displayName: Nerd Group
+  kind: group
+  description: A close-knit group of IT consultants at a tech company, known for
+    their technical expertise, camaraderie, and quirky personalities. Central to
+    the story's investigation and dynamics.
+  bibleReferences:
+    - bibleLevel: book
