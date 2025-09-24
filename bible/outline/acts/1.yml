@@ -1,0 +1,48 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The novel opens with a lively morning at the IT consulting company’s
+      office. The core nerd group—Alex, Priya, Marcus, Sam, and Jamie—arrive,
+      each displaying their unique quirks and skills. The office atmosphere is
+      filled with playful banter as they settle into their routines. The
+      company’s reliance on its powerful AI infrastructure, powered by high-end
+      GPUs in the secure server room, is established. Subtle hints of external
+      pressures and management’s high expectations are woven in, foreshadowing
+      challenges. The group’s camaraderie and mutual support are highlighted,
+      setting a lighthearted yet dynamic tone.
+    approximateNoOfWords: 100
+  - index: 2
+    summary: Each member of the nerd group is introduced in detail through their
+      interactions and work. Alex tackles a tricky programming bug, Priya
+      reviews cybersecurity protocols, Marcus inspects hardware, Sam analyzes
+      data, and Jamie brainstorms creative solutions. Their personalities and
+      relationships are revealed through office banter, inside jokes, and shared
+      lunches. The broader IT department and management are introduced, showing
+      the company’s structure and the nerd group’s place within it. The
+      importance of the AI infrastructure and the server room’s security is
+      emphasized, hinting at the stakes involved.
+    approximateNoOfWords: 100
+  - index: 3
+    summary: "The nerd group faces minor workplace challenges: a demanding client
+      call, a last-minute system update, and a brief power outage that tests
+      their teamwork. These incidents showcase their problem-solving abilities
+      and the trust they have in one another. The group’s playful dynamic is
+      contrasted with subtle tensions—Marcus’s frustration with outdated
+      hardware, Priya’s concerns about security loopholes, and Sam’s anxiety
+      over looming deadlines. Management’s pressure to maintain the company’s
+      reputation is felt, and hints of external competition are introduced,
+      laying groundwork for future conflict."
+    approximateNoOfWords: 100
+  - index: 4
+    summary: After work, the nerd group gathers at a local café, continuing their
+      banter and discussing personal interests. Their friendship and loyalty are
+      deepened as they share stories and support each other’s ambitions and
+      fears. The conversation turns to rumors of hardware thefts at other tech
+      companies, sparking speculation and concern. The group jokes about their
+      own server room’s security, unaware of the trouble ahead. The act closes
+      with a late-night scene at the office, where the server room’s security
+      system quietly logs an unusual access attempt, setting the stage for the
+      coming crisis.
+    approximateNoOfWords: 100
