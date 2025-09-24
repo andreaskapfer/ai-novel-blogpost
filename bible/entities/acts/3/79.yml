@@ -1,0 +1,11 @@
+entityId: 79
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 60
+    associationType: appears in
+  - entityId: 24
+    associationType: investigated by
+  - entityId: 25
+    associationType: investigated by
