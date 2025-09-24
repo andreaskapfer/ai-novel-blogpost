@@ -1,0 +1,7 @@
+entityId: 69
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 6
+    associationType: experienced by
