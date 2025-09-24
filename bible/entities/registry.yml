@@ -689,3 +689,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 78
+  displayName: Unusual Tool
+  kind: item
+  description: A small, unusual tool found by Marcus near the server racks,
+    possibly left behind by the thief.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
