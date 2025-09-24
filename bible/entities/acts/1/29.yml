@@ -1,0 +1,11 @@
+entityId: 29
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 5
+    associationType: protects
+  - entityId: 2
+    associationType: protects
+  - entityId: 40
+    associationType: logs unusual access attempt
