@@ -143,6 +143,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 14
   displayName: "Head of Security: Ms. Lopez"
   kind: character
