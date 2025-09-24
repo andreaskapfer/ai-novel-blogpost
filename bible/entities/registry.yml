@@ -261,3 +261,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 25
+  displayName: Encrypted Messages
+  kind: item
+  description: Digital communications traced by the nerd group, revealing
+    connections to the broader conspiracy.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
