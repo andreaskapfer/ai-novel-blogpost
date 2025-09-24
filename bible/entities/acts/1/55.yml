@@ -1,0 +1,13 @@
+entityId: 55
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 1
+    associationType: demonstrated by
+  - entityId: 36
+    associationType: triggered by
+  - entityId: 37
+    associationType: triggered by
+  - entityId: 38
+    associationType: triggered by
