@@ -1,0 +1,16 @@
+entityId: 1
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: works at
+  - entityId: 6
+    associationType: reports to
+  - entityId: 7
+    associationType: works with
+  - entityId: 4
+    associationType: investigates theft of
+  - entityId: 3
+    associationType: maintains
+  - entityId: 5
+    associationType: frequents
