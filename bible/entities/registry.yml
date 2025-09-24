@@ -154,3 +154,5 @@
     the GPU theft, affecting relationships and group dynamics.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
