@@ -1,0 +1,9 @@
+entityId: 84
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 1
+    associationType: experienced by
+  - entityId: 83
+    associationType: intensified by
