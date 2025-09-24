@@ -86,3 +86,10 @@
     much of the company’s AI infrastructure and algorithms.
   bibleReferences:
     - bibleLevel: book
+- id: 13
+  displayName: "CEO: Mr. Carter"
+  kind: character
+  description: The pragmatic and sometimes distant CEO of the IT consulting
+    company, focused on the bottom line and company reputation.
+  bibleReferences:
+    - bibleLevel: book
