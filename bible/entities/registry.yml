@@ -36,3 +36,10 @@
     infrastructure are housed. The site of the theft.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Management
+  kind: group
+  description: The leadership team of the IT consulting company, skeptical of the
+    nerd group's investigation and responsible for company decisions.
+  bibleReferences:
+    - bibleLevel: book
