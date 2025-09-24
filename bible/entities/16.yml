@@ -1,0 +1,6 @@
+entityId: 16
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: confronted by
