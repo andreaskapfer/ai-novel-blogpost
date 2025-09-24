@@ -6,3 +6,10 @@
     the story.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: The workplace of the core nerd group, featuring offices, a server
+    room, and various departments. The main setting for much of the story.
+  bibleReferences:
+    - bibleLevel: book
