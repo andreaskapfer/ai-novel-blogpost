@@ -824,3 +824,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 95
+  displayName: Mounting Adversity
+  kind: concept
+  description: The increasing challenges and setbacks faced by the nerd group as
+    client and management pressure intensifies.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
