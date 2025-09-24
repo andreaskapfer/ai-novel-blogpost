@@ -34,3 +34,11 @@
     GPUs and AI infrastructure are housed.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Management
+  kind: group
+  description: The leadership team of the IT consulting company, responsible for
+    overseeing operations and applying pressure on the nerd group during the
+    crisis.
+  bibleReferences:
+    - bibleLevel: book
