@@ -53,6 +53,8 @@
     nerd group's investigation and responsible for company decisions.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 7
   displayName: Coworkers
   kind: group
