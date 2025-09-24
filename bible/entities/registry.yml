@@ -140,3 +140,10 @@
     strengthened throughout the story.
   bibleReferences:
     - bibleLevel: book
+- id: 21
+  displayName: New Opportunities
+  kind: concept
+  description: The positive prospects and advancements offered to the nerd group
+    after their successful mission.
+  bibleReferences:
+    - bibleLevel: book
