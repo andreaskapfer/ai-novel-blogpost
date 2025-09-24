@@ -439,3 +439,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 55
+  displayName: Teamwork Under Pressure
+  kind: concept
+  description: The nerd group's ability to collaborate and solve problems during
+    stressful situations, highlighted by workplace challenges.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
