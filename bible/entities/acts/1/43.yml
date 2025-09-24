@@ -1,0 +1,11 @@
+entityId: 43
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 6
+    associationType: set by
+  - entityId: 1
+    associationType: affects
+  - entityId: 34
+    associationType: related to
