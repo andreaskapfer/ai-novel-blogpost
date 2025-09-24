@@ -250,3 +250,5 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
