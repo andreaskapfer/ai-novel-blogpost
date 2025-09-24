@@ -1,0 +1,13 @@
+entityId: 8
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 4
+    associationType: involves
+  - entityId: 5
+    associationType: occurred at
+  - entityId: 1
+    associationType: investigated by
+  - entityId: 14
+    associationType: investigated by
