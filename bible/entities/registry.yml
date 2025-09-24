@@ -189,3 +189,10 @@
     and often the voice of reason during heated moments.
   bibleReferences:
     - bibleLevel: book
+- id: 28
+  displayName: "Nerd Group Member: Jamie"
+  kind: character
+  description: The creative thinker of the nerd group, Jamie excels at finding
+    unconventional solutions and keeping morale high.
+  bibleReferences:
+    - bibleLevel: book
