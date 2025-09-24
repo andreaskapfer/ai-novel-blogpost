@@ -87,6 +87,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 2
+    - bibleLevel: act
+      act: 3
 - id: 8
   displayName: Hardware Resellers
   kind: group
