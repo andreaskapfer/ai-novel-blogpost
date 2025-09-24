@@ -1,0 +1,19 @@
+entityId: 1
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 9
+    associationType: has member
+  - entityId: 10
+    associationType: has member
+  - entityId: 11
+    associationType: has member
+  - entityId: 12
+    associationType: has member
+  - entityId: 2
+    associationType: works at
+  - entityId: 6
+    associationType: reports to
+  - entityId: 7
+    associationType: works with
