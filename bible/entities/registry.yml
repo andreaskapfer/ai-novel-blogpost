@@ -126,3 +126,10 @@
     establishing their camaraderie.
   bibleReferences:
     - bibleLevel: book
+- id: 19
+  displayName: Setbacks and Internal Conflicts
+  kind: concept
+  description: Challenges and disagreements within the nerd group that test their
+    trust and unity during the investigation.
+  bibleReferences:
+    - bibleLevel: book
