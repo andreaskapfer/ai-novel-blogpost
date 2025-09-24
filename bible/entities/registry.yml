@@ -79,3 +79,10 @@
     maintenance, and is deeply affected by the theft.
   bibleReferences:
     - bibleLevel: book
+- id: 12
+  displayName: "Nerd Group Member: Mei"
+  kind: character
+  description: Mei is the AI developer, creative and intuitive, responsible for
+    much of the company’s AI infrastructure and algorithms.
+  bibleReferences:
+    - bibleLevel: book
