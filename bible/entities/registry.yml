@@ -681,3 +681,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 77
+  displayName: Conference Room
+  kind: location
+  description: A meeting space within the IT consulting company where the nerd
+    group gathers to strategize their investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
