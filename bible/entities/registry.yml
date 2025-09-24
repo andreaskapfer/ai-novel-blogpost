@@ -24,6 +24,8 @@
     on, powered by a bank of high-end GPUs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 4
   displayName: High-End GPUs
   kind: item
