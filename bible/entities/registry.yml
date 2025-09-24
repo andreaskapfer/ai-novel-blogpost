@@ -629,3 +629,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 74
+  displayName: Company-Wide Rumors
+  kind: backgroundEvent
+  description: The rapid spread of rumors and speculation among employees after
+    the theft, fueling suspicion and anxiety.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
