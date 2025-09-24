@@ -247,3 +247,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 36
+  displayName: Demanding Client Call
+  kind: backgroundEvent
+  description: A challenging call with a client that tests the nerd group's
+    patience and professionalism, highlighting workplace pressures.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
