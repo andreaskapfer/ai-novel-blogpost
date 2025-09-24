@@ -507,3 +507,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 59
+  displayName: Emergency Meeting
+  kind: backgroundEvent
+  description: A sudden meeting called by management after the discovery of the
+    GPU theft, where the nerd group is pressured to find answers and solutions
+    immediately.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
