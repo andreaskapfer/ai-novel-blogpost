@@ -1,0 +1,8 @@
+entityId: 6
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: manages
+  - entityId: 1
+    associationType: oversees
