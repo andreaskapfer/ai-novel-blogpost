@@ -1,0 +1,11 @@
+entityId: 6
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 1
+    associationType: in conflict with
+  - entityId: 14
+    associationType: supervises
+  - entityId: 13
+    associationType: reports to
