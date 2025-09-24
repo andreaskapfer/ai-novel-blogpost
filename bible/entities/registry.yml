@@ -117,6 +117,8 @@
     company, focused on the bottom line and company reputation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 14
   displayName: "Head of Security: Ms. Lopez"
   kind: character
