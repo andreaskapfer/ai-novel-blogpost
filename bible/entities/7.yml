@@ -2,9 +2,7 @@ entityId: 7
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 2
-    associationType: works at
-  - entityId: 1
-    associationType: works with
-  - entityId: 6
-    associationType: reports to
+  - entityId: 15
+    associationType: gathers in
+  - entityId: 17
+    associationType: affected by
