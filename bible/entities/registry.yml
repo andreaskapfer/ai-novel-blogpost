@@ -697,3 +697,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 79
+  displayName: Masked Figure
+  kind: character
+  description: A mysterious masked individual seen disabling a security camera in
+    the footage, suspected to be the thief.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
