@@ -573,3 +573,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 67
+  displayName: Inside Connection
+  kind: concept
+  description: The possibility that someone within the company aided the
+    perpetrators of the GPU theft, a theory developed by the nerd group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
