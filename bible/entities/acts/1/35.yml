@@ -1,0 +1,9 @@
+entityId: 35
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 1
+    associationType: gathered by
+  - entityId: 23
+    associationType: site of deepened friendship
