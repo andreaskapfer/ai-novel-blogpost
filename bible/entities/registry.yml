@@ -254,6 +254,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 29
   displayName: Security System
   kind: item
