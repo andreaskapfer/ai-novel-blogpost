@@ -431,3 +431,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 54
+  displayName: Looming Deadlines
+  kind: concept
+  description: Upcoming project deadlines that cause anxiety for Sam and add
+    tension to the group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
