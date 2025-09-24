@@ -29,3 +29,10 @@
     story.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Server Room
+  kind: location
+  description: A secure room within the company where the GPUs and AI
+    infrastructure are housed. The site of the theft.
+  bibleReferences:
+    - bibleLevel: book
