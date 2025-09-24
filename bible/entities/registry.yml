@@ -1,0 +1,8 @@
+- id: 1
+  displayName: Core Nerd Group
+  kind: group
+  description: A close-knit group of IT professionals working at an IT consulting
+    company, each with unique skills and personalities. Central protagonists of
+    the story.
+  bibleReferences:
+    - bibleLevel: book
