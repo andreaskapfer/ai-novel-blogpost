@@ -62,6 +62,8 @@
     suspects or provide information during the investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 8
   displayName: GPU Theft
   kind: backgroundEvent
