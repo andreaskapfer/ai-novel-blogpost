@@ -729,3 +729,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 83
+  displayName: Internal Rivalries
+  kind: concept
+  description: Hidden rivalries and motives within the company, uncovered during
+    the nerd group's investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
