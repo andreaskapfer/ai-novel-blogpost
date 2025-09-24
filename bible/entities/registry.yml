@@ -203,3 +203,11 @@
     room and company assets, including cameras, locks, and alarms.
   bibleReferences:
     - bibleLevel: book
+- id: 30
+  displayName: IT Department
+  kind: group
+  description: The broader team of IT professionals at the company, including but
+    not limited to the core nerd group. Some members become suspects during the
+    investigation.
+  bibleReferences:
+    - bibleLevel: book
