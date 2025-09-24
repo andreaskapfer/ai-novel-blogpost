@@ -581,3 +581,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 68
+  displayName: Timeline of the Break-In
+  kind: item
+  description: A reconstructed sequence of events during the night of the GPU
+    theft, pieced together by the nerd group from various clues.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
