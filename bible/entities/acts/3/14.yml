@@ -1,0 +1,9 @@
+entityId: 14
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 6
+    associationType: pressures
+  - entityId: 86
+    associationType: threatens
