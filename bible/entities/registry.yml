@@ -816,3 +816,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 94
+  displayName: Creative Brainstorming
+  kind: concept
+  description: The process led by Jamie to encourage the nerd group to think
+    outside the box and consider unconventional solutions.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
