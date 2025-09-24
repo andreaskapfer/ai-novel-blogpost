@@ -220,6 +220,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 21
   displayName: Company-Wide Announcement
   kind: backgroundEvent
