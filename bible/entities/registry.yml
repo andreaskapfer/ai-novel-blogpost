@@ -399,3 +399,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 50
+  displayName: Inside Jokes
+  kind: concept
+  description: Recurring humorous references and jokes unique to the nerd group,
+    reinforcing their bond.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
