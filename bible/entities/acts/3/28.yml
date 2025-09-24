@@ -1,0 +1,13 @@
+entityId: 28
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 1
+    associationType: member of
+  - entityId: 92
+    associationType: sketches
+  - entityId: 94
+    associationType: leads
+  - entityId: 97
+    associationType: proposes
