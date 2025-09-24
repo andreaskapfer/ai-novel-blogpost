@@ -407,3 +407,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 51
+  displayName: Personal Ambitions
+  kind: concept
+  description: The individual goals and dreams of each nerd group member,
+    discussed during after-hours gatherings.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
