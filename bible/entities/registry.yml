@@ -532,3 +532,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 62
+  displayName: Disabled Security Camera
+  kind: item
+  description: A security camera that was tampered with or disabled during the
+    break-in, providing a clue to the sophistication of the theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
