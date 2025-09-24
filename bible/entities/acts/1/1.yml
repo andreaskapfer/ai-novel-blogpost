@@ -1,0 +1,41 @@
+entityId: 1
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 24
+    associationType: has member
+  - entityId: 25
+    associationType: has member
+  - entityId: 26
+    associationType: has member
+  - entityId: 27
+    associationType: has member
+  - entityId: 28
+    associationType: has member
+  - entityId: 18
+    associationType: engages in
+  - entityId: 23
+    associationType: shares bond of
+  - entityId: 20
+    associationType: built on
+  - entityId: 30
+    associationType: part of broader department
+  - entityId: 2
+    associationType: works at
+  - entityId: 15
+    associationType: works in
+  - entityId: 3
+    associationType: relies on
+  - entityId: 5
+    associationType: accesses
+  - entityId: 6
+    associationType: reports to
+  - entityId: 14
+    associationType: serves
+  - entityId: 34
+    associationType: subject to
+  - entityId: 32
+    associationType: affects
+  - entityId: 35
+    associationType: gathers at after work
