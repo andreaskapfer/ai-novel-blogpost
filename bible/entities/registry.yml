@@ -245,6 +245,8 @@
     investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 31
   displayName: Break-In Event
   kind: backgroundEvent
