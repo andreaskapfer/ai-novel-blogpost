@@ -43,3 +43,10 @@
     nerd group's investigation and responsible for company decisions.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Coworkers
+  kind: group
+  description: Other employees at the IT consulting company, some of whom become
+    suspects or provide information during the investigation.
+  bibleReferences:
+    - bibleLevel: book
