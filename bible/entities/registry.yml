@@ -168,3 +168,10 @@
     with a dry sense of humor and a knack for solving complex problems.
   bibleReferences:
     - bibleLevel: book
+- id: 25
+  displayName: "Nerd Group Member: Priya"
+  kind: character
+  description: A cybersecurity expert in the core nerd group, Priya is
+    resourceful, quick-witted, and fiercely loyal to her friends.
+  bibleReferences:
+    - bibleLevel: book
