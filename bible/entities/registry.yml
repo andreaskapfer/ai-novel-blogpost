@@ -63,3 +63,10 @@
     encountered by the nerds as they investigate the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: Rival Company
+  kind: location
+  description: A competing company implicated in the conspiracy and the location
+    of the story's climax.
+  bibleReferences:
+    - bibleLevel: book
