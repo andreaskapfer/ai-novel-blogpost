@@ -91,3 +91,10 @@
     confronted by the nerd group in the climax.
   bibleReferences:
     - bibleLevel: book
+- id: 14
+  displayName: Clients
+  kind: group
+  description: The customers of the IT consulting company, whose demands and
+    pressures add to the stakes during the crisis.
+  bibleReferences:
+    - bibleLevel: book
