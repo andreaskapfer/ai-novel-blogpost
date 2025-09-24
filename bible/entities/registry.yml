@@ -73,6 +73,8 @@
     various projects, some of whom become suspects in the GPU theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 8
   displayName: Hardware Resellers
   kind: group
