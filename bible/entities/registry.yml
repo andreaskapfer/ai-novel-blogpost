@@ -190,6 +190,8 @@
     with a dry sense of humor and a knack for solving complex problems.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 25
   displayName: "Nerd Group Member: Priya"
   kind: character
