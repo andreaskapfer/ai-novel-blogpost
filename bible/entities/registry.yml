@@ -188,6 +188,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 18
   displayName: IT Department
   kind: group
