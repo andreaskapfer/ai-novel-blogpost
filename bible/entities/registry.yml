@@ -133,3 +133,10 @@
     trust and unity during the investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 20
+  displayName: Trust
+  kind: concept
+  description: The mutual reliance and faith among the nerd group, tested and
+    strengthened throughout the story.
+  bibleReferences:
+    - bibleLevel: book
