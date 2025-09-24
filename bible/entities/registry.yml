@@ -705,3 +705,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 80
+  displayName: Encrypted Message (Act 3)
+  kind: item
+  description: An encrypted message left on a compromised server, discovered by
+    Priya during the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
