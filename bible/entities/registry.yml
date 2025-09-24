@@ -42,3 +42,10 @@
     crisis.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: External Contractors
+  kind: group
+  description: Individuals or companies hired by the IT consulting company for
+    various projects, some of whom become suspects in the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
