@@ -1,9 +1,0 @@
-entityId: 60
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 65
-    associationType: reviewed in
-  - entityId: 1
-    associationType: reviewed by

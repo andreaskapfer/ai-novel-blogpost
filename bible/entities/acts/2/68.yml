@@ -1,7 +1,0 @@
-entityId: 68
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 65
-    associationType: constructed in

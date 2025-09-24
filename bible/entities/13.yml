@@ -1,8 +1,0 @@
-entityId: 13
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 12
-    associationType: masterminds
-  - entityId: 1
-    associationType: confronted by

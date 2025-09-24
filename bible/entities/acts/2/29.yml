@@ -1,9 +1,0 @@
-entityId: 29
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 5
-    associationType: protects
-  - entityId: 26
-    associationType: inspected by

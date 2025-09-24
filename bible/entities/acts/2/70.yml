@@ -1,9 +1,0 @@
-entityId: 70
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 1
-    associationType: experienced by
-  - entityId: 64
-    associationType: arises from

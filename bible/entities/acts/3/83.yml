@@ -1,9 +1,0 @@
-entityId: 83
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 84
-    associationType: intensifies
-  - entityId: 1
-    associationType: uncovered by

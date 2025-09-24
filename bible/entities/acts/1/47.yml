@@ -1,9 +1,0 @@
-entityId: 47
-bibleReference:
-  bibleLevel: act
-  act: 1
-associatedEntities:
-  - entityId: 27
-    associationType: analyzed by
-  - entityId: 1
-    associationType: used by group

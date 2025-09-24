@@ -1,8 +1,0 @@
-entityId: 14
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 2
-    associationType: served by
-  - entityId: 1
-    associationType: served by

@@ -1,9 +1,0 @@
-entityId: 87
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 1
-    associationType: experienced by
-  - entityId: 97
-    associationType: inspires
