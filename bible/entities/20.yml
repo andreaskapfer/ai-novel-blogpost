@@ -1,0 +1,6 @@
+entityId: 20
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: developed by
