@@ -174,3 +174,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 20
+  displayName: AI Diagnostic Tools
+  kind: item
+  description: Custom software and scripts developed by Mei to monitor,
+    troubleshoot, and optimize the AI infrastructure.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
