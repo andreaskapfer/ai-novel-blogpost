@@ -263,3 +263,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 38
+  displayName: Brief Power Outage
+  kind: backgroundEvent
+  description: A sudden power outage in the office that disrupts work and tests
+    the nerd group's problem-solving skills.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
