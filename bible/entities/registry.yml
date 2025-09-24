@@ -119,6 +119,8 @@
     nerd group interacts and works daily.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 16
   displayName: Personal Fears
   kind: concept
