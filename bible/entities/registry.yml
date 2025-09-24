@@ -309,3 +309,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 31
+  displayName: Simulated GPU Delivery
+  kind: backgroundEvent
+  description: A staged event orchestrated by the nerd group to bait the thief and
+    monitor reactions.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
