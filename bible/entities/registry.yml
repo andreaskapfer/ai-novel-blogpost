@@ -516,3 +516,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 60
+  displayName: Security Footage
+  kind: item
+  description: Video recordings from the company's security cameras, reviewed by
+    the nerd group to uncover evidence of the break-in.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
