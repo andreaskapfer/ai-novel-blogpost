@@ -154,3 +154,10 @@
     result of their journey.
   bibleReferences:
     - bibleLevel: book
+- id: 23
+  displayName: Friendship
+  kind: concept
+  description: The strong bond among the nerd group, deepened by their shared
+    experiences and challenges.
+  bibleReferences:
+    - bibleLevel: book
