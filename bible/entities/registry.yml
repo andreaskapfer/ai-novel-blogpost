@@ -277,6 +277,8 @@
     clients to resolve the crisis and restore company operations.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 35
   displayName: Local Café
   kind: location
