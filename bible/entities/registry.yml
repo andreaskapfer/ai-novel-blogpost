@@ -645,3 +645,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 76
+  displayName: Staff Interviews
+  kind: backgroundEvent
+  description: A series of interviews conducted by the nerd group with staff and
+    contractors to uncover inconsistencies and possible suspects.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
