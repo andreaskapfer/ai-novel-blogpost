@@ -1,0 +1,6 @@
+entityId: 10
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: infiltrated by
