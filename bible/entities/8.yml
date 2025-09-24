@@ -2,11 +2,5 @@ entityId: 8
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 4
-    associationType: involves
-  - entityId: 5
-    associationType: occurred in
-  - entityId: 1
-    associationType: investigated by
-  - entityId: 2
-    associationType: impacts
+  - entityId: 17
+    associationType: causes
