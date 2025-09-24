@@ -181,6 +181,8 @@
     experiences and challenges.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 24
   displayName: "Nerd Group Member: Alex"
   kind: character
