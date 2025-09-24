@@ -589,3 +589,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 69
+  displayName: Management Impatience
+  kind: emotionalState
+  description: The growing frustration and impatience of management as the
+    investigation drags on without results.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
