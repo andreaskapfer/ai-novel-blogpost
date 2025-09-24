@@ -343,3 +343,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 43
+  displayName: Management Expectations
+  kind: concept
+  description: The high standards and pressure set by the company's management,
+    influencing the nerd group's daily work and stress levels.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
