@@ -196,3 +196,10 @@
     unconventional solutions and keeping morale high.
   bibleReferences:
     - bibleLevel: book
+- id: 29
+  displayName: Security System
+  kind: item
+  description: The electronic and physical security measures protecting the server
+    room and company assets, including cameras, locks, and alarms.
+  bibleReferences:
+    - bibleLevel: book
