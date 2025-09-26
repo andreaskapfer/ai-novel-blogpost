@@ -1,0 +1,27 @@
+entityId: 1
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 19
+    associationType: has member
+  - entityId: 20
+    associationType: has member
+  - entityId: 21
+    associationType: has member
+  - entityId: 22
+    associationType: has member
+  - entityId: 2
+    associationType: works at
+  - entityId: 11
+    associationType: exemplifies
+  - entityId: 3
+    associationType: works with
+  - entityId: 4
+    associationType: relies on
+  - entityId: 9
+    associationType: interacts with
+  - entityId: 10
+    associationType: interacts with
+  - entityId: 23
+    associationType: gathers at
