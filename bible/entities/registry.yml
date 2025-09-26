@@ -291,6 +291,8 @@
       act: 1
     - bibleLevel: act
       act: 2
+    - bibleLevel: act
+      act: 5
 - id: 24
   displayName: Security Footage
   kind: item
