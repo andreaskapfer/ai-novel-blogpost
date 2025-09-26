@@ -1,0 +1,13 @@
+entityId: 19
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 1
+    associationType: member of nerd group
+  - entityId: 20
+    associationType: collaborates with Priya
+  - entityId: 21
+    associationType: collaborates with Sam
+  - entityId: 22
+    associationType: collaborates with Jamie
