@@ -1,0 +1,15 @@
+entityId: 93
+bibleReference:
+  bibleLevel: act
+  act: 5
+associatedEntities:
+  - entityId: 1
+    associationType: experienced by
+  - entityId: 19
+    associationType: felt by
+  - entityId: 20
+    associationType: felt by
+  - entityId: 21
+    associationType: felt by
+  - entityId: 22
+    associationType: felt by
