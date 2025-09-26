@@ -156,6 +156,8 @@
     thinking outside the box and is passionate about AI ethics.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 21
   displayName: "Nerd Group Member: Sam"
   kind: character
