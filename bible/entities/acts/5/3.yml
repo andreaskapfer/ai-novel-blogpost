@@ -1,0 +1,11 @@
+entityId: 3
+bibleReference:
+  bibleLevel: act
+  act: 5
+associatedEntities:
+  - entityId: 4
+    associationType: powered by
+  - entityId: 84
+    associationType: restored during
+  - entityId: 5
+    associationType: housed in
