@@ -875,3 +875,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 95
+  displayName: Strengthened Friendship
+  kind: concept
+  description: The ordeal has deepened the bonds of friendship and trust among
+    Alex, Priya, Sam, and Jamie.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
