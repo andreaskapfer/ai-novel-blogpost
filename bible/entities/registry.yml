@@ -60,6 +60,8 @@
     chaos and triggering the nerd group's investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 7
   displayName: Hackers
   kind: group
