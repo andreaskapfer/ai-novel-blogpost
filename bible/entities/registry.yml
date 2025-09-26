@@ -56,6 +56,8 @@
       act: 2
     - bibleLevel: act
       act: 3
+    - bibleLevel: act
+      act: 4
 - id: 5
   displayName: Server Room
   kind: location
