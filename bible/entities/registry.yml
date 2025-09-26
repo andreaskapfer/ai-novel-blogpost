@@ -802,3 +802,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 86
+  displayName: Celebration Gathering
+  kind: backgroundEvent
+  description: The nerd group gathers in the company cafeteria to celebrate their
+    success, reminisce, and share laughs after the case is closed.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
