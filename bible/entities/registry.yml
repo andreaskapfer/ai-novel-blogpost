@@ -582,3 +582,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 66
+  displayName: Coworker Suspicion
+  kind: concept
+  description: The growing distrust and suspicion among coworkers, complicating
+    the investigation and straining relationships.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
