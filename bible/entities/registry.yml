@@ -283,6 +283,8 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 33
   displayName: Layoff Rumors
   kind: backgroundEvent
