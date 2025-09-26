@@ -166,3 +166,10 @@
     the investigation into the GPU theft.
   bibleReferences:
     - bibleLevel: book
+- id: 25
+  displayName: Suspicious Coworker
+  kind: character
+  description: A coworker whose odd behavior and proximity to the server room make
+    them a person of interest early in the investigation.
+  bibleReferences:
+    - bibleLevel: book
