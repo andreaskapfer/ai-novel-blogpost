@@ -71,6 +71,8 @@
     overseeing operations and recognizing the nerd group's achievements.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 10
   displayName: Coworkers
   kind: group
