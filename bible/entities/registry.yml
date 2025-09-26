@@ -124,3 +124,10 @@
     forward to after their successful investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 19
+  displayName: "Nerd Group Member: Alex"
+  kind: character
+  description: A core member of the nerd group, Alex is known for their quick wit,
+    deep technical expertise, and leadership qualities.
+  bibleReferences:
+    - bibleLevel: book
