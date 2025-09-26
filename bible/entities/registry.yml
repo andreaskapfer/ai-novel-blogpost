@@ -517,3 +517,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 58
+  displayName: Timeline of the Theft
+  kind: item
+  description: A reconstructed timeline created by the nerd group, implicating
+    both an insider and an external accomplice in the GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
