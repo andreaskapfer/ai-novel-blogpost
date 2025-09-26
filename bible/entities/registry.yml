@@ -14,6 +14,8 @@
     reliant on its advanced AI infrastructure.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 3
   displayName: AI Infrastructure
   kind: item
