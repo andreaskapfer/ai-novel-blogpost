@@ -1,0 +1,15 @@
+entityId: 14
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 1
+    associationType: exposed by
+  - entityId: 9
+    associationType: confronted by management
+  - entityId: 83
+    associationType: exposed by evidence
+  - entityId: 4
+    associationType: stole GPUs
+  - entityId: 74
+    associationType: forced to return GPUs
