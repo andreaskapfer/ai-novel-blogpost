@@ -138,3 +138,10 @@
     thinking outside the box and is passionate about AI ethics.
   bibleReferences:
     - bibleLevel: book
+- id: 21
+  displayName: "Nerd Group Member: Sam"
+  kind: character
+  description: Sam is the hardware specialist of the nerd group, responsible for
+    maintaining the server room and the GPUs.
+  bibleReferences:
+    - bibleLevel: book
