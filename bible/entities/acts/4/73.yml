@@ -1,0 +1,11 @@
+entityId: 73
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 10
+    associationType: caused by coworker
+  - entityId: 9
+    associationType: caused by management
+  - entityId: 72
+    associationType: disrupts
