@@ -96,3 +96,10 @@
     and exposed by the nerd group.
   bibleReferences:
     - bibleLevel: book
+- id: 15
+  displayName: Breakthrough Clue
+  kind: item
+  description: An overlooked piece of evidence that reignites the nerd group's
+    determination and leads them to the real thief.
+  bibleReferences:
+    - bibleLevel: book
