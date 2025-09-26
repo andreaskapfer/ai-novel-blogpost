@@ -3,4 +3,6 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 1
-    associationType: anticipated by
+    associationType: faced by
+  - entityId: 2
+    associationType: future of
