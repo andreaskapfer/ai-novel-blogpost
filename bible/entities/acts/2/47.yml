@@ -1,0 +1,9 @@
+entityId: 47
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 38
+    associationType: location of emergency meeting
+  - entityId: 9
+    associationType: used by management
