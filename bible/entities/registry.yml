@@ -207,6 +207,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 24
   displayName: Security Footage
   kind: item
