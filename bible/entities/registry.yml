@@ -257,3 +257,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 33
+  displayName: Layoff Rumors
+  kind: backgroundEvent
+  description: Speculation and anxiety among employees about potential layoffs,
+    creating tension and uncertainty in the workplace.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
