@@ -1,0 +1,11 @@
+entityId: 44
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 2
+    associationType: threatens company
+  - entityId: 3
+    associationType: depends on AI infrastructure
+  - entityId: 1
+    associationType: motivates nerd group
