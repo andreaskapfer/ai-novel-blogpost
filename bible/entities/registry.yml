@@ -178,6 +178,8 @@
     the real thief and recover the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 4
 - id: 17
   displayName: Recognition by Management
   kind: backgroundEvent
