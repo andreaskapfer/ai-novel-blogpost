@@ -1,0 +1,11 @@
+entityId: 24
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 5
+    associationType: monitors server room
+  - entityId: 12
+    associationType: used in investigation
+  - entityId: 39
+    associationType: partially deleted
