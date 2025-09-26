@@ -1,0 +1,10 @@
+entityId: 13
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: suspected by
+  - entityId: 12
+    associationType: target of
+  - entityId: 6
+    associationType: cleared of
