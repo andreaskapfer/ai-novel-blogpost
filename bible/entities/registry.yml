@@ -891,3 +891,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 97
+  displayName: Cybersecurity Advisory Role
+  kind: concept
+  description: The nerd group is consulted as advisors on cybersecurity following
+    their success, marking a new chapter in their professional journey.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
