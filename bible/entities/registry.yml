@@ -533,3 +533,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 60
+  displayName: Technical Challenges in Decryption
+  kind: concept
+  description: The complex technical obstacles faced by the nerd group as they
+    attempt to decrypt the stolen files.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
