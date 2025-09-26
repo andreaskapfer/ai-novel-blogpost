@@ -883,3 +883,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 96
+  displayName: Late-Night Departure
+  kind: backgroundEvent
+  description: The nerd group leaves the office late at night after the
+    resolution, symbolizing closure and new beginnings.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
