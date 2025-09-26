@@ -1,0 +1,11 @@
+entityId: 9
+bibleReference:
+  bibleLevel: act
+  act: 5
+associatedEntities:
+  - entityId: 1
+    associationType: commends
+  - entityId: 87
+    associationType: offers new opportunities
+  - entityId: 90
+    associationType: implements new security measures
