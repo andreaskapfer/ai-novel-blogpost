@@ -41,6 +41,8 @@
       act: 2
     - bibleLevel: act
       act: 3
+    - bibleLevel: act
+      act: 4
 - id: 4
   displayName: GPUs
   kind: item
