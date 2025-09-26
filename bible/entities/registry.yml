@@ -349,3 +349,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 40
+  displayName: List of Suspects
+  kind: item
+  description: A compiled list of individuals with access to the server room,
+    created by the nerd group to narrow down the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
