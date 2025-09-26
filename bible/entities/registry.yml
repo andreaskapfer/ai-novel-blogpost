@@ -12,3 +12,10 @@
     reliant on its advanced AI infrastructure.
   bibleReferences:
     - bibleLevel: book
+- id: 3
+  displayName: AI Infrastructure
+  kind: item
+  description: The powerful artificial intelligence system that supports the
+    company's operations, dependent on high-performance GPUs.
+  bibleReferences:
+    - bibleLevel: book
