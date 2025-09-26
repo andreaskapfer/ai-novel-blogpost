@@ -2,11 +2,9 @@ entityId: 4
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 2
-    associationType: property of
   - entityId: 3
-    associationType: powers
+    associationType: enables
   - entityId: 5
     associationType: stored in
   - entityId: 6
-    associationType: subject of theft
+    associationType: stolen in
