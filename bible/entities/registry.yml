@@ -206,3 +206,5 @@
     the nerd group's investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
