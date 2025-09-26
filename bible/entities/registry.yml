@@ -461,3 +461,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 51
+  displayName: Mysterious Message
+  kind: item
+  description: A cryptic message received by the nerd group, hinting at an inside
+    job and urging them to expand their investigation beyond the company.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
