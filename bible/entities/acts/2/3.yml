@@ -1,0 +1,11 @@
+entityId: 3
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 4
+    associationType: requires GPUs
+  - entityId: 5
+    associationType: housed in
+  - entityId: 44
+    associationType: critical to company future
