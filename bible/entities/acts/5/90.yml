@@ -1,0 +1,9 @@
+entityId: 90
+bibleReference:
+  bibleLevel: act
+  act: 5
+associatedEntities:
+  - entityId: 1
+    associationType: consults as advisors
+  - entityId: 2
+    associationType: implemented at
