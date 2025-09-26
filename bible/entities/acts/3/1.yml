@@ -1,0 +1,39 @@
+entityId: 1
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 19
+    associationType: has member
+  - entityId: 20
+    associationType: has member
+  - entityId: 21
+    associationType: has member
+  - entityId: 22
+    associationType: has member
+  - entityId: 61
+    associationType: experiences
+  - entityId: 12
+    associationType: continues investigation
+  - entityId: 51
+    associationType: receives
+  - entityId: 54
+    associationType: meets
+  - entityId: 58
+    associationType: creates
+  - entityId: 60
+    associationType: faces
+  - entityId: 59
+    associationType: discovers
+  - entityId: 62
+    associationType: confronts
+  - entityId: 52
+    associationType: interviews
+  - entityId: 53
+    associationType: infiltrates
+  - entityId: 55
+    associationType: meets at
+  - entityId: 56
+    associationType: attempts to decrypt
+  - entityId: 57
+    associationType: evades
