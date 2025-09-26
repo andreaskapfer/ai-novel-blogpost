@@ -685,3 +685,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 75
+  displayName: Trust and Collaboration
+  kind: concept
+  description: The renewed trust and collaboration among the nerd group, enabling
+    them to overcome adversity and solve the case.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
