@@ -1,0 +1,50 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: The nerd group arrives at work to discover the server room in
+      chaos—security tape on the door, management in a panic, and the AI
+      infrastructure offline. Sam, the hardware specialist, confirms the GPUs
+      are missing. Management holds an emergency meeting, fueling rumors of
+      layoffs and sabotage. The nerds, devastated by the loss and worried for
+      their jobs, resolve to investigate the theft themselves. They begin by
+      reviewing security footage and compiling a list of people with access to
+      the server room.
+    approximateNoOfWords: 5000
+  - index: 2
+    summary: "The group splits up to gather information. Alex and Priya interview
+      coworkers, encountering a suspicious coworker whose alibi doesn’t add up.
+      Jamie navigates office politics to learn about recent tensions and
+      possible motives. Sam analyzes the server room’s access logs and finds an
+      anomaly: a late-night entry by someone not on the authorized list. The
+      nerds regroup to share findings, realizing the theft was carefully planned
+      and likely involved someone inside the company."
+    approximateNoOfWords: 5000
+  - index: 3
+    summary: The nerds dig deeper, following up on the suspicious coworker and
+      cross-referencing their movements with the access logs. They discover that
+      the security footage from the critical time period is missing, suggesting
+      tampering. Priya uncovers office rumors about a rival firm trying to poach
+      talent and speculates about industrial espionage. The group debates
+      whether to confront the coworker or keep investigating quietly, wary of
+      tipping off the thief.
+    approximateNoOfWords: 5000
+  - index: 4
+    summary: Tensions rise as management pressures everyone for results and the
+      nerds’ own projects stall. Jamie overhears a heated argument in the
+      cafeteria involving the suspicious coworker and another employee. Alex and
+      Sam manage to recover a fragment of deleted security footage, revealing a
+      shadowy figure near the server room. The group pieces together the
+      timeline and identifies a potential accomplice, expanding their list of
+      suspects.
+    approximateNoOfWords: 5000
+  - index: 5
+    summary: The nerd group presents their initial findings to management, hoping
+      for support but instead facing skepticism and warnings not to interfere.
+      Undeterred, they resolve to continue their investigation in secret. They
+      set up a sting operation to monitor server room activity and plant false
+      information to flush out the thief. The act ends with the nerds on edge,
+      determined to solve the mystery before the company’s future—and their
+      own—is irreparably damaged.
+    approximateNoOfWords: 5000
