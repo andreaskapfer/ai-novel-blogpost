@@ -365,3 +365,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 42
+  displayName: False Information
+  kind: item
+  description: Deliberately planted data or rumors by the nerd group to lure the
+    thief into revealing themselves during the sting operation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
