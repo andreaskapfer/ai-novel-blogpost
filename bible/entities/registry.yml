@@ -701,3 +701,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 77
+  displayName: Priya's Analytical Mindset
+  kind: personalityTrait
+  description: Priya's ability to notice subtle details and think outside the box,
+    crucial for discovering the breakthrough clue.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
