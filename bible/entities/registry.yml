@@ -82,3 +82,10 @@
     stolen GPUs, involving clue gathering, interviews, and technical analysis.
   bibleReferences:
     - bibleLevel: book
+- id: 13
+  displayName: Prime Suspect
+  kind: character
+  description: The main individual initially suspected of stealing the GPUs, later
+    cleared of suspicion.
+  bibleReferences:
+    - bibleLevel: book
