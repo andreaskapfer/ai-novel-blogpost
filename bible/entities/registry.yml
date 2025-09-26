@@ -645,3 +645,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 70
+  displayName: Team Morale
+  kind: emotionalState
+  description: The fluctuating morale of the nerd group as frustration, blame, and
+    management pressure threaten to fracture their unity.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
