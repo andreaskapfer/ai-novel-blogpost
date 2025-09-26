@@ -1,0 +1,9 @@
+entityId: 39
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 24
+    associationType: missing segment of security footage
+  - entityId: 25
+    associationType: suggests tampering by suspicious coworker
