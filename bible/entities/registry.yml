@@ -229,6 +229,8 @@
     them a person of interest early in the investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 26
   displayName: Office Rumors
   kind: concept
