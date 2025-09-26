@@ -317,3 +317,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 36
+  displayName: Sting Operation
+  kind: concept
+  description: A covert plan set up by the nerd group to catch the thief by
+    monitoring server room activity and planting false information.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
