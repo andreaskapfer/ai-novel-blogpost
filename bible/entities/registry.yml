@@ -733,3 +733,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 81
+  displayName: Layoff Anxiety
+  kind: emotionalState
+  description: The pervasive fear among employees about losing their jobs,
+    intensified by management pressure and unresolved theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
