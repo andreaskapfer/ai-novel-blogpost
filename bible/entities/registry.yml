@@ -103,3 +103,10 @@
     determination and leads them to the real thief.
   bibleReferences:
     - bibleLevel: book
+- id: 16
+  displayName: High-Stakes Operation
+  kind: concept
+  description: The risky plan devised and executed by the nerd group to confront
+    the real thief and recover the stolen GPUs.
+  bibleReferences:
+    - bibleLevel: book
