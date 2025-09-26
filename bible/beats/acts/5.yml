@@ -1,0 +1,135 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 5
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: Regroup and Recognition
+    summary: The nerd group regroups after their successful sting operation,
+      returning the recovered GPUs to the server room. Management calls an
+      emergency meeting to announce the restoration of the AI infrastructure and
+      publicly commends the group for their ingenuity and teamwork. The
+      company’s future is secured, and the threat of layoffs is lifted. The
+      nerds receive recognition from their peers and management, with each
+      member reflecting on their personal growth and the challenges they
+      overcame during the investigation.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: setting
+      - entityId: 3
+        associationType: restored item
+      - entityId: 4
+        associationType: recovered item
+      - entityId: 5
+        associationType: location
+      - entityId: 9
+        associationType: supporting group
+      - entityId: 10
+        associationType: supporting group
+      - entityId: 19
+        associationType: character reflection
+      - entityId: 20
+        associationType: character reflection
+      - entityId: 21
+        associationType: character reflection
+      - entityId: 22
+        associationType: character reflection
+      - entityId: 84
+        associationType: background event
+      - entityId: 85
+        associationType: theme
+  - order: 2
+    subdivisionIndex: 2
+    name: Celebration and New Bonds
+    summary: In the aftermath, the nerd group gathers in the company cafeteria to
+      celebrate. They reminisce about the twists and turns of the case, sharing
+      laughs and inside jokes. Alex, Priya, Sam, and Jamie each express how the
+      ordeal has strengthened their friendship and trust in one another.
+      Management offers them new opportunities, hinting at upcoming projects and
+      challenges. The group discusses their hopes for the future, excited by the
+      prospect of tackling new mysteries together.
+    emotionAtStart: very_high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 19
+        associationType: character
+      - entityId: 20
+        associationType: character
+      - entityId: 21
+        associationType: character
+      - entityId: 22
+        associationType: character
+      - entityId: 23
+        associationType: location
+      - entityId: 11
+        associationType: theme
+      - entityId: 86
+        associationType: background event
+      - entityId: 87
+        associationType: background event
+      - entityId: 18
+        associationType: theme
+  - order: 3
+    subdivisionIndex: 3
+    name: Quiet Reflection and Teaser
+    summary: The story closes with a quiet moment as the nerd group leaves the
+      office late at night, the server room humming with restored power. Alex
+      lingers, reflecting on the journey and the bonds forged through adversity.
+      A final, mysterious email arrives in the group’s inbox, teasing a new
+      puzzle on the horizon. The group exchanges knowing glances, ready to face
+      whatever comes next, united by their shared experience and unbreakable
+      camaraderie.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 19
+        associationType: character POV
+      - entityId: 20
+        associationType: character
+      - entityId: 21
+        associationType: character
+      - entityId: 22
+        associationType: character
+      - entityId: 5
+        associationType: location
+      - entityId: 88
+        associationType: item
+      - entityId: 11
+        associationType: theme
+  - order: 4
+    subdivisionIndex: 4
+    name: "Epilogue: Justice and New Beginnings"
+    summary: An epilogue reveals the fate of the real thief and their accomplice,
+      who face legal consequences for their actions. The company implements new
+      security measures to prevent future incidents, and the nerd group is
+      consulted as advisors on cybersecurity. The novel ends with a sense of
+      optimism and anticipation, as the nerds look forward to new adventures,
+      their reputation as problem-solvers firmly established within the company
+      and beyond.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 1
+        associationType: protagonist group
+      - entityId: 2
+        associationType: setting
+      - entityId: 89
+        associationType: background event
+      - entityId: 90
+        associationType: background event
+      - entityId: 91
+        associationType: theme
+      - entityId: 18
+        associationType: theme
