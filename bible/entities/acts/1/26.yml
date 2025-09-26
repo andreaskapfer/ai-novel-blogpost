@@ -5,5 +5,9 @@ bibleReference:
 associatedEntities:
   - entityId: 10
     associationType: spread by
-  - entityId: 1
-    associationType: affects
+  - entityId: 12
+    associationType: complicates
+  - entityId: 6
+    associationType: arises after
+  - entityId: 33
+    associationType: related to
