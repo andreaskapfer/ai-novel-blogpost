@@ -173,3 +173,10 @@
     them a person of interest early in the investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 26
+  displayName: Office Rumors
+  kind: concept
+  description: Gossip and speculation among employees, which both hinder and help
+    the nerd group's investigation.
+  bibleReferences:
+    - bibleLevel: book
