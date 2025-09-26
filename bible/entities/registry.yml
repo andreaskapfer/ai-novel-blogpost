@@ -557,3 +557,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 63
+  displayName: Rival Hacker Collective
+  kind: group
+  description: A loosely organized group of elite hackers suspected of
+    orchestrating sophisticated cyberattacks, including the breach at the IT
+    consulting company.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
