@@ -341,3 +341,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 39
+  displayName: Deleted Security Footage
+  kind: item
+  description: Segments of security footage that are missing or erased, suggesting
+    tampering and complicity in the theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
