@@ -5,3 +5,10 @@
     their passion for technology, quirky personalities, and strong camaraderie.
   bibleReferences:
     - bibleLevel: book
+- id: 2
+  displayName: IT Consulting Company
+  kind: location
+  description: A modern tech company specializing in IT consulting, heavily
+    reliant on its advanced AI infrastructure.
+  bibleReferences:
+    - bibleLevel: book
