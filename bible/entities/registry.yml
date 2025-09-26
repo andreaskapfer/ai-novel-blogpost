@@ -422,3 +422,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 49
+  displayName: Shadowy Figure
+  kind: character
+  description: An unidentified individual captured in a fragment of deleted
+    security footage near the server room, suspected to be involved in the
+    theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
