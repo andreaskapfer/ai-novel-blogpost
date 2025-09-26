@@ -525,3 +525,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 59
+  displayName: Anomaly in Access Logs
+  kind: item
+  description: A subtle irregularity discovered in the server room access logs,
+    suggesting tampering by someone with high-level clearance.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
