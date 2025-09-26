@@ -1,0 +1,11 @@
+entityId: 91
+bibleReference:
+  bibleLevel: act
+  act: 5
+associatedEntities:
+  - entityId: 1
+    associationType: reputation of
+  - entityId: 2
+    associationType: within company
+  - entityId: 18
+    associationType: enables future opportunities
