@@ -1,0 +1,45 @@
+outlineReference:
+  bibleLevel: act
+  act: 4
+subdivisions:
+  - index: 1
+    summary: The nerd group reels from the revelation that their prime suspect is
+      innocent, forcing them to confront the possibility that their
+      investigation has gone astray. Frustration and blame threaten to fracture
+      the group, with Alex and Priya clashing over next steps while Sam and
+      Jamie attempt to mediate. As the team’s morale hits a low point,
+      management increases pressure for results, and the threat of layoffs looms
+      larger than ever.
+    approximateNoOfWords: 5000
+  - index: 2
+    summary: While reviewing overlooked evidence, Priya notices a subtle anomaly in
+      the server room access logs that everyone else missed. The group regroups
+      to analyze this clue, realizing it points to someone with high-level
+      clearance. Their determination reignites as they piece together how the
+      real thief manipulated both digital and physical security, and they begin
+      to formulate a new theory about the culprit’s identity.
+    approximateNoOfWords: 5000
+  - index: 3
+    summary: Pooling their unique skills, the nerd group devises a bold plan to
+      catch the real thief in the act. They coordinate a high-stakes operation
+      involving digital surveillance, a carefully staged decoy, and a covert
+      stakeout of the server room. Each member takes on a critical role,
+      leveraging their strengths in hardware, software, social engineering, and
+      office politics to ensure the plan’s success.
+    approximateNoOfWords: 7000
+  - index: 4
+    summary: The operation unfolds with mounting tension as the group monitors the
+      server room and tracks suspicious activity. Unexpected complications
+      arise, including interference from a coworker and a near-discovery by
+      management. Despite these setbacks, the nerds adapt on the fly, using
+      quick thinking and teamwork to keep the plan on track and close in on the
+      real thief.
+    approximateNoOfWords: 5000
+  - index: 5
+    summary: In a dramatic confrontation, the nerd group exposes the real thief,
+      presenting irrefutable evidence to management. The stolen GPUs are
+      recovered, and the group’s efforts are finally recognized. The act ends
+      with the team reflecting on how their renewed trust and collaboration
+      enabled them to overcome adversity, setting the stage for the story’s
+      resolution.
+    approximateNoOfWords: 3000
