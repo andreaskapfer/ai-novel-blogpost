@@ -232,6 +232,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 27
   displayName: Company-Wide Event
   kind: backgroundEvent
