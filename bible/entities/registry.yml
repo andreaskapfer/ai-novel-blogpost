@@ -501,3 +501,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 56
+  displayName: Encrypted Stolen Files
+  kind: item
+  description: Files stolen during the GPU theft, now encrypted and requiring
+    technical expertise to decrypt.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
