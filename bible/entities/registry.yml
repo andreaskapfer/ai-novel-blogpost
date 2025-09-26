@@ -541,3 +541,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 61
+  displayName: Group Tensions
+  kind: emotionalState
+  description: Escalating stress, suspicion, and arguments within the nerd group
+    as the investigation grows riskier and more complex.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
