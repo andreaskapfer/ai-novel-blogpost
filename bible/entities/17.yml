@@ -1,0 +1,8 @@
+entityId: 17
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: recognizes
+  - entityId: 9
+    associationType: performed by
