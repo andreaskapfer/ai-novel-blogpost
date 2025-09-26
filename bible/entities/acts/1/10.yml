@@ -3,7 +3,19 @@ bibleReference:
   bibleLevel: act
   act: 1
 associatedEntities:
-  - entityId: 2
-    associationType: works at
-  - entityId: 1
-    associationType: interacts with
+  - entityId: 25
+    associationType: includes
+  - entityId: 22
+    associationType: interacts
+  - entityId: 19
+    associationType: interacts
+  - entityId: 20
+    associationType: interacts
+  - entityId: 21
+    associationType: interacts
+  - entityId: 27
+    associationType: attends
+  - entityId: 32
+    associationType: engages in
+  - entityId: 26
+    associationType: spreads
