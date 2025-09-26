@@ -1,0 +1,10 @@
+entityId: 16
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: executed by
+  - entityId: 14
+    associationType: exposes
+  - entityId: 4
+    associationType: recovers
