@@ -717,3 +717,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 79
+  displayName: Jamie's Diplomacy
+  kind: personalityTrait
+  description: Jamie's skill at mediating conflicts and maintaining group
+    cohesion, especially during internal disputes.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
