@@ -4,10 +4,12 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 2
-    associationType: located in
+    associationType: part of
   - entityId: 3
-    associationType: houses
+    associationType: contains
   - entityId: 4
-    associationType: houses
-  - entityId: 21
-    associationType: maintained by
+    associationType: contains
+  - entityId: 28
+    associationType: lingered near
+  - entityId: 1
+    associationType: visited by
