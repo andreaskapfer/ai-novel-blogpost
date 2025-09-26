@@ -227,6 +227,8 @@
       act: 3
     - bibleLevel: act
       act: 4
+    - bibleLevel: act
+      act: 5
 - id: 20
   displayName: "Nerd Group Member: Priya"
   kind: character
