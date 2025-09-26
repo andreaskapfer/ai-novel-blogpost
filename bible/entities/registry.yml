@@ -152,3 +152,10 @@
     office politics and keeping the team united.
   bibleReferences:
     - bibleLevel: book
+- id: 23
+  displayName: Company Cafeteria
+  kind: location
+  description: A lively gathering spot within the IT consulting company where
+    employees socialize and exchange information.
+  bibleReferences:
+    - bibleLevel: book
