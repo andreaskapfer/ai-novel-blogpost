@@ -3,8 +3,8 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 2
-    associationType: manages
+    associationType: leads
   - entityId: 1
     associationType: recognizes
   - entityId: 17
-    associationType: performs
+    associationType: recognizes during
