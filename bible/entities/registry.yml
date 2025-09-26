@@ -469,3 +469,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 52
+  displayName: Former Employee with Competitor Ties
+  kind: character
+  description: A former employee of the IT consulting company, now associated with
+    a rival firm, interviewed by Alex and Priya during the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
