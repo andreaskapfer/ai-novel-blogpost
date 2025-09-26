@@ -637,3 +637,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 69
+  displayName: Layoff Threat
+  kind: backgroundEvent
+  description: The looming threat of layoffs at the IT consulting company,
+    intensified by management pressure and the unresolved GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
