@@ -81,6 +81,8 @@
       act: 3
     - bibleLevel: act
       act: 4
+    - bibleLevel: act
+      act: 5
 - id: 6
   displayName: Theft of the GPUs
   kind: backgroundEvent
