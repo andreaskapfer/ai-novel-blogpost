@@ -1,0 +1,9 @@
+entityId: 37
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 5
+    associationType: seals server room
+  - entityId: 6
+    associationType: marks crime scene
