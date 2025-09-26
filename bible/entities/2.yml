@@ -1,0 +1,18 @@
+entityId: 2
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: employs
+  - entityId: 3
+    associationType: relies on
+  - entityId: 4
+    associationType: owns
+  - entityId: 5
+    associationType: contains
+  - entityId: 6
+    associationType: affected by
+  - entityId: 9
+    associationType: managed by
+  - entityId: 10
+    associationType: employs
