@@ -1,0 +1,41 @@
+outlineReference:
+  bibleLevel: act
+  act: 5
+subdivisions:
+  - index: 1
+    summary: The nerd group regroups after their successful sting operation,
+      returning the recovered GPUs to the server room. Management calls an
+      emergency meeting to announce the restoration of the AI infrastructure and
+      publicly commends the group for their ingenuity and teamwork. The
+      company’s future is secured, and the threat of layoffs is lifted. The
+      nerds receive recognition from their peers and management, with each
+      member reflecting on their personal growth and the challenges they
+      overcame during the investigation.
+    approximateNoOfWords: 6000
+  - index: 2
+    summary: In the aftermath, the nerd group gathers in the company cafeteria to
+      celebrate. They reminisce about the twists and turns of the case, sharing
+      laughs and inside jokes. Alex, Priya, Sam, and Jamie each express how the
+      ordeal has strengthened their friendship and trust in one another.
+      Management offers them new opportunities, hinting at upcoming projects and
+      challenges. The group discusses their hopes for the future, excited by the
+      prospect of tackling new mysteries together.
+    approximateNoOfWords: 6000
+  - index: 3
+    summary: The story closes with a quiet moment as the nerd group leaves the
+      office late at night, the server room humming with restored power. Alex
+      lingers, reflecting on the journey and the bonds forged through adversity.
+      A final, mysterious email arrives in the group’s inbox, teasing a new
+      puzzle on the horizon. The group exchanges knowing glances, ready to face
+      whatever comes next, united by their shared experience and unbreakable
+      camaraderie.
+    approximateNoOfWords: 6000
+  - index: 4
+    summary: An epilogue reveals the fate of the real thief and their accomplice,
+      who face legal consequences for their actions. The company implements new
+      security measures to prevent future incidents, and the nerd group is
+      consulted as advisors on cybersecurity. The novel ends with a sense of
+      optimism and anticipation, as the nerds look forward to new adventures,
+      their reputation as problem-solvers firmly established within the company
+      and beyond.
+    approximateNoOfWords: 7000
