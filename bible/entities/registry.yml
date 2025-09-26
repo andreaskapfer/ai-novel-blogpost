@@ -785,3 +785,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 84
+  displayName: Restoration of AI Infrastructure
+  kind: backgroundEvent
+  description: The event in which the company's AI infrastructure is restored
+    after the GPUs are recovered, ensuring the company's continued operation and
+    stability.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
