@@ -309,3 +309,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 35
+  displayName: Accomplice
+  kind: character
+  description: A potential second individual involved in the GPU theft, identified
+    through investigation and analysis of evidence.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
