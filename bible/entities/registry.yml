@@ -725,3 +725,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 80
+  displayName: Server Room Surveillance System
+  kind: item
+  description: The network of cameras and monitoring tools used to observe the
+    server room during the nerd group's operation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
