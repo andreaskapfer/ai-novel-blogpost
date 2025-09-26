@@ -19,3 +19,10 @@
     company's operations, dependent on high-performance GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 4
+  displayName: GPUs
+  kind: item
+  description: High-performance graphics processing units essential for running
+    the company's AI infrastructure, and the target of the central theft.
+  bibleReferences:
+    - bibleLevel: book
