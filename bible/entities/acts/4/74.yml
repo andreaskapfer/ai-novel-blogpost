@@ -1,0 +1,11 @@
+entityId: 74
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 4
+    associationType: same as
+  - entityId: 1
+    associationType: recovered by
+  - entityId: 14
+    associationType: stolen by
