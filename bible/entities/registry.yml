@@ -131,3 +131,10 @@
     deep technical expertise, and leadership qualities.
   bibleReferences:
     - bibleLevel: book
+- id: 20
+  displayName: "Nerd Group Member: Priya"
+  kind: character
+  description: A creative problem-solver in the nerd group, Priya excels at
+    thinking outside the box and is passionate about AI ethics.
+  bibleReferences:
+    - bibleLevel: book
