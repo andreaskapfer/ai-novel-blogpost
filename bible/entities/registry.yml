@@ -75,3 +75,10 @@
     strengthened throughout the story.
   bibleReferences:
     - bibleLevel: book
+- id: 12
+  displayName: Investigation
+  kind: concept
+  description: The nerd group's determined effort to solve the mystery of the
+    stolen GPUs, involving clue gathering, interviews, and technical analysis.
+  bibleReferences:
+    - bibleLevel: book
