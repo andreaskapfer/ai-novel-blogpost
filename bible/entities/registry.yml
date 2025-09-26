@@ -333,3 +333,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 38
+  displayName: Emergency Meeting
+  kind: backgroundEvent
+  description: A hastily convened meeting by management in response to the GPU
+    theft, fueling rumors and anxiety among employees.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
