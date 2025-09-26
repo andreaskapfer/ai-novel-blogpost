@@ -1,0 +1,11 @@
+entityId: 43
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 25
+    associationType: involves suspicious coworker
+  - entityId: 10
+    associationType: involves another employee
+  - entityId: 12
+    associationType: provides new lead
