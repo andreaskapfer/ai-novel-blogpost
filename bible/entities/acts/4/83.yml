@@ -1,0 +1,13 @@
+entityId: 83
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 1
+    associationType: presented by
+  - entityId: 9
+    associationType: presented to
+  - entityId: 14
+    associationType: exposes
+  - entityId: 4
+    associationType: proves theft of
