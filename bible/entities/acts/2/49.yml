@@ -1,0 +1,11 @@
+entityId: 49
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 39
+    associationType: appears in deleted footage
+  - entityId: 35
+    associationType: potential accomplice
+  - entityId: 24
+    associationType: captured by security footage
