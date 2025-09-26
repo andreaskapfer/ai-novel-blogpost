@@ -574,3 +574,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 65
+  displayName: Management Pressure
+  kind: concept
+  description: The increasing demands and scrutiny from company management,
+    intensifying the nerd group's stress and urgency.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
