@@ -709,3 +709,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 78
+  displayName: Sam's Calm Under Pressure
+  kind: personalityTrait
+  description: Sam's steady demeanor and technical focus, helping the group adapt
+    during high-stress moments of the operation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
