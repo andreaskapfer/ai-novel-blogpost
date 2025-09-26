@@ -169,6 +169,8 @@
     determination and leads them to the real thief.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 4
 - id: 16
   displayName: High-Stakes Operation
   kind: concept
