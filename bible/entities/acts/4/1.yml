@@ -1,0 +1,35 @@
+entityId: 1
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 19
+    associationType: has member
+  - entityId: 20
+    associationType: has member
+  - entityId: 21
+    associationType: has member
+  - entityId: 22
+    associationType: has member
+  - entityId: 70
+    associationType: experiences low morale
+  - entityId: 81
+    associationType: experiences layoff anxiety
+  - entityId: 75
+    associationType: achieves renewed trust
+  - entityId: 16
+    associationType: executes operation
+  - entityId: 72
+    associationType: executes decoy
+  - entityId: 74
+    associationType: recovers GPUs
+  - entityId: 83
+    associationType: presents evidence
+  - entityId: 2
+    associationType: operates in
+  - entityId: 9
+    associationType: pressured by
+  - entityId: 69
+    associationType: threatened by layoff
+  - entityId: 82
+    associationType: pressured by ultimatum
