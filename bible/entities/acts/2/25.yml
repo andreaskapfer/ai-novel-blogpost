@@ -1,0 +1,11 @@
+entityId: 25
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 10
+    associationType: is coworker
+  - entityId: 40
+    associationType: on list of suspects
+  - entityId: 43
+    associationType: involved in heated argument
