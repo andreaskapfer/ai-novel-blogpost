@@ -2,7 +2,7 @@ entityId: 7
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 1
-    associationType: encountered by
   - entityId: 12
-    associationType: involved in
+    associationType: encountered during
+  - entityId: 1
+    associationType: interacts with
