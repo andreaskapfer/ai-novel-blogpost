@@ -3,4 +3,6 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 1
-    associationType: shared by
+    associationType: between members
+  - entityId: 12
+    associationType: tested during
