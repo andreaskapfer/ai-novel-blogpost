@@ -3,11 +3,15 @@ bibleReference:
   bibleLevel: act
   act: 1
 associatedEntities:
-  - entityId: 2
-    associationType: owned by
   - entityId: 4
     associationType: powered by
   - entityId: 5
     associationType: housed in
+  - entityId: 2
+    associationType: serves
+  - entityId: 27
+    associationType: highlighted at
   - entityId: 1
-    associationType: operated by
+    associationType: maintained by
+  - entityId: 21
+    associationType: maintained by
