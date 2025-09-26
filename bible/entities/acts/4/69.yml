@@ -1,0 +1,11 @@
+entityId: 69
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 9
+    associationType: caused by management
+  - entityId: 10
+    associationType: affects
+  - entityId: 70
+    associationType: increases
