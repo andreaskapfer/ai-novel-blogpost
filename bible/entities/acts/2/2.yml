@@ -1,0 +1,17 @@
+entityId: 2
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 5
+    associationType: contains
+  - entityId: 23
+    associationType: contains
+  - entityId: 30
+    associationType: contains
+  - entityId: 9
+    associationType: employs management
+  - entityId: 10
+    associationType: employs coworkers
+  - entityId: 44
+    associationType: faces uncertain future
