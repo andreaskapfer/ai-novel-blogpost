@@ -110,3 +110,10 @@
     the real thief and recover the stolen GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 17
+  displayName: Recognition by Management
+  kind: backgroundEvent
+  description: The event in which the nerd group's efforts are acknowledged and
+    celebrated by the company's leadership after solving the case.
+  bibleReferences:
+    - bibleLevel: book
