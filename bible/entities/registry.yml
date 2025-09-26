@@ -397,3 +397,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 46
+  displayName: Server Room Door
+  kind: item
+  description: The main entry point to the server room, secured with electronic
+    locks and monitored by security cameras. Site of the security tape after the
+    theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
