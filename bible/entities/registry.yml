@@ -149,6 +149,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 5
 - id: 12
   displayName: Investigation
   kind: concept
