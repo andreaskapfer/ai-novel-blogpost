@@ -1,0 +1,19 @@
+entityId: 1
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 19
+    associationType: includes member
+  - entityId: 20
+    associationType: includes member
+  - entityId: 21
+    associationType: includes member
+  - entityId: 22
+    associationType: includes member
+  - entityId: 12
+    associationType: drives investigation
+  - entityId: 45
+    associationType: experiences emotional state
+  - entityId: 36
+    associationType: executes sting operation
