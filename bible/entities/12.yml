@@ -1,0 +1,22 @@
+entityId: 12
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: undertaken by
+  - entityId: 6
+    associationType: focuses on
+  - entityId: 7
+    associationType: involves
+  - entityId: 8
+    associationType: involves
+  - entityId: 10
+    associationType: involves
+  - entityId: 13
+    associationType: targets
+  - entityId: 14
+    associationType: targets
+  - entityId: 15
+    associationType: leads to
+  - entityId: 16
+    associationType: culminates in
