@@ -40,3 +40,10 @@
     chaos and triggering the nerd group's investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 7
+  displayName: Hackers
+  kind: group
+  description: A group of external individuals with advanced technical skills,
+    encountered by the nerd group during their investigation.
+  bibleReferences:
+    - bibleLevel: book
