@@ -159,3 +159,10 @@
     employees socialize and exchange information.
   bibleReferences:
     - bibleLevel: book
+- id: 24
+  displayName: Security Footage
+  kind: item
+  description: Digital recordings from the company's security cameras, crucial for
+    the investigation into the GPU theft.
+  bibleReferences:
+    - bibleLevel: book
