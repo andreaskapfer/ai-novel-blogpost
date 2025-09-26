@@ -1,0 +1,17 @@
+entityId: 9
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 2
+    associationType: leads
+  - entityId: 1
+    associationType: pressures
+  - entityId: 69
+    associationType: threatens with layoffs
+  - entityId: 82
+    associationType: issues ultimatum
+  - entityId: 14
+    associationType: recognizes exposure
+  - entityId: 83
+    associationType: receives evidence
