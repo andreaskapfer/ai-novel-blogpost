@@ -4,14 +4,10 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 2
-    associationType: manages
+    associationType: leads
   - entityId: 1
-    associationType: oversees
-  - entityId: 19
-    associationType: receives reports from
-  - entityId: 20
-    associationType: receives reports from
-  - entityId: 21
-    associationType: receives reports from
-  - entityId: 22
-    associationType: receives reports from
+    associationType: recognizes
+  - entityId: 27
+    associationType: organizes
+  - entityId: 30
+    associationType: based in
