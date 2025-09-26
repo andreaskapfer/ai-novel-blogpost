@@ -1,0 +1,9 @@
+entityId: 94
+bibleReference:
+  bibleLevel: act
+  act: 5
+associatedEntities:
+  - entityId: 1
+    associationType: offered to
+  - entityId: 9
+    associationType: announced by
