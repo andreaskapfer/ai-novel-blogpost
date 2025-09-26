@@ -414,3 +414,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 48
+  displayName: Access Badge
+  kind: item
+  description: Electronic badge used by employees to access secure areas like the
+    server room. Access logs are tied to these badges.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
