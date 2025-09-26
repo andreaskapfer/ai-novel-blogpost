@@ -477,3 +477,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 53
+  displayName: Underground Hacker Forum
+  kind: location
+  description: A secretive online forum where hackers exchange information and
+    services, infiltrated by Sam and Jamie during their investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
