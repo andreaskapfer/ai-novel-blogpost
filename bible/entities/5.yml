@@ -3,8 +3,8 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 2
-    associationType: located in
+    associationType: part of
   - entityId: 3
-    associationType: houses
+    associationType: contains
   - entityId: 4
-    associationType: stores
+    associationType: contains
