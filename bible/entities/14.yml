@@ -2,11 +2,9 @@ entityId: 14
 bibleReference:
   bibleLevel: book
 associatedEntities:
+  - entityId: 12
+    associationType: revealed by
   - entityId: 1
     associationType: confronted by
-  - entityId: 12
-    associationType: target of
-  - entityId: 6
-    associationType: commits
   - entityId: 16
-    associationType: exposed during
+    associationType: target of operation
