@@ -41,6 +41,8 @@
     infrastructure are housed.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 6
   displayName: Theft of the GPUs
   kind: backgroundEvent
