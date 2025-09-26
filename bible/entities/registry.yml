@@ -653,3 +653,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 71
+  displayName: Renewed Determination
+  kind: emotionalState
+  description: The resurgence of hope and focus within the nerd group after
+    discovering the crucial clue in the access logs.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
