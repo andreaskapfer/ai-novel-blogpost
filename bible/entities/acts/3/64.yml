@@ -1,0 +1,11 @@
+entityId: 64
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 54
+    associationType: used by
+  - entityId: 1
+    associationType: received by
+  - entityId: 51
+    associationType: contains clues related to
