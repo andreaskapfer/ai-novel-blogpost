@@ -1,0 +1,11 @@
+entityId: 41
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 8
+    associationType: suspected of espionage
+  - entityId: 26
+    associationType: rumored among employees
+  - entityId: 6
+    associationType: possible motive for theft
