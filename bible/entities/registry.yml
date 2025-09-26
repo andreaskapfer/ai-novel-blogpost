@@ -669,3 +669,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 73
+  displayName: Unexpected Complications
+  kind: backgroundEvent
+  description: Unforeseen obstacles during the nerd group's operation, including
+    interference from a coworker and near-discovery by management.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
