@@ -1,0 +1,6 @@
+entityId: 11
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 1
+    associationType: shared by
