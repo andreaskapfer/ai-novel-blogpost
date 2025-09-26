@@ -1,0 +1,17 @@
+entityId: 9
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: manages
+  - entityId: 1
+    associationType: oversees
+  - entityId: 19
+    associationType: receives reports from
+  - entityId: 20
+    associationType: receives reports from
+  - entityId: 21
+    associationType: receives reports from
+  - entityId: 22
+    associationType: receives reports from
