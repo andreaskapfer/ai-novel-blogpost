@@ -68,3 +68,10 @@
     suspects or provide clues during the investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 11
+  displayName: Friendship
+  kind: concept
+  description: The strong bond and camaraderie among the nerd group, tested and
+    strengthened throughout the story.
+  bibleReferences:
+    - bibleLevel: book
