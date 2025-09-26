@@ -826,3 +826,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 89
+  displayName: Legal Consequences for Thief and Accomplice
+  kind: backgroundEvent
+  description: The real thief and their accomplice face legal consequences for
+    their actions, as revealed in the epilogue.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
