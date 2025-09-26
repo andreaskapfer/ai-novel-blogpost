@@ -661,3 +661,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 72
+  displayName: Decoy Operation
+  kind: concept
+  description: A carefully staged decoy and covert stakeout devised by the nerd
+    group to catch the real thief in the act.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
