@@ -406,3 +406,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 47
+  displayName: Emergency Meeting Room
+  kind: location
+  description: The conference room where management holds emergency meetings,
+    including the one after the GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
