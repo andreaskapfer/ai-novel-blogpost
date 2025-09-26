@@ -3,6 +3,6 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 1
-    associationType: recognizes
+    associationType: awarded to
   - entityId: 9
-    associationType: performed by
+    associationType: given by
