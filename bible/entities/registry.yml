@@ -850,3 +850,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 92
+  displayName: Company-wide Recognition Ceremony
+  kind: backgroundEvent
+  description: A formal event where the nerd group is publicly commended by
+    management and peers for their teamwork and ingenuity in solving the GPU
+    theft case.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
