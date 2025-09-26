@@ -151,6 +151,8 @@
     cleared of suspicion.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 4
 - id: 14
   displayName: Real Thief
   kind: character
