@@ -301,3 +301,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 34
+  displayName: Access Logs
+  kind: item
+  description: Digital records of all entries and exits to the server room,
+    crucial for tracking movements during the GPU theft investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
