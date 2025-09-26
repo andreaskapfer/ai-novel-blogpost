@@ -1,0 +1,10 @@
+entityId: 5
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 2
+    associationType: located in
+  - entityId: 3
+    associationType: houses
+  - entityId: 4
+    associationType: stores
