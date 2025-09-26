@@ -1,0 +1,19 @@
+entityId: 2
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 1
+    associationType: employs
+  - entityId: 9
+    associationType: managed by
+  - entityId: 10
+    associationType: employs
+  - entityId: 3
+    associationType: owns
+  - entityId: 4
+    associationType: owns
+  - entityId: 5
+    associationType: contains
+  - entityId: 23
+    associationType: contains
