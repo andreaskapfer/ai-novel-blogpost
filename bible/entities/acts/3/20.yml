@@ -1,0 +1,13 @@
+entityId: 20
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 1
+    associationType: member of
+  - entityId: 19
+    associationType: clashes with
+  - entityId: 52
+    associationType: interviews
+  - entityId: 61
+    associationType: experiences group tension
