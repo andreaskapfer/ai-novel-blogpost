@@ -693,3 +693,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 76
+  displayName: Alex's Leadership Style
+  kind: personalityTrait
+  description: Alex's approach to leadership, characterized by assertiveness,
+    technical rigor, and a tendency to take charge during crises.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
