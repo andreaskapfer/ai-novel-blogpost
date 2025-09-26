@@ -217,3 +217,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 28
+  displayName: Suspicious Character
+  kind: character
+  description: An enigmatic individual who lingers near the server room during the
+    company-wide event, raising suspicions among the nerd group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
