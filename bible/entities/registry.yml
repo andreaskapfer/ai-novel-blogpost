@@ -549,3 +549,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 62
+  displayName: Airtight Alibi
+  kind: item
+  description: The prime suspect's solid evidence proving they could not have
+    committed the theft, forcing the group to reconsider their theories.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
