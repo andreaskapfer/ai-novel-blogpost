@@ -3,9 +3,9 @@ bibleReference:
   bibleLevel: act
   act: 5
 associatedEntities:
-  - entityId: 1
-    associationType: commends
-  - entityId: 87
-    associationType: offers new opportunities
-  - entityId: 90
-    associationType: implements new security measures
+  - entityId: 92
+    associationType: hosts recognition ceremony
+  - entityId: 94
+    associationType: announces new project
+  - entityId: 97
+    associationType: appoints as advisors
