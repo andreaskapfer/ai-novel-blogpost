@@ -222,6 +222,8 @@
       act: 2
     - bibleLevel: act
       act: 3
+    - bibleLevel: act
+      act: 4
 - id: 21
   displayName: "Nerd Group Member: Sam"
   kind: character
