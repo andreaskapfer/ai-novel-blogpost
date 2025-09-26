@@ -54,3 +54,10 @@
     suspects or unexpected allies during the investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 9
+  displayName: Management
+  kind: group
+  description: The leadership team of the IT consulting company, responsible for
+    overseeing operations and recognizing the nerd group's achievements.
+  bibleReferences:
+    - bibleLevel: book
