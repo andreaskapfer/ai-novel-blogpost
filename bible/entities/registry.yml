@@ -26,3 +26,10 @@
     the company's AI infrastructure, and the target of the central theft.
   bibleReferences:
     - bibleLevel: book
+- id: 5
+  displayName: Server Room
+  kind: location
+  description: A secure room within the company where the GPUs and AI
+    infrastructure are housed.
+  bibleReferences:
+    - bibleLevel: book
