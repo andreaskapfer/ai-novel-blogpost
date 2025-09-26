@@ -249,3 +249,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 32
+  displayName: Office Politics
+  kind: concept
+  description: The subtle rivalries, alliances, and power dynamics among employees
+    and departments within the IT consulting company.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
