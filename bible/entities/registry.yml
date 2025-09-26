@@ -867,3 +867,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 94
+  displayName: New Project Initiative
+  kind: backgroundEvent
+  description: Management announces a new, high-profile project and invites the
+    nerd group to lead, signaling trust in their abilities.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
