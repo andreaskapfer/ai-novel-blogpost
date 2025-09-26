@@ -1,0 +1,15 @@
+entityId: 12
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 1
+    associationType: conducted by nerd group
+  - entityId: 24
+    associationType: uses security footage
+  - entityId: 34
+    associationType: analyzes access logs
+  - entityId: 40
+    associationType: compiles list of suspects
+  - entityId: 36
+    associationType: culminates in sting operation
