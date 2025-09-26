@@ -1,0 +1,11 @@
+entityId: 28
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 27
+    associationType: attends
+  - entityId: 5
+    associationType: lingers near
+  - entityId: 1
+    associationType: arouses suspicion in
