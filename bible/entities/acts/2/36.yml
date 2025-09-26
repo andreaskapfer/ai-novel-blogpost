@@ -1,0 +1,11 @@
+entityId: 36
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 1
+    associationType: executed by nerd group
+  - entityId: 42
+    associationType: uses false information
+  - entityId: 12
+    associationType: culmination of investigation
