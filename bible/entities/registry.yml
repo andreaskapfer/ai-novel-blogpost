@@ -810,3 +810,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 87
+  displayName: New Opportunities from Management
+  kind: backgroundEvent
+  description: Management offers the nerd group new opportunities and hints at
+    upcoming projects and challenges as a reward for their success.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
