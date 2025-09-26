@@ -183,6 +183,8 @@
     employees socialize and exchange information.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 24
   displayName: Security Footage
   kind: item
