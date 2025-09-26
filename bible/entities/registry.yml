@@ -114,6 +114,8 @@
     stolen GPUs, involving clue gathering, interviews, and technical analysis.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 13
   displayName: Prime Suspect
   kind: character
