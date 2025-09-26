@@ -1,0 +1,17 @@
+entityId: 22
+bibleReference:
+  bibleLevel: act
+  act: 3
+associatedEntities:
+  - entityId: 1
+    associationType: member of
+  - entityId: 21
+    associationType: works with
+  - entityId: 53
+    associationType: infiltrates
+  - entityId: 54
+    associationType: meets
+  - entityId: 56
+    associationType: attempts to decrypt
+  - entityId: 61
+    associationType: experiences group tension
