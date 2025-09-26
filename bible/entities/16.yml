@@ -3,8 +3,8 @@ bibleReference:
   bibleLevel: book
 associatedEntities:
   - entityId: 1
-    associationType: executed by
+    associationType: planned by
   - entityId: 14
-    associationType: exposes
+    associationType: target
   - entityId: 4
-    associationType: recovers
+    associationType: "goal: recover"
