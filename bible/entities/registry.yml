@@ -47,3 +47,10 @@
     encountered by the nerd group during their investigation.
   bibleReferences:
     - bibleLevel: book
+- id: 8
+  displayName: Rival Firms
+  kind: group
+  description: Competing companies in the tech industry, some of whom become
+    suspects or unexpected allies during the investigation.
+  bibleReferences:
+    - bibleLevel: book
