@@ -1,0 +1,19 @@
+entityId: 27
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 2
+    associationType: hosted by
+  - entityId: 1
+    associationType: honors
+  - entityId: 3
+    associationType: highlights
+  - entityId: 4
+    associationType: highlights
+  - entityId: 9
+    associationType: organized by
+  - entityId: 10
+    associationType: attended by
+  - entityId: 28
+    associationType: attended by
