@@ -357,3 +357,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 41
+  displayName: Industrial Espionage
+  kind: concept
+  description: The act of stealing company secrets or assets for the benefit of a
+    rival firm, suspected as a motive in the GPU theft.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
