@@ -89,3 +89,10 @@
     cleared of suspicion.
   bibleReferences:
     - bibleLevel: book
+- id: 14
+  displayName: Real Thief
+  kind: character
+  description: The actual perpetrator behind the GPU theft, ultimately confronted
+    and exposed by the nerd group.
+  bibleReferences:
+    - bibleLevel: book
