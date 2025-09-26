@@ -220,6 +220,8 @@
     the investigation into the GPU theft.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 2
 - id: 25
   displayName: Suspicious Coworker
   kind: character
