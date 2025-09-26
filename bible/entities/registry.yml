@@ -80,6 +80,8 @@
     suspects or provide clues during the investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 11
   displayName: Friendship
   kind: concept
