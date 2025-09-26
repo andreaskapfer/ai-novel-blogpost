@@ -741,3 +741,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 82
+  displayName: Management's Ultimatum
+  kind: backgroundEvent
+  description: A critical warning from management threatening layoffs if the theft
+    is not resolved, raising the stakes for the nerd group.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
