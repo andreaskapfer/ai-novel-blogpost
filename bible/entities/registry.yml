@@ -389,3 +389,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 45
+  displayName: Employee Anxiety
+  kind: emotionalState
+  description: The pervasive sense of worry and fear among employees due to the
+    theft, rumors of layoffs, and management pressure.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
