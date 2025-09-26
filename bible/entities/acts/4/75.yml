@@ -1,0 +1,11 @@
+entityId: 75
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 1
+    associationType: theme for
+  - entityId: 71
+    associationType: results from
+  - entityId: 70
+    associationType: overcomes
