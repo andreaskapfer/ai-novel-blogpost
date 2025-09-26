@@ -834,3 +834,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 90
+  displayName: New Security Measures
+  kind: backgroundEvent
+  description: The company implements new security measures to prevent future
+    incidents, consulting the nerd group as advisors.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
