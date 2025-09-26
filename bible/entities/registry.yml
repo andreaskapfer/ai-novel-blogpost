@@ -145,3 +145,10 @@
     maintaining the server room and the GPUs.
   bibleReferences:
     - bibleLevel: book
+- id: 22
+  displayName: "Nerd Group Member: Jamie"
+  kind: character
+  description: Jamie is the social glue of the nerd group, skilled at navigating
+    office politics and keeping the team united.
+  bibleReferences:
+    - bibleLevel: book
