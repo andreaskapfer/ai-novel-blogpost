@@ -210,6 +210,8 @@
     forward to after their successful investigation.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 5
 - id: 19
   displayName: "Nerd Group Member: Alex"
   kind: character
