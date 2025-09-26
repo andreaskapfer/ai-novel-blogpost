@@ -1,0 +1,31 @@
+entityId: 1
+bibleReference:
+  bibleLevel: act
+  act: 5
+associatedEntities:
+  - entityId: 19
+    associationType: has member
+  - entityId: 20
+    associationType: has member
+  - entityId: 21
+    associationType: has member
+  - entityId: 22
+    associationType: has member
+  - entityId: 11
+    associationType: strengthened by
+  - entityId: 85
+    associationType: reflected upon by
+  - entityId: 86
+    associationType: celebrates at
+  - entityId: 91
+    associationType: establishes reputation
+  - entityId: 18
+    associationType: looks forward to
+  - entityId: 87
+    associationType: receives new opportunities from
+  - entityId: 88
+    associationType: receives mysterious email
+  - entityId: 90
+    associationType: consulted as advisors for security
+  - entityId: 2
+    associationType: works at
