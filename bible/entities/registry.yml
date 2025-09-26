@@ -859,3 +859,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 93
+  displayName: Restored Team Morale
+  kind: emotionalState
+  description: The nerd group experiences a surge in morale and pride after their
+    success and public recognition.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
