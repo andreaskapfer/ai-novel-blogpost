@@ -1,6 +1,0 @@
-entityId: 4
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 16
-    associationType: tracked by

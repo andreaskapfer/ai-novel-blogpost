@@ -1,8 +1,0 @@
-entityId: 7
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 15
-    associationType: gathers in
-  - entityId: 17
-    associationType: affected by
