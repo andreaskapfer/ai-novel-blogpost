@@ -1,0 +1,11 @@
+entityId: 40
+bibleReference:
+  bibleLevel: act
+  act: 2
+associatedEntities:
+  - entityId: 25
+    associationType: includes suspicious coworker
+  - entityId: 35
+    associationType: includes possible accomplice
+  - entityId: 12
+    associationType: compiled during investigation
