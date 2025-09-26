@@ -794,3 +794,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 85
+  displayName: Personal Growth Reflections
+  kind: concept
+  description: The nerd group members' reflections on their personal growth and
+    the challenges they overcame during the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
