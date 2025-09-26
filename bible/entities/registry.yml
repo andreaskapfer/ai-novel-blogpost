@@ -381,3 +381,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 44
+  displayName: Company’s Future
+  kind: concept
+  description: The uncertain fate of the IT consulting company, threatened by the
+    GPU theft and the potential collapse of its AI infrastructure.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
