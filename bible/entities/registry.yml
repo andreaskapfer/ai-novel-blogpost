@@ -208,3 +208,12 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+- id: 27
+  displayName: Company-Wide Event
+  kind: backgroundEvent
+  description: A celebratory event held by the IT consulting company to recognize
+    recent successes and highlight the achievements of the AI infrastructure and
+    its team.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
