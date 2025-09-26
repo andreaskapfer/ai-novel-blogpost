@@ -225,3 +225,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 29
+  displayName: Morning Rituals
+  kind: concept
+  description: The daily routines and shared habits of the nerd group, including
+    their witty banter and breakfast gatherings in the cafeteria.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
