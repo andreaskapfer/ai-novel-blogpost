@@ -485,3 +485,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 54
+  displayName: Hacker Ally
+  kind: character
+  description: A potential ally encountered by Sam and Jamie in the underground
+    hacker forum, who offers information in exchange for a favor.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
