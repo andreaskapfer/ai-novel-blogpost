@@ -590,3 +590,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 67
+  displayName: Technical Traceback
+  kind: concept
+  description: The process of tracing digital footprints to uncover the source of
+    the data breach.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
