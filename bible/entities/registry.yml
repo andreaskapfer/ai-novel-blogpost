@@ -677,3 +677,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 4
+- id: 74
+  displayName: Recovered GPUs
+  kind: item
+  description: The stolen GPUs, finally recovered by the nerd group after exposing
+    the real thief.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
