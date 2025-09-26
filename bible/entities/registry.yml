@@ -628,3 +628,12 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 68
+  displayName: Server Room Access Logs (Act 4)
+  kind: item
+  description: The digital records of all entries and exits to the server room,
+    revisited and analyzed in Act 4, revealing a subtle anomaly that points to
+    the real thief.
+  bibleReferences:
+    - bibleLevel: act
+      act: 4
