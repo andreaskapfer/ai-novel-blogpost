@@ -241,3 +241,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 1
+- id: 31
+  displayName: Late-Night Troubleshooting Session
+  kind: backgroundEvent
+  description: A recurring event where the nerd group stays late to solve
+    technical problems, strengthening their bond and showcasing their teamwork.
+  bibleReferences:
+    - bibleLevel: act
+      act: 1
