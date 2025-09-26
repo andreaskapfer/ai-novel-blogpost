@@ -165,6 +165,8 @@
     maintaining the server room and the GPUs.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 1
 - id: 22
   displayName: "Nerd Group Member: Jamie"
   kind: character
