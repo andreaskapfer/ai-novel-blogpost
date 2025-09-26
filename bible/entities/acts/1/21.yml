@@ -1,0 +1,23 @@
+entityId: 21
+bibleReference:
+  bibleLevel: act
+  act: 1
+associatedEntities:
+  - entityId: 1
+    associationType: member of
+  - entityId: 19
+    associationType: friend and colleague
+  - entityId: 20
+    associationType: friend and colleague
+  - entityId: 22
+    associationType: friend and colleague
+  - entityId: 2
+    associationType: works at
+  - entityId: 3
+    associationType: maintains
+  - entityId: 4
+    associationType: maintains
+  - entityId: 5
+    associationType: works in
+  - entityId: 9
+    associationType: reports to
