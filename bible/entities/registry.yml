@@ -185,6 +185,8 @@
     - bibleLevel: book
     - bibleLevel: act
       act: 1
+    - bibleLevel: act
+      act: 2
 - id: 22
   displayName: "Nerd Group Member: Jamie"
   kind: character
