@@ -61,3 +61,10 @@
     overseeing operations and recognizing the nerd group's achievements.
   bibleReferences:
     - bibleLevel: book
+- id: 10
+  displayName: Coworkers
+  kind: group
+  description: Other employees at the IT consulting company, some of whom become
+    suspects or provide clues during the investigation.
+  bibleReferences:
+    - bibleLevel: book
