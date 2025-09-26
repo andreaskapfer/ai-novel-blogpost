@@ -33,3 +33,10 @@
     infrastructure are housed.
   bibleReferences:
     - bibleLevel: book
+- id: 6
+  displayName: Theft of the GPUs
+  kind: backgroundEvent
+  description: The pivotal event in which the company's GPUs are stolen, causing
+    chaos and triggering the nerd group's investigation.
+  bibleReferences:
+    - bibleLevel: book
