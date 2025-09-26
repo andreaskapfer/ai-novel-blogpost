@@ -373,3 +373,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 43
+  displayName: Heated Argument
+  kind: backgroundEvent
+  description: A confrontation overheard in the cafeteria involving the suspicious
+    coworker and another employee, providing a new lead in the investigation.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
