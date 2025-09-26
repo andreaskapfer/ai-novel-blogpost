@@ -1,0 +1,11 @@
+entityId: 72
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 1
+    associationType: devised by
+  - entityId: 16
+    associationType: is part of
+  - entityId: 5
+    associationType: location of stakeout
