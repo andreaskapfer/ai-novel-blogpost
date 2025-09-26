@@ -2,9 +2,7 @@ entityId: 15
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 1
-    associationType: discovered by
   - entityId: 12
-    associationType: leads to
-  - entityId: 14
-    associationType: implicates
+    associationType: discovered during
+  - entityId: 1
+    associationType: found by
