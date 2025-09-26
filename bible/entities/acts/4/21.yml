@@ -1,0 +1,15 @@
+entityId: 21
+bibleReference:
+  bibleLevel: act
+  act: 4
+associatedEntities:
+  - entityId: 78
+    associationType: exhibits
+  - entityId: 1
+    associationType: member of
+  - entityId: 19
+    associationType: collaborates with
+  - entityId: 20
+    associationType: collaborates with
+  - entityId: 22
+    associationType: collaborates with
