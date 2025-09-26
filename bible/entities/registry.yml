@@ -842,3 +842,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 91
+  displayName: Nerd Group's Reputation
+  kind: concept
+  description: The nerd group's reputation as problem-solvers is firmly
+    established within the company and beyond.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
