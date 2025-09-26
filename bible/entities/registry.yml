@@ -493,3 +493,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 3
+- id: 55
+  displayName: Clandestine Meeting Location
+  kind: location
+  description: A secret location outside the company where the nerd group meets
+    the hacker ally to exchange information.
+  bibleReferences:
+    - bibleLevel: act
+      act: 3
