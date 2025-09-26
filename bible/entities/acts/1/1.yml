@@ -4,24 +4,22 @@ bibleReference:
   act: 1
 associatedEntities:
   - entityId: 19
-    associationType: has member
+    associationType: member
   - entityId: 20
-    associationType: has member
+    associationType: member
   - entityId: 21
-    associationType: has member
+    associationType: member
   - entityId: 22
-    associationType: has member
-  - entityId: 2
-    associationType: works at
+    associationType: member
+  - entityId: 29
+    associationType: practices
+  - entityId: 31
+    associationType: participates in
   - entityId: 11
-    associationType: exemplifies
-  - entityId: 3
-    associationType: works with
-  - entityId: 4
-    associationType: relies on
-  - entityId: 9
-    associationType: interacts with
-  - entityId: 10
-    associationType: interacts with
-  - entityId: 23
-    associationType: gathers at
+    associationType: embodies
+  - entityId: 32
+    associationType: navigates
+  - entityId: 26
+    associationType: affected by
+  - entityId: 33
+    associationType: affected by
