@@ -160,6 +160,8 @@
     and exposed by the nerd group.
   bibleReferences:
     - bibleLevel: book
+    - bibleLevel: act
+      act: 4
 - id: 15
   displayName: Breakthrough Clue
   kind: item
