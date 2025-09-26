@@ -1,0 +1,10 @@
+entityId: 24
+bibleReference:
+  bibleLevel: book
+associatedEntities:
+  - entityId: 5
+    associationType: records
+  - entityId: 6
+    associationType: evidence for
+  - entityId: 12
+    associationType: analyzed during
