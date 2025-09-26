@@ -2,9 +2,13 @@ entityId: 10
 bibleReference:
   bibleLevel: book
 associatedEntities:
-  - entityId: 2
-    associationType: works at
-  - entityId: 1
-    associationType: interacts with
-  - entityId: 12
-    associationType: questioned during
+  - entityId: 25
+    associationType: includes
+  - entityId: 22
+    associationType: interacts
+  - entityId: 19
+    associationType: interacts
+  - entityId: 20
+    associationType: interacts
+  - entityId: 21
+    associationType: interacts
