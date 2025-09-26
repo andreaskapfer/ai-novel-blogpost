@@ -325,3 +325,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 2
+- id: 37
+  displayName: Security Tape
+  kind: item
+  description: Physical security tape placed on the server room door after the
+    theft, indicating a crime scene and restricting access.
+  bibleReferences:
+    - bibleLevel: act
+      act: 2
