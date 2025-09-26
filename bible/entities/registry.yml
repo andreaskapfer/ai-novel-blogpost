@@ -818,3 +818,11 @@
   bibleReferences:
     - bibleLevel: act
       act: 5
+- id: 88
+  displayName: Mysterious Email
+  kind: item
+  description: A final, mysterious email that arrives in the nerd group’s inbox,
+    teasing a new puzzle and hinting at future adventures.
+  bibleReferences:
+    - bibleLevel: act
+      act: 5
