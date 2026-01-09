@@ -1,0 +1,42 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens with the introduction of the main nerd group at the IT
+      consulting company, each member displaying unique technical skills and
+      quirky personalities. The company’s AI infrastructure is the pride of the
+      team, and the server room is their sanctuary. When the group discovers
+      that all the GPUs powering their AI systems have been stolen overnight,
+      panic and suspicion ripple through the office. The nerds resolve to
+      investigate the theft themselves, setting the stage for a journey that
+      will test their expertise and camaraderie.
+    approximateNoOfWords: 35000
+  - index: 2
+    summary: "The nerd group launches their investigation, leveraging their
+      technical prowess to analyze security footage, trace suspicious network
+      activity, and interview colleagues. As they dig deeper, they encounter
+      obstacles: red herrings, internal politics, and mounting pressure from
+      management to recover the GPUs quickly. Tensions rise within the group as
+      personal secrets and rivalries surface. The nerds must overcome mistrust
+      and work together, following a trail of clues that leads them beyond the
+      company walls."
+    approximateNoOfWords: 40000
+  - index: 3
+    summary: The investigation takes the nerds into the wider tech community, where
+      they confront hackers, rival companies, and underground markets dealing in
+      stolen hardware. They face ethical dilemmas and dangerous situations,
+      forcing them to rely on both their technical skills and their growing
+      trust in one another. As the stakes escalate, the group uncovers a
+      conspiracy that threatens not only their company but the broader AI
+      industry. Their friendship is tested as they race against time to recover
+      the GPUs and expose the culprits.
+    approximateNoOfWords: 40000
+  - index: 4
+    summary: In a high-stakes climax, the nerd group orchestrates a daring plan to
+      retrieve the stolen GPUs and bring the perpetrators to justice. Their
+      teamwork and ingenuity are put to the ultimate test as they confront the
+      mastermind behind the theft. In the aftermath, the group reflects on how
+      the ordeal has changed them, both as individuals and as friends. The
+      company’s AI infrastructure is restored, and the nerds emerge stronger,
+      having proven the value of their skills and their bond.
+    approximateNoOfWords: 35000
