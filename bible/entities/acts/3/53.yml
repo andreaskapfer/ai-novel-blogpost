@@ -1,9 +1,0 @@
-entityId: 53
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 21
-    associationType: infiltrated by
-  - entityId: 22
-    associationType: infiltrated by

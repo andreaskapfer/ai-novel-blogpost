@@ -1,9 +1,0 @@
-entityId: 52
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 19
-    associationType: interviewed by
-  - entityId: 20
-    associationType: interviewed by

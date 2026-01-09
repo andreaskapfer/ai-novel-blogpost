@@ -1,9 +1,0 @@
-entityId: 34
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 5
-    associationType: logs access to
-  - entityId: 12
-    associationType: analyzed in investigation

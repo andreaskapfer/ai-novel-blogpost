@@ -1,9 +1,0 @@
-entityId: 89
-bibleReference:
-  bibleLevel: act
-  act: 5
-associatedEntities:
-  - entityId: 14
-    associationType: legal consequences for
-  - entityId: 35
-    associationType: legal consequences for

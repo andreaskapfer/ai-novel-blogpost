@@ -1,9 +1,0 @@
-entityId: 19
-bibleReference:
-  bibleLevel: act
-  act: 5
-associatedEntities:
-  - entityId: 95
-    associationType: experiences strengthened friendship
-  - entityId: 93
-    associationType: experiences morale boost

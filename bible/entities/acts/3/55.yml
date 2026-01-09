@@ -1,9 +1,0 @@
-entityId: 55
-bibleReference:
-  bibleLevel: act
-  act: 3
-associatedEntities:
-  - entityId: 1
-    associationType: meeting location for
-  - entityId: 54
-    associationType: meeting location for

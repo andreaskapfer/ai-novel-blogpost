@@ -1,9 +1,0 @@
-entityId: 42
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 36
-    associationType: used in sting operation
-  - entityId: 1
-    associationType: planted by nerd group

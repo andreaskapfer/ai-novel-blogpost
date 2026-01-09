@@ -1,8 +1,0 @@
-entityId: 17
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 1
-    associationType: awarded to
-  - entityId: 9
-    associationType: given by

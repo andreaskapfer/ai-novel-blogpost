@@ -1,9 +1,0 @@
-entityId: 88
-bibleReference:
-  bibleLevel: act
-  act: 5
-associatedEntities:
-  - entityId: 1
-    associationType: received by
-  - entityId: 18
-    associationType: hints at new challenges

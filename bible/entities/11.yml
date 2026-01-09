@@ -1,8 +1,0 @@
-entityId: 11
-bibleReference:
-  bibleLevel: book
-associatedEntities:
-  - entityId: 1
-    associationType: between members
-  - entityId: 12
-    associationType: tested during

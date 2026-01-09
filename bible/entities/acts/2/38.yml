@@ -1,9 +1,0 @@
-entityId: 38
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 9
-    associationType: convened by management
-  - entityId: 6
-    associationType: response to theft

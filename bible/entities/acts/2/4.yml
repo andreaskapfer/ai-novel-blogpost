@@ -1,9 +1,0 @@
-entityId: 4
-bibleReference:
-  bibleLevel: act
-  act: 2
-associatedEntities:
-  - entityId: 3
-    associationType: powers AI infrastructure
-  - entityId: 6
-    associationType: target of theft

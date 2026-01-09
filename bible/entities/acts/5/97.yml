@@ -1,9 +1,0 @@
-entityId: 97
-bibleReference:
-  bibleLevel: act
-  act: 5
-associatedEntities:
-  - entityId: 1
-    associationType: advisors
-  - entityId: 9
-    associationType: appointed by
