@@ -15,13 +15,12 @@ subdivisions:
   - index: 2
     summary: "The group investigates the theft, uncovering clues and facing internal
       suspicions. They navigate company politics, interview suspects, and
-      analyze security footage, revealing hidden rivalries and secrets. One
-      clue—a suspicious login from the CEO’s office at midnight—leads them to
-      question trusted colleagues. As they follow leads, their friendship is
-      tested by stress and mistrust. The act culminates in a breakthrough: a
-      mysterious external hacker is identified as a key player, but the group
-      realizes the theft may be an inside job with higher stakes than they
-      imagined."
+      analyze security footage, revealing hidden rivalries and secrets. A
+      suspicious login from the CEO’s office at midnight leads them to question
+      trusted colleagues. As they follow leads, their friendship is tested by
+      stress and mistrust. The act culminates in a breakthrough: a mysterious
+      external hacker is identified as a key player, but the group realizes the
+      theft may be an inside job."
     approximateNoOfWords: 40000
   - index: 3
     summary: The nerds pursue the hacker, employing their technical expertise in a
