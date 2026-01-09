@@ -20,20 +20,20 @@ subdivisions:
       convinced the thief is someone within their ranks."
     approximateNoOfWords: 40000
   - index: 3
-    summary: As the investigation deepens, the group encounters external obstacles,
-      including interference from management and a rival tech team. They devise
-      creative solutions to bypass security and gather evidence, risking their
-      reputations and careers. The nerds’ bond strengthens as they confront
-      personal fears and past grievances. A breakthrough in the case reveals the
-      true culprit, but the group must race against time to retrieve the stolen
-      GPUs before they are sold on the black market.
+    summary: Management threatens to fire the group if they continue snooping, and a
+      rival tech team tries to sabotage their efforts. Jamie sneaks into the
+      rival team’s office and discovers a hidden stash of GPU boxes, but they
+      turn out to be empty. Alex confesses to hiding a key clue out of fear,
+      leading to a heated confrontation and eventual reconciliation. Priya
+      pieces together evidence, identifying the true culprit, and the group
+      prepares to act.
     approximateNoOfWords: 40000
   - index: 4
-    summary: In the climax, the nerd group executes a daring plan to recover the
-      GPUs, facing off against the thief in a tense confrontation. Each member’s
-      unique skills are crucial to the operation’s success. The aftermath sees
-      the group celebrated for their ingenuity, but also grappling with the
-      consequences of their actions. The company’s future is secured, and the
-      nerds emerge with stronger friendships and newfound confidence, having
-      proven themselves in the face of adversity.
+    summary: "The nerds execute a risky plan: Jamie distracts security while Sarah
+      and Marcus corner the thief in the parking garage. A tense standoff ends
+      with Priya recovering the stolen GPUs from a hidden compartment in the
+      thief’s car. The company rewards the group, but Marcus faces disciplinary
+      action for breaking protocol. The friends celebrate their victory, with
+      Alex and Jamie resolving old grudges and the team’s bond stronger than
+      ever."
     approximateNoOfWords: 35000
