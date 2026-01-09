@@ -1,0 +1,43 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The nerd group is introduced at their IT consulting company, each
+      member displaying unique quirks and technical specialties. The company’s
+      AI infrastructure is showcased, emphasizing the importance of the server
+      room and its valuable GPUs. The group’s camaraderie and daily routines are
+      established, setting the stage for the inciting incident. Subtle hints of
+      underlying tensions and rivalries within the company are woven in,
+      foreshadowing future complications. The act ends with the shocking
+      discovery that all the GPUs have been stolen, throwing the group into
+      chaos and suspicion.
+    approximateNoOfWords: 35000
+  - index: 2
+    summary: "The nerds scramble to investigate the theft, forming alliances and
+      suspecting colleagues. They navigate company politics, interrogate staff,
+      and uncover clues pointing to both internal and external suspects. As they
+      dig deeper, personal secrets and hidden motives come to light, straining
+      friendships and trust. The group faces technical challenges, including
+      restoring partial AI functionality and tracking digital footprints. The
+      act culminates in a major breakthrough: a lead that implicates someone
+      close to the group, forcing them to confront uncomfortable truths."
+    approximateNoOfWords: 40000
+  - index: 3
+    summary: With the investigation intensifying, the group splits over differing
+      theories and loyalties. Tensions reach a breaking point as accusations fly
+      and the company’s future hangs in the balance. The nerds pursue separate
+      leads, encountering setbacks and betrayals. Unexpectedly, a new piece of
+      evidence emerges, requiring the group to reunite and pool their skills.
+      Together, they orchestrate a risky plan to expose the real culprit,
+      leading to a dramatic confrontation in the server room. The stolen GPUs
+      are recovered, but not without cost.
+    approximateNoOfWords: 40000
+  - index: 4
+    summary: In the aftermath, the group grapples with the consequences of their
+      actions and the revelations uncovered. Relationships are tested, some
+      strengthened and others irreparably damaged. The company implements new
+      security measures, and the nerds reflect on their growth and the lessons
+      learned. As the dust settles, a final twist hints at unresolved mysteries
+      or future adventures, leaving the group—and the reader—wondering what
+      challenges lie ahead.
+    approximateNoOfWords: 35000
