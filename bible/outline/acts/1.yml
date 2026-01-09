@@ -1,0 +1,16 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: "The story opens with the nerd group arriving at the IT consulting
+      company’s office, each member displaying their unique quirks and technical
+      specialties. The narrative explores their daily routines: troubleshooting
+      client servers, debating the merits of different programming languages,
+      and collaborating on AI projects powered by the company’s prized GPU
+      cluster. The company’s reliance on this infrastructure is made clear
+      through a high-stakes client demo. Subtle tensions between the IT and
+      sales departments surface, and rumors of a rival firm’s aggressive tactics
+      circulate. The act builds toward the shocking discovery: the server room’s
+      GPUs have vanished overnight, plunging the company into crisis."
+    approximateNoOfWords: 35000
