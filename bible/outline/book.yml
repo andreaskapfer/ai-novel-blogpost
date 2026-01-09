@@ -1,0 +1,40 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens by introducing the core group of nerds working at an IT
+      consulting company, each with distinct personalities and technical
+      specialties. Their camaraderie and daily routines are established, along
+      with the importance of the company’s AI infrastructure. The inciting
+      incident occurs when the team discovers that all the GPUs in the server
+      room have been stolen, throwing the company into chaos and threatening
+      their jobs. The group resolves to investigate the theft themselves,
+      setting the stage for their adventure.
+    approximateNoOfWords: 35000
+  - index: 2
+    summary: The nerd group begins their investigation, facing both technical and
+      interpersonal challenges. They follow clues, analyze security footage, and
+      interview coworkers, uncovering surprising secrets about the company and
+      each other. Tensions rise as suspicions fall on various employees, and the
+      group’s friendship is tested. Their pursuit leads them to suspect an
+      inside job, and they must decide how far they are willing to go to recover
+      the GPUs and protect their futures.
+    approximateNoOfWords: 40000
+  - index: 3
+    summary: As the investigation deepens, the group encounters external obstacles,
+      including interference from management and a rival tech team. They devise
+      creative solutions to bypass security and gather evidence, risking their
+      reputations and careers. The nerds’ bond strengthens as they confront
+      personal fears and past grievances. A breakthrough in the case reveals the
+      true culprit, but the group must race against time to retrieve the stolen
+      GPUs before they are sold on the black market.
+    approximateNoOfWords: 40000
+  - index: 4
+    summary: In the climax, the nerd group executes a daring plan to recover the
+      GPUs, facing off against the thief in a tense confrontation. Each member’s
+      unique skills are crucial to the operation’s success. The aftermath sees
+      the group celebrated for their ingenuity, but also grappling with the
+      consequences of their actions. The company’s future is secured, and the
+      nerds emerge with stronger friendships and newfound confidence, having
+      proven themselves in the face of adversity.
+    approximateNoOfWords: 35000
