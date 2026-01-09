@@ -1,0 +1,41 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens by introducing the core group of nerds at the IT
+      consulting company, each with distinct personalities and technical
+      specialties. The company’s AI infrastructure is described, highlighting
+      the importance of the GPUs. The inciting incident occurs when the team
+      discovers the GPUs have been stolen from the server room, throwing the
+      office into chaos. The group decides to investigate the theft themselves,
+      forming an uneasy alliance as suspicions and theories abound. Their
+      initial efforts reveal both internal tensions and the high stakes
+      involved.
+    approximateNoOfWords: 35000
+  - index: 2
+    summary: The nerd group embarks on their investigation, following leads that
+      take them through the company’s labyrinthine bureaucracy and into the
+      personal lives of their colleagues. They encounter obstacles such as
+      uncooperative management, red herrings, and technical puzzles. As they dig
+      deeper, friendships are tested and secrets are revealed, including hidden
+      rivalries and past grievances. The group’s determination grows as they
+      begin to suspect the theft is part of a larger scheme threatening the
+      company’s future.
+    approximateNoOfWords: 40000
+  - index: 3
+    summary: Tensions reach a breaking point as the group uncovers evidence
+      implicating a trusted coworker. The nerds must confront their own biases
+      and fears while racing against time to prevent further sabotage. A daring
+      plan is hatched to catch the culprit in the act, requiring each member to
+      use their unique skills. The climax unfolds with a dramatic confrontation
+      in the server room, where the true mastermind is revealed and the stolen
+      GPUs are recovered.
+    approximateNoOfWords: 40000
+  - index: 4
+    summary: In the aftermath, the group deals with the consequences of their
+      actions. Relationships are mended or irrevocably changed, and the
+      company’s leadership acknowledges the nerds’ contributions. The team
+      reflects on what they’ve learned about trust, teamwork, and themselves.
+      The novel closes with the group facing a new challenge, hinting at future
+      adventures and solidifying their bond as both colleagues and friends.
+    approximateNoOfWords: 35000
