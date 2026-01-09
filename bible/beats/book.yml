@@ -1,0 +1,145 @@
+beatSheetReference:
+  bibleLevel: book
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: "Opening Image: The Nerds' World"
+    summary: The story opens by introducing the core group of nerds at the IT
+      consulting company, showcasing their unique technical skills, quirky
+      personalities, and the camaraderie that defines their daily routines.
+      Their favorite lunch spots and inside jokes are highlighted, establishing
+      the group's dynamic.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities: []
+  - order: 2
+    subdivisionIndex: 1
+    name: Pride in the System
+    summary: The company’s AI infrastructure is revealed as the backbone of the
+      business. The nerds take pride in maintaining it, demonstrating their
+      expertise and the importance of their work to the company’s success.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6000
+    associatedEntities: []
+  - order: 3
+    subdivisionIndex: 1
+    name: "Inciting Incident: The Theft"
+    summary: Chaos erupts when the team discovers that all the GPUs in the server
+      room have been stolen. The company is thrown into disarray, and the nerds
+      realize their jobs are at risk.
+    emotionAtStart: very_high
+    emotionAtEnd: low
+    approximateNoOfWords: 9000
+    associatedEntities: []
+  - order: 4
+    subdivisionIndex: 1
+    name: "Resolution: The Pact"
+    summary: The group resolves to investigate the theft themselves, vowing to
+      uncover the culprit and save their company. Their loyalty to one another
+      is tested and affirmed, setting the stage for their adventure.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 13000
+    associatedEntities: []
+  - order: 5
+    subdivisionIndex: 2
+    name: Investigation Begins
+    summary: The nerd group launches their investigation, uncovering suspicious
+      access logs and missing security footage. They begin to suspect foul play
+      within the company.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 8000
+    associatedEntities: []
+  - order: 6
+    subdivisionIndex: 2
+    name: Obstacles and Mishaps
+    summary: The group faces technical challenges, including a failed attempt to
+      recover deleted files and a tense confrontation with a rival team.
+      Humorous mishaps and awkward interrogations ensue as suspicions fall on
+      various coworkers and contractors.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 12000
+    associatedEntities: []
+  - order: 7
+    subdivisionIndex: 2
+    name: Internal Conflict
+    summary: Internal conflicts arise as the group’s friendship is strained by
+      doubts about their ability to solve the mystery. They question their
+      skills and commitment, but continue to piece together clues.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 9000
+    associatedEntities: []
+  - order: 8
+    subdivisionIndex: 2
+    name: Breakthrough and Rising Stakes
+    summary: Gradually, the group pieces together a trail that points to a
+      surprising suspect. The stakes and urgency rise as the company’s future
+      hangs in the balance.
+    emotionAtStart: very_low
+    emotionAtEnd: high
+    approximateNoOfWords: 11000
+    associatedEntities: []
+  - order: 9
+    subdivisionIndex: 3
+    name: The Plan
+    summary: With the suspect identified, the group devises a risky plan to recover
+      the stolen GPUs. They prepare to infiltrate a rival company’s facility,
+      pooling their skills in hacking, social engineering, and improvisation.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 9000
+    associatedEntities: []
+  - order: 10
+    subdivisionIndex: 3
+    name: The Heist
+    summary: The operation is fraught with danger and unexpected twists, including a
+      close call with security and a betrayal from within their own ranks. Each
+      member faces personal fears and insecurities during the mission.
+    emotionAtStart: very_high
+    emotionAtEnd: low
+    approximateNoOfWords: 13000
+    associatedEntities: []
+  - order: 11
+    subdivisionIndex: 3
+    name: Climactic Showdown
+    summary: In a climactic confrontation, the nerds outwit the antagonists,
+      retrieve the GPUs, and expose the true mastermind behind the theft,
+      restoring their company’s reputation.
+    emotionAtStart: low
+    emotionAtEnd: very_high
+    approximateNoOfWords: 18000
+    associatedEntities: []
+  - order: 12
+    subdivisionIndex: 4
+    name: Restoration and Recognition
+    summary: The aftermath explores the consequences of the group’s actions. The
+      company’s AI infrastructure is restored, and the nerds are celebrated for
+      their ingenuity and bravery, receiving promotions and public recognition.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 12000
+    associatedEntities: []
+  - order: 13
+    subdivisionIndex: 4
+    name: Personal Growth and Justice
+    summary: Relationships within the group are strengthened, and personal growth is
+      evident as they reflect on the challenges they overcame. The antagonist
+      faces justice, and the company’s future looks brighter.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 12000
+    associatedEntities: []
+  - order: 14
+    subdivisionIndex: 4
+    name: "Closing Image: New Adventures Await"
+    summary: The story closes with the group looking forward to new adventures,
+      their bond unbreakable and their confidence renewed.
+    emotionAtStart: very_high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 11000
+    associatedEntities: []
