@@ -1,0 +1,32 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens by introducing the core group of nerds working at an IT
+      consulting company, each with distinct personalities and technical
+      specialties. Their camaraderie and daily routines are established, along
+      with the high-stakes AI infrastructure project they maintain. The server
+      room, filled with powerful GPUs, is shown as the heart of their operation.
+      Tensions and rivalries within the group are hinted at, setting the stage
+      for the coming conflict. The act ends with the shocking discovery that all
+      the GPUs have been stolen, throwing the team into chaos.
+    approximateNoOfWords: 35000
+  - index: 2
+    summary: The nerd group scrambles to investigate the theft, facing suspicion
+      from management and external pressure to recover the GPUs. They split into
+      sub-teams, each following different leads—some technical, some personal.
+      As they dig deeper, they uncover clues suggesting an inside job and
+      encounter obstacles that test their trust in one another. The act builds
+      as the group navigates red herrings, corporate intrigue, and personal
+      secrets, culminating in a major breakthrough that points to a surprising
+      suspect within their ranks.
+    approximateNoOfWords: 40000
+  - index: 3
+    summary: With the suspect identified, the group must gather evidence and
+      confront the culprit, all while racing against time as the company’s
+      reputation and their jobs hang in the balance. Tensions peak as alliances
+      shift and hidden motives are revealed. The nerds orchestrate a daring plan
+      to recover the stolen GPUs, leading to a high-stakes confrontation. In the
+      aftermath, the group reflects on the lessons learned, their friendships
+      tested but ultimately strengthened, and the company’s future secured.
+    approximateNoOfWords: 45000
