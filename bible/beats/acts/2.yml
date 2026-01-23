@@ -166,6 +166,35 @@ entities:
     displayName: outside influence
     kind: concept
     description: The idea that someone outside the company may be involved in the theft.
+  - id: e4e27ea0-96a5-4233-8574-c38f71df7fca
+    displayName: frantic directives
+    kind: concept
+    description: Urgent instructions and orders issued by management during the crisis.
+  - id: 147a6d85-deb0-48c5-9e81-eac1b1f4df41
+    displayName: company's future
+    kind: concept
+    description: The fate and ongoing viability of the company, threatened by the
+      crisis and referenced as being in jeopardy.
+  - id: dff59cfe-1962-4651-ac04-8dc7b15d5c2e
+    displayName: veiled threats
+    kind: concept
+    description: Implied or indirect threats made by management in response to the
+      nerd group's findings.
+  - id: 55456b92-2e3a-44e9-9c0c-12be3a24694c
+    displayName: mistrust
+    kind: concept
+    description: A lack of trust among the nerd group, especially as sabotage and
+      stress mount.
+  - id: 64581d0a-bf4b-4f60-ba49-e6b79316ebbc
+    displayName: stress
+    kind: concept
+    description: The emotional strain experienced by the nerd group as the
+      investigation progresses.
+  - id: f4685747-71e6-4314-a699-f12b22a74c73
+    displayName: culprit
+    kind: character
+    description: The unidentified person who attempts to access the server room
+      during the stakeout and escapes, dropping a keycard.
 beats:
   - order: 1
     subdivisionIndex: 1
@@ -197,6 +226,8 @@ beats:
         associationType: antagonist
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
+      - entityId: e4e27ea0-96a5-4233-8574-c38f71df7fca
+        associationType: concept
   - order: 3
     subdivisionIndex: 1
     name: Server Room Shock
@@ -401,6 +432,8 @@ beats:
         associationType: background event
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
+      - entityId: 55456b92-2e3a-44e9-9c0c-12be3a24694c
+        associationType: theme
   - order: 16
     subdivisionIndex: 3
     name: Camaraderie Tested
@@ -416,11 +449,16 @@ beats:
         associationType: theme
       - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
         associationType: theme
+      - entityId: 55456b92-2e3a-44e9-9c0c-12be3a24694c
+        associationType: theme
+      - entityId: 64581d0a-bf4b-4f60-ba49-e6b79316ebbc
+        associationType: theme
   - order: 17
     subdivisionIndex: 3
     name: Late-Night Breakthrough
-    summary: "A late-night troubleshooting session uncovers a clue: a hidden access
-      point used during the theft."
+    summary: >
+      A late-night troubleshooting session uncovers a clue: a hidden access
+      point used during the theft.
     emotionAtStart: high
     emotionAtEnd: very_high
     approximateNoOfWords: 1900
@@ -478,6 +516,8 @@ beats:
         associationType: location
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
+      - entityId: f4685747-71e6-4314-a699-f12b22a74c73
+        associationType: antagonist
   - order: 21
     subdivisionIndex: 4
     name: The Escape and the Keycard
@@ -493,6 +533,8 @@ beats:
         associationType: suspect
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
+      - entityId: f4685747-71e6-4314-a699-f12b22a74c73
+        associationType: antagonist
   - order: 22
     subdivisionIndex: 4
     name: Conspiracy Revealed
@@ -523,6 +565,10 @@ beats:
         associationType: antagonist
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
+      - entityId: 147a6d85-deb0-48c5-9e81-eac1b1f4df41
+        associationType: object in conflict
+      - entityId: dff59cfe-1962-4651-ac04-8dc7b15d5c2e
+        associationType: threat
   - order: 24
     subdivisionIndex: 5
     name: Copying the Evidence
