@@ -1,0 +1,40 @@
+outlineReference:
+  bibleLevel: act
+  act: 3
+subdivisions:
+  - index: 1
+    summary: The nerd group launches their investigation, splitting into sub-teams
+      to pursue different leads. One team analyzes security footage and access
+      logs, uncovering evidence of tampering and a missing time window. Another
+      team interviews uncooperative colleagues and the nervous junior admin,
+      whose evasive answers raise suspicions. Tensions rise as technical
+      glitches and subtle sabotage disrupt their efforts, forcing the group to
+      confront internal mistrust and the possibility of an inside accomplice.
+    approximateNoOfWords: 9000
+  - index: 2
+    summary: The investigation leads the nerds outside the company, where they
+      attend a tech meetup and encounter a recruiter from a rival company.
+      Cryptic hints and overheard conversations suggest the theft is part of a
+      broader scheme targeting multiple firms. The group follows a trail of
+      digital breadcrumbs, discovering a hidden access point used during the
+      theft. Their pursuit is complicated by legal threats from management and
+      veiled warnings from the rival recruiter.
+    approximateNoOfWords: 9000
+  - index: 3
+    summary: Personal stakes intensify as the nerds’ friendships are strained by
+      stress, late nights, and conflicting theories. Flashbacks and after-hours
+      conversations reveal personal motivations and past betrayals. A senior
+      team member uncovers deleted backups and misconfigured servers, pointing
+      to deliberate sabotage. The group devises a risky plan to set a trap for
+      the thief, coordinating with a trusted member of management while keeping
+      their suspicions secret from the rest of the company.
+    approximateNoOfWords: 8500
+  - index: 4
+    summary: The nerds execute their trap, conducting an overnight stakeout in the
+      server room. They catch an unidentified culprit attempting to access the
+      servers, but the person escapes, dropping a keycard linked to a high-level
+      employee. The discovery implicates upper management and reveals the theft
+      is part of a larger conspiracy targeting the tech industry. The act ends
+      with the group divided over whom to trust, setting up the next phase of
+      their investigation.
+    approximateNoOfWords: 8500
