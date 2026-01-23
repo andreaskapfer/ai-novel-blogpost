@@ -1,0 +1,420 @@
+beatSheetReference:
+  bibleLevel: book
+entities:
+  - id: f18250cf-0e41-4d39-8eea-270672b62dc1
+    displayName: nerd group
+    kind: group
+    description: A group of IT consultants with diverse personalities and technical
+      skills, bound by camaraderie and friendship.
+  - id: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+    displayName: IT consulting company
+    kind: location
+    description: The workplace of the nerd group, heavily reliant on AI infrastructure.
+  - id: 9af2821a-4120-4ae8-a1ca-03e3b9e96aa5
+    displayName: AI infrastructure
+    kind: item
+    description: The artificial intelligence systems and servers that the company
+      depends on.
+  - id: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+    displayName: GPUs
+    kind: item
+    description: Graphics processing units powering the company's AI servers,
+      central to the plot due to their theft.
+  - id: ee2fa822-f44d-4f0f-8eeb-5f6dff0de7ba
+    displayName: rival companies
+    kind: group
+    description: Competing organizations in the tech industry, encountered by the
+      nerd group during their investigation.
+  - id: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+    displayName: mastermind
+    kind: character
+    description: The main antagonist behind the GPU theft and the larger conspiracy.
+  - id: 34fbde31-4917-4245-99b4-805a1b9cda6e
+    displayName: conspiracy targeting the tech industry
+    kind: concept
+    description: A larger scheme revealed to be behind the GPU theft, threatening
+      the broader tech industry.
+  - id: e6b08a81-d99d-4ee6-8a9b-429e295715bf
+    displayName: office politics
+    kind: concept
+    description: The internal power struggles and dynamics within the IT consulting company.
+  - id: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+    displayName: internal tensions
+    kind: concept
+    description: Strains and conflicts among company staff, hinted at early in the story.
+  - id: 65e6e2c9-ea7c-4b0d-a088-d09933991925
+    displayName: external pressures
+    kind: concept
+    description: Challenges and threats to the company from outside forces.
+  - id: 35525d0a-f68e-4042-9688-30d87fc706d8
+    displayName: friendship
+    kind: concept
+    description: The bond that unites the nerd group and is tested throughout the novel.
+  - id: 4e35e9f4-e7d0-43ae-a999-a3479c7d8a19
+    displayName: betrayal
+    kind: concept
+    description: Acts of disloyalty that occur as the group faces sabotage and
+      internal threats.
+  - id: 7e8d2e1f-47f7-4039-892e-884fd954f069
+    displayName: legal threats
+    kind: concept
+    description: Potential legal consequences faced by the group as they pursue the
+      culprits.
+  - id: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
+    displayName: sabotage
+    kind: concept
+    description: Deliberate actions taken to hinder the nerd group and their investigation.
+  - id: 794d6296-572f-4edf-a1f1-a2c0860f49c0
+    displayName: technical skills
+    kind: concept
+    description: The expertise and abilities of the nerd group members, crucial to
+      solving the mystery.
+  - id: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+    displayName: camaraderie
+    kind: concept
+    description: The spirit of mutual trust and friendship among the nerd group.
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: "Opening Image: The Nerds at Work"
+    summary: The nerd group is introduced in their IT consulting company, each
+      member displaying their unique quirks and technical skills as they
+      interact with one another. The camaraderie and playful banter set a lively
+      tone.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+        associationType: location
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: group dynamic
+      - entityId: 794d6296-572f-4edf-a1f1-a2c0860f49c0
+        associationType: skills on display
+  - order: 2
+    subdivisionIndex: 1
+    name: Establishing the Stakes
+    summary: The company’s reliance on its AI infrastructure is highlighted as the
+      nerds troubleshoot a minor system glitch, demonstrating the importance of
+      their work and the fragility of the company’s operations.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+        associationType: location
+      - entityId: 9af2821a-4120-4ae8-a1ca-03e3b9e96aa5
+        associationType: object in conflict
+  - order: 3
+    subdivisionIndex: 1
+    name: Internal Tensions and External Pressures
+    summary: Hints of internal tensions and external pressures emerge as the nerds
+      overhear management discussing budget cuts and looming competition from
+      rival companies. The group’s sense of security is subtly shaken.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+      - entityId: 65e6e2c9-ea7c-4b0d-a088-d09933991925
+        associationType: external pressure
+      - entityId: ee2fa822-f44d-4f0f-8eeb-5f6dff0de7ba
+        associationType: antagonist group
+  - order: 4
+    subdivisionIndex: 1
+    name: Daily Routines and Quirks
+    summary: The nerds’ daily routines are explored, from coffee rituals to
+      lunchtime debates about technology. Their camaraderie and friendship are
+      reinforced, setting the stage for the coming disruption.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: group dynamic
+      - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
+        associationType: theme
+  - order: 5
+    subdivisionIndex: 1
+    name: Foreshadowing the Inciting Incident
+    summary: Subtle signs of trouble—strange system logs, a locked server room, and
+      a nervous junior admin—hint at the coming crisis, but the nerds dismiss
+      them as routine glitches.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 9af2821a-4120-4ae8-a1ca-03e3b9e96aa5
+        associationType: object in conflict
+      - entityId: e6b08a81-d99d-4ee6-8a9b-429e295715bf
+        associationType: background event
+  - order: 6
+    subdivisionIndex: 2
+    name: The Discovery
+    summary: "The nerds arrive at work to find the company in chaos: all the GPUs
+      powering the AI servers have been stolen overnight. Panic spreads as the
+      scale of the crisis becomes clear."
+    emotionAtStart: neutral
+    emotionAtEnd: very_low
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+        associationType: object in conflict
+      - entityId: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+        associationType: location
+  - order: 7
+    subdivisionIndex: 2
+    name: Initial Investigation
+    summary: The nerds and management scramble to assess the damage. Security
+      footage is reviewed, and the first signs of sabotage are uncovered,
+      deepening the sense of crisis.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
+        associationType: sabotage
+      - entityId: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+        associationType: location
+  - order: 8
+    subdivisionIndex: 2
+    name: Suspects and Security Lapses
+    summary: Possible suspects are identified, both inside and outside the company.
+      The nerds debate whether rival companies or an insider is responsible,
+      fueling paranoia and mistrust.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: ee2fa822-f44d-4f0f-8eeb-5f6dff0de7ba
+        associationType: antagonist group
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+  - order: 9
+    subdivisionIndex: 2
+    name: The Pact
+    summary: Determined to save their jobs and the company, the nerds form a pact to
+      recover the stolen GPUs themselves, vowing to use their technical skills
+      and friendship to solve the mystery.
+    emotionAtStart: very_low
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
+        associationType: theme
+      - entityId: 794d6296-572f-4edf-a1f1-a2c0860f49c0
+        associationType: skills
+  - order: 10
+    subdivisionIndex: 3
+    name: Following the Clues
+    summary: The nerds begin their investigation, piecing together clues from server
+      logs, access records, and suspicious emails. Their technical skills are
+      put to the test as they uncover a trail.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 794d6296-572f-4edf-a1f1-a2c0860f49c0
+        associationType: skills
+      - entityId: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+        associationType: object in conflict
+  - order: 11
+    subdivisionIndex: 3
+    name: Office Politics and Setbacks
+    summary: The investigation is hampered by office politics and uncooperative
+      colleagues. The nerds face setbacks and begin to question their trust in
+      one another.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: e6b08a81-d99d-4ee6-8a9b-429e295715bf
+        associationType: office politics
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+  - order: 12
+    subdivisionIndex: 3
+    name: Rival Companies Enter the Fray
+    summary: The nerds’ investigation leads them to rival companies, where they
+      encounter resistance and new suspects. The stakes are raised as the
+      conspiracy appears to extend beyond their own company.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: ee2fa822-f44d-4f0f-8eeb-5f6dff0de7ba
+        associationType: antagonist group
+      - entityId: 34fbde31-4917-4245-99b4-805a1b9cda6e
+        associationType: concept
+  - order: 13
+    subdivisionIndex: 3
+    name: Friendship Tested
+    summary: Personal stakes and mistrust threaten the nerds’ unity. Arguments and
+      doubts surface, but the group ultimately recommits to their shared goal.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
+        associationType: theme
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+  - order: 14
+    subdivisionIndex: 3
+    name: Uncovering the Conspiracy
+    summary: The nerds connect the dots and realize the GPU theft is part of a
+      larger conspiracy targeting the tech industry. The scope of the threat
+      becomes clear.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 34fbde31-4917-4245-99b4-805a1b9cda6e
+        associationType: concept
+      - entityId: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+        associationType: object in conflict
+  - order: 15
+    subdivisionIndex: 4
+    name: Closing In on the Culprits
+    summary: Armed with new evidence, the nerds close in on the culprits. Their
+      actions draw the attention of the mastermind, who begins to retaliate with
+      sabotage and legal threats.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+      - entityId: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
+        associationType: sabotage
+      - entityId: 7e8d2e1f-47f7-4039-892e-884fd954f069
+        associationType: legal threat
+  - order: 16
+    subdivisionIndex: 4
+    name: Sabotage and Betrayal
+    summary: The group faces sabotage from within and betrayal by a trusted
+      colleague. Their unity is shaken as they struggle to stay ahead of their
+      adversaries.
+    emotionAtStart: high
+    emotionAtEnd: very_low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
+        associationType: sabotage
+      - entityId: 4e35e9f4-e7d0-43ae-a999-a3479c7d8a19
+        associationType: betrayal
+  - order: 17
+    subdivisionIndex: 4
+    name: Legal and Personal Threats
+    summary: Legal threats escalate as the mastermind manipulates evidence against
+      the nerds. The group must navigate both external dangers and internal
+      doubts.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 7e8d2e1f-47f7-4039-892e-884fd954f069
+        associationType: legal threat
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+  - order: 18
+    subdivisionIndex: 4
+    name: The Mastermind Revealed
+    summary: The true mastermind behind the conspiracy is revealed. The nerds must
+      rally together, using their unique skills and friendship to prepare for a
+      final confrontation.
+    emotionAtStart: low
+    emotionAtEnd: very_high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+      - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
+        associationType: theme
+  - order: 19
+    subdivisionIndex: 5
+    name: The Final Confrontation
+    summary: In a high-stakes showdown, the nerds confront the mastermind. Ingenuity
+      and teamwork allow them to outmaneuver their adversary and recover the
+      stolen GPUs.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+      - entityId: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+        associationType: object in conflict
+      - entityId: 794d6296-572f-4edf-a1f1-a2c0860f49c0
+        associationType: skills
+  - order: 20
+    subdivisionIndex: 5
+    name: Exposing the Conspiracy
+    summary: The nerds expose the conspiracy targeting the tech industry, presenting
+      evidence to authorities and clearing their names. The company’s future is
+      secured.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 34fbde31-4917-4245-99b4-805a1b9cda6e
+        associationType: concept
+      - entityId: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+        associationType: location
+  - order: 21
+    subdivisionIndex: 5
+    name: Resolution and Reflection
+    summary: With the crisis resolved, the nerds reflect on their journey, the tests
+      of their friendship, and the new challenges ahead. Their bond is stronger
+      than ever.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV group
+      - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
+        associationType: theme
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: group dynamic
