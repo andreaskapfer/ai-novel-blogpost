@@ -7,111 +7,61 @@ entities:
     kind: group
     description: A group of IT consultants with diverse personalities and technical
       skills, bound by camaraderie and friendship.
-  - id: f752913b-4726-415f-995f-9a80dc5bb7b9
-    displayName: sub-teams
-    kind: group
-    description: Smaller teams formed from the main nerd group to pursue different leads.
-  - id: b3bd936a-ffe8-4ff8-b04e-42ac3e37e346
-    displayName: security footage
-    kind: item
-    description: Video recordings from the company's security cameras, reviewed
-      during the investigation.
-  - id: 3d65cb56-7f53-4640-a103-31de7ec33768
-    displayName: access logs
-    kind: item
-    description: Records of server access, whose absence signals anomalies and
-      possible security breaches.
-  - id: cff35a1f-e601-4ea2-b1d8-489197236954
-    displayName: missing time window
-    kind: concept
-    description: A period of time unaccounted for in the logs, suggesting suspicious
-      activity.
-  - id: 5842751e-67a2-49ab-b570-417d21bcfca8
-    displayName: colleagues
-    kind: group
-    description: Other employees at the IT consulting company, some of whom are
-      uncooperative during the investigation.
-  - id: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
-    displayName: junior admin
+  - id: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+    displayName: mastermind
     kind: character
-    description: A nervous junior administrator at the IT consulting company, whose
-      behavior foreshadows the coming crisis.
+    description: The main antagonist behind the GPU theft and the larger conspiracy.
+  - id: e6b08a81-d99d-4ee6-8a9b-429e295715bf
+    displayName: office politics
+    kind: concept
+    description: The internal power struggles and dynamics within the IT consulting company.
   - id: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
     displayName: sabotage
     kind: concept
     description: Deliberate actions taken to hinder the nerd group and their investigation.
-  - id: 040857d3-9355-4d5a-bfa2-533b221be626
-    displayName: technical glitches
-    kind: concept
-    description: Unexpected technical problems disrupting the investigation.
-  - id: 55456b92-2e3a-44e9-9c0c-12be3a24694c
-    displayName: mistrust
-    kind: concept
-    description: A lack of trust among the nerd group, especially as sabotage and
-      stress mount.
-  - id: 74d1c9b5-b038-405c-a6e9-f395a0b1733b
-    displayName: inside accomplice
-    kind: concept
-    description: A suspected collaborator within the company aiding the theft.
   - id: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
     displayName: management
     kind: group
     description: The leadership and administrative staff of the IT consulting
       company, responsible for company decisions and oversight.
-  - id: 91710a74-b245-468a-a449-b382cceba067
-    displayName: company
-    kind: location
-    description: The workplace where the events of the act take place.
-  - id: 92935da7-4a2f-4d19-8bd4-18d06891491c
-    displayName: tech meetup
-    kind: location
-    description: An event where the nerd group encounters the rival company's recruiter.
-  - id: 0794e5e9-684a-4829-8cec-dc274b6e681d
-    displayName: recruiter from a rival company
+  - id: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+    displayName: junior admin
     kind: character
-    description: A recruiter representing a competing firm, encountered at the tech meetup.
-  - id: e023228b-7ead-4610-8688-8c76f30b57c8
-    displayName: rival company
-    kind: group
-    description: A competing firm implicated in the broader scheme.
-  - id: 98701678-4a25-4688-83ee-f435c62b8265
-    displayName: veiled warnings from the rival recruiter
-    kind: concept
-    description: Cryptic cautions given by the rival recruiter.
-  - id: 20407f2a-30ef-4e3b-99ba-47faedff8444
-    displayName: hidden access point
-    kind: item
-    description: A concealed network or physical access point used during the theft.
-  - id: 7e8d2e1f-47f7-4039-892e-884fd954f069
-    displayName: legal threats
-    kind: concept
-    description: Potential legal consequences faced by the group as they pursue the
-      culprits.
-  - id: 34fbde31-4917-4245-99b4-805a1b9cda6e
-    displayName: conspiracy targeting the tech industry
-    kind: concept
-    description: A larger scheme revealed to be behind the GPU theft, threatening
-      the broader tech industry.
-  - id: f63f18b2-072e-4500-9b89-d1535dbbf7fd
-    displayName: trap for the thief
-    kind: concept
-    description: A plan devised by the nerd group to catch the perpetrator using the
-      server room as bait.
-  - id: 26be3f0e-7b80-4a89-a12b-c2c4f7705aff
-    displayName: senior team member
-    kind: character
-    description: A more experienced member of the nerd group who begins to
-      investigate the junior admin's behavior.
-  - id: ae7506b0-2b02-4aac-83a5-3df24a78c985
-    displayName: trusted member of management
-    kind: character
-    description: A management member whom the nerd group trusts and coordinates with
-      during the stakeout.
+    description: A nervous junior administrator at the IT consulting company, whose
+      behavior foreshadows the coming crisis.
   - id: ce1381ea-8be6-425f-adf5-0025da538911
     displayName: server room
     kind: location
     description: A secure room in the IT consulting company where critical servers
       and GPUs are kept.
+  - id: 4432f936-ac9d-4fe7-ae5c-f50683c73b01
+    displayName: mysterious message
+    kind: item
+    description: A cryptic communication received by the junior admin, setting up
+      the inciting incident.
+  - id: 3d65cb56-7f53-4640-a103-31de7ec33768
+    displayName: access logs
+    kind: item
+    description: Records of server access, whose absence signals anomalies and
+      possible security breaches.
+  - id: c189d3f6-b589-471b-a90d-be3b4a6ce080
+    displayName: disciplinary action
+    kind: concept
+    description: Threats from management regarding consequences if the GPUs are not
+      recovered.
+  - id: b28234db-96aa-498e-8e5f-a0eac359725f
+    displayName: rival company’s recruiter
+    kind: character
+    description: A recruiter from a rival company who provides cryptic hints about
+      the GPU theft.
+  - id: 92935da7-4a2f-4d19-8bd4-18d06891491c
+    displayName: tech meetup
+    kind: location
+    description: An event where the nerd group encounters the rival company's recruiter.
+  - id: 20407f2a-30ef-4e3b-99ba-47faedff8444
+    displayName: hidden access point
+    kind: item
+    description: A concealed network or physical access point used during the theft.
   - id: 0ddc3954-4bb4-4582-a498-0f9a61123705
     displayName: keycard
     kind: item
@@ -122,40 +72,14 @@ entities:
     kind: character
     description: An employee with significant authority, whose keycard is found at
       the scene.
-  - id: f4685747-71e6-4314-a699-f12b22a74c73
-    displayName: culprit
-    kind: character
-    description: The unidentified person who attempts to access the server room
-      during the stakeout and escapes, dropping a keycard.
-  - id: b9af9e3a-a052-48fa-88f2-e146658c0555
-    displayName: upper management
-    kind: group
-    description: The highest-ranking leaders in the company, implicated in the conspiracy.
-  - id: 35525d0a-f68e-4042-9688-30d87fc706d8
-    displayName: friendship
+  - id: 632a3d54-4d77-41f1-8407-c9d22f391157
+    displayName: conspiracy
     kind: concept
-    description: The bond that unites the nerd group and is tested throughout the novel.
-  - id: 9cbcf434-505f-4c0c-97ca-0af27e373f22
-    displayName: stress
-    kind: emotionalState
-    description: Emotional strain experienced by the group during the investigation.
-  - id: 665c58a2-db3f-432e-b639-3f6d07e5dd43
-    displayName: late nights
-    kind: concept
-    description: Long hours spent working on the investigation.
-  - id: 7a7974e1-9211-4e94-92a6-c788d02999b9
-    displayName: conflicting theories
-    kind: concept
-    description: Differing ideas about the nature of the theft and the culprit.
-  - id: 019fb747-3a62-4f02-8750-28c9f05785b6
-    displayName: personal motivations
-    kind: concept
-    description: Individual reasons driving group members' involvement.
-  - id: a654c308-1945-4b0e-989d-7ddc951f392c
-    displayName: past betrayals
-    kind: backgroundEvent
-    description: Hints of previous acts of betrayal within the company, affecting
-      current relationships.
+    description: The realization that the theft may involve upper management.
+  - id: 91710a74-b245-468a-a449-b382cceba067
+    displayName: company
+    kind: location
+    description: The workplace where the events of the act take place.
   - id: e3ced4d6-357a-4231-b3fc-80b9fcac6c71
     displayName: deleted backups
     kind: item
@@ -164,364 +88,362 @@ entities:
     displayName: misconfigured servers
     kind: item
     description: Servers set up incorrectly, pointing to deliberate tampering.
+  - id: 953a930e-5322-4c53-a248-01cae3a269af
+    displayName: internal suspects
+    kind: group
+    description: Employees within the company suspected of involvement in the sabotage.
+  - id: 03a52d85-a310-4a47-acf5-5cf325d71a68
+    displayName: unexplained reboots
+    kind: item
+    description: Unexpected server restarts, indicating tampering.
+  - id: 60bdd6f6-b829-4082-9144-ef3cc4cd412a
+    displayName: digital footprint
+    kind: item
+    description: Traces of the mastermind’s activity found in digital records.
+  - id: 49586cb0-3050-4b44-b59c-d441f51f6bac
+    displayName: wider tech industry
+    kind: group
+    description: The broader technology sector, which is also a target of the conspiracy.
+  - id: 3bda4bee-1afe-4fab-aa79-cd64946da85a
+    displayName: masked figure
+    kind: character
+    description: An unidentified person confronted in the server room, believed to
+      be involved in the conspiracy.
+  - id: b077160d-f405-4a4f-933d-52d5f7c7ef54
+    displayName: crucial piece of evidence
+    kind: item
+    description: An important object left behind by the masked figure during the
+      confrontation.
+  - id: a5fabbfb-785f-4333-b34c-94e54cf829b7
+    displayName: friendships
+    kind: concept
+    description: Personal relationships among group members, tested by mistrust and
+      high stakes.
 beats:
   - order: 1
     subdivisionIndex: 1
-    name: Splitting the Team
-    summary: The nerd group gathers in the company conference room, dividing into
-      sub-teams to tackle different aspects of the investigation. Each sub-team
-      is assigned a specific lead to pursue.
-    emotionAtStart: neutral
-    emotionAtEnd: high
+    name: Regrouping After the Stakeout
+    summary: "The nerd group regathers in a tense meeting room, exhausted and
+      frustrated after the failed stakeout. They lay out the evidence: the
+      dropped keycard, missing access logs, and conflicting timelines."
+    emotionAtStart: low
+    emotionAtEnd: neutral
     approximateNoOfWords: 900
     associatedEntities:
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
-      - entityId: f752913b-4726-415f-995f-9a80dc5bb7b9
-        associationType: group
+      - entityId: 0ddc3954-4bb4-4582-a498-0f9a61123705
+        associationType: object in conflict
+      - entityId: 3d65cb56-7f53-4640-a103-31de7ec33768
+        associationType: object in conflict
       - entityId: 91710a74-b245-468a-a449-b382cceba067
         associationType: location
   - order: 2
     subdivisionIndex: 1
     name: Analyzing the Evidence
-    summary: One sub-team pores over security footage and access logs, identifying a
-      suspicious missing time window that suggests tampering.
-    emotionAtStart: high
+    summary: The group pores over the keycard and access logs, debating their
+      significance. Suspicion falls on a high-level employee, but the evidence
+      is contradictory, fueling arguments and mistrust.
+    emotionAtStart: neutral
     emotionAtEnd: high
-    approximateNoOfWords: 1200
+    approximateNoOfWords: 1100
     associatedEntities:
-      - entityId: f752913b-4726-415f-995f-9a80dc5bb7b9
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
-      - entityId: b3bd936a-ffe8-4ff8-b04e-42ac3e37e346
+      - entityId: 0ddc3954-4bb4-4582-a498-0f9a61123705
         associationType: object in conflict
       - entityId: 3d65cb56-7f53-4640-a103-31de7ec33768
         associationType: object in conflict
-      - entityId: cff35a1f-e601-4ea2-b1d8-489197236954
-        associationType: concept
+      - entityId: 66470bc6-72d2-435d-991d-4d5c7a5b4e36
+        associationType: suspect
+      - entityId: 953a930e-5322-4c53-a248-01cae3a269af
+        associationType: group
   - order: 3
     subdivisionIndex: 1
-    name: Interviews and Suspicions
-    summary: Another sub-team interviews uncooperative colleagues and the nervous
-      junior admin, whose evasive answers raise suspicions and tension within
-      the group.
+    name: Splitting Into Sub-Teams
+    summary: "Unable to agree, the nerd group splits into two teams: one to
+      investigate internal suspects, the other to pursue leads from the rival
+      company’s recruiter. Friendships are strained by the division."
     emotionAtStart: high
-    emotionAtEnd: low
-    approximateNoOfWords: 1200
+    emotionAtEnd: neutral
+    approximateNoOfWords: 900
     associatedEntities:
-      - entityId: f752913b-4726-415f-995f-9a80dc5bb7b9
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
-      - entityId: 5842751e-67a2-49ab-b570-417d21bcfca8
+      - entityId: 953a930e-5322-4c53-a248-01cae3a269af
         associationType: group
-      - entityId: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+      - entityId: b28234db-96aa-498e-8e5f-a0eac359725f
         associationType: antagonist
+      - entityId: a5fabbfb-785f-4333-b34c-94e54cf829b7
+        associationType: concept
   - order: 4
     subdivisionIndex: 1
-    name: Sabotage and Glitches
-    summary: Technical glitches and subtle sabotage disrupt the investigation,
-      causing frustration and mistrust among the nerd group.
-    emotionAtStart: low
-    emotionAtEnd: very_low
-    approximateNoOfWords: 1200
+    name: Internal Investigation Begins
+    summary: The internal team starts interviewing employees and reviewing server
+      logs. Office politics and management pressure make the process fraught
+      with tension.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 1000
     associatedEntities:
-      - entityId: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
-        associationType: object in conflict
-      - entityId: 040857d3-9355-4d5a-bfa2-533b221be626
-        associationType: object in conflict
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 953a930e-5322-4c53-a248-01cae3a269af
         associationType: group
-      - entityId: 55456b92-2e3a-44e9-9c0c-12be3a24694c
+      - entityId: e6b08a81-d99d-4ee6-8a9b-429e295715bf
         associationType: concept
+      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
+        associationType: antagonist
   - order: 5
     subdivisionIndex: 1
-    name: Confronting Mistrust
-    summary: The nerd group confronts internal mistrust and the possibility of an
-      inside accomplice, debating whether someone among them is working against
-      the investigation.
+    name: External Team Follows the Recruiter
+    summary: The external team arranges a meeting with the rival company’s
+      recruiter, hoping to extract information. The recruiter is evasive,
+      offering only cryptic hints about outside involvement.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: b28234db-96aa-498e-8e5f-a0eac359725f
+        associationType: antagonist
+      - entityId: 92935da7-4a2f-4d19-8bd4-18d06891491c
+        associationType: location
+  - order: 6
+    subdivisionIndex: 1
+    name: Management Applies Pressure
+    summary: Management calls both teams in for an update, expressing frustration at
+      the lack of progress and threatening disciplinary action if results aren’t
+      delivered soon.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
+        associationType: antagonist
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: group
+      - entityId: c189d3f6-b589-471b-a90d-be3b4a6ce080
+        associationType: concept
+  - order: 7
+    subdivisionIndex: 1
+    name: Tensions Boil Over
+    summary: Arguments erupt within the nerd group as stress and suspicion reach a
+      peak. Some members threaten to quit, and the investigation teeters on
+      collapse.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 1300
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: a5fabbfb-785f-4333-b34c-94e54cf829b7
+        associationType: concept
+      - entityId: e6b08a81-d99d-4ee6-8a9b-429e295715bf
+        associationType: concept
+  - order: 8
+    subdivisionIndex: 2
+    name: Sabotage Uncovered
+    summary: "The internal team uncovers a pattern of sabotage: misconfigured
+      servers, deleted backups, and unexplained reboots. The evidence points to
+      someone with deep system access."
     emotionAtStart: very_low
     emotionAtEnd: neutral
     approximateNoOfWords: 1200
     associatedEntities:
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
-      - entityId: 55456b92-2e3a-44e9-9c0c-12be3a24694c
-        associationType: concept
-      - entityId: 74d1c9b5-b038-405c-a6e9-f395a0b1733b
-        associationType: concept
-  - order: 6
-    subdivisionIndex: 1
-    name: Management Pressure
-    summary: Management pressures the group for results, increasing the stakes and
-      urgency as the investigation stalls.
-    emotionAtStart: neutral
-    emotionAtEnd: high
-    approximateNoOfWords: 900
-    associatedEntities:
-      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
-        associationType: antagonist
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: group
-  - order: 7
-    subdivisionIndex: 1
-    name: Renewed Resolve
-    summary: Despite setbacks, the nerd group regroups and recommits to solving the
-      case, determined to uncover the truth.
-    emotionAtStart: high
-    emotionAtEnd: very_high
-    approximateNoOfWords: 900
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
-        associationType: concept
-  - order: 8
-    subdivisionIndex: 2
-    name: Stepping Outside
-    summary: The investigation leads the nerds outside the company to a tech meetup,
-      where they hope to find new leads.
-    emotionAtStart: neutral
-    emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 92935da7-4a2f-4d19-8bd4-18d06891491c
-        associationType: location
-  - order: 9
-    subdivisionIndex: 2
-    name: Rival Encounters
-    summary: At the tech meetup, the group encounters a recruiter from a rival
-      company, who offers cryptic hints about a broader scheme.
-    emotionAtStart: high
-    emotionAtEnd: neutral
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 0794e5e9-684a-4829-8cec-dc274b6e681d
-        associationType: antagonist
-      - entityId: e023228b-7ead-4610-8688-8c76f30b57c8
-        associationType: group
-      - entityId: 98701678-4a25-4688-83ee-f435c62b8265
-        associationType: concept
-  - order: 10
-    subdivisionIndex: 2
-    name: Broader Scheme Revealed
-    summary: Overheard conversations and digital clues suggest the theft is part of
-      a conspiracy targeting multiple firms, raising the stakes.
-    emotionAtStart: neutral
-    emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 34fbde31-4917-4245-99b4-805a1b9cda6e
-        associationType: concept
-  - order: 11
-    subdivisionIndex: 2
-    name: Following the Breadcrumbs
-    summary: The group follows a trail of digital breadcrumbs, eventually
-      discovering a hidden access point used during the theft.
-    emotionAtStart: high
-    emotionAtEnd: very_high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 20407f2a-30ef-4e3b-99ba-47faedff8444
+      - entityId: 78e7fc4d-e830-404b-9cbb-5df283bdd9a7
         associationType: object in conflict
-  - order: 12
-    subdivisionIndex: 2
-    name: Legal Threats
-    summary: Management issues legal threats as the group’s investigation pushes
-      boundaries, creating new obstacles.
-    emotionAtStart: very_high
-    emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
-        associationType: antagonist
-      - entityId: 7e8d2e1f-47f7-4039-892e-884fd954f069
-        associationType: concept
-  - order: 13
-    subdivisionIndex: 2
-    name: Warnings and Risks
-    summary: The rival recruiter delivers veiled warnings, hinting at dangers if the
-      nerds dig deeper, but the group presses on.
-    emotionAtStart: high
-    emotionAtEnd: neutral
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: 0794e5e9-684a-4829-8cec-dc274b6e681d
-        associationType: antagonist
-      - entityId: 98701678-4a25-4688-83ee-f435c62b8265
-        associationType: concept
-  - order: 14
-    subdivisionIndex: 2
-    name: Closing In
-    summary: The nerds close in on the truth, piecing together evidence and
-      preparing for the next phase of their investigation.
-    emotionAtStart: neutral
-    emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 20407f2a-30ef-4e3b-99ba-47faedff8444
-        associationType: object in conflict
-  - order: 15
-    subdivisionIndex: 3
-    name: Fraying Bonds
-    summary: Personal stakes intensify as stress, late nights, and conflicting
-      theories strain the nerds’ friendships.
-    emotionAtStart: high
-    emotionAtEnd: low
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 9cbcf434-505f-4c0c-97ca-0af27e373f22
-        associationType: emotionalState
-      - entityId: 665c58a2-db3f-432e-b639-3f6d07e5dd43
-        associationType: concept
-      - entityId: 7a7974e1-9211-4e94-92a6-c788d02999b9
-        associationType: concept
-      - entityId: 35525d0a-f68e-4042-9688-30d87fc706d8
-        associationType: concept
-  - order: 16
-    subdivisionIndex: 3
-    name: Revealing Motivations
-    summary: Flashbacks and after-hours conversations reveal personal motivations
-      and past betrayals among the group.
-    emotionAtStart: low
-    emotionAtEnd: neutral
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: 019fb747-3a62-4f02-8750-28c9f05785b6
-        associationType: concept
-      - entityId: a654c308-1945-4b0e-989d-7ddc951f392c
-        associationType: backgroundEvent
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: group
-  - order: 17
-    subdivisionIndex: 3
-    name: Uncovering Sabotage
-    summary: A senior team member uncovers deleted backups and misconfigured
-      servers, confirming deliberate sabotage.
-    emotionAtStart: neutral
-    emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: 26be3f0e-7b80-4a89-a12b-c2c4f7705aff
-        associationType: POV
       - entityId: e3ced4d6-357a-4231-b3fc-80b9fcac6c71
         associationType: object in conflict
-      - entityId: 78e7fc4d-e830-404b-9cbb-5df283bdd9a7
+      - entityId: 03a52d85-a310-4a47-acf5-5cf325d71a68
         associationType: object in conflict
       - entityId: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
         associationType: concept
-  - order: 18
-    subdivisionIndex: 3
-    name: Devising the Trap
-    summary: The group devises a risky plan to set a trap for the thief,
-      coordinating with a trusted member of management.
-    emotionAtStart: high
-    emotionAtEnd: very_high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f63f18b2-072e-4500-9b89-d1535dbbf7fd
-        associationType: concept
-      - entityId: ae7506b0-2b02-4aac-83a5-3df24a78c985
-        associationType: ally
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: group
-  - order: 19
-    subdivisionIndex: 3
-    name: Keeping Secrets
-    summary: The nerds keep their suspicions secret from the rest of the company,
-      preparing for the trap while maintaining a façade.
-    emotionAtStart: very_high
-    emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
-        associationType: group
-  - order: 20
-    subdivisionIndex: 3
-    name: Final Preparations
-    summary: The group finalizes their plan, setting up surveillance and
-      coordinating roles for the overnight stakeout.
-    emotionAtStart: high
-    emotionAtEnd: very_high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f63f18b2-072e-4500-9b89-d1535dbbf7fd
-        associationType: concept
-      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
-        associationType: location
-  - order: 21
-    subdivisionIndex: 4
-    name: The Stakeout
-    summary: The nerds conduct an overnight stakeout in the server room, waiting for
-      the thief to make a move.
-    emotionAtStart: very_high
-    emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: POV
-      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
-        associationType: location
-  - order: 22
-    subdivisionIndex: 4
-    name: Culprit Caught—Almost
-    summary: The group catches an unidentified culprit attempting to access the
-      servers, but the person escapes in the chaos.
-    emotionAtStart: high
-    emotionAtEnd: low
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: f4685747-71e6-4314-a699-f12b22a74c73
-        associationType: antagonist
-      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
-        associationType: group
-  - order: 23
-    subdivisionIndex: 4
-    name: The Keycard Clue
-    summary: In the aftermath, the group finds a keycard dropped by the culprit,
-      which is linked to a high-level employee.
-    emotionAtStart: low
-    emotionAtEnd: neutral
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: 0ddc3954-4bb4-4582-a498-0f9a61123705
-        associationType: object in conflict
-      - entityId: 66470bc6-72d2-435d-991d-4d5c7a5b4e36
-        associationType: suspect
-  - order: 24
-    subdivisionIndex: 4
-    name: Implications
-    summary: The discovery implicates upper management and reveals the theft is part
-      of a larger conspiracy targeting the tech industry.
+  - order: 9
+    subdivisionIndex: 2
+    name: Meetup with the Rival Recruiter
+    summary: The external team attends a tech meetup and confronts the rival
+      recruiter. The recruiter drops cryptic hints about a broader conspiracy,
+      raising the stakes.
     emotionAtStart: neutral
     emotionAtEnd: high
-    approximateNoOfWords: 1200
-    associatedEntities:
-      - entityId: b9af9e3a-a052-48fa-88f2-e146658c0555
-        associationType: antagonist
-      - entityId: 34fbde31-4917-4245-99b4-805a1b9cda6e
-        associationType: concept
-  - order: 25
-    subdivisionIndex: 4
-    name: Divided Loyalties
-    summary: The group is divided over whom to trust, setting up the next phase of
-      their investigation as suspicions linger.
-    emotionAtStart: high
-    emotionAtEnd: neutral
-    approximateNoOfWords: 1200
+    approximateNoOfWords: 1000
     associatedEntities:
       - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
         associationType: POV
-      - entityId: 55456b92-2e3a-44e9-9c0c-12be3a24694c
+      - entityId: b28234db-96aa-498e-8e5f-a0eac359725f
+        associationType: antagonist
+      - entityId: 92935da7-4a2f-4d19-8bd4-18d06891491c
+        associationType: location
+      - entityId: 632a3d54-4d77-41f1-8407-c9d22f391157
+        associationType: concept
+  - order: 10
+    subdivisionIndex: 2
+    name: Flashbacks and Personal Stakes
+    summary: Flashbacks reveal the personal stakes for several nerd group members,
+      showing how the conspiracy and sabotage have affected their lives and
+      friendships.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: a5fabbfb-785f-4333-b34c-94e54cf829b7
+        associationType: concept
+      - entityId: 632a3d54-4d77-41f1-8407-c9d22f391157
+        associationType: concept
+  - order: 11
+    subdivisionIndex: 2
+    name: Friendships Tested
+    summary: Mistrust and stress test the friendships within the nerd group. Some
+      members confide in each other, while others withdraw, deepening the
+      group’s internal rifts.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: a5fabbfb-785f-4333-b34c-94e54cf829b7
+        associationType: concept
+  - order: 12
+    subdivisionIndex: 2
+    name: Hidden Access Point Discovered
+    summary: The internal team discovers a hidden access point in the server room,
+      suggesting the theft was an inside job with outside coordination.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 20407f2a-30ef-4e3b-99ba-47faedff8444
+        associationType: object in conflict
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: 632a3d54-4d77-41f1-8407-c9d22f391157
+        associationType: concept
+  - order: 13
+    subdivisionIndex: 2
+    name: Piecing Together the Clues
+    summary: Both teams share findings, realizing the sabotage and conspiracy are
+      linked. The nerd group begins to suspect the mastermind is manipulating
+      events from the shadows.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+      - entityId: 5c932ea9-8f53-48ee-a1d9-70ec90d48ced
+        associationType: concept
+      - entityId: 632a3d54-4d77-41f1-8407-c9d22f391157
+        associationType: concept
+  - order: 14
+    subdivisionIndex: 2
+    name: Preparing for the Next Move
+    summary: The nerd group regroups, planning their next steps. They set up
+      surveillance and prepare to bait the mastermind, determined to expose the
+      conspiracy.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+  - order: 15
+    subdivisionIndex: 3
+    name: Deciphering the Mysterious Message
+    summary: The nerd group finds a cryptic message on the junior admin’s computer.
+      After intense analysis, they link it to the mastermind’s digital
+      footprint.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 4432f936-ac9d-4fe7-ae5c-f50683c73b01
+        associationType: object in conflict
+      - entityId: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+        associationType: suspect
+      - entityId: 60bdd6f6-b829-4082-9144-ef3cc4cd412a
+        associationType: object in conflict
+  - order: 16
+    subdivisionIndex: 3
+    name: Connecting the Dots
+    summary: Piecing together the timeline, the group realizes the conspiracy
+      targets not just their company but the wider tech industry. The stakes
+      become global.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 632a3d54-4d77-41f1-8407-c9d22f391157
+        associationType: concept
+      - entityId: 49586cb0-3050-4b44-b59c-d441f51f6bac
+        associationType: group
+  - order: 17
+    subdivisionIndex: 3
+    name: Orchestrating the Trap
+    summary: The nerds devise a risky plan to bait the mastermind, leveraging their
+      technical skills and exploiting office politics. Surveillance is set in
+      the server room.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+      - entityId: e6b08a81-d99d-4ee6-8a9b-429e295715bf
+        associationType: concept
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+  - order: 18
+    subdivisionIndex: 3
+    name: The Server Room Confrontation
+    summary: Late at night, the nerd group confronts a masked figure in the server
+      room. A tense chase ensues, but the figure narrowly escapes, leaving
+      behind a crucial piece of evidence.
+    emotionAtStart: neutral
+    emotionAtEnd: very_high
+    approximateNoOfWords: 1300
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 3bda4bee-1afe-4fab-aa79-cd64946da85a
+        associationType: antagonist
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: b077160d-f405-4a4f-933d-52d5f7c7ef54
+        associationType: object in conflict
+  - order: 19
+    subdivisionIndex: 3
+    name: Aftermath and Discovery
+    summary: The group recovers the crucial piece of evidence left behind. As dawn
+      breaks, they realize they are closer than ever to exposing the mastermind,
+      but the cost to their friendships is clear.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: b077160d-f405-4a4f-933d-52d5f7c7ef54
+        associationType: object in conflict
+      - entityId: a5fabbfb-785f-4333-b34c-94e54cf829b7
         associationType: concept
