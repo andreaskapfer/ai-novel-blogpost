@@ -1,0 +1,52 @@
+outlineReference:
+  bibleLevel: act
+  act: 2
+subdivisions:
+  - index: 1
+    summary: The nerd group arrives at work to discover the company’s AI servers are
+      down. Panic spreads as management scrambles for answers. The group
+      investigates the server room and finds all GPUs missing, triggering chaos.
+      Security footage is reviewed, but key segments are missing. Suspicion
+      falls on the nervous junior admin, whose odd behavior is noted by a senior
+      team member. The group debates whether to trust management or take action
+      themselves, ultimately deciding to form a pact to recover the GPUs and
+      protect their jobs.
+    approximateNoOfWords: 6000
+  - index: 2
+    summary: "Initial investigation reveals a series of security lapses: missing
+      access logs, unexplained server reboots, and a recent power fluctuation.
+      The nerds split up to interview colleagues, uncovering uncooperative staff
+      and hints of office politics. The junior admin is confronted but denies
+      involvement, growing increasingly anxious. The group discovers a
+      mysterious message on the admin’s computer, suggesting outside influence.
+      Tensions rise as management pressures the group for answers, threatening
+      disciplinary action if the GPUs aren’t found."
+    approximateNoOfWords: 6000
+  - index: 3
+    summary: "The nerd group follows leads outside the company, investigating rival
+      firms rumored to be seeking advanced AI hardware. They encounter a rival
+      company’s recruiter at a tech meetup, who drops cryptic hints about the
+      GPU theft. Meanwhile, subtle acts of sabotage—misconfigured servers and
+      deleted backups—undermine the investigation. The group’s camaraderie is
+      tested by mistrust and stress, but they reaffirm their pact. A late-night
+      troubleshooting session uncovers a clue: a hidden access point used during
+      the theft."
+    approximateNoOfWords: 6500
+  - index: 4
+    summary: The group devises a plan to set a trap for the thief, using the server
+      room as bait. They coordinate with a trusted member of management, setting
+      up surveillance and restoring security protocols. During a tense overnight
+      stakeout, the group catches someone attempting to access the server room.
+      The culprit escapes, but drops a keycard linked to a high-level employee.
+      The nerds realize the conspiracy may reach into upper management,
+      deepening the stakes and forcing them to question whom they can trust.
+    approximateNoOfWords: 6000
+  - index: 5
+    summary: With the company’s future in jeopardy, the nerd group presents their
+      findings to management, only to be met with skepticism and veiled threats.
+      The group secretly copies evidence and prepares to go public if necessary.
+      As the act closes, the nerds vow to continue their investigation, united
+      by friendship and a sense of justice. The company remains in turmoil, with
+      the true mastermind still at large and the nerds more determined than ever
+      to uncover the truth behind the stolen GPUs.
+    approximateNoOfWords: 5500
