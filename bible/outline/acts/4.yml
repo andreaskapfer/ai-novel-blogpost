@@ -3,37 +3,42 @@ outlineReference:
   act: 4
 subdivisions:
   - index: 1
-    summary: The nerd group, now armed with partial evidence and a growing sense of
-      urgency, splits into sub-teams to pursue different leads. One team
-      investigates the digital footprint left by the mastermind, while another
-      follows up on the keycard dropped by the masked figure. Office politics
-      intensify as management issues veiled threats and a trusted manager is
-      pressured to choose sides. The group’s unity begins to fray as suspicions
-      of a mole within their ranks grow.
+    summary: The nerd group regroups after the failed stakeout, shaken by the masked
+      figure’s escape and the dropped keycard implicating a high-level employee.
+      Tensions flare as suspicions turn inward, with accusations and mistrust
+      threatening to fracture the group. Management issues veiled threats of
+      disciplinary action, while the group debates whether to involve
+      authorities or continue their risky investigation alone. The nerds split
+      into sub-teams to pursue different leads, each facing unique obstacles and
+      temptations to betray the group’s trust.
     approximateNoOfWords: 9000
   - index: 2
-    summary: "Sabotage escalates: critical backups are deleted, and a major system
-      outage disrupts the company’s operations. The nerd group faces legal
-      threats as management considers disciplinary action. Amidst the chaos, a
-      heated confrontation erupts between two core members, exposing personal
-      vulnerabilities and past betrayals. The group must decide whether to trust
-      each other or risk losing everything to the mastermind’s manipulations."
+    summary: One sub-team investigates the high-level employee linked to the
+      keycard, uncovering evidence of secret meetings and financial
+      irregularities. Meanwhile, another sub-team follows a digital trail left
+      by the mastermind, discovering deleted backups, misconfigured servers, and
+      a hidden access point. Office politics intensify as management attempts to
+      control the narrative, and a trusted member of management covertly aids
+      the nerds. The group’s technical skills are put to the test as they race
+      to recover lost data and expose the mole within their ranks.
     approximateNoOfWords: 9000
   - index: 3
-    summary: A breakthrough occurs when the group uncovers a hidden access point in
-      the server room, revealing how the mastermind bypassed security. The
-      sub-teams reunite, pooling their findings to reconstruct the timeline of
-      the conspiracy. As they close in on the culprit, the mastermind launches a
-      final act of sabotage, framing a high-level employee and nearly destroying
-      the last remaining evidence. The nerd group must act quickly to prevent
-      total disaster.
-    approximateNoOfWords: 8500
+    summary: "Sabotage escalates: a critical server is taken offline, and a major
+      client threatens to pull their contract. The nerd group faces legal
+      threats as management blames them for the crisis. Amid mounting stress, a
+      heated argument erupts, revealing personal vulnerabilities and past
+      betrayals. A breakthrough comes when the group reconstructs the timeline
+      of the theft, linking the mastermind to both internal and external actors.
+      The nerds realize the conspiracy is larger than anticipated, with rival
+      companies and management implicated."
+    approximateNoOfWords: 9000
   - index: 4
-    summary: In a tense climax, the nerd group orchestrates a risky sting operation
-      to lure the mastermind into the open. The plan nearly unravels due to a
-      last-minute betrayal, but the group’s technical skills and renewed
-      camaraderie allow them to adapt. The true mastermind is unmasked in a
-      dramatic confrontation, forcing all parties to reckon with the
-      consequences of their actions. The act ends with the group battered but
-      united, ready for the final showdown.
-    approximateNoOfWords: 8500
+    summary: The nerd group devises a risky plan to bait the mastermind, leveraging
+      office politics and their knowledge of the company’s systems. They
+      coordinate with their trusted management ally to set a digital trap, while
+      another sub-team monitors physical access points. The plan is nearly
+      derailed by an act of betrayal, but the group’s camaraderie prevails. In a
+      tense confrontation, the nerds catch the mole and gather crucial evidence,
+      setting the stage for the final showdown with the mastermind and the
+      exposure of the tech industry conspiracy.
+    approximateNoOfWords: 8000
