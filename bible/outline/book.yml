@@ -1,0 +1,40 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The nerd group is introduced at their IT consulting company,
+      highlighting their diverse personalities, technical skills, and the
+      camaraderie that binds them. The company’s reliance on its AI
+      infrastructure is established, along with hints of internal tensions and
+      external pressures. The group’s daily routines and quirks are explored,
+      setting the stage for the inciting incident.
+    approximateNoOfWords: 25000
+  - index: 2
+    summary: The group discovers that all the GPUs powering the company’s AI servers
+      have been stolen, throwing the company into chaos. Initial investigations
+      reveal security lapses and possible suspects both inside and outside the
+      company. The nerds decide to take matters into their own hands, forming a
+      pact to recover the GPUs and save their jobs.
+    approximateNoOfWords: 25000
+  - index: 3
+    summary: The nerds embark on their investigation, following clues that lead them
+      through technical puzzles, office politics, and encounters with rival
+      companies. Their friendship is tested by setbacks, mistrust, and personal
+      stakes. They uncover a conspiracy that suggests the theft is part of a
+      larger scheme targeting the tech industry.
+    approximateNoOfWords: 35000
+  - index: 4
+    summary: As the group closes in on the culprits, they face escalating dangers,
+      including sabotage, betrayal, and legal threats. The nerds must use their
+      unique skills and work together to outsmart their adversaries. Tensions
+      reach a breaking point as the true mastermind is revealed and the group’s
+      unity is put to the ultimate test.
+    approximateNoOfWords: 35000
+  - index: 5
+    summary: In a high-stakes confrontation, the nerds confront the mastermind
+      behind the GPU theft. Using ingenuity and teamwork, they recover the
+      stolen hardware and expose the conspiracy. The company’s future is
+      secured, and the group emerges stronger, having proven the value of their
+      friendship and expertise. The novel ends with the nerds reflecting on
+      their journey and the new challenges ahead.
+    approximateNoOfWords: 30000
