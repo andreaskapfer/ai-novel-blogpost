@@ -3,42 +3,38 @@ outlineReference:
   act: 4
 subdivisions:
   - index: 1
-    summary: The nerd group regroups after the failed stakeout, shaken by the masked
-      figure’s escape and the dropped keycard implicating a high-level employee.
-      Tensions flare as suspicions turn inward, with accusations and mistrust
-      threatening to fracture the group. Management issues veiled threats of
-      disciplinary action, while the group debates whether to involve
-      authorities or continue their risky investigation alone. The nerds split
-      into sub-teams to pursue different leads, each facing unique obstacles and
-      temptations to betray the group’s trust.
+    summary: The nerd group, reeling from the discovery of a mole and mounting
+      evidence of a conspiracy, regroups in the conference room to analyze the
+      clues. Tensions flare as accusations fly and trust erodes, forcing the
+      group to confront personal grievances and past betrayals. They split into
+      sub-teams to pursue different leads, with one team focusing on digital
+      forensics and another on interviewing internal suspects. The company’s
+      management issues veiled threats, increasing the pressure to produce
+      results quickly.
     approximateNoOfWords: 9000
   - index: 2
-    summary: One sub-team investigates the high-level employee linked to the
-      keycard, uncovering evidence of secret meetings and financial
-      irregularities. Meanwhile, another sub-team follows a digital trail left
-      by the mastermind, discovering deleted backups, misconfigured servers, and
-      a hidden access point. Office politics intensify as management attempts to
-      control the narrative, and a trusted member of management covertly aids
-      the nerds. The group’s technical skills are put to the test as they race
-      to recover lost data and expose the mole within their ranks.
+    summary: The digital forensics team uncovers a hidden access point in the server
+      room’s network, revealing a sophisticated method used by the mastermind to
+      bypass security. Meanwhile, the interview team faces stonewalling from
+      colleagues and discovers that a high-level employee’s keycard was used
+      during the theft. A late-night surveillance operation is planned, with the
+      nerd group coordinating with a trusted member of management to catch the
+      perpetrator in the act.
     approximateNoOfWords: 9000
   - index: 3
-    summary: "Sabotage escalates: a critical server is taken offline, and a major
-      client threatens to pull their contract. The nerd group faces legal
-      threats as management blames them for the crisis. Amid mounting stress, a
-      heated argument erupts, revealing personal vulnerabilities and past
-      betrayals. A breakthrough comes when the group reconstructs the timeline
-      of the theft, linking the mastermind to both internal and external actors.
-      The nerds realize the conspiracy is larger than anticipated, with rival
-      companies and management implicated."
+    summary: During the stakeout, the nerd group confronts a masked figure
+      attempting to access the server room. A tense chase ensues through the
+      office, ending with the culprit escaping but dropping a crucial piece of
+      evidence—a keycard linked to upper management. The group’s unity is shaken
+      as suspicions turn toward their own leadership, and legal threats from the
+      company’s lawyers loom if the investigation is not resolved discreetly.
     approximateNoOfWords: 9000
   - index: 4
-    summary: The nerd group devises a risky plan to bait the mastermind, leveraging
-      office politics and their knowledge of the company’s systems. They
-      coordinate with their trusted management ally to set a digital trap, while
-      another sub-team monitors physical access points. The plan is nearly
-      derailed by an act of betrayal, but the group’s camaraderie prevails. In a
-      tense confrontation, the nerds catch the mole and gather crucial evidence,
-      setting the stage for the final showdown with the mastermind and the
-      exposure of the tech industry conspiracy.
+    summary: The group analyzes the new evidence, piecing together a timeline that
+      implicates the mastermind and reveals the extent of the conspiracy
+      targeting the tech industry. Betrayal within the company is confirmed as
+      the mole’s identity is exposed. The nerds must overcome personal mistrust
+      and work together, leveraging their technical skills and camaraderie to
+      devise a risky plan to bait the mastermind into revealing themselves,
+      setting the stage for the final confrontation.
     approximateNoOfWords: 8000
