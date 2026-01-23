@@ -144,10 +144,26 @@ entities:
     kind: concept
     description: The backgrounds and personal motivations of the nerd group members,
       explored through flashbacks and conversations.
+  - id: 3d65cb56-7f53-4640-a103-31de7ec33768
+    displayName: access logs
+    kind: item
+    description: Records of server access, whose absence signals anomalies and
+      possible security breaches.
+  - id: 883a80c8-a8e2-4535-b459-81a7a21ec964
+    displayName: after-hours conversations
+    kind: backgroundEvent
+    description: Informal discussions among the nerd group outside regular work
+      hours, revealing personal motivations and insecurities.
+  - id: 0787ff89-3ac8-426b-b361-a2b96f730d8d
+    displayName: office environment
+    kind: location
+    description: The general workspace and atmosphere of the IT consulting company
+      where the nerd group operates.
 beats:
   - order: 1
     subdivisionIndex: 1
-    name: "Opening Image: The Nerd Group Assembles"
+    name: |
+      Opening Image: The Nerd Group Assembles
     summary: The nerd group arrives at the IT consulting company, each member
       displaying their unique technical skills and quirks as they settle into
       the bustling office environment.
@@ -161,9 +177,12 @@ beats:
         associationType: location
       - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
         associationType: camaraderie
+      - entityId: 0787ff89-3ac8-426b-b361-a2b96f730d8d
+        associationType: location
   - order: 2
     subdivisionIndex: 1
-    name: "Establishing the Stakes: AI Infrastructure Demo"
+    name: |
+      Establishing the Stakes: AI Infrastructure Demo
     summary: The group prepares for a high-stakes client demo, showcasing the
       company's dependence on its AI infrastructure. Tension rises as the demo
       begins and the team works together under pressure.
@@ -230,7 +249,8 @@ beats:
         associationType: object in conflict
   - order: 6
     subdivisionIndex: 1
-    name: "Foreshadowing Trouble: The Junior Admin"
+    name: |
+      Foreshadowing Trouble: The Junior Admin
     summary: A nervous junior admin is seen acting suspiciously near the server
       room, foreshadowing trouble to come.
     emotionAtStart: neutral
@@ -337,7 +357,8 @@ beats:
         associationType: observer
   - order: 13
     subdivisionIndex: 3
-    name: "Major Client Visit: The Pressure Mounts"
+    name: |
+      Major Client Visit: The Pressure Mounts
     summary: A major client visit puts the nerd group under pressure, forcing them
       to showcase the AI infrastructure’s capabilities while management watches
       closely.
@@ -431,6 +452,8 @@ beats:
         associationType: object in conflict
       - entityId: a654c308-1945-4b0e-989d-7ddc951f392c
         associationType: background event
+      - entityId: 883a80c8-a8e2-4535-b459-81a7a21ec964
+        associationType: event
   - order: 19
     subdivisionIndex: 4
     name: Past Betrayals and Internal Tensions
@@ -522,6 +545,8 @@ beats:
         associationType: object in conflict
       - entityId: 3159cc1b-b84a-4226-a19e-ced6e18f5e58
         associationType: object in conflict
+      - entityId: 3d65cb56-7f53-4640-a103-31de7ec33768
+        associationType: object in conflict
   - order: 25
     subdivisionIndex: 5
     name: Anomalies in the Server Room
@@ -538,9 +563,12 @@ beats:
         associationType: object in conflict
       - entityId: 3159cc1b-b84a-4226-a19e-ced6e18f5e58
         associationType: object in conflict
+      - entityId: 3d65cb56-7f53-4640-a103-31de7ec33768
+        associationType: object in conflict
   - order: 26
     subdivisionIndex: 5
-    name: "Leaving the Office: False Security"
+    name: |
+      Leaving the Office: False Security
     summary: The group leaves the office late at night, believing the server room is
       secure, while the mastermind’s plan quietly moves into motion.
     emotionAtStart: neutral
