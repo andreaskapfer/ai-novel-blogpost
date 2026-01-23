@@ -1,0 +1,56 @@
+outlineReference:
+  bibleLevel: act
+  act: 1
+subdivisions:
+  - index: 1
+    summary: The novel opens with a vivid introduction to the nerd group, each
+      member displaying their unique technical skills and quirks as they
+      navigate the bustling environment of the IT consulting company. The
+      company’s dependence on its AI infrastructure is established through a
+      high-stakes client demo, where the group’s teamwork and camaraderie shine.
+      Subtle hints of internal tensions—such as a heated debate over server
+      access—and external pressures from demanding clients and looming deadlines
+      are woven throughout. The chapter ends with a nervous junior admin acting
+      suspiciously near the server room, foreshadowing trouble.
+    approximateNoOfWords: 5000
+  - index: 2
+    summary: The daily routines of the nerd group are explored in detail,
+      highlighting their interactions with management, colleagues, and the
+      company’s AI systems. Office politics simmer beneath the surface as the
+      group navigates conflicting priorities and resource constraints. The
+      junior admin’s anxiety becomes more pronounced, and a late-night
+      maintenance session in the server room reveals a minor security lapse. The
+      group’s camaraderie is tested by a miscommunication that nearly derails a
+      critical project, but their friendship ultimately prevails. The chapter
+      closes with an ominous power fluctuation in the server room.
+    approximateNoOfWords: 5000
+  - index: 3
+    summary: A major client visit puts the nerd group under pressure, forcing them
+      to showcase the AI infrastructure’s capabilities while dealing with
+      last-minute technical glitches. Management’s expectations and the threat
+      of losing the client heighten the stakes. During the visit, subtle
+      sabotage—such as a misconfigured GPU—raises suspicions among the group.
+      The junior admin’s erratic behavior draws the attention of a senior team
+      member, who quietly begins to investigate. The chapter ends with the group
+      celebrating a successful demo, unaware of the deeper crisis brewing.
+    approximateNoOfWords: 5000
+  - index: 4
+    summary: The nerd group’s personal lives and backgrounds are explored, revealing
+      the motivations and insecurities that drive each member. Flashbacks and
+      after-hours conversations deepen the sense of camaraderie and hint at past
+      betrayals within the company. Internal tensions flare during a heated
+      argument over project priorities, but a shared late-night troubleshooting
+      session in the server room helps to mend rifts. The chapter concludes with
+      the junior admin receiving a mysterious message, setting the stage for the
+      inciting incident.
+    approximateNoOfWords: 5000
+  - index: 5
+    summary: The act culminates in a tense sequence where the nerd group prepares
+      for a major system upgrade, unaware that the groundwork for the GPU theft
+      is being laid. The junior admin’s actions become increasingly suspicious,
+      and a series of small anomalies—missing access logs, unexplained server
+      reboots—go largely unnoticed. The act ends with the group leaving the
+      office late at night, the server room secure—or so they believe—while the
+      mastermind’s plan quietly moves into motion, setting up the shocking
+      discovery to come in Act 2.
+    approximateNoOfWords: 5000
