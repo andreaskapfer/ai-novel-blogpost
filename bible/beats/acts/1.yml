@@ -1,0 +1,570 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+entities:
+  - id: f18250cf-0e41-4d39-8eea-270672b62dc1
+    displayName: nerd group
+    kind: group
+    description: A group of IT consultants with diverse personalities and technical
+      skills, bound by camaraderie and friendship.
+  - id: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+    displayName: IT consulting company
+    kind: location
+    description: The workplace of the nerd group, heavily reliant on AI infrastructure.
+  - id: 9af2821a-4120-4ae8-a1ca-03e3b9e96aa5
+    displayName: AI infrastructure
+    kind: item
+    description: The artificial intelligence systems and servers that the company
+      depends on.
+  - id: ce1381ea-8be6-425f-adf5-0025da538911
+    displayName: server room
+    kind: location
+    description: A secure room in the IT consulting company where critical servers
+      and GPUs are kept.
+  - id: 9d065a7b-f98f-4968-bafa-24c0bc1c6824
+    displayName: client
+    kind: group
+    description: Demanding clients of the IT consulting company, whose expectations
+      and visits create pressure for the nerd group.
+  - id: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
+    displayName: management
+    kind: group
+    description: The leadership and administrative staff of the IT consulting
+      company, responsible for company decisions and oversight.
+  - id: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+    displayName: junior admin
+    kind: character
+    description: A nervous junior administrator at the IT consulting company, whose
+      behavior foreshadows the coming crisis.
+  - id: 26be3f0e-7b80-4a89-a12b-c2c4f7705aff
+    displayName: senior team member
+    kind: character
+    description: A more experienced member of the nerd group who begins to
+      investigate the junior admin's behavior.
+  - id: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+    displayName: internal tensions
+    kind: concept
+    description: Strains and conflicts among company staff, hinted at early in the story.
+  - id: dc53319f-ceb7-46bf-ba48-78b5e6081642
+    displayName: deadlines
+    kind: concept
+    description: Time constraints and project deadlines that create pressure for the
+      nerd group.
+  - id: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+    displayName: camaraderie
+    kind: concept
+    description: The spirit of mutual trust and friendship among the nerd group.
+  - id: 65e6e2c9-ea7c-4b0d-a088-d09933991925
+    displayName: external pressures
+    kind: concept
+    description: Challenges and threats to the company from outside forces.
+  - id: 3159cc1b-b84a-4226-a19e-ced6e18f5e58
+    displayName: server access
+    kind: concept
+    description: The permissions and ability to access the company's servers, a
+      source of internal tension.
+  - id: 4630106b-b9db-42f4-892d-1ace5dcbff82
+    displayName: miscommunication
+    kind: concept
+    description: A misunderstanding within the nerd group that nearly derails a
+      critical project.
+  - id: 1ea10151-9d34-4a3b-aec4-854d2e62d168
+    displayName: unexplained server reboots
+    kind: backgroundEvent
+    description: Servers rebooting without clear cause, suggesting tampering or
+      technical issues.
+  - id: 5fc0107d-2480-4dc4-9725-699d5c2a426c
+    displayName: power fluctuation
+    kind: backgroundEvent
+    description: An ominous and unexplained fluctuation in the server room's power supply.
+  - id: 1b0204b7-ff86-4d0f-a2f0-b2398639505d
+    displayName: security lapse
+    kind: backgroundEvent
+    description: A minor breach or oversight in the company's security protocols,
+      discovered during a late-night maintenance session.
+  - id: 0de115c4-589f-4bbb-8b54-a02d862b29e7
+    displayName: late-night troubleshooting session
+    kind: backgroundEvent
+    description: A collaborative effort by the nerd group to resolve technical
+      issues after hours.
+  - id: e03ac0c4-9da3-41dd-9b16-139bbf67949c
+    displayName: project priorities
+    kind: concept
+    description: The differing opinions and arguments over which projects should
+      take precedence within the nerd group.
+  - id: eb43b65d-cb57-41ea-827c-7bab43fd6de5
+    displayName: GPU theft
+    kind: backgroundEvent
+    description: The groundwork for the theft of a GPU, which is being laid during the act.
+  - id: e651577d-4907-49ba-babe-b6533bc00c62
+    displayName: system upgrade
+    kind: backgroundEvent
+    description: A major upgrade to the company's systems, for which the nerd group
+      prepares.
+  - id: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+    displayName: mastermind
+    kind: character
+    description: The main antagonist behind the GPU theft and the larger conspiracy.
+  - id: 4432f936-ac9d-4fe7-ae5c-f50683c73b01
+    displayName: mysterious message
+    kind: item
+    description: A cryptic communication received by the junior admin, setting up
+      the inciting incident.
+  - id: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+    displayName: GPUs
+    kind: item
+    description: Graphics processing units powering the company's AI servers,
+      central to the plot due to their theft.
+  - id: 67511fb9-7cab-46bf-84c7-8287870e2ddc
+    displayName: technical glitches
+    kind: backgroundEvent
+    description: Last-minute technical problems that arise during the client visit.
+  - id: 7f1fab99-2eb1-4a08-9fac-57e1e1df6e9f
+    displayName: major client visit
+    kind: backgroundEvent
+    description: A significant event where a major client visits the company,
+      increasing pressure on the nerd group.
+  - id: a654c308-1945-4b0e-989d-7ddc951f392c
+    displayName: past betrayals
+    kind: backgroundEvent
+    description: Hints of previous acts of betrayal within the company, affecting
+      current relationships.
+  - id: 5842751e-67a2-49ab-b570-417d21bcfca8
+    displayName: colleagues
+    kind: group
+    description: Other employees at the IT consulting company, some of whom are
+      uncooperative during the investigation.
+  - id: 82bd6f4b-06a1-4a0d-bb0c-467b2d8895f8
+    displayName: sabotage
+    kind: backgroundEvent
+    description: Subtle acts of sabotage, such as a misconfigured GPU, that raise
+      suspicions among the nerd group.
+  - id: 889b51b3-7193-417b-8065-fd676b6ce89c
+    displayName: personal lives
+    kind: concept
+    description: The backgrounds and personal motivations of the nerd group members,
+      explored through flashbacks and conversations.
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: "Opening Image: The Nerd Group Assembles"
+    summary: The nerd group arrives at the IT consulting company, each member
+      displaying their unique technical skills and quirks as they settle into
+      the bustling office environment.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+        associationType: location
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: camaraderie
+  - order: 2
+    subdivisionIndex: 1
+    name: "Establishing the Stakes: AI Infrastructure Demo"
+    summary: The group prepares for a high-stakes client demo, showcasing the
+      company's dependence on its AI infrastructure. Tension rises as the demo
+      begins and the team works together under pressure.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 9af2821a-4120-4ae8-a1ca-03e3b9e96aa5
+        associationType: object in conflict
+      - entityId: 9d065a7b-f98f-4968-bafa-24c0bc1c6824
+        associationType: antagonist
+      - entityId: 5eef2fcb-ded2-4437-8488-3f7d07bca26c
+        associationType: location
+  - order: 3
+    subdivisionIndex: 1
+    name: Teamwork and Camaraderie
+    summary: The nerd group’s teamwork and camaraderie shine as they navigate the
+      demo’s challenges, improvising solutions and supporting each other.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: camaraderie
+  - order: 4
+    subdivisionIndex: 1
+    name: Internal Tensions Surface
+    summary: Subtle hints of internal tensions emerge, including a heated debate
+      over server access and disagreements about project priorities.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+      - entityId: e03ac0c4-9da3-41dd-9b16-139bbf67949c
+        associationType: object in conflict
+      - entityId: 3159cc1b-b84a-4226-a19e-ced6e18f5e58
+        associationType: object in conflict
+  - order: 5
+    subdivisionIndex: 1
+    name: External Pressures and Deadlines
+    summary: External pressures from demanding clients and looming deadlines add to
+      the group’s stress, as management pushes for results.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 9d065a7b-f98f-4968-bafa-24c0bc1c6824
+        associationType: antagonist
+      - entityId: dc53319f-ceb7-46bf-ba48-78b5e6081642
+        associationType: object in conflict
+      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
+        associationType: antagonist
+      - entityId: 65e6e2c9-ea7c-4b0d-a088-d09933991925
+        associationType: object in conflict
+  - order: 6
+    subdivisionIndex: 1
+    name: "Foreshadowing Trouble: The Junior Admin"
+    summary: A nervous junior admin is seen acting suspiciously near the server
+      room, foreshadowing trouble to come.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 600
+    associatedEntities:
+      - entityId: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+        associationType: POV
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: observer
+  - order: 7
+    subdivisionIndex: 2
+    name: Daily Routines and Office Dynamics
+    summary: The nerd group’s daily routines are explored, highlighting their
+      interactions with management, colleagues, and the AI systems.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
+        associationType: antagonist
+      - entityId: 5842751e-67a2-49ab-b570-417d21bcfca8
+        associationType: group
+      - entityId: 9af2821a-4120-4ae8-a1ca-03e3b9e96aa5
+        associationType: object in conflict
+  - order: 8
+    subdivisionIndex: 2
+    name: Simmering Office Politics
+    summary: Office politics simmer beneath the surface as the group navigates
+      conflicting priorities and resource constraints.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: e03ac0c4-9da3-41dd-9b16-139bbf67949c
+        associationType: object in conflict
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+  - order: 9
+    subdivisionIndex: 2
+    name: The Junior Admin’s Anxiety
+    summary: The junior admin’s anxiety becomes more pronounced, drawing subtle
+      attention from the group.
+    emotionAtStart: low
+    emotionAtEnd: low
+    approximateNoOfWords: 600
+    associatedEntities:
+      - entityId: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+        associationType: POV
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: observer
+  - order: 10
+    subdivisionIndex: 2
+    name: Late-Night Maintenance and Security Lapse
+    summary: A late-night maintenance session in the server room reveals a minor
+      security lapse, raising quiet concerns among the group.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: 0de115c4-589f-4bbb-8b54-a02d862b29e7
+        associationType: event
+      - entityId: 1b0204b7-ff86-4d0f-a2f0-b2398639505d
+        associationType: object in conflict
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: participant
+  - order: 11
+    subdivisionIndex: 2
+    name: Miscommunication and Camaraderie Tested
+    summary: A miscommunication nearly derails a critical project, testing the
+      group’s camaraderie, but their friendship ultimately prevails.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: 4630106b-b9db-42f4-892d-1ace5dcbff82
+        associationType: object in conflict
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: camaraderie
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+  - order: 12
+    subdivisionIndex: 2
+    name: Ominous Power Fluctuation
+    summary: The chapter closes with an ominous power fluctuation in the server
+      room, leaving the group uneasy.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 1400
+    associatedEntities:
+      - entityId: 5fc0107d-2480-4dc4-9725-699d5c2a426c
+        associationType: event
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: observer
+  - order: 13
+    subdivisionIndex: 3
+    name: "Major Client Visit: The Pressure Mounts"
+    summary: A major client visit puts the nerd group under pressure, forcing them
+      to showcase the AI infrastructure’s capabilities while management watches
+      closely.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 7f1fab99-2eb1-4a08-9fac-57e1e1df6e9f
+        associationType: event
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 9af2821a-4120-4ae8-a1ca-03e3b9e96aa5
+        associationType: object in conflict
+      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
+        associationType: antagonist
+  - order: 14
+    subdivisionIndex: 3
+    name: Technical Glitches and Sabotage
+    summary: Last-minute technical glitches and subtle sabotage, such as a
+      misconfigured GPU, raise suspicions among the group.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: 67511fb9-7cab-46bf-84c7-8287870e2ddc
+        associationType: event
+      - entityId: 82bd6f4b-06a1-4a0d-bb0c-467b2d8895f8
+        associationType: object in conflict
+      - entityId: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+        associationType: object in conflict
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+  - order: 15
+    subdivisionIndex: 3
+    name: Management’s Expectations and Threats
+    summary: Management’s expectations and the threat of losing the client heighten
+      the stakes for the nerd group.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 8b6c15f8-d7ac-4c73-ad50-c0412a3e0bab
+        associationType: antagonist
+      - entityId: 9d065a7b-f98f-4968-bafa-24c0bc1c6824
+        associationType: object in conflict
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+  - order: 16
+    subdivisionIndex: 3
+    name: The Junior Admin’s Erratic Behavior
+    summary: The junior admin’s erratic behavior draws the attention of a senior
+      team member, who quietly begins to investigate.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+        associationType: POV
+      - entityId: 26be3f0e-7b80-4a89-a12b-c2c4f7705aff
+        associationType: investigator
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: observer
+  - order: 17
+    subdivisionIndex: 3
+    name: Celebration and Unseen Crisis
+    summary: The group celebrates a successful demo, unaware of the deeper crisis
+      brewing beneath the surface.
+    emotionAtStart: low
+    emotionAtEnd: high
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: camaraderie
+      - entityId: eb43b65d-cb57-41ea-827c-7bab43fd6de5
+        associationType: background event
+  - order: 18
+    subdivisionIndex: 4
+    name: Personal Lives and Motivations
+    summary: The nerd group’s personal lives and backgrounds are explored through
+      flashbacks and after-hours conversations, revealing motivations and
+      insecurities.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: 889b51b3-7193-417b-8065-fd676b6ce89c
+        associationType: object in conflict
+      - entityId: a654c308-1945-4b0e-989d-7ddc951f392c
+        associationType: background event
+  - order: 19
+    subdivisionIndex: 4
+    name: Past Betrayals and Internal Tensions
+    summary: Hints of past betrayals within the company surface, affecting current
+      relationships and fueling internal tensions.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: a654c308-1945-4b0e-989d-7ddc951f392c
+        associationType: background event
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+  - order: 20
+    subdivisionIndex: 4
+    name: Heated Argument Over Project Priorities
+    summary: Internal tensions flare during a heated argument over project
+      priorities, threatening to fracture the group.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: e03ac0c4-9da3-41dd-9b16-139bbf67949c
+        associationType: object in conflict
+      - entityId: 76f40ed8-96b1-4e73-9e01-d925fb13fc1c
+        associationType: internal tension
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+  - order: 21
+    subdivisionIndex: 4
+    name: Late-Night Troubleshooting Session
+    summary: A shared late-night troubleshooting session in the server room helps to
+      mend rifts and restore camaraderie.
+    emotionAtStart: very_low
+    emotionAtEnd: high
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: 0de115c4-589f-4bbb-8b54-a02d862b29e7
+        associationType: event
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: 1bc6541b-8405-4b40-a288-ed3c8fe1abc4
+        associationType: camaraderie
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+  - order: 22
+    subdivisionIndex: 4
+    name: The Mysterious Message
+    summary: The junior admin receives a mysterious message, setting the stage for
+      the inciting incident.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+        associationType: POV
+      - entityId: 4432f936-ac9d-4fe7-ae5c-f50683c73b01
+        associationType: object in conflict
+  - order: 23
+    subdivisionIndex: 5
+    name: Preparing for the System Upgrade
+    summary: The nerd group prepares for a major system upgrade, unaware that the
+      groundwork for the GPU theft is being laid.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: e651577d-4907-49ba-babe-b6533bc00c62
+        associationType: event
+      - entityId: eb43b65d-cb57-41ea-827c-7bab43fd6de5
+        associationType: background event
+  - order: 24
+    subdivisionIndex: 5
+    name: The Junior Admin’s Suspicious Actions
+    summary: The junior admin’s actions become increasingly suspicious as a series
+      of small anomalies—missing access logs, unexplained server reboots—go
+      largely unnoticed.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: 41a194ec-6fb0-48a6-b001-c8f17ca24fc6
+        associationType: POV
+      - entityId: 1ea10151-9d34-4a3b-aec4-854d2e62d168
+        associationType: object in conflict
+      - entityId: 3159cc1b-b84a-4226-a19e-ced6e18f5e58
+        associationType: object in conflict
+  - order: 25
+    subdivisionIndex: 5
+    name: Anomalies in the Server Room
+    summary: A series of small anomalies—missing access logs, unexplained server
+      reboots—occur in the server room, but the group is too focused on the
+      upgrade to notice.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: 1ea10151-9d34-4a3b-aec4-854d2e62d168
+        associationType: object in conflict
+      - entityId: 3159cc1b-b84a-4226-a19e-ced6e18f5e58
+        associationType: object in conflict
+  - order: 26
+    subdivisionIndex: 5
+    name: "Leaving the Office: False Security"
+    summary: The group leaves the office late at night, believing the server room is
+      secure, while the mastermind’s plan quietly moves into motion.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: f18250cf-0e41-4d39-8eea-270672b62dc1
+        associationType: POV
+      - entityId: ce1381ea-8be6-425f-adf5-0025da538911
+        associationType: location
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: antagonist
+  - order: 27
+    subdivisionIndex: 5
+    name: The Mastermind’s Plan Begins
+    summary: As the office empties, the mastermind’s plan for the GPU theft quietly
+      moves into motion, setting up the shocking discovery to come in Act 2.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 1800
+    associatedEntities:
+      - entityId: 41ea4d89-e203-4078-ac3d-68f3db47a1ca
+        associationType: POV
+      - entityId: eb43b65d-cb57-41ea-827c-7bab43fd6de5
+        associationType: background event
+      - entityId: ef3a70fc-6c78-4207-ac76-778d51dd1ea8
+        associationType: object in conflict
