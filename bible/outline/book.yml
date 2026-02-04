@@ -1,0 +1,40 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The nerd group is introduced at their IT consulting company,
+      highlighting their diverse personalities, technical skills, and close-knit
+      camaraderie. The company’s reliance on its AI infrastructure is
+      established, along with the importance of the GPUs in the server room. The
+      group’s daily routines and playful banter set the stage, while subtle
+      hints of underlying tensions and external pressures are woven in.
+    approximateNoOfWords: 25000
+  - index: 2
+    summary: The shocking discovery of the stolen GPUs throws the company into
+      chaos. The nerd group is tasked—officially and unofficially—with
+      investigating the theft. They begin gathering clues, interviewing
+      coworkers, and analyzing security footage. As suspicions mount and red
+      herrings emerge, the group’s unity is tested by stress, blame, and
+      conflicting theories.
+    approximateNoOfWords: 30000
+  - index: 3
+    summary: The investigation deepens as the nerds follow leads beyond the company,
+      encountering rival tech firms, black market dealers, and unexpected
+      allies. They face technical and ethical dilemmas, hacking into systems and
+      risking their jobs. Personal stakes rise as secrets within the group are
+      revealed, threatening friendships and the investigation itself.
+    approximateNoOfWords: 35000
+  - index: 4
+    summary: A breakthrough in the case leads the group to the mastermind behind the
+      theft. Tensions reach a boiling point as they orchestrate a risky plan to
+      recover the GPUs. The climax features a high-stakes confrontation,
+      blending technical prowess with teamwork and courage. The group must
+      overcome personal differences to succeed.
+    approximateNoOfWords: 35000
+  - index: 5
+    summary: In the aftermath, the nerd group reflects on their journey, the lessons
+      learned, and the changes in their relationships. The company recovers, and
+      the group’s reputation is cemented. Loose ends are tied up, with hints at
+      future adventures. The story closes on a note of renewed friendship and
+      optimism.
+    approximateNoOfWords: 25000
