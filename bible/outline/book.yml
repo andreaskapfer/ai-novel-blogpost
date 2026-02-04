@@ -3,38 +3,41 @@ outlineReference:
 subdivisions:
   - index: 1
     summary: The nerd group is introduced at their IT consulting company,
-      highlighting their diverse personalities, technical skills, and close-knit
-      camaraderie. The company’s reliance on its AI infrastructure is
-      established, along with the importance of the GPUs in the server room. The
-      group’s daily routines and playful banter set the stage, while subtle
-      hints of underlying tensions and external pressures are woven in.
+      highlighting their unique personalities, skills, and the camaraderie that
+      binds them. The company’s reliance on its AI infrastructure is
+      established, and the group’s daily routines are shown. The inciting
+      incident occurs when the team discovers that all the GPUs powering the AI
+      servers have been stolen, throwing the company into chaos and threatening
+      their jobs.
     approximateNoOfWords: 25000
   - index: 2
-    summary: The shocking discovery of the stolen GPUs throws the company into
-      chaos. The nerd group is tasked—officially and unofficially—with
-      investigating the theft. They begin gathering clues, interviewing
-      coworkers, and analyzing security footage. As suspicions mount and red
-      herrings emerge, the group’s unity is tested by stress, blame, and
-      conflicting theories.
-    approximateNoOfWords: 30000
+    summary: The group investigates the theft, uncovering clues and potential
+      suspects both inside and outside the company. Tensions rise as they face
+      obstacles from uncooperative colleagues, a suspicious manager, and
+      external competitors. The nerds must use their technical expertise and
+      creativity to follow leads, all while dealing with personal conflicts and
+      doubts about their ability to solve the mystery.
+    approximateNoOfWords: 35000
   - index: 3
-    summary: The investigation deepens as the nerds follow leads beyond the company,
-      encountering rival tech firms, black market dealers, and unexpected
-      allies. They face technical and ethical dilemmas, hacking into systems and
-      risking their jobs. Personal stakes rise as secrets within the group are
-      revealed, threatening friendships and the investigation itself.
-    approximateNoOfWords: 35000
+    summary: The investigation leads the group into the world of underground tech
+      markets and corporate espionage. They encounter hackers, rival companies,
+      and shady dealers, forcing them to step outside their comfort zones. As
+      they get closer to the truth, the stakes increase, and the group faces
+      threats to their safety and friendships. Key revelations about the
+      culprit’s motives and methods emerge.
+    approximateNoOfWords: 40000
   - index: 4
-    summary: A breakthrough in the case leads the group to the mastermind behind the
-      theft. Tensions reach a boiling point as they orchestrate a risky plan to
-      recover the GPUs. The climax features a high-stakes confrontation,
-      blending technical prowess with teamwork and courage. The group must
-      overcome personal differences to succeed.
-    approximateNoOfWords: 35000
+    summary: The nerds devise a risky plan to recover the stolen GPUs, coordinating
+      a sting operation with the help of unlikely allies. The plan unfolds with
+      unexpected twists, testing their trust in each other and their technical
+      prowess. The climax sees a confrontation with the mastermind behind the
+      theft, where the group must outwit and outmaneuver their adversary to save
+      the company’s future.
+    approximateNoOfWords: 30000
   - index: 5
-    summary: In the aftermath, the nerd group reflects on their journey, the lessons
+    summary: In the aftermath, the group reflects on their journey, the lessons
       learned, and the changes in their relationships. The company recovers, and
-      the group’s reputation is cemented. Loose ends are tied up, with hints at
-      future adventures. The story closes on a note of renewed friendship and
-      optimism.
-    approximateNoOfWords: 25000
+      the nerds are recognized for their efforts. Loose ends are tied up, with
+      hints at new challenges and adventures ahead, reaffirming the enduring
+      bond of friendship and teamwork.
+    approximateNoOfWords: 20000
