@@ -2,38 +2,43 @@ outlineReference:
   bibleLevel: book
 subdivisions:
   - index: 1
-    summary: The nerd group is introduced at the IT consulting company, showcasing
-      their personalities and skills. The company’s reliance on a
-      state-of-the-art AI infrastructure is established. An ordinary workday
-      turns chaotic when the group discovers that all the GPUs in the server
-      room have been stolen, threatening the company’s major projects and
-      contracts.
-    approximateNoOfWords: 30000
+    summary: The nerd group, a close-knit team of quirky IT consultants, is
+      introduced at their company, Quantum Solutions. As they navigate their
+      routine work lives, the company’s prized AI infrastructure is unveiled,
+      powered by a new array of high-end GPUs. The team’s camaraderie and
+      individual personalities are established, and subtle hints of corporate
+      rivalry and jealousy surface, foreshadowing coming conflict.
+    approximateNoOfWords: 25000
   - index: 2
-    summary: The nerds investigate the theft, uncovering clues that suggest the
-      involvement of an insider. Internal suspicions and paranoia grow as the
-      team navigates technical puzzles, office politics, and personal conflicts.
-      The group’s friendship is tested as they follow leads, encountering red
-      herrings and obstacles.
+    summary: Disaster strikes when the company’s server room is found ransacked and
+      the GPUs stolen. Chaos erupts within Quantum Solutions. The nerd group
+      grapples with the loss and the threat to their jobs. Suspicion falls on
+      various employees and external rivals. The group resolves to solve the
+      mystery themselves, forming a pact to recover the GPUs and clear their
+      names, setting out to investigate leads both within and outside the
+      company.
     approximateNoOfWords: 35000
   - index: 3
-    summary: The investigation points toward a rival company and a possible mole
-      within their own ranks. The nerd group launches a covert operation, using
-      their technical expertise to follow digital trails and infiltrate
-      competitor networks. High-stakes confrontations and clever hacking
-      sequences escalate the tension, while the group struggles to maintain
-      trust.
+    summary: "The nerd group embarks on a series of investigations, employing their
+      technical and social skills to uncover clues. They encounter obstacles:
+      misleading evidence, corporate espionage, personal betrayals, and
+      escalating threats. The group’s unity is tested as secrets are revealed
+      and tensions rise. Key breakthroughs emerge, including unexpected
+      alliances and the unmasking of a potential mole within the company."
     approximateNoOfWords: 40000
   - index: 4
-    summary: The nerd group uncovers the mole and orchestrates a daring plan to
-      recover the stolen GPUs. Facing personal and professional risks, they
-      execute a complex rescue mission, outwitting the antagonists. The team’s
-      unity and ingenuity are put to the ultimate test in a climactic
-      confrontation.
+    summary: With time running out, the nerds close in on the culprits,
+      orchestrating a daring digital and physical sting operation. The group
+      confronts the thieves in a high-stakes showdown that combines hacking
+      prowess and real-world courage. The stolen GPUs are recovered, and the
+      true motivations behind the theft are revealed, implicating surprising
+      figures and exposing deeper issues within the company.
     approximateNoOfWords: 30000
   - index: 5
-    summary: With the GPUs restored, the company celebrates. The nerd group reflects
-      on how the ordeal strengthened their bonds and changed their perspectives.
-      Loose ends are tied up as the team prepares for new challenges, hinting at
-      future adventures together.
-    approximateNoOfWords: 15000
+    summary: In the aftermath, the nerd group reflects on their journey and the
+      changes at Quantum Solutions. Relationships are mended or altered, and the
+      team’s reputation is restored. The company implements new security
+      measures, and the nerds are celebrated for their ingenuity and bravery.
+      The novel closes with the group looking forward to new challenges, their
+      friendship stronger than ever.
+    approximateNoOfWords: 20000
