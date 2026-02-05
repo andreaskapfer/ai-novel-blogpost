@@ -1,0 +1,367 @@
+beatSheetReference:
+  bibleLevel: book
+entities:
+  - id: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+    displayName: nerd group
+    kind: group
+    description: A group of IT professionals with unique personalities and skills,
+      working together at an IT consulting company.
+  - id: 03ad8331-ed8b-47a0-b733-72d3690f5b77
+    displayName: IT consulting firm
+    kind: location
+    description: The company where the main characters work, serving as the primary
+      setting for the story.
+  - id: b92cd67f-e65e-42ef-9650-bde78d04b1fd
+    displayName: server room
+    kind: location
+    description: A secure room in the company where servers and GPUs are kept; the
+      site of the theft.
+  - id: e6bc7e89-37f1-4fc2-9e79-1c4df646beb1
+    displayName: GPU
+    kind: item
+    description: Graphics Processing Units stolen from the server room, central to
+      the mystery.
+  - id: 5cae6890-310b-42e2-bf83-23f59b3158e3
+    displayName: AI infrastructure
+    kind: concept
+    description: The company's state-of-the-art artificial intelligence computing
+      system that powers their major projects.
+  - id: 118cdff6-7ad0-45e4-a547-888248cbfda4
+    displayName: GPU theft
+    kind: backgroundEvent
+    description: The major incident where all GPUs were stolen from the server room,
+      threatening the company's operations.
+  - id: 170d9e4c-e9b0-4e43-95d7-69b2951dda12
+    displayName: insider
+    kind: character
+    description: An unidentified person within the company suspected of being
+      involved in the GPU theft.
+  - id: 2f98db06-931f-4c8f-bb4e-7fae18b3b532
+    displayName: office politics
+    kind: concept
+    description: The internal power dynamics, conflicts, and interpersonal tensions
+      within the workplace.
+  - id: e0643f68-25e3-4498-b2b7-348680d7d07f
+    displayName: mole
+    kind: character
+    description: A spy within the nerd group's own ranks working for the rival company.
+  - id: 789c59f6-c8c5-4916-9180-f4257e67e9d5
+    displayName: competitors
+    kind: group
+    description: Rival companies or individuals suspected of involvement in the GPU theft.
+  - id: f0be40cd-d0d9-4cea-b399-4c1c502dc273
+    displayName: competitor networks
+    kind: location
+    description: Digital systems and networks belonging to rival companies that the
+      nerd group infiltrates during their investigation.
+  - id: 24977a65-8ec4-4fd1-8834-6c34991a3136
+    displayName: digital trails
+    kind: concept
+    description: Electronic evidence and footprints left behind in computer systems
+      that the nerds follow to uncover the truth.
+  - id: 05db50c6-2616-4e39-ad2f-9600941e5f75
+    displayName: antagonists
+    kind: group
+    description: The individuals or group responsible for stealing the GPUs and
+      opposing the nerd group.
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: "Opening Image: The Nerds at Work"
+    summary: The nerd group is introduced at the IT consulting firm, each member
+      displaying their unique quirks and technical prowess as they interact in
+      the bustling office environment.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 03ad8331-ed8b-47a0-b733-72d3690f5b77
+        associationType: location
+  - order: 2
+    subdivisionIndex: 1
+    name: "Establishing the Stakes: AI Infrastructure"
+    summary: The company's reliance on its advanced AI infrastructure is
+      highlighted, with the nerd group maintaining and optimizing the system for
+      critical projects.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 5cae6890-310b-42e2-bf83-23f59b3158e3
+        associationType: object in use
+      - entityId: 03ad8331-ed8b-47a0-b733-72d3690f5b77
+        associationType: location
+  - order: 3
+    subdivisionIndex: 1
+    name: A Normal Day Turns Chaotic
+    summary: An ordinary workday is disrupted when the nerd group discovers
+      something is wrong with the server room. Alarms sound and confusion
+      spreads through the office.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: b92cd67f-e65e-42ef-9650-bde78d04b1fd
+        associationType: location
+      - entityId: 03ad8331-ed8b-47a0-b733-72d3690f5b77
+        associationType: location
+  - order: 4
+    subdivisionIndex: 1
+    name: "The Discovery: GPU Theft"
+    summary: The nerd group enters the server room and finds all the GPUs missing.
+      Panic sets in as the scale of the theft becomes clear, threatening the
+      company's future.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: b92cd67f-e65e-42ef-9650-bde78d04b1fd
+        associationType: location
+      - entityId: e6bc7e89-37f1-4fc2-9e79-1c4df646beb1
+        associationType: object in conflict
+      - entityId: 118cdff6-7ad0-45e4-a547-888248cbfda4
+        associationType: background event
+  - order: 5
+    subdivisionIndex: 1
+    name: "Aftermath: The Company in Crisis"
+    summary: The company reels from the loss, with leadership demanding answers and
+      the nerd group feeling the weight of responsibility as major projects are
+      jeopardized.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 03ad8331-ed8b-47a0-b733-72d3690f5b77
+        associationType: location
+      - entityId: 118cdff6-7ad0-45e4-a547-888248cbfda4
+        associationType: background event
+  - order: 6
+    subdivisionIndex: 2
+    name: Launching the Investigation
+    summary: The nerd group regroups and begins investigating the GPU theft,
+      reviewing security footage and system logs for clues.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: e6bc7e89-37f1-4fc2-9e79-1c4df646beb1
+        associationType: object in conflict
+      - entityId: 118cdff6-7ad0-45e4-a547-888248cbfda4
+        associationType: background event
+  - order: 7
+    subdivisionIndex: 2
+    name: Clues and Suspicions
+    summary: The team uncovers evidence suggesting the theft was an inside job.
+      Suspicion falls on several employees, and paranoia begins to spread.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 170d9e4c-e9b0-4e43-95d7-69b2951dda12
+        associationType: suspect
+      - entityId: 2f98db06-931f-4c8f-bb4e-7fae18b3b532
+        associationType: concept
+  - order: 8
+    subdivisionIndex: 2
+    name: Technical Puzzles and Office Politics
+    summary: As the nerds follow technical leads, they must also navigate the
+      treacherous waters of office politics, with alliances shifting and tempers
+      flaring.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 2f98db06-931f-4c8f-bb4e-7fae18b3b532
+        associationType: concept
+      - entityId: 03ad8331-ed8b-47a0-b733-72d3690f5b77
+        associationType: location
+  - order: 9
+    subdivisionIndex: 2
+    name: Friendship Tested
+    summary: Personal conflicts erupt within the group as stress mounts, threatening
+      to fracture their friendship and undermine the investigation.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 2f98db06-931f-4c8f-bb4e-7fae18b3b532
+        associationType: concept
+  - order: 10
+    subdivisionIndex: 2
+    name: Red Herrings and Obstacles
+    summary: The nerds chase false leads and encounter unexpected obstacles, forcing
+      them to rethink their approach and question their assumptions.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+  - order: 11
+    subdivisionIndex: 3
+    name: The Rival Revealed
+    summary: The investigation points toward a rival company, and the nerd group
+      suspects a mole within their own ranks.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 789c59f6-c8c5-4916-9180-f4257e67e9d5
+        associationType: antagonist
+      - entityId: e0643f68-25e3-4498-b2b7-348680d7d07f
+        associationType: suspect
+  - order: 12
+    subdivisionIndex: 3
+    name: Digital Trails
+    summary: The nerd group follows digital trails, using their technical expertise
+      to track the stolen GPUs through cyberspace.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 24977a65-8ec4-4fd1-8834-6c34991a3136
+        associationType: object in use
+      - entityId: e6bc7e89-37f1-4fc2-9e79-1c4df646beb1
+        associationType: object in conflict
+  - order: 13
+    subdivisionIndex: 3
+    name: Infiltrating Competitor Networks
+    summary: The nerds launch a covert operation to infiltrate competitor networks,
+      facing digital defenses and high-stakes risks.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: f0be40cd-d0d9-4cea-b399-4c1c502dc273
+        associationType: location
+      - entityId: 789c59f6-c8c5-4916-9180-f4257e67e9d5
+        associationType: antagonist
+  - order: 14
+    subdivisionIndex: 3
+    name: Trust on the Brink
+    summary: Tensions rise as the group struggles to maintain trust, suspecting one
+      of their own may be the mole.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: e0643f68-25e3-4498-b2b7-348680d7d07f
+        associationType: suspect
+  - order: 15
+    subdivisionIndex: 4
+    name: The Mole Unmasked
+    summary: The nerd group uncovers the identity of the mole, confronting the
+      traitor and piecing together the full scope of the plot.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: e0643f68-25e3-4498-b2b7-348680d7d07f
+        associationType: antagonist
+  - order: 16
+    subdivisionIndex: 4
+    name: Planning the Rescue
+    summary: The group devises a daring plan to recover the stolen GPUs, weighing
+      personal and professional risks.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: e6bc7e89-37f1-4fc2-9e79-1c4df646beb1
+        associationType: object in conflict
+  - order: 17
+    subdivisionIndex: 4
+    name: The Rescue Mission
+    summary: The nerd group executes their complex rescue mission, outwitting the
+      antagonists and retrieving the GPUs in a tense confrontation.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 9000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 05db50c6-2616-4e39-ad2f-9600941e5f75
+        associationType: antagonist
+      - entityId: e6bc7e89-37f1-4fc2-9e79-1c4df646beb1
+        associationType: object in conflict
+  - order: 18
+    subdivisionIndex: 4
+    name: Climactic Confrontation
+    summary: The team’s unity and ingenuity are put to the ultimate test in a final
+      showdown with the antagonists, risking everything to save the company.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 9000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 05db50c6-2616-4e39-ad2f-9600941e5f75
+        associationType: antagonist
+  - order: 19
+    subdivisionIndex: 5
+    name: Restoration and Celebration
+    summary: With the GPUs restored, the company celebrates its survival. The nerd
+      group is recognized for their heroism and technical brilliance.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+      - entityId: 03ad8331-ed8b-47a0-b733-72d3690f5b77
+        associationType: location
+      - entityId: e6bc7e89-37f1-4fc2-9e79-1c4df646beb1
+        associationType: object in use
+  - order: 20
+    subdivisionIndex: 5
+    name: Reflections and New Perspectives
+    summary: The nerd group reflects on how the ordeal has changed them,
+      strengthening their bonds and shifting their outlook on work and
+      friendship.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
+  - order: 21
+    subdivisionIndex: 5
+    name: Loose Ends and Future Adventures
+    summary: Loose ends are tied up as the team prepares for new challenges, hinting
+      at future adventures together.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 52306fa4-c3d0-4d60-801d-5b5c751fa8ab
+        associationType: POV
