@@ -1,239 +1,340 @@
 beatSheetReference:
   bibleLevel: book
-entities: []
+entities:
+  - id: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+    displayName: Nerd Group
+    kind: group
+    description: An eclectic team of IT consultants at ByteWorks, each with unique
+      technical skills and personalities.
+  - id: a2b2c3d4-2c3d-4e5f-8a1b-2b3c4d5e6f7a
+    displayName: ByteWorks
+    kind: location
+    description: A cutting-edge tech company specializing in AI infrastructure,
+      where the nerd group works.
+  - id: b3c3d4e5-3d4e-5f6a-9b2c-3c4d5e6f7a8b
+    displayName: GPUs
+    kind: item
+    description: Powerful graphics processing units essential to ByteWorks' AI
+      infrastructure, and the object of the central theft.
+  - id: d4e4f5a6-4e5f-6a7b-0c3d-4d5e6f7a8b9c
+    displayName: Management
+    kind: group
+    description: The executive and managerial staff at ByteWorks, concerned with the
+      company's reputation and stability.
+  - id: e5f5a6b7-5f6a-7b8c-1d4e-5e6f7a8b9c0d
+    displayName: Rivals
+    kind: group
+    description: External competitors in the tech industry, some of whom are
+      implicated in the GPU theft.
+  - id: f6a6b7c8-6a7b-8c9d-2e5f-6f7a8b9c0d1e
+    displayName: Hackers
+    kind: group
+    description: A shadowy group of tech-savvy adversaries encountered during the
+      investigation.
+  - id: a7b7c8d9-7b8c-9d0e-3f6a-7a8b9c0d1e2f
+    displayName: Conspiracy
+    kind: concept
+    description: A hidden network of corporate espionage and sabotage targeting ByteWorks.
 beats:
   - order: 1
     subdivisionIndex: 1
-    name: "Opening Image: ByteWorks and the Nerd Group"
-    summary: The eclectic team of IT consultants, known as the nerd group, is
-      introduced at ByteWorks. Their personalities, quirks, and the vibrant
-      workplace culture are established as they interact with each other and
-      their AI infrastructure.
+    name: "Opening Image: The Nerd Group at ByteWorks"
+    summary: The nerd group is introduced at ByteWorks, showcasing their diverse
+      personalities and technical prowess as they collaborate on AI
+      infrastructure.
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: a2b2c3d4-2c3d-4e5f-8a1b-2b3c4d5e6f7a
+        associationType: location
   - order: 2
     subdivisionIndex: 1
-    name: Passion and Rivalry
-    summary: The nerd group's passion for building and maintaining ByteWorks' AI
-      infrastructure is highlighted. Subtle hints of rivalry within the company
-      and with external competitors emerge during brainstorming sessions and
-      casual conversations.
+    name: Establishing Dynamics
+    summary: Interpersonal relationships and rivalries within the nerd group are
+      revealed as they banter and compete, highlighting both camaraderie and
+      tension.
     emotionAtStart: high
     emotionAtEnd: neutral
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: group dynamic
   - order: 3
     subdivisionIndex: 1
-    name: Dependence on GPUs
-    summary: The company's reliance on powerful GPUs is showcased as the nerd group
-      discusses upcoming projects and the critical role of hardware in their
-      success.
+    name: The Heart of ByteWorks
+    summary: The group’s passion for building and maintaining ByteWorks’ AI
+      infrastructure is showcased, emphasizing the importance of GPUs to their
+      work.
     emotionAtStart: neutral
-    emotionAtEnd: neutral
+    emotionAtEnd: high
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: a2b2c3d4-2c3d-4e5f-8a1b-2b3c4d5e6f7a
+        associationType: location
+      - entityId: b3c3d4e5-3d4e-5f6a-9b2c-3c4d5e6f7a8b
+        associationType: object of importance
   - order: 4
     subdivisionIndex: 1
-    name: Interpersonal Dynamics
-    summary: The interpersonal dynamics among the nerd group are explored, revealing
-      alliances, friendly banter, and underlying tensions that foreshadow future
-      conflicts.
-    emotionAtStart: neutral
+    name: Foreshadowing Trouble
+    summary: Hints of rivalry within ByteWorks and with external competitors are
+      introduced, setting up future conflict.
+    emotionAtStart: high
     emotionAtEnd: low
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: d4e4f5a6-4e5f-6a7b-0c3d-4d5e6f7a8b9c
+        associationType: antagonist
+      - entityId: e5f5a6b7-5f6a-7b8c-1d4e-5e6f7a8b9c0d
+        associationType: antagonist
   - order: 5
     subdivisionIndex: 1
-    name: Foreshadowing Trouble
-    summary: Hints of trouble ahead are woven into the daily routines, with subtle
-      signs of rivalry and unease as the group senses that not everything is as
-      stable as it seems at ByteWorks.
+    name: Inciting Incident Looms
+    summary: The company’s reliance on GPUs is underscored, and subtle signs of
+      impending disruption are woven into the workplace routine.
     emotionAtStart: low
     emotionAtEnd: neutral
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: a2b2c3d4-2c3d-4e5f-8a1b-2b3c4d5e6f7a
+        associationType: location
+      - entityId: b3c3d4e5-3d4e-5f6a-9b2c-3c4d5e6f7a8b
+        associationType: object in conflict
   - order: 6
     subdivisionIndex: 2
-    name: The Missing GPUs Discovered
-    summary: The nerd group is shocked to discover that the company’s GPUs are
-      missing, throwing ByteWorks into chaos and threatening the future of their
-      projects.
+    name: Theft Discovered
+    summary: The nerd group discovers the GPUs are missing, plunging ByteWorks into
+      chaos and fear of collapse.
     emotionAtStart: neutral
     emotionAtEnd: very_low
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: a2b2c3d4-2c3d-4e5f-8a1b-2b3c4d5e6f7a
+        associationType: location
+      - entityId: b3c3d4e5-3d4e-5f6a-9b2c-3c4d5e6f7a8b
+        associationType: object in conflict
   - order: 7
     subdivisionIndex: 2
-    name: Devastation and Resolve
-    summary: Devastated by the loss and the threat of company collapse, the nerd
-      group decides to take matters into their own hands and investigate the
-      theft.
+    name: Decision to Investigate
+    summary: Devastated by the theft and threatened by potential collapse, the nerd
+      group resolves to investigate the missing GPUs themselves.
     emotionAtStart: very_low
     emotionAtEnd: low
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
   - order: 8
     subdivisionIndex: 2
     name: Clues and Suspicions
-    summary: The group uncovers a series of suspicious activities, piecing together
-      clues and forming initial theories about the theft.
+    summary: The group uncovers suspicious activities, interviews colleagues, and
+      begins to suspect both internal and external actors.
     emotionAtStart: low
     emotionAtEnd: neutral
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: d4e4f5a6-4e5f-6a7b-0c3d-4d5e6f7a8b9c
+        associationType: antagonist
+      - entityId: e5f5a6b7-5f6a-7b8c-1d4e-5e6f7a8b9c0d
+        associationType: antagonist
   - order: 9
     subdivisionIndex: 2
     name: Clash with Management
-    summary: The nerds clash with ByteWorks management, who are eager to avoid
-      scandal and resist the group’s investigation, increasing the tension
-      within the company.
+    summary: The nerd group’s investigation brings them into conflict with ByteWorks
+      management, who want to avoid scandal.
     emotionAtStart: neutral
     emotionAtEnd: low
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: d4e4f5a6-4e5f-6a7b-0c3d-4d5e6f7a8b9c
+        associationType: antagonist
   - order: 10
     subdivisionIndex: 2
     name: Trust Tested
     summary: Tensions rise within the group as trust is tested and each member’s
-      strengths and weaknesses are exposed during the investigation.
+      strengths and weaknesses are exposed.
     emotionAtStart: low
     emotionAtEnd: neutral
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: group dynamic
   - order: 11
     subdivisionIndex: 3
     name: Expanding the Investigation
-    summary: The nerd group takes their investigation outside ByteWorks, venturing
-      into the broader tech community in search of leads.
+    summary: The nerd group follows leads outside ByteWorks, venturing into the
+      broader tech community.
     emotionAtStart: neutral
     emotionAtEnd: low
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: e5f5a6b7-5f6a-7b8c-1d4e-5e6f7a8b9c0d
+        associationType: antagonist
   - order: 12
     subdivisionIndex: 3
-    name: Encounters with Rivals and Hackers
-    summary: The group encounters rivals, hackers, and enigmatic figures, facing new
-      challenges and gathering information about the conspiracy.
-    emotionAtStart: low
-    emotionAtEnd: neutral
-    approximateNoOfWords: 6000
-    associatedEntities: []
-  - order: 13
-    subdivisionIndex: 3
-    name: Unraveling the Conspiracy
-    summary: As they dig deeper, the nerds unravel a conspiracy involving corporate
-      espionage and a shadowy competitor.
-    emotionAtStart: neutral
-    emotionAtEnd: high
-    approximateNoOfWords: 6000
-    associatedEntities: []
-  - order: 14
-    subdivisionIndex: 3
-    name: Technical Expertise in Action
-    summary: The group uses their technical expertise to outsmart adversaries,
-      infiltrate secure locations, and recover crucial evidence.
-    emotionAtStart: high
-    emotionAtEnd: neutral
-    approximateNoOfWords: 6000
-    associatedEntities: []
-  - order: 15
-    subdivisionIndex: 3
-    name: Personal Setbacks and Doubt
-    summary: Personal setbacks and moments of doubt challenge the nerds, but they
-      push forward, determined to solve the mystery.
-    emotionAtStart: neutral
-    emotionAtEnd: low
-    approximateNoOfWords: 6000
-    associatedEntities: []
-  - order: 16
-    subdivisionIndex: 4
-    name: Direct Threats
-    summary: The stakes escalate as the group faces direct threats from those behind
-      the conspiracy, forcing them to confront danger head-on.
+    name: Encountering Hackers
+    summary: The group encounters hackers and enigmatic figures, facing new threats
+      and cryptic warnings.
     emotionAtStart: low
     emotionAtEnd: very_low
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: f6a6b7c8-6a7b-8c9d-2e5f-6f7a8b9c0d1e
+        associationType: antagonist
+  - order: 13
+    subdivisionIndex: 3
+    name: Unraveling the Conspiracy
+    summary: The nerds uncover a conspiracy involving corporate espionage and a
+      shadowy competitor.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: a7b7c8d9-7b8c-9d0e-3f6a-7a8b9c0d1e2f
+        associationType: object in conflict
+  - order: 14
+    subdivisionIndex: 3
+    name: Technical Showdown
+    summary: Using their expertise, the nerds outsmart adversaries, infiltrate
+      secure locations, and recover crucial evidence.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: f6a6b7c8-6a7b-8c9d-2e5f-6f7a8b9c0d1e
+        associationType: antagonist
+      - entityId: e5f5a6b7-5f6a-7b8c-1d4e-5e6f7a8b9c0d
+        associationType: antagonist
+  - order: 15
+    subdivisionIndex: 3
+    name: Personal Setbacks
+    summary: The group faces personal setbacks and moments of doubt as the
+      investigation takes its toll.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: group dynamic
+  - order: 16
+    subdivisionIndex: 4
+    name: Direct Threats
+    summary: The group faces direct threats from those behind the conspiracy,
+      escalating the stakes.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: a7b7c8d9-7b8c-9d0e-3f6a-7a8b9c0d1e2f
+        associationType: antagonist
   - order: 17
     subdivisionIndex: 4
-    name: The Final Confrontation
-    summary: The nerds are forced into a final confrontation, using their collective
-      skills in a high-stakes digital and real-world showdown.
+    name: Final Confrontation
+    summary: The nerds use their collective skills in a high-stakes digital and
+      real-world showdown against the conspirators.
     emotionAtStart: very_low
     emotionAtEnd: high
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: a7b7c8d9-7b8c-9d0e-3f6a-7a8b9c0d1e2f
+        associationType: antagonist
   - order: 18
     subdivisionIndex: 4
-    name: Loyalties and Teamwork
-    summary: Loyalties are tested, and the nerds must overcome internal divisions to
-      act as a true team in the face of adversity.
+    name: Loyalties Tested
+    summary: Internal divisions threaten the group, but they overcome differences to
+      act as a true team.
     emotionAtStart: high
-    emotionAtEnd: neutral
+    emotionAtEnd: very_high
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: group dynamic
   - order: 19
     subdivisionIndex: 4
     name: Truth Revealed
-    summary: The truth behind the stolen GPUs is revealed, exposing the company’s
+    summary: The truth behind the stolen GPUs is revealed, exposing ByteWorks’
       rivals and corrupt insiders.
-    emotionAtStart: neutral
+    emotionAtStart: very_high
     emotionAtEnd: high
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: b3c3d4e5-3d4e-5f6a-9b2c-3c4d5e6f7a8b
+        associationType: object of importance
+      - entityId: e5f5a6b7-5f6a-7b8c-1d4e-5e6f7a8b9c0d
+        associationType: antagonist
+      - entityId: d4e4f5a6-4e5f-6a7b-0c3d-4d5e6f7a8b9c
+        associationType: antagonist
   - order: 20
-    subdivisionIndex: 4
-    name: Resolution of the Conspiracy
-    summary: With the conspiracy unraveled, ByteWorks begins to recover, and the
-      nerd group reflects on their victory and the cost of their journey.
+    subdivisionIndex: 5
+    name: Aftermath
+    summary: With the mystery resolved, the nerd group reflects on their journey and
+      how it has changed them.
     emotionAtStart: high
     emotionAtEnd: neutral
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
   - order: 21
     subdivisionIndex: 5
-    name: Aftermath and Reflection
-    summary: With the mystery resolved, the nerd group reflects on their journey,
-      the changes in their relationships, and the lessons learned.
+    name: New Futures
+    summary: Relationships are strengthened or altered, and ByteWorks faces a new
+      future.
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: group dynamic
+      - entityId: a2b2c3d4-2c3d-4e5f-8a1b-2b3c4d5e6f7a
+        associationType: location
   - order: 22
     subdivisionIndex: 5
-    name: ByteWorks’ New Future
-    summary: ByteWorks faces a new future as the group’s actions lead to both
-      rewards and consequences for the company and its employees.
+    name: Rewards and Consequences
+    summary: The group’s actions lead to both rewards and consequences, as ByteWorks
+      and its employees adjust to the fallout.
     emotionAtStart: high
     emotionAtEnd: neutral
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
+      - entityId: a2b2c3d4-2c3d-4e5f-8a1b-2b3c4d5e6f7a
+        associationType: location
   - order: 23
     subdivisionIndex: 5
-    name: Relationships Strengthened or Altered
-    summary: The nerd group’s relationships are strengthened or altered as they
-      process the events and look to the future.
-    emotionAtStart: neutral
-    emotionAtEnd: high
-    approximateNoOfWords: 6000
-    associatedEntities: []
-  - order: 24
-    subdivisionIndex: 5
-    name: Considering New Challenges
-    summary: The group considers the next challenges on the horizon, hinting at
+    name: Looking Ahead
+    summary: The nerd group considers the next challenges on the horizon, hinting at
       future adventures together.
-    emotionAtStart: high
-    emotionAtEnd: neutral
-    approximateNoOfWords: 6000
-    associatedEntities: []
-  - order: 25
-    subdivisionIndex: 5
-    name: "Closing Image: United Nerds"
-    summary: The novel closes with the nerd group united, ready to face whatever
-      comes next, their bond stronger than ever.
     emotionAtStart: neutral
     emotionAtEnd: high
     approximateNoOfWords: 6000
-    associatedEntities: []
+    associatedEntities:
+      - entityId: c1e1a8b2-1b2e-4c3f-9d1a-1a2b3c4d5e6f
+        associationType: POV
