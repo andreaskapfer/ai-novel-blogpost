@@ -3,45 +3,43 @@ outlineReference:
   act: 1
 subdivisions:
   - index: 1
-    summary: The novel opens with an energetic introduction to the IT consulting
-      company’s quirky workplace. Each member of the nerd group is vividly
-      portrayed through their unique work habits, technical specialties, and
-      playful banter—a tabletop RPG game at lunch, a code war challenge, and an
-      ongoing debate over operating systems. Management pressures mount as the
-      team is tasked with final preparations for an ambitious AI product launch,
-      highlighting the critical role of the company’s state-of-the-art GPUs.
-      Subtle rivalries and alliances are established, setting the stage for
-      future conflicts.
+    summary: The novel opens with the introduction of the nerd group, each member
+      arriving at the IT consulting company and establishing their unique quirks
+      and technical prowess. The work environment is revealed through playful
+      banter, showcasing their camaraderie, but also hinting at underlying
+      rivalries. The company’s prized AI infrastructure, powered by a set of
+      GPUs stored in the secure server room, is introduced as essential for the
+      upcoming product launch. Management’s expectations and the mounting
+      pressure are made clear in a tense all-hands meeting, setting the stakes
+      high for the group.
     approximateNoOfWords: 7500
   - index: 2
-    summary: The story delves into the company’s AI infrastructure, focusing on the
-      server room where the prized GPUs reside. Security protocols are
-      demonstrated as the group undertakes a scheduled maintenance session,
-      revealing both the sophistication of the systems and a few overlooked
-      vulnerabilities. Tensions flare as management scrutinizes the nerds’
-      preparations, and we glimpse the group’s coping strategies under
-      pressure—late-night debugging sessions, caffeine-fueled brainstorming, and
-      mutual support. The looming product launch amplifies the stakes for
-      everyone involved.
+    summary: The daily routines of the nerd group unfold, revealing both their
+      personal dynamics and professional routines. Key relationships and
+      rivalries are deepened, with individual members handling technical crises,
+      helping coworkers, and engaging in friendly competitions. The group is
+      shown collaborating on AI projects and troubleshooting issues, while
+      management frequently checks in to remind them of the product launch
+      deadline. Subtle hints of security vulnerabilities and unusual activity
+      near the server room foreshadow coming trouble.
     approximateNoOfWords: 7500
   - index: 3
-    summary: Interpersonal dynamics deepen as the nerd group navigates daily
-      routines and minor crises—helping coworkers recover lost data,
-      troubleshooting a network outage, and handling a difficult client call.
-      Subtle hints of internal rivalries emerge, especially between the team's
-      lead programmer and the systems architect. Management’s expectations
-      intensify, with veiled warnings about the consequences of failure.
-      Meanwhile, lighthearted moments—an office prank war, shared meals, and
-      after-hours gaming—emphasize the group’s camaraderie and diverse
-      personalities.
+    summary: "A tour for a prospective client brings the group together in the
+      server room, where the importance of the GPUs is highlighted. During the
+      demonstration, one member notices a minor anomaly in the server’s
+      monitoring dashboard, but it is dismissed as a glitch. Tensions simmer
+      beneath the surface as management pushes for perfection, and individual
+      ambitions and insecurities begin to surface. The act closes with a subtle
+      but ominous event: a mysterious outsider is briefly spotted near the
+      restricted area, setting the stage for the inciting incident."
     approximateNoOfWords: 7500
   - index: 4
-    summary: As the product launch draws near, the nerd group’s stress levels peak.
-      A surprise visit from upper management adds new urgency, prompting a
-      round-the-clock push to optimize the AI infrastructure. The team discovers
-      a minor anomaly in the server room’s logs, which they dismiss as a glitch
-      but subtly foreshadows coming trouble. The act climaxes with a celebratory
-      pre-launch event, where the group’s unity is on full display, but a sense
-      of unease lingers beneath the surface as the company’s future—and the
-      GPUs—hang in the balance.
+    summary: After hours, the nerd group unwinds in the break room, engaging in
+      late-night coding sessions and more personal conversations that reveal
+      glimpses of their private lives. A friendly debate escalates into a heated
+      rivalry, but is quickly diffused by a group challenge to optimize a minor
+      AI process. As the night winds down, one member receives an anonymous
+      cryptic message hinting at a security risk. The chapter ends with the
+      group leaving the office, unaware of the coming disaster and the
+      vulnerabilities left exposed.
     approximateNoOfWords: 7500
