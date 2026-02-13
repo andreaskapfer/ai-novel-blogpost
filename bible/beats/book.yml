@@ -198,6 +198,8 @@ beats:
         associationType: used
       - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
         associationType: opponent
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: object in conflict
   - order: 12
     subdivisionIndex: 3
     name: "Race Against Time: Online and Real-World Maneuvers"
@@ -214,6 +216,8 @@ beats:
         associationType: applied
       - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
         associationType: adversary
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: destination
   - order: 13
     subdivisionIndex: 3
     name: "Confronting Danger: Following the Trail"
@@ -322,6 +326,8 @@ beats:
         associationType: reflective
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: setting
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: theme
   - order: 20
     subdivisionIndex: 5
     name: "A Stronger Team: Looking to the Future"
