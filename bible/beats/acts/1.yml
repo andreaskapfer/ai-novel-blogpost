@@ -102,6 +102,8 @@ beats:
         associationType: location
       - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
         associationType: missing
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: messenger
   - order: 5
     subdivisionIndex: 1
     name: Initial Chaos and Company Fallout
@@ -160,6 +162,8 @@ beats:
         associationType: location_of_crime
       - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
         associationType: missing_item
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: present
   - order: 8
     subdivisionIndex: 2
     name: Reviewing Security Footage
@@ -176,6 +180,8 @@ beats:
         associationType: analyzes
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: location_of_surveillance
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: evidence
   - order: 9
     subdivisionIndex: 2
     name: Diverging Theories
@@ -208,6 +214,10 @@ beats:
         associationType: organizes
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: location_of_suspects
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: suspect_list
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: object_of_focus
   - order: 11
     subdivisionIndex: 2
     name: The Janitor’s Odd Behavior
@@ -224,6 +234,8 @@ beats:
         associationType: investigates
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: location_of_suspicion
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: subject_of_investigation
   - order: 12
     subdivisionIndex: 2
     name: Seeds of Suspicion Within
@@ -242,6 +254,8 @@ beats:
         associationType: potential_betrayer
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: location_of_confrontation
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: missing_item
   - order: 13
     subdivisionIndex: 3
     name: Initiating the Digital Hunt
@@ -261,6 +275,8 @@ beats:
         associationType: setting
       - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
         associationType: method
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: evidence
   - order: 14
     subdivisionIndex: 3
     name: Uncovering the Suspicious Log-In
@@ -278,6 +294,8 @@ beats:
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: location
       - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: evidence
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
         associationType: evidence
   - order: 15
     subdivisionIndex: 3
@@ -297,6 +315,8 @@ beats:
         associationType: technique
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: workplace
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: evidence
   - order: 16
     subdivisionIndex: 3
     name: Personal Dynamics Surface
@@ -348,6 +368,8 @@ beats:
         associationType: tool
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: setting
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: object_of_focus
   - order: 19
     subdivisionIndex: 4
     name: Management Crackdown
@@ -411,6 +433,8 @@ beats:
         associationType: location
       - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
         associationType: target_of_theft
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: suspect
   - order: 23
     subdivisionIndex: 4
     name: Unseen Eyes
@@ -474,6 +498,8 @@ beats:
         associationType: focus
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: setting
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: object_of_focus
   - order: 27
     subdivisionIndex: 5
     name: Seeds of Doubt
@@ -508,3 +534,5 @@ beats:
         associationType: antagonist
       - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
         associationType: setting
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: threat
