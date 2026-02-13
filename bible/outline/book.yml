@@ -2,45 +2,43 @@ outlineReference:
   bibleLevel: book
 subdivisions:
   - index: 1
-    summary: The story opens by introducing the main characters—a diverse group of
-      nerds working in an IT consulting firm. The company is bustling with
-      energy as they prepare for a major AI project launch. Tensions and
-      friendships are established, giving insight into each character’s skills,
-      quirks, and interpersonal dynamics. The inciting incident occurs when the
-      team discovers that all the GPUs powering their AI infrastructure have
-      vanished from the server room, plunging the company into chaos and putting
-      their project at risk.
-    approximateNoOfWords: 25000
+    summary: The nerd group, a tight-knit team of IT consultants, is introduced
+      alongside their unique personalities, work environment, and company
+      culture. The company’s AI projects and reliance on high-powered GPUs are
+      established, along with the group’s camaraderie and subtle rivalries. The
+      inciting incident occurs when the team discovers that all the GPUs in the
+      server room have been stolen, threatening the future of their AI work and
+      the company’s reputation.
+    approximateNoOfWords: 20000
   - index: 2
-    summary: Shocked and desperate, the group takes it upon themselves to
-      investigate the theft. They navigate internal office politics, deal with
-      skeptical management, and follow a trail of clues that lead them to
-      suspect both internal and external culprits. The act explores the
-      strengths and weaknesses of the group, and tests their friendship as
-      pressure mounts. Their investigation uncovers surprising secrets about the
-      company and its competitors.
+    summary: "The group launches an internal investigation, dividing roles based on
+      individual skills: coding, hardware, social engineering, and digital
+      forensics. They face initial setbacks—uncooperative colleagues, missing
+      security footage, and growing pressure from management. Clues emerge that
+      suggest inside knowledge, causing suspicion and friction among the group.
+      Their friendship is tested as secrets and personal motives come to light."
     approximateNoOfWords: 35000
   - index: 3
-    summary: The nerds’ investigation escalates as they close in on the prime
-      suspect. They encounter dangerous situations, including cyberattacks and
-      physical confrontations. Tensions within the group reach a boiling point,
-      threatening to tear their friendship apart. Breakthroughs and setbacks
-      alternate as they race against time to recover the stolen GPUs before the
-      company’s AI launch fails. The stakes become personal as the culprit’s
-      motives are revealed to be more complex than simple theft.
-    approximateNoOfWords: 50000
+    summary: The investigation expands beyond the office as the group follows leads
+      to tech meetups, underground hardware markets, and hacker forums. Tensions
+      rise as external threats appear, including a rival company with possible
+      motives. The group must infiltrate a secretive tech event, risking their
+      jobs and reputations. They uncover a conspiracy involving corporate
+      espionage and realize the theft is part of a larger scheme.
+    approximateNoOfWords: 35000
   - index: 4
-    summary: In the climax, the group launches a daring plan to retrieve the stolen
-      GPUs. They confront the antagonist in a high-stakes showdown that tests
-      their technical expertise and loyalty to one another. The plan succeeds,
-      but not without sacrifice—some relationships are forever changed. The
-      company is saved, but the nerds must reckon with what they have learned
-      about themselves and each other.
-    approximateNoOfWords: 25000
+    summary: With the stakes higher than ever, the group splits up to pursue
+      separate leads, using their combined skills to outwit adversaries.
+      Betrayal from an unexpected source rocks the team. In a series of
+      high-stakes confrontations, they race against time to recover the GPUs and
+      expose the culprits. Their efforts culminate in a daring infiltration and
+      a final showdown with the masterminds behind the theft.
+    approximateNoOfWords: 30000
   - index: 5
-    summary: The nerds reflect on the events, reconciling differences and
-      celebrating their victory. The company recovers and the successful AI
-      launch cements their professional reputations. The group emerges stronger,
-      their friendships tested but ultimately deepened by the ordeal. Hints of
-      new challenges on the horizon set up potential for future adventures.
-    approximateNoOfWords: 15000
+    summary: The aftermath sees the group grappling with the consequences—both
+      personal and professional—of their adventure. Friendships are mended or
+      broken, and the company’s future is uncertain but hopeful. The group
+      reflects on what they’ve learned about themselves and each other, emerging
+      stronger and more united, ready to face new challenges in their nerdy
+      world.
+    approximateNoOfWords: 30000
