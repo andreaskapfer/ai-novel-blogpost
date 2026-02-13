@@ -1,0 +1,337 @@
+beatSheetReference:
+  bibleLevel: book
+entities:
+  - id: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+    displayName: Nerd Group
+    kind: group
+    description: A close-knit group of IT consultants with unique technical skills
+      and quirky personalities.
+  - id: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+    displayName: company
+    kind: location
+    description: The workplace where the Nerd Group and other IT consultants are employed.
+  - id: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+    displayName: AI infrastructure
+    kind: item
+    description: The company's artificial intelligence infrastructure, which relies
+      on high-end GPUs.
+  - id: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+    displayName: betrayer
+    kind: character
+    description: The individual from within Quantum Solutions who is revealed to
+      have betrayed the Nerd Group and stolen the GPUs.
+  - id: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+    displayName: digital forensics
+    kind: concept
+    description: The process of investigating digital evidence to uncover the truth
+      behind the GPU theft.
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: "Opening Image: The Nerd Group at Work"
+    summary: The Nerd Group is introduced at their quirky IT consulting company,
+      each member's personality and technical expertise on display as they
+      banter and collaborate on AI projects. The company's AI infrastructure
+      hums in the background, powered by prized GPUs.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: present
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: in use
+  - order: 2
+    subdivisionIndex: 1
+    name: "Inciting Incident: The GPU Theft"
+    summary: The company is thrown into chaos when the Nerd Group discovers the GPUs
+      powering the AI infrastructure have been stolen overnight. Panic and
+      disbelief ripple through the team as the implications for their projects
+      and jobs become clear.
+    emotionAtStart: high
+    emotionAtEnd: very_low
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: affected
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: crime scene
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: missing
+  - order: 3
+    subdivisionIndex: 1
+    name: "Rising Determination: The Nerd Group Resolves to Investigate"
+    summary: After the initial shock, the Nerd Group regroups and decides to take
+      matters into their own hands. They suspect both internal and external
+      culprits, vowing to recover the GPUs and clear their team's reputation.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 3500
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: proactive
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: base of operations
+  - order: 4
+    subdivisionIndex: 1
+    name: "First Steps: Reviewing Server Room Footage"
+    summary: The Nerd Group begins their investigation by combing through server
+      room security footage, looking for clues about the theft. They note
+      suspicious activity and start compiling a list of possible suspects.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 4000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: investigating
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: applied
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location
+  - order: 5
+    subdivisionIndex: 1
+    name: Suspicions and Motives
+    summary: The team debates potential motives and suspects, including disgruntled
+      coworkers and rival companies. Tensions rise as they realize the culprit
+      could be someone close to them.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 5000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: divided
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: workplace
+  - order: 6
+    subdivisionIndex: 2
+    name: "Splitting Up: Interrogations and Clue Gathering"
+    summary: The Nerd Group splits into smaller teams to interrogate suspicious
+      coworkers and gather digital evidence. Each subgroup leverages their
+      unique skills, but egos and insecurities begin to surface.
+    emotionAtStart: very_low
+    emotionAtEnd: low
+    approximateNoOfWords: 6000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: fractured
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: used
+  - order: 7
+    subdivisionIndex: 2
+    name: "Digital Forensics: Analyzing the Evidence"
+    summary: The group applies digital forensics to analyze logs, emails, and
+      network traffic. They uncover anomalies suggesting both internal sabotage
+      and external hacking, deepening the mystery.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: investigators
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: central
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: subject
+  - order: 8
+    subdivisionIndex: 2
+    name: "Uncovering the Web: Espionage and Vendettas"
+    summary: As clues accumulate, the Nerd Group uncovers a web of corporate
+      espionage and personal vendettas. The possibility of a mole within the
+      company becomes increasingly likely, raising the stakes.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: threatened
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: compromised
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: suspected
+  - order: 9
+    subdivisionIndex: 2
+    name: The Mole and the Hackers
+    summary: Evidence points to a mole inside the company working with external
+      hackers. The Nerd Group debates who to trust as paranoia and suspicion
+      threaten to tear them apart.
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 9000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: divided
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: antagonist
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 10
+    subdivisionIndex: 3
+    name: "Fractures: Trust Erodes"
+    summary: Tensions within the Nerd Group reach a breaking point as accusations
+      fly and trust erodes. Members question each other's loyalty, threatening
+      the group's unity.
+    emotionAtStart: very_low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: fractured
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: source of conflict
+  - order: 11
+    subdivisionIndex: 3
+    name: "Breakthrough: Cracking the Encrypted Message"
+    summary: Despite setbacks, a breakthrough occurs when a Nerd Group member cracks
+      an encrypted message. The message reveals the hackers’ next move and
+      provides a crucial lead.
+    emotionAtStart: very_low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: problem solvers
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: used
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: opponent
+  - order: 12
+    subdivisionIndex: 3
+    name: "Race Against Time: Online and Real-World Maneuvers"
+    summary: Armed with new information, the Nerd Group races against time,
+      executing risky maneuvers both online and in the real world. They follow
+      leads to underground tech markets and confront dangerous adversaries.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 9000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: active
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: applied
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: adversary
+  - order: 13
+    subdivisionIndex: 3
+    name: "Confronting Danger: Following the Trail"
+    summary: The Nerd Group faces physical and digital threats as they pursue the
+      trail to the stolen GPUs. Their teamwork is tested as they confront
+      adversaries in high-stakes situations.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 11000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: united
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: objective
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: enemy
+  - order: 14
+    subdivisionIndex: 4
+    name: "The Plan: Uniting for the Final Confrontation"
+    summary: The Nerd Group sets aside their differences and crafts a daring plan to
+      confront those behind the theft. They pool their technical skills and
+      personal courage for the high-stakes showdown.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 8000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: united
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: strategic
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: target
+  - order: 15
+    subdivisionIndex: 4
+    name: "Showdown: Recovering the GPUs"
+    summary: In a tense confrontation, the Nerd Group faces the betrayer and their
+      accomplices. Using their combined skills, they outmaneuver the opposition
+      and recover the stolen GPUs, but not without personal cost.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 12000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: heroes
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: antagonist
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: recovered
+  - order: 16
+    subdivisionIndex: 4
+    name: Exposing the Mole
+    summary: The Nerd Group exposes the betrayer within the company, revealing their
+      motives and methods. The company reels from the revelation, and the group
+      must deal with the fallout.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: vindicated
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: exposed
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 17
+    subdivisionIndex: 4
+    name: "Aftermath: Redefining Friendship and Teamwork"
+    summary: The experience profoundly changes the Nerd Group. They reconcile their
+      differences, reflect on the sacrifices made, and redefine what friendship
+      and teamwork mean to them.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 10000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: changed
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: workplace
+  - order: 18
+    subdivisionIndex: 5
+    name: Company Fallout and Restoration
+    summary: The company deals with the aftermath of the theft and recovery. The AI
+      infrastructure is restored, and the Nerd Group is celebrated for their
+      ingenuity, though their unconventional methods draw scrutiny.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 7000
+    associatedEntities:
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: affected
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: restored
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: recognized
+  - order: 19
+    subdivisionIndex: 5
+    name: Personal Consequences and Growth
+    summary: Members of the Nerd Group face personal consequences for their actions
+      during the investigation. Relationships are mended or redefined as they
+      process what they've been through.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 9000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: reflective
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 20
+    subdivisionIndex: 5
+    name: "A Stronger Team: Looking to the Future"
+    summary: The Nerd Group emerges stronger and more united, ready to face future
+      challenges together. Their bond, tested by adversity, is now unbreakable.
+    emotionAtStart: neutral
+    emotionAtEnd: very_high
+    approximateNoOfWords: 9000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: united
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: workplace
