@@ -3,39 +3,53 @@ outlineReference:
   act: 1
 subdivisions:
   - index: 1
-    summary: The story opens with a vibrant introduction to Quantum Solutions, the
-      IT consulting company, as the Nerd Group navigates their daily routines.
-      Each member’s personality and skills are revealed through lively
-      interactions, inside jokes, and quirky office traditions. Subtle tensions
-      and rivalries among team members are touched on, hinting at underlying
-      dynamics. The team’s pride in their AI infrastructure is evident as they
-      prepare for a big client demo. The act ends on an ominous note as a
-      late-night notification hints at trouble in the server room.
-    approximateNoOfWords: 5000
+    summary: "The story opens with the Nerd Group—each member introduced through a
+      humorous office scenario that highlights their technical specialties and
+      eccentricities. The company, Quantum Solutions, is depicted as a lively,
+      if slightly chaotic, IT consulting firm. On a seemingly ordinary day, the
+      team’s routine is shattered when they discover the server room has been
+      breached and all the GPUs powering the company’s AI infrastructure are
+      missing. Initial chaos ensues: IT managers panic, executives demand
+      answers, and the Nerd Group rallies under their unofficial leader, vowing
+      to solve the crime themselves."
+    approximateNoOfWords: 4000
   - index: 2
-    summary: Morning chaos erupts as the Nerd Group discovers the company’s high-end
-      GPUs have vanished from the locked server room. The CTO calls an emergency
-      meeting, and panic spreads through the staff. The Nerd Group conducts an
-      initial sweep of the server room, noting tampered security measures and
-      missing CCTV footage. Each member reacts differently—some with denial,
-      others with determination. Suspicion falls on both external hackers and
-      disgruntled coworkers, setting the stage for internal conflict.
-    approximateNoOfWords: 5000
+    summary: "The Nerd Group begins their investigation by examining the physical
+      evidence: a broken lock, security camera footage, and odd traces left in
+      the server room. Each member proposes a different theory, reflecting their
+      unique perspectives—ranging from an external hacker attack to an inside
+      job motivated by corporate rivalry. They start compiling a list of
+      suspects, including rival IT firms, a disgruntled employee, and even a
+      mysterious janitor who always seems to be around. Tensions bubble as
+      suspicion briefly falls on one of their own."
+    approximateNoOfWords: 4000
   - index: 3
-    summary: "Determined to reclaim their pride and hardware, the Nerd Group forms
-      an impromptu investigation squad. They split tasks: some begin digital
-      forensics on the network logs, others interview potential witnesses from
-      the office. A series of red herrings emerge, including a mysterious USB
-      drive and odd late-night access logs. Through their efforts, the group
-      uncovers evidence of both physical and digital tampering, deepening the
-      intrigue and raising the possibility of an inside job."
-    approximateNoOfWords: 5000
+    summary: Using their technical prowess, the group delves into digital forensics,
+      analyzing access logs and surveillance data. They uncover a suspicious
+      log-in during the night of the theft and a series of encrypted messages
+      exchanged on the company’s internal chat. Meanwhile, personal dynamics
+      within the group emerge—rivalries, insecurities, and budding friendships.
+      Their investigation leads to small breakthroughs, such as identifying a
+      possible motive linked to a failed AI project and a pattern of missing
+      equipment from other departments.
+    approximateNoOfWords: 4000
   - index: 4
-    summary: As the internal investigation intensifies, office politics and personal
-      insecurities surface. Tensions rise between team members as old grievances
-      are rekindled and trust is tested. The Nerd Group’s loyalty to one another
-      is challenged when evidence seems to implicate a colleague with close
-      access to the server room. The act closes with the group vowing to
-      continue their quest, setting aside differences—at least for now—as they
-      push deeper into the mystery.
-    approximateNoOfWords: 5000
+    summary: "The Nerd Group’s investigation hits its first major obstacle: company
+      management intervenes, warning them not to interfere, and suggests
+      bringing in outside consultants. Despite the setback, the group continues
+      their probe unofficially, working late into the night and using their
+      access to company systems. They manage to recover a partial video clip
+      showing a hooded figure entering the server room. The act ends with the
+      group more determined than ever to uncover the truth, unaware that the
+      real perpetrator is watching their every move."
+    approximateNoOfWords: 4000
+  - index: 5
+    summary: In the aftermath of the initial investigation, the Nerd Group regroups,
+      sharing their findings and strengthening their resolve. They set new
+      ground rules for working together and agree on a plan to dig deeper, both
+      digitally and socially, into their list of suspects. As they prepare for
+      the next phase, subtle hints of betrayal and hidden motives begin to
+      surface, sowing seeds of doubt within the group. The act closes with a
+      cliffhanger—a cryptic message sent to the team, warning them to stop
+      digging, setting the stage for deeper conflict in the next act.
+    approximateNoOfWords: 4000
