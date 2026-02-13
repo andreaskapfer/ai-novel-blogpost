@@ -1,0 +1,46 @@
+outlineReference:
+  bibleLevel: book
+subdivisions:
+  - index: 1
+    summary: The story opens by introducing the main characters—a diverse group of
+      nerds working in an IT consulting firm. The company is bustling with
+      energy as they prepare for a major AI project launch. Tensions and
+      friendships are established, giving insight into each character’s skills,
+      quirks, and interpersonal dynamics. The inciting incident occurs when the
+      team discovers that all the GPUs powering their AI infrastructure have
+      vanished from the server room, plunging the company into chaos and putting
+      their project at risk.
+    approximateNoOfWords: 25000
+  - index: 2
+    summary: Shocked and desperate, the group takes it upon themselves to
+      investigate the theft. They navigate internal office politics, deal with
+      skeptical management, and follow a trail of clues that lead them to
+      suspect both internal and external culprits. The act explores the
+      strengths and weaknesses of the group, and tests their friendship as
+      pressure mounts. Their investigation uncovers surprising secrets about the
+      company and its competitors.
+    approximateNoOfWords: 35000
+  - index: 3
+    summary: The nerds’ investigation escalates as they close in on the prime
+      suspect. They encounter dangerous situations, including cyberattacks and
+      physical confrontations. Tensions within the group reach a boiling point,
+      threatening to tear their friendship apart. Breakthroughs and setbacks
+      alternate as they race against time to recover the stolen GPUs before the
+      company’s AI launch fails. The stakes become personal as the culprit’s
+      motives are revealed to be more complex than simple theft.
+    approximateNoOfWords: 50000
+  - index: 4
+    summary: In the climax, the group launches a daring plan to retrieve the stolen
+      GPUs. They confront the antagonist in a high-stakes showdown that tests
+      their technical expertise and loyalty to one another. The plan succeeds,
+      but not without sacrifice—some relationships are forever changed. The
+      company is saved, but the nerds must reckon with what they have learned
+      about themselves and each other.
+    approximateNoOfWords: 25000
+  - index: 5
+    summary: The nerds reflect on the events, reconciling differences and
+      celebrating their victory. The company recovers and the successful AI
+      launch cements their professional reputations. The group emerges stronger,
+      their friendships tested but ultimately deepened by the ordeal. Hints of
+      new challenges on the horizon set up potential for future adventures.
+    approximateNoOfWords: 15000
