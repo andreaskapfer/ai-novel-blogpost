@@ -1,0 +1,510 @@
+beatSheetReference:
+  bibleLevel: act
+  act: 1
+entities:
+  - id: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+    displayName: Nerd Group
+    kind: group
+    description: A close-knit group of IT consultants with unique technical skills
+      and quirky personalities.
+  - id: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+    displayName: company
+    kind: location
+    description: The workplace where the Nerd Group and other IT consultants are employed.
+  - id: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+    displayName: AI infrastructure
+    kind: item
+    description: The company's artificial intelligence infrastructure, which relies
+      on high-end GPUs.
+  - id: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+    displayName: betrayer
+    kind: character
+    description: The individual from within Quantum Solutions who is revealed to
+      have betrayed the Nerd Group and stolen the GPUs.
+  - id: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+    displayName: digital forensics
+    kind: concept
+    description: The process of investigating digital evidence to uncover the truth
+      behind the GPU theft.
+beats:
+  - order: 1
+    subdivisionIndex: 1
+    name: "Opening Image: Quantum Solutions in Motion"
+    summary: The novel opens with a panoramic view of Quantum Solutions, a bustling
+      IT consulting firm. The office is alive with the sounds of keyboards
+      clacking, monitors humming, and the occasional burst of laughter. The Nerd
+      Group is introduced in their natural habitat, each member immersed in
+      their technical specialty—one debugging code with a wall of sticky notes,
+      another calibrating a 3D printer, a third arguing with a chatbot, and a
+      fourth orchestrating a lunchtime LAN party. Their camaraderie and
+      eccentricities are on full display, setting a tone of humor and energy.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: present
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 2
+    subdivisionIndex: 1
+    name: Spotlight on the Nerd Group
+    summary: Each member of the Nerd Group gets a brief, humorous vignette that
+      highlights their technical prowess and quirks. One member hacks the office
+      coffee machine to deliver the perfect espresso, another rewires the break
+      room TV to stream a retro gaming tournament, while a third delivers a
+      deadpan monologue about the superiority of Linux. Their unofficial leader
+      emerges as the glue holding the group together, mediating disputes and
+      inspiring creative solutions.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 600
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: focus
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: background
+  - order: 3
+    subdivisionIndex: 1
+    name: A Day Like Any Other
+    summary: The Nerd Group settles into their daily routine, troubleshooting client
+      issues and bantering over instant messages. The company’s AI
+      infrastructure is referenced as the backbone of their work, with the team
+      relying on its GPU power for everything from deep learning experiments to
+      rendering simulations. The office atmosphere is lively, with a sense of
+      controlled chaos that the Nerd Group navigates with practiced ease.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 500
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: active
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: referenced
+  - order: 4
+    subdivisionIndex: 1
+    name: The Breach Discovered
+    summary: "Suddenly, alarms blare and a frantic IT manager bursts into the Nerd
+      Group’s workspace. The server room has been breached—locks broken, cables
+      dangling, and the racks that once held the company’s prized GPUs now
+      ominously empty. The Nerd Group rushes to the scene, finding chaos:
+      panicked managers, confused staff, and a sense of disbelief that something
+      so vital could be stolen in broad daylight."
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: witness
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: missing
+  - order: 5
+    subdivisionIndex: 1
+    name: Initial Chaos and Company Fallout
+    summary: "The company descends into chaos as executives demand answers and IT
+      managers scramble to assess the damage. The Nerd Group is swept up in the
+      confusion, fielding questions and accusations. The loss of the AI
+      infrastructure’s GPUs threatens ongoing projects and client contracts,
+      raising the stakes for everyone involved. The Nerd Group’s leader quickly
+      regroups the team, urging them to stay calm and focus on what they do
+      best: solving problems."
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: affected
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: central
+  - order: 6
+    subdivisionIndex: 1
+    name: The Nerd Group Rallies
+    summary: Amid the turmoil, the Nerd Group’s unofficial leader calls an impromptu
+      meeting in a quiet corner of the office. The group resolves to investigate
+      the theft themselves, convinced that their unique skills and insider
+      knowledge make them the best hope for recovering the stolen GPUs. Their
+      determination is palpable as they begin brainstorming theories and
+      planning their next moves, setting the stage for the investigation to
+      come.
+    emotionAtStart: very_low
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: protagonist
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: objective
+  - order: 7
+    subdivisionIndex: 2
+    name: Surveying the Crime Scene
+    summary: The Nerd Group regroups in the server room, carefully examining the
+      broken lock, scattered cables, and the empty racks where the GPUs once
+      sat. They document the physical evidence, noting odd scuff marks and a
+      faint chemical smell lingering in the air. The company’s IT manager hovers
+      anxiously, urging them to hurry as executives demand updates.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: investigates
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location_of_crime
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: missing_item
+  - order: 8
+    subdivisionIndex: 2
+    name: Reviewing Security Footage
+    summary: The team crowds around a workstation to review security camera footage
+      from the night of the theft. They spot a shadowy figure moving with
+      practiced efficiency, but the camera angle is obscured and the timestamp
+      is tampered with. Frustration mounts as they realize the footage offers
+      more questions than answers.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: analyzes
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location_of_surveillance
+  - order: 9
+    subdivisionIndex: 2
+    name: Diverging Theories
+    summary: Each member of the Nerd Group proposes a different theory about the
+      culprit and motive. One suspects a rival IT firm, another points to a
+      disgruntled employee, while a third suggests an elaborate external hack.
+      Their technical specialties color their perspectives, leading to lively
+      debate and some comic misunderstandings.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: debates
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: workplace
+  - order: 10
+    subdivisionIndex: 2
+    name: Compiling the Suspect List
+    summary: "Pooling their ideas, the Nerd Group creates a list of suspects: rival
+      IT firms with a grudge, a recently fired employee, and the mysterious
+      janitor who always seems to be nearby. They assign themselves tasks to
+      discreetly gather intel on each suspect, setting the stage for further
+      investigation."
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: organizes
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location_of_suspects
+  - order: 11
+    subdivisionIndex: 2
+    name: The Janitor’s Odd Behavior
+    summary: One member observes the janitor acting suspiciously near the server
+      room, prompting the group to quietly follow him. They note his odd
+      schedule and cryptic mutterings, fueling speculation that he might be
+      involved. The group splits up to keep tabs on him without drawing
+      attention.
+    emotionAtStart: high
+    emotionAtEnd: neutral
+    approximateNoOfWords: 600
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: investigates
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location_of_suspicion
+  - order: 12
+    subdivisionIndex: 2
+    name: Seeds of Suspicion Within
+    summary: As the investigation intensifies, a stray comment and a missing keycard
+      cause suspicion to briefly fall on one of the Nerd Group’s own members.
+      Tension rises as the group questions each other’s alibis and loyalty, but
+      the moment passes when evidence clears the accused. The group’s unity is
+      shaken but ultimately reinforced.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 600
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: suspects
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: potential_betrayer
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location_of_confrontation
+  - order: 13
+    subdivisionIndex: 3
+    name: Initiating the Digital Hunt
+    summary: "The Nerd Group regroups in a cramped conference room, laptops open, as
+      they launch a coordinated digital forensics investigation. They split
+      tasks: one member pulls access logs from the server, another downloads
+      surveillance footage, while a third begins scanning for unusual network
+      activity. The atmosphere is tense but focused, with the group determined
+      to find a digital trail left by the thief."
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: protagonist
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: method
+  - order: 14
+    subdivisionIndex: 3
+    name: Uncovering the Suspicious Log-In
+    summary: One member of the Nerd Group discovers a log-in to the server room
+      system that occurred in the middle of the night, outside of normal hours.
+      The group analyzes the credentials used and debates whether the log-in was
+      spoofed or if someone inside the company is involved. The finding injects
+      a sense of urgency and suspicion into the team.
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: investigator
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: evidence
+  - order: 15
+    subdivisionIndex: 3
+    name: Decrypting the Encrypted Messages
+    summary: The team stumbles upon a series of encrypted messages exchanged on the
+      company’s internal chat system around the time of the theft. Working
+      together, they attempt to break the encryption, each member contributing
+      their expertise. The process is slow and frustrating, revealing cracks in
+      the group’s patience and highlighting individual insecurities.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: collaborator
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: technique
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: workplace
+  - order: 16
+    subdivisionIndex: 3
+    name: Personal Dynamics Surface
+    summary: As the investigation drags on, personal dynamics within the Nerd Group
+      come to the fore. Old rivalries flare up, insecurities are exposed, and
+      unexpected friendships begin to form. The stress of the case tests their
+      cohesion, but also deepens their understanding of one another.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: group dynamic
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: environment
+  - order: 17
+    subdivisionIndex: 3
+    name: "Breakthrough: Motive and Pattern"
+    summary: "Piecing together clues, the Nerd Group identifies a possible motive
+      for the theft: a failed AI project that left several employees
+      disgruntled. They also notice a pattern of missing equipment from other
+      departments, suggesting the GPU theft is part of a larger scheme. The
+      group’s morale lifts as they realize they are closing in on the truth."
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 600
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: investigator
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: target
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location
+  - order: 18
+    subdivisionIndex: 3
+    name: Closing In
+    summary: Armed with new leads, the Nerd Group compiles a timeline of the theft
+      and cross-references it with the pattern of missing equipment. They
+      prepare to confront their list of suspects, feeling a renewed sense of
+      purpose and camaraderie as the digital forensics investigation brings them
+      closer to the truth.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 600
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: protagonist
+      - entityId: 348eb847-dd55-4d74-ae5e-87f7ad334e2b
+        associationType: tool
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 19
+    subdivisionIndex: 4
+    name: Management Crackdown
+    summary: Company management calls an emergency meeting, sternly instructing the
+      Nerd Group to cease their amateur investigation and threatening
+      disciplinary action if they interfere further. The team is frustrated and
+      feels powerless as outside consultants are suggested to take over the
+      case.
+    emotionAtStart: neutral
+    emotionAtEnd: low
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: subject
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 20
+    subdivisionIndex: 4
+    name: Defiant Resolve
+    summary: Despite the warning, the Nerd Group secretly regroups after hours in a
+      quiet corner of the company. They reaffirm their commitment to solving the
+      theft, agreeing to continue their investigation off the books and share
+      information only among themselves.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: subject
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 21
+    subdivisionIndex: 4
+    name: After-Hours Sleuthing
+    summary: The Nerd Group stays late, using their technical skills to covertly
+      access company systems and search for new leads. They navigate darkened
+      hallways and locked doors, narrowly avoiding detection by security as they
+      dig deeper into the digital trail left by the thief.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: subject
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 22
+    subdivisionIndex: 4
+    name: "Breakthrough: The Hooded Figure"
+    summary: Their persistence pays off when they recover a partial video clip from
+      a damaged security camera. The footage reveals a hooded figure entering
+      the server room on the night of the theft, providing the first concrete
+      visual clue to the perpetrator's identity.
+    emotionAtStart: high
+    emotionAtEnd: very_high
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: investigators
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: location
+      - entityId: 46a9f704-be8c-4db6-b4ad-a49b52ea24e5
+        associationType: target_of_theft
+  - order: 23
+    subdivisionIndex: 4
+    name: Unseen Eyes
+    summary: As the Nerd Group celebrates their discovery, the scene shifts to an
+      unknown observer monitoring their progress from a hidden vantage point.
+      The betrayer, still concealed, watches the group’s every move, hinting at
+      greater danger to come.
+    emotionAtStart: very_high
+    emotionAtEnd: high
+    approximateNoOfWords: 800
+    associatedEntities:
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: antagonist
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: target
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 24
+    subdivisionIndex: 5
+    name: Regrouping and Debrief
+    summary: The Nerd Group gathers in a quiet conference room, exhausted but
+      determined. They share the evidence and insights each member has
+      collected, piecing together the timeline of the GPU theft and their
+      investigation so far. The atmosphere is tense but collaborative, as they
+      realize how much they’ve accomplished—and how much remains unknown.
+    emotionAtStart: low
+    emotionAtEnd: neutral
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: focus
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 25
+    subdivisionIndex: 5
+    name: Setting New Ground Rules
+    summary: Recognizing the need for unity and trust, the Nerd Group openly
+      discusses their strengths and weaknesses. They agree on new ground rules
+      for collaboration, including transparent communication and rotating
+      leadership. This renewed sense of purpose helps ease lingering tensions
+      and sets a more organized tone for the next phase of their investigation.
+    emotionAtStart: neutral
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: focus
+  - order: 26
+    subdivisionIndex: 5
+    name: Expanding the Investigation
+    summary: "With a clear plan, the group divides tasks: some members will dig
+      deeper into digital forensics, while others will conduct informal
+      interviews with colleagues and observe office dynamics. They update their
+      suspect list, prioritizing leads and preparing to approach the next round
+      of suspects with sharper questions and more caution."
+    emotionAtStart: high
+    emotionAtEnd: high
+    approximateNoOfWords: 700
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: focus
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
+  - order: 27
+    subdivisionIndex: 5
+    name: Seeds of Doubt
+    summary: As the Nerd Group works, subtle hints of betrayal and hidden motives
+      begin to surface. Offhand comments, nervous glances, and inconsistencies
+      in alibis sow seeds of suspicion among the team. Paranoia creeps in, and
+      trust is tested as the possibility of an insider betrayer becomes more
+      real.
+    emotionAtStart: high
+    emotionAtEnd: low
+    approximateNoOfWords: 900
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: focus
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: implied presence
+  - order: 28
+    subdivisionIndex: 5
+    name: "Cliffhanger: The Warning"
+    summary: "Just as the group is about to wrap up for the night, a cryptic message
+      appears on their shared chat: 'Stop digging, or else.' The team is stunned
+      into silence, realizing the stakes are higher than they thought. The act
+      ends with the Nerd Group staring at the screen, fear and determination
+      mingling as they prepare for the deeper conflict ahead."
+    emotionAtStart: low
+    emotionAtEnd: very_low
+    approximateNoOfWords: 1000
+    associatedEntities:
+      - entityId: 5bd3d8b1-5efe-4f2a-9f89-d577acdd7ac5
+        associationType: focus
+      - entityId: fc0bbad0-c07e-47ca-9995-a66dbbba1a4c
+        associationType: antagonist
+      - entityId: e0da25f9-5f7e-420b-b33e-51bacc0e4310
+        associationType: setting
