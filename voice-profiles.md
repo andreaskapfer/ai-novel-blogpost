@@ -1,124 +1,160 @@
+```json
 {
   "profiles": [
     {
-      "character": "Alois Hartmann",
+      "character": "Heinrich Schultheiß",
       "dialogue_style": {
-        "vocabulary": "Rural dialect ('Holzmichel' for landowners), biblical references ('Sodom und Gomorrha'), agrarian terms (Ackerboden, Erntesegen)",
-        "syntax": "Imperative sentences ('Das Land gehört uns!'), proverb-heavy ('Wer Wind sät...')",
-        "speech_rhythm": "Deliberate pauses between phrases, accelerates when angered",
-        "verbal_habits": "Spitting when agitated, clutching rosary beads during speech"
+        "patterns": "Authoritative with rhetorical flourishes",
+        "vocabulary": "Formal, administrative, progress-focused terms ('Fortschritt', 'Wachstum', 'Zukunft')",
+        "rhythms": "Measured cadence with intentional pauses for emphasis",
+        "habits": "Repeats civic motto ('Ein Dorf muss vorwärtsschreiten'), quotes Goethe selectively"
       },
       "pov_style": {
-        "internal_thoughts": "Sensory focus on land smells (humus, apple blossoms), suspicion of mechanical sounds",
-        "metaphors": "Nature-based ('eisenfressende Würmer' for trains)",
-        "sensory_focus": "Tactile memories (tree bark texture, soil under nails)"
+        "internal_monologue": "Calculating cost/benefit ratios even in emotional moments",
+        "narrative_tone": "Municipal grandeur undercut by private doubts"
       },
-      "content": "Patriarch resisting railway's destructive progress. Transitions from fiery protester (1903) to broken man after losing sons (1916), embodying traditional values eroded by modernity."
+      "content": "Voice evolves from booming optimism to strained paternalism post-WWI. Uses railway metaphors ('Wir müssen die Lokomotive des Wandels sein') even as events darken."
     },
     {
-      "character": "Friedrich Hartmann",
+      "character": "Anna Müller",
       "dialogue_style": {
-        "vocabulary": "Military slang ('Frontschwein', 'Etappe'), abrupt agrarian terms ('Saaten', 'Dreschen')",
-        "syntax": "Terse fragments ('Züge bringen nur Tod.'), whispered confessions",
-        "speech_rhythm": "Irregular pacing with traumatic flashbacks causing sudden stops",
-        "verbal_habits": "Nervous throat-clearing, humming war songs sotto voce"
+        "patterns": "Folk wisdom wrapped in Lutheran fatalism",
+        "vocabulary": "Textile metaphors ('Unser Leben ist ein zerrissener Faden'), archaic terms ('Weberschiffchen', 'Kunkel')",
+        "rhythms": "Spikey bursts followed by long silences",
+        "habits": "Clicking tongue disapproval, invoking Proverbs 16:9"
       },
       "pov_style": {
-        "internal_thoughts": "Recurring artillery soundscape, distorted time perception",
-        "metaphors": "War as agricultural process ('Menschenteig im Granatfeld')",
-        "sensory_focus": "Phantom limb sensations, hyperacusis to steam whistles"
+        "internal_monologue": "Synesthetic memories (smells of dye vats, sound of looms)",
+        "narrative_tone": "Erosion of certainties through gritted teeth"
       },
-      "content": "Traumatized WWI veteran turned isolationist farmer. His bitter resistance to modernity contrasts with daughter Lina's adaptability, culminating in silent approval of her resistance acts."
+      "content": "Dialogue becomes terser after losing her loom, adopting railway jargon ironically ('Jawohl, Herr Stationsvorsteher!') during washhouse work."
     },
     {
-      "character": "Lina Hartmann",
+      "character": "Franz Bauer",
       "dialogue_style": {
-        "vocabulary": "Evolves from childlike simplifications ('Hunger-Monster') to covert resistance jargon ('Nachtkaninchen' for fugitives)",
-        "syntax": "Early interrogative clusters ('Warum...? Wieso...?') maturing into imperative statements ('Weichen umstellen! Schnell!')",
-        "speech_rhythm": "Youthful lisp (1908) smoothing into determined staccato (1944)",
-        "verbal_habits": "Counting railway sleepers when anxious, code phrases ('Onkel Otto braucht Mehl')"
+        "patterns": "Cyclical complaints about weather/crops/animals",
+        "vocabulary": "Agricultural specificity ('Saubohnen-Ernte', 'Kleeschlag'), debt terminology",
+        "rhythms": "Plodding tempo accelerating when agitated",
+        "habits": "Sniffing disapprovingly, interrupting with 'Aber damals...'"
       },
       "pov_style": {
-        "internal_thoughts": "Kinetic imagery ('Schienen pulsieren wie Adern'), moral calculus comparisons",
-        "metaphors": "Railways as living entities ('atmete mit den Gleisen')",
-        "sensory_focus": "Tactile memory of first steam vibration (1905), later blood-on-rails synesthesia"
+        "internal_monologue": "Land-as-morality framework ('Gute Erde, gutes Herz')",
+        "narrative_tone": "Increasing bitterness narrowing perspective"
       },
-      "content": "Third-generation Hartmann bridging tradition and survival. From childhood hunger (1923) to orchestrating escapes (1944), her journey symbolizes adaptive resilience amid destruction."
+      "content": "Speech patterns fracture during WWI hunger years - starts omitting subjects ('Muss den Pflug reparieren') as if conserving breath."
     },
     {
-      "character": "Emil Braun",
+      "character": "Eduard Vogel",
       "dialogue_style": {
-        "vocabulary": "Technical railway terms ('Beförderungskapazität', 'Spurweite'), commercial idioms ('Zoll ist Zoll!')",
-        "syntax": "Compound sentences with profit calculations ('Wenn wir monatlich 30 Waggons...')",
-        "speech_rhythm": "Auctioneer-like tempo when excited, slower when scheming",
-        "verbal_habits": "Coin-jingling while speaking, adjusting spectacles before lies"
+        "patterns": "Technical lectures with urban superiority",
+        "vocabulary": "Engineering terms ('Spurkranz', 'Steuerwagen'), Berlin slang",
+        "rhythms": "Machine-gun staccato with precision",
+        "habits": "Adjusting cufflinks, correcting pronunciation ('Es heißt BOO-ahn, nicht BAHN')"
       },
       "pov_style": {
-        "internal_thoughts": "Currency conversion fantasies, expansion blueprints",
-        "metaphors": "Economy as mill machinery ('Inflationswind mahlt schneller')",
-        "sensory_focus": "Grain texture assessments, calorie-counting during shortages"
+        "internal_monologue": "Aesthetic judgments of rural 'primitiveness'",
+        "narrative_tone": "Condescension masking insecurity"
       },
-      "content": "Opportunistic miller championing railway-driven progress. His capitalist zeal falters during 1923 inflation, laying groundwork for daughter Elsa's ideological extremism."
+      "content": "Abandoned child Lieselotte inherits his vocal precision but repurposes it ('Dadaistischen Schienenstränge') in her art."
     },
     {
-      "character": "Elsa Braun",
+      "character": "Klara Schultheiß",
       "dialogue_style": {
-        "vocabulary": "Shifts from pedagogical terms ('Volkslehre') to NSDAP jargon ('Blut und Boden') to post-1942 fragmented self-address ('Warum... ich nicht...')",
-        "syntax": "Early perfected subordinate clauses decaying into unfinished questions",
-        "speech_rhythm": "Rhythmic classroom cadence (1930) devolving into arrhythmic whispering",
-        "verbal_habits": "Nail-biting during self-doubt, compulsive reciting of Nazi slogans when stressed"
+        "patterns": "Subjunctive diplomacy ('Vielleicht könnten wir...')",
+        "vocabulary": "Gender-coded bureaucratese ('Fürsorgepflicht', 'Verwaltungsakt')",
+        "rhythms": "Deliberate pacing to control conversations",
+        "habits": "Finger-tenting during negotiations, quoting husband posthumously"
       },
       "pov_style": {
-        "internal_thoughts": "Ideological self-brainwashing, later guilt-induced auditory hallucinations",
-        "metaphors": "Education as gardening ('Unkraut-Juden ausjäten')",
-        "sensory_focus": "Visual fixation on armbands, phantom smell of deportation train smoke"
+        "internal_monologue": "Translation of male speech into actionable steps",
+        "narrative_tone": "Quiet usurpation of institutional spaces"
       },
-      "content": "Teacher-turned-Nazi propagandist embodying ideological seduction. Her late-war realization and silent complicity in the Sterns' deportation drive son Otto's resistance."
+      "content": "WWI correspondence polishes her language into weaponized politeness that disarms male opponents ('Gestatten Sie eine weibliche Perspektive?')."
     },
     {
-      "character": "Otto Braun",
+      "character": "Otto Müller",
       "dialogue_style": {
-        "vocabulary": "Mechanical jargon ('Bremsweg', 'Signalflaggen'), evolving into resistance code ('Nachtschatten transportieren')",
-        "syntax": "Technical descriptions ('15 Grad Steigung → doppelte Lok benötigt') shifting to urgent fragments ('Wachen um 23 Uhr rotiert!')",
-        "speech_rhythm": "Precise meter when explaining mechanics, breathless rushed phrases during escapes",
-        "verbal_habits": "Whistling train melodies as signals, knuckle-cracking before dangerous acts"
+        "patterns": "Ideological bullet points vs whispered intimacy",
+        "vocabulary": "NSDAP jargon ('Volksgemeinschaft', 'Entartung') / Yiddish endearments ('mein Neshumele')",
+        "rhythms": "Stiff marching cadence vs rushed stumbling",
+        "habits": "Clicking heels unconsciously, rubbing hidden Star of David"
       },
       "pov_style": {
-        "internal_thoughts": "Railway physics calculations mixing with moral dilemmas",
-        "metaphors": "Escape routes as bloodstream ('Schienen = Lebensadern')",
-        "sensory_focus": "Hyperawareness of track vibrations, adrenaline-fueled time dilation"
+        "internal_monologue": "Schizophrenic self-justification loops",
+        "narrative_tone": "Collapsing moral architecture"
       },
-      "content": "Third-generation progressive turned resistance hero. His technical railway expertise reverses the family's complicity, weaponizing infrastructure for salvation."
+      "content": "Syntax mirrors factional shifts - SA commands barked in perfect Hauptsatz structure vs fragmented pleas to Ruth ('Du musst... ich kann nicht...')."
     },
     {
-      "character": "Klaus Richter",
+      "character": "Ruth Goldstein",
       "dialogue_style": {
-        "vocabulary": "Utopian technocracy ('Eisenbahnutopie', 'Fortschrittsdynamo'), Prussian technical terms ('Gleisnivelierung', 'Dampfexpansion')",
-        "syntax": "Lecture-style monologues with nested clauses",
-        "speech_rhythm": "Rhythmic cadence breaking into frustrated staccato when opposed",
-        "verbal_habits": "Scribbling diagrams mid-sentence, compulsive watch-checking"
+        "patterns": "Veiled meanings beneath mercantile courtesy",
+        "vocabulary": "Talmudic allusions ('Derech eretz'), inventory metaphors",
+        "rhythms": "Unflappable meter even during pogroms",
+        "habits": "Calculating pauses before dangerous answers"
       },
       "pov_style": {
-        "internal_thoughts": "Rigid geometry fantasies, steam-powered societal visions",
-        "metaphors": "Villages as resistant machinery ('Bauerngehirne = Kolben ohne Zylinder')",
-        "sensory_focus": "Tactile obsession with blueprints, synesthesia for steam pressure"
+        "internal_monologue": "Survival mathematics ('Cost of flour vs cost of silence')",
+        "narrative_tone": "Tragic pragmatism"
       },
-      "content": "Visionary engineer blinded by progress dogma. His 1903-1905 arc establishes the railway's symbolic weight, foreshadowing technological idealism perverted by war."
+      "content": "Multilingual code-switching (Hochdeutsch with officials, Yiddish whispers, railway slang with workers) becomes her covert toolbox."
     },
     {
-      "character": "David und Rivka Stern",
+      "character": "Helga Schultheiß",
       "dialogue_style": {
-        "vocabulary": "Blended Yiddish-Deutsch ('Meschugge Politik', 'Gute Geschäfte machen'), cautious euphemisms ('Unangenehme Zeiten')",
-        "syntax": "Questions wrapped in affirmation ('Das Wetter ist schön, nicht wahr? Darf man...')",
-        "speech_rhythm": "Soothing melodic tempo deteriorating into hurried whispers",
-        "verbal_habits": "Protective linguistic switching (German public/Yiddish private)"
+        "patterns": "Imperative minimalism ('Schnell. Westschacht. Jetzt.')",
+        "vocabulary": "Sabotage terminology ('Zündverzögerer', 'Gleissperre')",
+        "rhythms": "Telegraphic bursts between silences",
+        "habits": "Tapping resistance codes on surfaces"
       },
       "pov_style": {
-        "internal_thoughts": "Diaspora memory flashes (Vilnius markets), coded danger assessments",
-        "metaphors": "History as repeating storm ('Familienschiff im Pogromsturm')",
-        "sensory_focus": "Synagogue incense vs. deportation train odors, tactile prayer rituals"
+        "internal_monologue": "Lyrical recollections of pre-war meadows",
+        "narrative_tone": "Disciplined fury channeled through action"
       },
-      "content": "Jewish merchants embodying fragile integration. Their 1918-1942 journey from cautious acceptance to deportation crystallizes the railway's metamorphosis from lifeline to death conveyor."
+      "content": "Trains infiltrate her speech ('Wir sind der entgleiste Waggon ihrer Pläne') - weaponizing grandfather's beloved symbolism."
+    },
+    {
+      "character": "Hermann Schultheiß",
+      "dialogue_style": {
+        "patterns": "Dehumanizing administrative speech",
+        "vocabulary": "Transport euphemisms ('Umsiedlung', 'Sonderbehandlung'),",
+        "rhythms": "Gleisarbeiter-shout volume control",
+        "habits": "Referring always to clipboards/timetables"
+      },
+      "pov_style": {
+        "internal_monologue": "Empty echo chamber of ideology",
+        "narrative_tone": "Mechanical dehumanization"
+      },
+      "content": "Develops SS-Hauptsturmführer vocal tic - clicking tongue three times before executions ('Tschk-tschk-tschk... Feuer frei')"
+    },
+    {
+      "character": "David Goldstein",
+      "dialogue_style": {
+        "patterns": "Overeducated hesitancy ('Mutter, dürfte ich...')",
+        "vocabulary": "Bookish ('Feuerzangenbowle quotes'), railway trivia",
+        "rhythms": "Youthful rushing halted by fear breaths",
+        "habits": "Humming Torah melodies under stress"
+      },
+      "pov_style": {
+        "internal_monologue": "Escapist fantasies through novels",
+        "narrative_tone": "Innocence corroding too rapidly"
+      },
+      "content": "Final dialogue stripped to elemental requests ('Wasser bitte... ist der Tunnel sicher?') during escape attempt."
+    },
+    {
+      "character": "Lieselotte Vogel",
+      "dialogue_style": {
+        "patterns": "Associative avant-garde monologues",
+        "vocabulary": "Bauhaus meets railroads ('Form follows Führerwagen')",
+        "rhythms": "Expressionist tempo shifts",
+        "habits": "Painting mid-conversation while speaking"
+      },
+      "pov_style": {
+        "internal_monologue": "Synesthesia ('Der Bahnhof riecht blau heute')",
+        "narrative_tone": "Deliberate naivete as resistance"
+      },
+      "content": "Uses Dad's technical terms absurdly ('Mein Herz hat Motorüberhitzung') to satirize the regime's industrial death cult."
     }
   ]
 }
+```
